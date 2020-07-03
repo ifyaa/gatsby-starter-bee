@@ -1,6 +1,6 @@
 ---
 title: "한자부수 07"
-date: 2020-07-01
+date: 2020-07-01 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -14,6 +14,6 @@ draft: false
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
 ![](https://i.ibb.co/R2RSLL6/2020-07-01-11-27-53.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjY5ODI5NSwxNzk1Njg0MjYsLTQzOD
-U4Mzc3OV19
+eyJoaXN0b3J5IjpbLTIwMTkyMzQ5NzMsMjAwMjY5ODI5NSwxNz
+k1Njg0MjYsLTQzODU4Mzc3OV19
 -->
