@@ -35,6 +35,7 @@ draft: false
 恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
 恭자는 共(함께 공)자와 心(마음 심)자가 결합
 惟자는 心(마음 심)자와 隹(새 추)자가 결합
+養자는 羊(양 양)자와 食(밥 식)자가 결합
 
 豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
 ```
@@ -47,6 +48,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMT
-g0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OT
+UzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5
+NDRdfQ==
 -->
