@@ -34,12 +34,14 @@ draft: false
 常자는 尙(오히려 상)자와 巾(수건 건)자가 결합
 네 가지 큰 것과 다섯 가지 떳떳함이 있으니 즉 사대는 천지 군부요 오상은 인의예지신이다.
 
+
 恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
 恭자는 共(함께 공)자와 心(마음 심)자가 결합
 惟자는 心(마음 심)자와 隹(새 추)자가 결합
 養자는 羊(양 양)자와 食(밥 식)자가 결합
 
 豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
+[豆]콩두
 ```
 ```js
 1.  [蓋此身髮]  [四大五常]
@@ -50,7 +52,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ1MDEwNDYsLTE0NjQwNDk1NTEsNT
-AxNTE0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQw
-MDg4LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
+UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
+OCwtNzMxMzEyOTQ0XX0=
 -->
