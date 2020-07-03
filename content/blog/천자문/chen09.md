@@ -27,7 +27,8 @@ draft: false
 기뻐다 감을 보니
 ```js
 蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
-이 몸의 털은 대개 사람마다 없는 이가 없다.
+蓋자는 艹(풀 초)자와 盍(덮을 합)자가 결합
+
 四(넉 사) 大(큰 대) 五(다섯 오) 常(항상 상)
 네 가지 큰 것과 다섯 가지 떳떳함이 있으니 즉 사대는 천지 군부요 오상은 인의예지신이다.
 恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
@@ -43,6 +44,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMwNDkyNzgsLTEwNjYzNDAwODgsLT
+eyJoaXN0b3J5IjpbLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLT
 czMTMxMjk0NF19
 -->
