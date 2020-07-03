@@ -1,6 +1,6 @@
 ---
 title: "천자문 17"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -34,5 +34,5 @@ draft: false
 태도만  침착할  뿐  아니라  말도  안정케  하며  쓸데없는  말을  삼가라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDE4MTYwNV19
+eyJoaXN0b3J5IjpbNzU0Njk1NjExXX0=
 -->
