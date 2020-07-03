@@ -1,6 +1,6 @@
 ---
 title: "천자문 16"
-date: 2020- 07-03 
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -33,5 +33,5 @@ draft: false
 솔  나무같이  푸르러  성함은  군자의  절개를  말한  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjU1NDIzXX0=
+eyJoaXN0b3J5IjpbMjAzNDQ1MzVdfQ==
 -->
