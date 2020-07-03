@@ -15,7 +15,7 @@ draft: false
 
 **돼지머리에** 아들과 절한다
 
- 
+ ![](https://i.ibb.co/M5r8bcG/IMG-0453.jpg)
 하늘에  제사지내고
 
 ![](https://i.ibb.co/9hKwqM1/2020-06-23-10-09-49.png)
@@ -23,5 +23,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTM1MTY5OF19
+eyJoaXN0b3J5IjpbLTI4MjMwODAzNl19
 -->
