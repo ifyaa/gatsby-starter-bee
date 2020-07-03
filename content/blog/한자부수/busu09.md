@@ -9,7 +9,9 @@ draft: false
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
 
 조각장 반대 편
-아우와 견학간다
+소와 개를 끌고 가는데 어금니가 아프다
+검은 옥과 오이를 들고 간다
+기와접시에 감을 생으로 먹는다
 
 ```js
 91片조각 편
@@ -18,7 +20,7 @@ draft: false
 93牛소 우
 94犬개 견
 
-955획 →玄검을 현
+95玄검을 현
 96玉구슬 옥
 97瓜오이 과
 
@@ -31,5 +33,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzM5OTA5LDE4NDgxOTU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTI1MTg4Njc5MiwxODQ4MTk1OTQ1XX0=
 -->
