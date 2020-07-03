@@ -31,8 +31,8 @@ draft: false
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
 
 충성함에는  곧  목숨을  다하니  임금을  섬기는  데  몸을  사양해서는  안된다.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk5MTAyMTEsLTE2NTI2OTgxNjFdfQ
-==
+eyJoaXN0b3J5IjpbLTg3MTI2MzQ0NSwtMTY1MjY5ODE2MV19
 -->
