@@ -1,5 +1,5 @@
 ---
-title: '천자문 70'
+title: '천자문 10'
 date: 2020-6-14 16:21:13
 category: '천자문'
 draft: false
