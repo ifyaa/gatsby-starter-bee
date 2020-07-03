@@ -21,8 +21,10 @@ draft: false
 ```
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
 
-뱅기는 구름에 덮여있고
+뱅기가 구름에 
 소다리는 4개
+개는 공손하다
+기뻐다 감을 보니
 ```js
 蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
 이 몸의 털은 대개 사람마다 없는 이가 없다.
@@ -41,6 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjYxMzIyOCwtMTA2NjM0MDA4OCwtNz
+eyJoaXN0b3J5IjpbLTI4ODYzMTI5MywtMTA2NjM0MDA4OCwtNz
 MxMzEyOTQ0XX0=
 -->
