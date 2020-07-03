@@ -21,7 +21,7 @@ draft: false
 ```
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
 
-뱅기가 구름에 
+구름이 덮었다 개였다한다
 소다리는 4개
 개는 공손하다
 기뻐다 감을 보니
@@ -43,6 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODYzMTI5MywtMTA2NjM0MDA4OCwtNz
-MxMzEyOTQ0XX0=
+eyJoaXN0b3J5IjpbLTEwNzMwNDkyNzgsLTEwNjYzNDAwODgsLT
+czMTMxMjk0NF19
 -->
