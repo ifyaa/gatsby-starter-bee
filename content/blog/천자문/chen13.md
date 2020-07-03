@@ -1,6 +1,6 @@
 ---
 title: "천자문 13"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -36,5 +36,5 @@ draft: false
 빈방에서  소리를  내면  울려서  다  들린다. 즉  착한  말을  하면  천리  밖에서도  응한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDc3NDA5OV19
+eyJoaXN0b3J5IjpbNTczNzQ0NDE3XX0=
 -->
