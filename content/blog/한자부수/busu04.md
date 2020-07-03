@@ -1,6 +1,6 @@
 ---
 title: "한자부수 04"
-date: 2020-07-02
+date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -11,5 +11,5 @@ draft: false
 ![](https://i.ibb.co/2SyQpjR/2020-07-03-2-38-13.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Nzk0MDYzN119
+eyJoaXN0b3J5IjpbLTU2MjY5ODc0N119
 -->
