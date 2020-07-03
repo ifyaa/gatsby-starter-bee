@@ -4,9 +4,15 @@ date: 2020-07-02
 category: "한자부수"
 draft: false
 ---
+ ## 120 이사짐 운전사
+새로산 트럭위에 장군항아리에 양이 들어잇고. 깃털로 만든그물로 덮여있다
+운전수 아저씨 수염이 늙을때 까지 쟁기일만 했다
+고사지내려고, 돼지고기 귀에붓을 걸었다 
+ 
 
+![](https://i.ibb.co/kxxr1F8/hanja-01.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk0Mzc2XX0=
+eyJoaXN0b3J5IjpbLTExMTIxNDAzMjRdfQ==
 -->
