@@ -1,6 +1,6 @@
 ---
 title: "천자문 20"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -37,5 +37,6 @@ draft: false
 
 지아비가  부르면  지어미가  따른다. 즉  원만한  가정을  말한다.> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MDA0NzEyLC0xNDYwODQ3NzkzXX0=
+eyJoaXN0b3J5IjpbLTE5MTEwNzMyMzQsLTE0NjA4NDc3OTNdfQ
+==
 -->
