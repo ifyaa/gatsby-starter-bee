@@ -45,15 +45,15 @@ draft: false
 傷자는 人(사람 인)자와 昜(볕 양)자, 矢(화살 시)자가 결합
 ```
 ```js
-1.  [蓋此身髮]  [四大五常] 갳
-2.  [恭惟鞠養]  [豈敢毁傷]
+1.  [蓋此身髮]  [四大五常] 개차신발 사대오상
+2.  [恭惟鞠養]  [豈敢毁傷] 공유국양 기감훼상
 3.  [女慕貞烈]  [男效才良]
 4.  [知過必改]  [得能莫忘]
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NTIyODA5LDQyMTQ4NzAyMCw3ODU1OT
-k3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OTUzNTM1LC0x
-NjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE2MTcwMjEwNzUsNDIxNDg3MDIwLDc4NT
+U5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUs
+LTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
 -->
