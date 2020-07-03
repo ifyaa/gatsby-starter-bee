@@ -1,6 +1,6 @@
 ---
 title: "한자부수 09"
-date: 2020-07-0316:21:13
+date: 2020-07-03 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -33,7 +33,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NjYwMjA5LC0xOTAwNTk5NjcxLDE4OD
-IwNTc0NzQsMzMzNjUxOTEzLC0yNTE4ODY3OTIsMTg0ODE5NTk0
-NV19
+eyJoaXN0b3J5IjpbLTk1NDk2MTgzNSwtMTkwMDU5OTY3MSwxOD
+gyMDU3NDc0LDMzMzY1MTkxMywtMjUxODg2NzkyLDE4NDgxOTU5
+NDVdfQ==
 -->
