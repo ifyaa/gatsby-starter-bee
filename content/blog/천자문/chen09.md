@@ -27,9 +27,15 @@ draft: false
 恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
 국양함을 공손히 하라. 이 몸은 부모의 기르신 은혜이기 때문이다.
 豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
+```
+```js
+1.  [蓋此身髮]  [四大五常]
+2.  [恭惟鞠養]  [豈敢毁傷]
+3.  [女慕貞烈]  [男效才良]
+4.  [知過必改]  [得能莫忘]
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
 -->
