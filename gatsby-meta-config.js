@@ -17,7 +17,7 @@ module.exports = {
   comment: {
     disqusShortName: "",
 
-    utterances: "finger/ifyaa-gatsby-starter-bee", // Your repository for archive comment
+    utterances: "ifyaa/gatsby-starter-bee", // Your repository for archive comment
   },
   configs: {
     countOfInitialPost: 10, // Config your initial count of post

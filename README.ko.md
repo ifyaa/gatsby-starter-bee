@@ -108,7 +108,7 @@ npm run post
 
 위 커맨드를 입력하면 새로운 포스트가 생성됩니다.
 
-👉 **gatsby-post-gen** CLI 도구를 사용합니다. (https://github.com/JaeYeopHan/gatsby-post-gen)
+👉 **gatsby-post-gen** CLI 도구를 사용합니다. (<https://github.com/JaeYeopHan/gatsby-post-gen>)
 
 ### 4. 메타데이터 수정
 
@@ -175,13 +175,13 @@ src/styles
 - 파비콘 이미지! (replace file in `/content/assets/felog.png`)
 - 헤더의 그라데이션! (\$theme-gradient `/styles/variables.scss`)
 - Utterances를 위한 repository를 설정해주세요! (`/gatsby-meta-config.js`의 repository 주소를 교체해주세요.)
-  - ⚠️ 이 가이드(https://utteranc.es/)를 꼭 확인해주세요.
+  - ⚠️ 이 가이드(<https://utteranc.es/>)를 꼭 확인해주세요.
 
-## ☕ 마음에 드셨나요?
+## ☕ 마음에 드셨나요
 
 <a href="https://www.buymeacoffee.com/jbee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-## 🤔 만약에...
+## 🤔 만약에
 
 만약 현재 미디엄에서 블로그를 운영중이시라면 마이그레이션을 고려해보세요! [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog)!
 
