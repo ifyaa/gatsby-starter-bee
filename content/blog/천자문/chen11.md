@@ -1,6 +1,6 @@
 ---
 title: "천자문 11"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -39,5 +39,5 @@ draft: false
 사람의  기량은  깊고  깊어서  헤아리기  어렵다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY5Njg2NTgsNjA5NTI4NDM2XX0=
+eyJoaXN0b3J5IjpbLTQzMzA3MTgxNiw2MDk1Mjg0MzZdfQ==
 -->
