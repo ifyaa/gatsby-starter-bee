@@ -7,6 +7,10 @@ draft: false
 
 ###09 구름
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
+
+조각장 반대 편
+아우와 견학간다
+
 ```js
 91片조각 편
 
@@ -27,5 +31,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MTg4MzM0LDE4NDgxOTU5NDVdfQ==
+eyJoaXN0b3J5IjpbLTU3MzM5OTA5LDE4NDgxOTU5NDVdfQ==
 -->
