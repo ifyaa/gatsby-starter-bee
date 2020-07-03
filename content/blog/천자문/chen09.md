@@ -33,7 +33,9 @@ draft: false
 四(넉 사) 大(큰 대) 五(다섯 오) 常(항상 상)
 네 가지 큰 것과 다섯 가지 떳떳함이 있으니 즉 사대는 천지 군부요 오상은 인의예지신이다.
 恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
-국양함을 공손히 하라. 이 몸은 부모의 기르신 은혜이기 때문이다.
+恭자는 共(함께 공)자와 心(마음 심)자가 결합
+惟자는 心(마음 심)자와 隹(새 추)자가 결합
+
 豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
 ```
 ```js
@@ -45,6 +47,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMD
-Y2MzQwMDg4LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbNTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMT
+g0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRdfQ==
 -->
