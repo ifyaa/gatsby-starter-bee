@@ -21,12 +21,11 @@ draft: false
 ```
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
 
-개가 발에 차였다     개차신발蓋此身髮
-소다리는 4개          사대오상
-차인개는 공손하다  공유국양
-기뻐다 감을 보니     기감훼상
-1.  [蓋此身髮]  [四大五常] 
-2.  [恭惟鞠養]  [豈敢毁傷] 
+개가 발에 차였다     개차신발  蓋此身髮
+소다리는 4개          사대오상  四大五常
+차인개는 공손하다  공유국양  恭惟鞠養
+기뻐다 감을 보니     기감훼상  豈敢毁傷
+
 ```js
 蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
 蓋자는 艹(풀 초)자와 盍(덮을 합)자가 결합
@@ -56,7 +55,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE0MTQ5ODgsNDIxNDg3MDIwLDc4NT
-U5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUs
-LTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbMTQ5NDM3ODM3NSw0MjE0ODcwMjAsNzg1NT
+k5NzMzLC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNSwt
+MTYxMDE4NDAxNSwtMTA2NjM0MDA4OCwtNzMxMzEyOTQ0XX0=
 -->
