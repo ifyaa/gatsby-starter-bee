@@ -1,6 +1,6 @@
 ---
 title: "천자문 70"
-date: 2020-6-14 16:21:13
+date: 2020-6-14 16:21:13 
 category: "천자문"
 draft: false
 ---
@@ -57,7 +57,7 @@ draft: false
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1OTQxMzEsLTk3MzIzMDk3NywtMT
-I4NzUxMzk4NSwxNTQ0OTQwNDc0LC01NjM3MjYwMzIsMTY1MDIy
-MzY4LC0xNjMxMzE4Mzc2XX0=
+eyJoaXN0b3J5IjpbOTc2NDQ2MDU5LC0xODQ0NTk0MTMxLC05Nz
+MyMzA5NzcsLTEyODc1MTM5ODUsMTU0NDk0MDQ3NCwtNTYzNzI2
+MDMyLDE2NTAyMjM2OCwtMTYzMTMxODM3Nl19
 -->
