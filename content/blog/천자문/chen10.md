@@ -38,7 +38,8 @@ draft: false
 得(얻을 득) 能(능할 능) 莫(말 막) 忘(잊을 망)
 
 사람으로써  알아야  할  것을  배운  후에는  잊지  않도록  노력하여야  한다.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NTgwNDA4XX0=
+eyJoaXN0b3J5IjpbLTE1NjgxNzM3MjJdfQ==
 -->
