@@ -1,6 +1,6 @@
 ---
 title: "천자문 12"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -37,5 +37,5 @@ draft: false
 성인의  언행을  잘  생각하여  수양을  쌓으면  자연  성인이  됨을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNDIzNzY1XX0=
+eyJoaXN0b3J5IjpbMzg2NzM5NTYxXX0=
 -->
