@@ -1,6 +1,6 @@
 ---
 title: "천자문 00"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -36,5 +36,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjk2MDAzNF19
+eyJoaXN0b3J5IjpbLTEzODY0NzU2MjRdfQ==
 -->
