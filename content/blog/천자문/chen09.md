@@ -28,6 +28,7 @@ draft: false
 ```js
 蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
 蓋자는 艹(풀 초)자와 盍(덮을 합)자가 결합
+髮자는 髟(늘어질 표)자와 犮(달릴 발)자가 결합
 
 四(넉 사) 大(큰 대) 五(다섯 오) 常(항상 상)
 네 가지 큰 것과 다섯 가지 떳떳함이 있으니 즉 사대는 천지 군부요 오상은 인의예지신이다.
@@ -44,6 +45,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLT
-czMTMxMjk0NF19
+eyJoaXN0b3J5IjpbNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMD
+Y2MzQwMDg4LC03MzEzMTI5NDRdfQ==
 -->
