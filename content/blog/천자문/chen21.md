@@ -1,6 +1,6 @@
 ---
 title: "천자문 21"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -22,5 +22,5 @@ draft: false
 조카들도  자기의  아들과  같이  취급하여야  한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDExNjA5N119
+eyJoaXN0b3J5IjpbLTgwMjQyMjMxMV19
 -->
