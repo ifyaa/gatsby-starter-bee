@@ -1,6 +1,6 @@
 ---
 title: "한자부수 13"
-date: 2020-07-02
+date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -30,5 +30,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjU1NDc4MywtMTA4OTc0Nzg4N119
+eyJoaXN0b3J5IjpbNDM1NzQ3OTA5LC0xMDg5NzQ3ODg3XX0=
 -->
