@@ -1,6 +1,6 @@
 ---
 title: "천자문 80"
-date: 2020-07-02
+date: 2020-07-02 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -50,8 +50,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNz
-IxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0
-ODM0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX
-0=
+eyJoaXN0b3J5IjpbLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MT
+QzMzA2OTMsMTcxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2
+NTI3NCwxODI2Mjg0ODM0LDYwNDkzMzc3MywtMTczNjczMzQ3MS
+wtNTM5MTcwOTcwXX0=
 -->
