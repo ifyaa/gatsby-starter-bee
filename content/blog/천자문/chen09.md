@@ -42,6 +42,7 @@ draft: false
 
 豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
 [豆]콩두
+傷자는 人(사람 인)자와 昜(볕 양)자, 矢(화살 시)자가 결합
 ```
 ```js
 1.  [蓋此身髮]  [四大五常]
@@ -52,7 +53,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
-UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
-OCwtNzMxMzEyOTQ0XX0=
+eyJoaXN0b3J5IjpbNDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2ND
+A0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUs
+LTEwNjYzNDAwODgsLTczMTMxMjk0NF19
 -->
