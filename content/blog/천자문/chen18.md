@@ -1,6 +1,6 @@
 ---
 title: "천자문 18"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -32,5 +32,5 @@ draft: false
 뿐만  아니라  자신의  명예스러운  이름이  길이  전하여질  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzODI3Njk3XX0=
+eyJoaXN0b3J5IjpbMTE0MTUxNjc5M119
 -->
