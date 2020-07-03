@@ -1,6 +1,6 @@
 ---
 title: "천자문 23"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -22,5 +22,5 @@ draft: false
 엎드려지고  자빠져도  이지러지지  않으니  용기를  잃지  말라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAxNjE5MjRdfQ==
+eyJoaXN0b3J5IjpbNzQ0Njk1MDU2XX0=
 -->
