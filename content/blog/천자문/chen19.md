@@ -1,7 +1,7 @@
 ---
 title: "천자문 19"
-date: 2020- 07-03
-category: "천자문"
+date: 2020- 07-03 16:21:13
+category: "천자문" 
 draft: false
 ---
 ```js
@@ -36,5 +36,5 @@ draft: false
 소공이  죽은  후  남국의  백성이  그의  덕을  추모하여  감당시를  읊었다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTI1MjU2MV19
+eyJoaXN0b3J5IjpbLTE0MDQ5NDI1ODddfQ==
 -->
