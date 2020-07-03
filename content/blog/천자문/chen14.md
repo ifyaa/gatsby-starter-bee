@@ -1,6 +1,6 @@
 ---
 title: "천자문 14"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -35,5 +35,5 @@ draft: false
 한  자  되는  구슬보다도  잠깐의  시간이  더욱  귀중하니  시간을  아껴야  한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTUyNjQ4Ml19
+eyJoaXN0b3J5IjpbMjEzMDM4Nzk5OF19
 -->
