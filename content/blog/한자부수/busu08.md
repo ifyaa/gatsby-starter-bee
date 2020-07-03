@@ -1,6 +1,6 @@
 ---
 title: "한자부수 08"
-date: 2020-07-02
+date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -34,6 +34,7 @@ draft: false
 아버지 x자두개를  조각을 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTk1MTQ0LDg0NzczMzg0OCwtMTU3MT
-cxMzg3NiwxNjU2NDIzNjcyLC02MDkzOTkwNzBdfQ==
+eyJoaXN0b3J5IjpbLTc1ODExNDcxMiwtMjk1OTUxNDQsODQ3Nz
+MzODQ4LC0xNTcxNzEzODc2LDE2NTY0MjM2NzIsLTYwOTM5OTA3
+MF19
 -->
