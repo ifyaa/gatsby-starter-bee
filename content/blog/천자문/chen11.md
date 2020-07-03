@@ -22,7 +22,22 @@ draft: false
 119  米쌀 미
 120  糸실 사
 ```
+罔(없을 망) 談(말씀 담) 彼(저 피) 短(짧을 단)
+
+자기의 단점을 말 안하는 동시에 남의 잘못을 욕하지 말라.
+
+靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
+
+자신의 특기를 믿고 자랑하지 말라. 그럼으로써 더욱 발달한다.
+
+信(믿을 신) 使(하여금 사) 可(옳을 가) 覆(뒤집힐 복)
+
+믿음은 움직일 수 없는 진리이고 또한 남과의 약속은 지켜야 한다.
+
+器(그릇 기) 欲(하고자할 욕) 難(어려울 난) 量(헤아릴 량)
+
+사람의  기량은  깊고  깊어서  헤아리기  어렵다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzQyMjk2MSw2MDk1Mjg0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY5Njg2NTgsNjA5NTI4NDM2XX0=
 -->
