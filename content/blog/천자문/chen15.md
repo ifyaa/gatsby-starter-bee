@@ -1,6 +1,6 @@
 ---
 title: "천자문 15"
-date: 2020- 07-03
+date: 2020- 07-03 16:21:13
 category: "천자문"
 draft: false
 ---
@@ -33,5 +33,6 @@ draft: false
 충성함에는  곧  목숨을  다하니  임금을  섬기는  데  몸을  사양해서는  안된다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODAzNjY1MSwtMTY1MjY5ODE2MV19
+eyJoaXN0b3J5IjpbLTE1Mjk5MTAyMTEsLTE2NTI2OTgxNjFdfQ
+==
 -->
