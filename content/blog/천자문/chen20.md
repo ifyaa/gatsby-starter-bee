@@ -21,8 +21,21 @@ draft: false
 213龜거북 귀
 214龠피리 약
 ```
+樂(풍류 악/즐길 락/좋아할 요) 殊(다를 수) 貴(귀할 귀) 賤(천할 천)
 
-> Written with [StackEdit](https://stackedit.io/).
+풍류는 귀천이 다르니 천자는 팔일 제후는 육일 사대부는 사일 선일은 이일이다.
+
+禮(예도 례) 別(다를 별) 尊(높을 존) 卑(낮을 비)
+
+예도에 존비의 분별이 있으니 군신, 부자, 부부, 장유, 붕우의 차별이 있다.
+
+上(위 상) 和(화할 화) 下(아래 하) 睦(화목할 목)
+
+위에서 사랑하고 아래에서 공경함으로써 화목이 된다.
+
+夫(지아비 부) 唱(부를 창) 婦(며느리 부) 隨(따를 수)
+
+지아비가  부르면  지어미가  따른다. 즉  원만한  가정을  말한다.> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA4NDc3OTNdfQ==
+eyJoaXN0b3J5IjpbMzA1MDA0NzEyLC0xNDYwODQ3NzkzXX0=
 -->
