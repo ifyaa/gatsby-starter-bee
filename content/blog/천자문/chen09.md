@@ -21,9 +21,9 @@ draft: false
 ```
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
 
-구름이 덮었다 개였다한다
+개가 발에 차였다
 소다리는 4개
-개는 공손하다
+차인개는 공손하다
 기뻐다 감을 보니
 ```js
 蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
@@ -47,13 +47,15 @@ draft: false
 ```js
 1.  [蓋此身髮]  [四大五常] 개차신발 사대오상
 2.  [恭惟鞠養]  [豈敢毁傷] 공유국양 기감훼상
-3.  [女慕貞烈]  [男效才良]
-4.  [知過必改]  [得能莫忘]
+1.  [蓋此身髮]  [四大五常] 
+2.  [恭惟鞠養]  [豈敢毁傷] 
+4.  [女慕貞烈]  [男效才良]
+5.  [知過必改]  [得能莫忘]
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTcwMjEwNzUsNDIxNDg3MDIwLDc4NT
-U5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUs
-LTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbLTI5Njk4MDM2LDQyMTQ4NzAyMCw3ODU1OT
+k3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OTUzNTM1LC0x
+NjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRdfQ==
 -->
