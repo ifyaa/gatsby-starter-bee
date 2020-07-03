@@ -1,6 +1,6 @@
 ---
 title: "한자부수 214개"
-date: 2020-07-01
+date: 2020-07-01 16:21:13
 category: "한자부수"
 draft: false
 ---
@@ -23,5 +23,5 @@ draft: false
 ## 20개 頁 風 飛 食 首 香 馬 骨 高 髟 鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻 : 
 ## 14개 黃 黍 黑 黹 黽 鼎 鼓 鼠 鼻 齊 齒 龍 龜 龠 : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDU4MzM1MF19
+eyJoaXN0b3J5IjpbMjkxNTAzNTIyLDE2MTQ1ODMzNTBdfQ==
 -->
