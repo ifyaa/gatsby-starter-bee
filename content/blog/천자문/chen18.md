@@ -30,7 +30,8 @@ draft: false
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
 
 뿐만  아니라  자신의  명예스러운  이름이  길이  전하여질  것이다.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTUxNjc5M119
+eyJoaXN0b3J5IjpbLTIwMjAzNTU2MDldfQ==
 -->
