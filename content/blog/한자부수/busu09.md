@@ -9,9 +9,9 @@ draft: false
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
 
 조각장 반대 편
-소와 어금니 아픈개를 끌고 
+소와       어금니 아픈개를 끌고 
 개목걸이는 검은 옥이고 소는  오이를 먹고
-기와접시에 감을 생으로 먹는다
+기와접시에 생감
 ![](https://i.ibb.co/S74LRxk/2020-07-03-11-43-26.png)
 ```js
 91片조각 편
@@ -33,6 +33,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjA1NzQ3NCwzMzM2NTE5MTMsLTI1MT
-g4Njc5MiwxODQ4MTk1OTQ1XX0=
+eyJoaXN0b3J5IjpbLTE5MDA1OTk2NzEsMTg4MjA1NzQ3NCwzMz
+M2NTE5MTMsLTI1MTg4Njc5MiwxODQ4MTk1OTQ1XX0=
 -->
