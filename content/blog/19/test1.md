@@ -9,11 +9,13 @@ draft: false
 까문제는 캄퓨터에서만 이런작업을 하기에는 너무 조급하다는 것..
 아무래도 시간이 날때마다 핸드폰에서 작업하는게 여우가 있다는게 아닐까
 
+ - [ ] 
+
 지금 이글은 바로볼 수있을 까???
 
 > 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NTM4ODI0LDc1NDIyMjI0MCwxMzU2ND
-cwMDA5XX0=
+eyJoaXN0b3J5IjpbMjEyODk0MjUyNSw3NTQyMjIyNDAsMTM1Nj
+Q3MDAwOV19
 -->
