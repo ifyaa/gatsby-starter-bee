@@ -11,6 +11,20 @@ draft: false
 ###별에 점을찍고 구멍을 낸다
 ###갈고리를 걸고 새두마리를 걸고
 ###돼지머리도 걸고 아빠와 현이가 본다
+```js
+1一한 일
+2丨뚫을 곤
+3丶점 주
+4丿삐침 별
+
+5乙새 을
+6亅갈고리 궐
+7二두 이
+
+8亠돼지해머리 두
+9人사람 인
+10儿어진사람 인
+```
  ![](https://i.ibb.co/M5r8bcG/IMG-0453.jpg =150x150)
 ###하나일  
 ###삐칠별에 점주와 뚫을곤  
@@ -22,6 +36,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYzMzkyNDAsLTQxOTc2OTA2NiwxND
-kzMzk4MzAzLC0xOTIyNDE0MTcxXX0=
+eyJoaXN0b3J5IjpbLTE0MzY1NDIwNDIsLTEwODYzMzkyNDAsLT
+QxOTc2OTA2NiwxNDkzMzk4MzAzLC0xOTIyNDE0MTcxXX0=
 -->
