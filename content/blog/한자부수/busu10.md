@@ -5,13 +5,12 @@ category: "한자부수"
 draft: false
 ---
 ## 10 하늘 용用 田 疋 疒 癶 白 皮 皿 目 矛 
-병든용이 짝을 구하러 밭에간다
-등에 흰가죽을 지고
-##
+###병든용이 짝을 구하러 밭에간다
+###등에 흰가죽을 지고
+###용꼬리에 달린 창에 그릇이 깨지는걸 눈으로 봤다
 ![](https://i.ibb.co/xY6TG1J/2020-07-03-2-42-28.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI1NTQ5NjAsLTE2NjY2MTM4MjBdfQ
-==
+eyJoaXN0b3J5IjpbMTQ2NTA4ODM4MiwtMTY2NjYxMzgyMF19
 -->
