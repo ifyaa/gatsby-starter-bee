@@ -7,13 +7,8 @@ draft: false
 ## 00. 우주    一 丨 丶 丿 乙 亅 二 亠 人(亻)儿
 **0**
 
-**하늘**
-
-**별로** 점을 찍어 구멍을 뚫고
-
-**갈고리에** 새두마리 걸고
-
-**돼지머리에** 아들과 절한다
+**하늘의
+###별에 점을찍고 구멍을 낸다
 
  ![](https://i.ibb.co/M5r8bcG/IMG-0453.jpg =200x200)
 하늘에  제사지내고
@@ -23,5 +18,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzM5ODMwMywtMTkyMjQxNDE3MV19
+eyJoaXN0b3J5IjpbLTU3Nzk0NjgzLDE0OTMzOTgzMDMsLTE5Mj
+I0MTQxNzFdfQ==
 -->
