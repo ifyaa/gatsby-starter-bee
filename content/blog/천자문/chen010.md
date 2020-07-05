@@ -44,13 +44,13 @@ draft: false
 改자는 己(자기 기)자와 攵(칠 복)자가 결합
 
 得(얻을 득) 能(능할 능) 莫(말 막) 忘(잊을 망)
-
+得자는 彳(조금 걸을 척)자와 貝(조개 패)자, 寸(마디 촌)자가 결합
 사람으로써  알아야  할  것을  배운  후에는  잊지  않도록  노력하여야  한다.
 ```
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM4MDUxNzQsLTE4NDM0OTQxMDUsMT
-MxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4
-Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMT
+Y0Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4
+NjAzXX0=
 -->
