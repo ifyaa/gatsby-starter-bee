@@ -32,6 +32,7 @@ draft: false
 女(계집 녀) 慕(사모할 모) 貞(곧을 정) 烈(매울 렬)
 慕자는 莫(없을 막)자와 心(마음 심)자가 결합
 貞자는 貝(조개 패)자와 卜(점 복)자가 결합
+烈자는 火(불 화)자와 列(벌일 렬)자가 결합한 모습
 
 男(사내 남) 效(본받을 효) 才(재주 재) 良(어질 량)
 
@@ -48,6 +49,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTI4NzIxNSwtMTY3MTYyODM2NCwyMT
+eyJoaXN0b3J5IjpbMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMT
 A0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
 -->
