@@ -25,7 +25,7 @@ draft: false
 109 目눈 목
 110 矛창 모 전차에 달린 창
 ```
-
+![](https://i.ibb.co/Zfcymb4/2020-07-05-3-28-16.png)
 女慕貞烈  男效才良
 知過必改  得能莫忘
 ```js
@@ -48,5 +48,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTg3ODYwM119
+eyJoaXN0b3J5IjpbMjEwNDExOTU5NywtOTY5ODc4NjAzXX0=
 -->
