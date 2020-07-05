@@ -39,8 +39,8 @@ draft: false
 
 
 知(알 지) 過(지날/허물 과) 必(반드시 필) 改(고칠 개)
+知자는 矢(화살 시)자와 口(입 구)자가 결합
 
-누구나 허물이 있는 것이니 허물을 알면 즉시 고쳐야 한다.
 
 得(얻을 득) 能(능할 능) 莫(말 막) 忘(잊을 망)
 
@@ -49,6 +49,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMT
-Y3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTY1NDA2NDEyMywtMTg0MzQ5NDEwNSwxMz
+E2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OTcsLTk2OTg3
+ODYwM119
 -->
