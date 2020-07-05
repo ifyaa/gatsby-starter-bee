@@ -35,7 +35,7 @@ draft: false
 烈자는 火(불 화)자와 列(벌일 렬)자가 결합한 모습
 
 男(사내 남) 效(본받을 효) 才(재주 재) 良(어질 량)
-效자는 交(사귈 교)자와 攵(칠 복)자가 결합
+效자는 交(사귈 교)자와 攵(칠 복)자가 결합[_攴  칠 복 ]
 
 
 知(알 지) 過(지날/허물 과) 必(반드시 필) 改(고칠 개)
@@ -49,6 +49,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzI3NzE4OSwxMzE2NDc5NTYzLC0xNj
-cxNjI4MzY0LDIxMDQxMTk1OTcsLTk2OTg3ODYwM119
+eyJoaXN0b3J5IjpbLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMT
+Y3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
 -->
