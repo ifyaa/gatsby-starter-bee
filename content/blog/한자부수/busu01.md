@@ -25,7 +25,7 @@ draft: false
 9人사람 인
 10儿어진사람 인
 ```
- ![](https://i.ibb.co/TgwPyGb/02.jpg =150x150)
+ ![](https://i.ibb.co/TgwPyGb/02.jpg =150x150)![](https://i.ibb.co/Jpyk80P/01.jpg)
 ###하나일  
 ###삐칠별에 점주와 뚫을곤  
 ###갈고리궐에  새을과 두이  
@@ -36,7 +36,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk0MDA0LC0xNDM2NTQyMDQyLC0xMD
+eyJoaXN0b3J5IjpbMzQ1OTE3MDY5LC0xNDM2NTQyMDQyLC0xMD
 g2MzM5MjQwLC00MTk3NjkwNjYsMTQ5MzM5ODMwMywtMTkyMjQx
 NDE3MV19
 -->
