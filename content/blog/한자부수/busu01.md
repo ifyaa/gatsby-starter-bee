@@ -35,9 +35,9 @@ draft: false
 20勹쌀 포
 ```
 入 八 冂 冖 冫几 凵 刀(刂) 力 勹
-
+![](https://i.ibb.co/X40QcC2/2020-07-05-3-35-30.png)
 ![](https://i.ibb.co/LtP1LS5/2020-07-05-2-07-44.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjQzMzkwNV19
+eyJoaXN0b3J5IjpbLTE2OTkwODUxLDEyMzY0MzM5MDVdfQ==
 -->
