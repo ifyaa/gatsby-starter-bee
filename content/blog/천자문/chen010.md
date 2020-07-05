@@ -30,8 +30,8 @@ draft: false
 知過必改  得能莫忘
 ```js
 女(계집 녀) 慕(사모할 모) 貞(곧을 정) 烈(매울 렬)
+慕자는 莫(없을 막)자와 心(마음 심)자가 결합
 
-여자는 정조를 굳게 지키고 행실을 단정하게 해야 함을 말한다.
 
 男(사내 남) 效(본받을 효) 才(재주 재) 良(어질 량)
 
@@ -48,5 +48,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDExOTU5NywtOTY5ODc4NjAzXX0=
+eyJoaXN0b3J5IjpbLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOT
+Y5ODc4NjAzXX0=
 -->
