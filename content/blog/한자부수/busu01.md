@@ -27,6 +27,7 @@ draft: false
 ```
  ![](https://i.ibb.co/TgwPyGb/02.jpg =150x150)![](https://i.ibb.co/Jpyk80P/01.jpg)
  [enter link description here](https://www.instagram.com/p/CCOSSnTFXoU/?utm_source=ig_web_button_share_sheet)
+ [enter link description here](https://www.instagram.com/p/CCOSa2SFXiS/?utm_source=ig_web_copy_link)
 ###하나일  
 ###삐칠별에 점주와 뚫을곤  
 ###갈고리궐에  새을과 두이  
@@ -37,7 +38,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1NTg0MTUsLTE0MzY1NDIwNDIsLT
-EwODYzMzkyNDAsLTQxOTc2OTA2NiwxNDkzMzk4MzAzLC0xOTIy
-NDE0MTcxXX0=
+eyJoaXN0b3J5IjpbLTE1NjY5ODAzNTYsLTEzMzg1NTg0MTUsLT
+E0MzY1NDIwNDIsLTEwODYzMzkyNDAsLTQxOTc2OTA2NiwxNDkz
+Mzk4MzAzLC0xOTIyNDE0MTcxXX0=
 -->
