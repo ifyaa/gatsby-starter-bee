@@ -27,8 +27,8 @@ draft: false
 矢 石 示(礻) 禸 禾 穴 立 竹 米 糸 
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
 
-罔談彼短  靡恃己長
-信使可覆  器欲難量
+罔談彼短 망담피단  靡恃己長 미시기장
+信使可覆 신사가복  器欲難量 기욕난량
 
 ```js
 罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
@@ -43,6 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLT
-c0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbLTE5Mjc4ODczNCwtMTI5MTA4NTA2NSwtMT
+c5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
