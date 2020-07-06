@@ -31,7 +31,7 @@ draft: false
 信使可覆  器欲難量
 
 ```js
-罔(없을 망) 談(말씀 담) 彼(저 피) 短(짧을 단)
+罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
 자기의 단점을 말 안하는 동시에 남의 잘못을 욕하지 말라.
 靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
 자신의 특기를 믿고 자랑하지 말라. 그럼으로써 더욱 발달한다.
@@ -43,5 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLT
+c0Mjk1NDcyMl19
 -->
