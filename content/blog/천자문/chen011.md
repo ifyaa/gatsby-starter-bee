@@ -19,6 +19,7 @@ draft: false
 119  米쌀 미
 120  糸실 사
 ```
+矢 石 示(礻) 禸 禾 穴 立 竹 米 糸 
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
 ```js
 罔(없을 망) 談(말씀 담) 彼(저 피) 短(짧을 단)
@@ -33,5 +34,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDk0MjU0MV19
+eyJoaXN0b3J5IjpbLTU2MDg4NjgzN119
 -->
