@@ -41,15 +41,16 @@ draft: false
 短자는 矢(화살 시)자와 豆(콩 두)자가 결합
 .
 靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
-자신의 특기를 믿고 자랑하지 말라. 그럼으로써 더욱 발달한다.
+.
 信(믿을 신) 使(하여금 사) 可(옳을 가) 覆(뒤집힐 복)
-믿음은 움직일 수 없는 진리이고 또한 남과의 약속은 지켜야 한다.
+覆자는 襾(덮을 아)자와 復(돌아올 복)자가 결합
+.
 器(그릇 기) 欲(하고자할 욕) 難(어려울 난) 量(헤아릴 량)
 사람의 기량은 깊고 깊어서 헤아리기 어렵다.
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC0xNz
-kwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
+eyJoaXN0b3J5IjpbOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MT
+A4NTA2NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
