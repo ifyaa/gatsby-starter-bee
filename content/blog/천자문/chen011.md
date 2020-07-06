@@ -5,6 +5,11 @@ category: '천자문'
 draft: false
 ---
 11 일하는 원시인
+돌멩이와 화살들고 짐승발자국이 보이는지 살핀다
+구멍에 벼를 심어 
+대나무에 쌀로만든 죽을 담아 실로묶었다
+
+남자는 짐승발자국 찾고 여자는 벼를심는다
 ```js
 111 矢화살 시
 112 石돌 석
@@ -38,5 +43,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjAxMDc5NF19
+eyJoaXN0b3J5IjpbLTQwMDcyNzc5MV19
 -->
