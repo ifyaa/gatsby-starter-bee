@@ -23,13 +23,13 @@ draft: false
 
 118  竹대나무 죽
 119  米쌀 미
-120  糸실 사
+120  糸실 사 [幺][작을 요]
 ```
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
 ![](https://i.ibb.co/dJnm78t/2020-07-03-2-43-31.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODc0Nzc5OCwyMDQ2NzQyMTM5LC0xOD
-ExNjE5MTc4LC01NTMxODMxM119
+eyJoaXN0b3J5IjpbNDE3MDg2NSwtMzc4NzQ3Nzk4LDIwNDY3ND
+IxMzksLTE4MTE2MTkxNzgsLTU1MzE4MzEzXX0=
 -->
