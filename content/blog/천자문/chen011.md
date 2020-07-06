@@ -36,6 +36,7 @@ draft: false
 ```js
 罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
 罔자는 网(그물 망)자와 亡(망할 망)자가 결합
+談자는 言(말씀 언)자와 炎(불탈 염)자가 결합
 .
 靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
 자신의 특기를 믿고 자랑하지 말라. 그럼으로써 더욱 발달한다.
@@ -47,6 +48,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDc3MjUzOCwtMTI5MTA4NTA2NSwtMT
+eyJoaXN0b3J5IjpbLTMzODA2MDQzNCwtMTI5MTA4NTA2NSwtMT
 c5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
