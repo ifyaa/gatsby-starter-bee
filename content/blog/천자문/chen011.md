@@ -32,6 +32,8 @@ draft: false
 기억을 못한다
 罔談彼短   靡恃己長 
 信使可覆   器欲難量 
+망담피단   미시기장 
+신사가복    기용난량
 
 ```js
 罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
@@ -54,7 +56,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mjg1NzMyMSw5NzMwNDIyNDIsNzIzMT
-QzMzg3LC0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3
-MjJdfQ==
+eyJoaXN0b3J5IjpbMzE2NjE5OTg4LDk3MzA0MjI0Miw3MjMxND
+MzODcsLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcy
+Ml19
 -->
