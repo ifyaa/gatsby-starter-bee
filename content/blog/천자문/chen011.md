@@ -48,12 +48,12 @@ draft: false
 器(그릇 기) 欲(하고자할 욕) 難(어려울 난) 量(헤아릴 량)
 欲자는 谷(골 곡)자와 欠(하품 흠)자가 결합
 難자는 堇(진흙 근)자와 隹(새 추)자가 결합
-
+##### 甘**달 감**##### 廿**스물 입**
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTUwOTYwMCw5NzMwNDIyNDIsNzIzMT
-QzMzg3LC0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3
-MjJdfQ==
+eyJoaXN0b3J5IjpbNDgyNDgzMzA2LDk3MzA0MjI0Miw3MjMxND
+MzODcsLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcy
+Ml19
 -->
