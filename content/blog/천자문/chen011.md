@@ -7,7 +7,7 @@ draft: false
 11 일하는 원시인(남자는 짐승발자국 찾고 여자는 벼를심는다)
 남자는 돌멩이와 화살들고 짐승발자국이 보이는지 살핀다
 여자는 구멍에 벼를 심고 
-대나무에 쌀로만든 죽을 담아 실로묶었다
+대나무에 쌀죽을 넣어 실로묶었다
 
 
 ```js
@@ -43,5 +43,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
 -->
