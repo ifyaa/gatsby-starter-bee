@@ -30,8 +30,8 @@ draft: false
 원시인은 미술시간이 없다
 여자원시인은 신사복을 입었다
 기억을 못한다
-罔談彼短 망담피단  靡恃己長 미시기장
-信使可覆 신사가복  器欲難量 기욕난량
+罔談彼短   靡恃己長 
+信使可覆   器欲難量 
 
 ```js
 罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
@@ -49,11 +49,12 @@ draft: false
 欲자는 谷(골 곡)자와 欠(하품 흠)자가 결합
 難자는 堇(진흙 근)자와 隹(새 추)자가 결합
 ##### 甘**달 감**##### 廿**스물 입**
+量자는 旦(아침 단)자와 里(마을 리)자가 결합
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyNDgzMzA2LDk3MzA0MjI0Miw3MjMxND
-MzODcsLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcy
-Ml19
+eyJoaXN0b3J5IjpbMTU0Mjg1NzMyMSw5NzMwNDIyNDIsNzIzMT
+QzMzg3LC0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3
+MjJdfQ==
 -->
