@@ -38,6 +38,7 @@ draft: false
 罔자는 网(그물 망)자와 亡(망할 망)자가 결합
 談자는 言(말씀 언)자와 炎(불탈 염)자가 결합
 彼자는 彳(조금 걸을 척)자와 皮(가죽 피)자가 결합
+短자는 矢(화살 시)자와 豆(콩 두)자가 결합
 .
 靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
 자신의 특기를 믿고 자랑하지 말라. 그럼으로써 더욱 발달한다.
@@ -49,6 +50,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjkxMDM0LC0xMjkxMDg1MDY1LC0xNz
+eyJoaXN0b3J5IjpbNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC0xNz
 kwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
