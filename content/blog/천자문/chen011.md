@@ -28,7 +28,7 @@ draft: false
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
 원시인은 동물을 못찾으면 망한다
 원시인은 미술시간이 없다
-여자원시인은 신발을 잃어버렸다
+여자원시인은 신사복을 입었다
 기억을 못한다
 罔談彼短 망담피단  靡恃己長 미시기장
 信使可覆 신사가복  器欲難量 기욕난량
@@ -46,6 +46,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjUzMTY2MCwtMTI5MTA4NTA2NSwtMT
-c5MDE2NTcxMywtNzQyOTU0NzIyXX0=
+eyJoaXN0b3J5IjpbNTU0NjY5OTYxLC0xMjkxMDg1MDY1LC0xNz
+kwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
