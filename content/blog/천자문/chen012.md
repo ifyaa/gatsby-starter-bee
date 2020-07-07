@@ -27,6 +27,9 @@ draft: false
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 墨悲絲染  詩讚羔羊
 景行維賢  克念作聖
+이사하는날 도토리묵먹고
+항아리에 새끼양
+
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
 흰 실에 검은 물이 들면 다시 희지 못함을 슬퍼한다. 즉 사람도 매사를 조심하여야 한다.
@@ -41,6 +44,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ
-==
+eyJoaXN0b3J5IjpbLTExNjI3NDA0NDEsLTE1ODQ1NTY0ODcsLT
+E0MDU3MDc4MjZdfQ==
 -->
