@@ -30,21 +30,21 @@ draft: false
 이사하는날 도토리묵먹고
 항아리속에 고양이가 시끄럽게 운다
 현몀한노인의 밭은 경치가 좋다
-붓으로 편지를 작성했다
+붓으로  작성했다
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
-흰 실에 검은 물이 들면 다시 희지 못함을 슬퍼한다. 즉 사람도 매사를 조심하여야 한다.
+.
 詩(시 시) 讚(칭찬할 찬) 羔(새끼양 고) 羊(양 양)
-시전 고양편에 문왕의 덕을 입은 남국 대부의 정직함을 칭찬하였으니 사람의 선악을 말한 것이다.
+
 景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
-행실을 훌륭하게 하고 당당하게 행하면 어진 사람이 된다는 것을 말한다.
+
 克(이길 극) 念(생각 념) 作(지을 작) 聖(성인 성)
-성인의 언행을 잘 생각하여 수양을 쌓으면 자연 성인이 됨을 말한다.
+
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYwNzkyMywtMTU4NDU1NjQ4NywtMT
-QwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbLTExNDA2Njg0MjYsLTE1ODQ1NTY0ODcsLT
+E0MDU3MDc4MjZdfQ==
 -->
