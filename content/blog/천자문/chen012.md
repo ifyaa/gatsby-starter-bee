@@ -25,8 +25,8 @@ draft: false
 130肉고기 육
 ```
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
-墨悲絲染  詩讚羔羊
-景行維賢  克念作聖
+墨悲絲染  詩讚羔羊 묵비사염 시찬고양
+景行維賢  克念作聖 경행유현 극념작성
 이사하는날 도토리묵먹고
 항아리속에 고양이가 시끄럽게 운다
 노인의 밭은 경치가 좋다
@@ -55,7 +55,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzIyNzU3MCw2MDg2NTIzOTEsMTY4Nz
-k1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4NDc3LC0xNTg0NTU2
-NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4Nj
+UyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3
+NywtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl19
 -->
