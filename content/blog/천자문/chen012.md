@@ -46,12 +46,14 @@ draft: false
 
 克(이길 극) 念(생각 념) 作(지을 작) 聖(성인 성)
 克자는 十(열 십)자와 兄(맏 형)자가 결합
+念자는 今(이제 금)자와 心(마음 심)자가 결합
 
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMT
-kxMzk4NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbLTYwMTEyODQ4LDE2ODc5NTI3MTcsLTIxMD
+A2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcw
+NzgyNl19
 -->
