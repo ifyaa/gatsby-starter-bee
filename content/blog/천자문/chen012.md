@@ -24,7 +24,7 @@ draft: false
 129聿붓 율
 130肉고기 육
 ```
-
+![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 墨悲絲染  詩讚羔羊
 景行維賢  克念作聖
 ```js
@@ -41,5 +41,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ
+==
 -->
