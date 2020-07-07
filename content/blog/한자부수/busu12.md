@@ -24,10 +24,11 @@ draft: false
 130肉고기 육
 
 ```
-
+![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 ![](https://i.ibb.co/kxxr1F8/hanja-01.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjMyMTcxMywtMTExMjE0MDMyNF19
+eyJoaXN0b3J5IjpbNjA0NzE3ODY4LDE4NDIzMjE3MTMsLTExMT
+IxNDAzMjRdfQ==
 -->
