@@ -29,7 +29,7 @@ draft: false
 景行維賢  克念作聖
 이사하는날 도토리묵먹고
 항아리속에 고양이가 시끄럽게 운다
-현몀한노인의 밭은 경치가 좋다
+노인의 밭은 경치가 좋다
 붓으로  작성했다
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
@@ -45,6 +45,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA2Njg0MjYsLTE1ODQ1NTY0ODcsLT
-E0MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbLTg3NTc0OTAyNCwtMTU4NDU1NjQ4NywtMT
+QwNTcwNzgyNl19
 -->
