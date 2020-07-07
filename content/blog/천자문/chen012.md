@@ -36,6 +36,7 @@ draft: false
 墨자는 黑(검을 흑)자와 土(흙 토)자가 결합
 
 詩(시 시) 讚(칭찬할 찬) 羔(새끼양 고) 羊(양 양)
+言(말씀 언)자와 寺(절 사)자가 결합
 
 景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
 
@@ -46,6 +47,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMT
-QwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbMTI3NTcwMDU1NCwxMTkxMzk4NDc3LC0xNT
+g0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
 -->
