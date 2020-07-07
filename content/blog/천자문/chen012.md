@@ -39,6 +39,7 @@ draft: false
 言(말씀 언)자와 寺(절 사)자가 결합
 讚자는 言(말씀 언)자와 贊(도울 찬)자가 결합
 贊자는 兟(나아갈 신)자와 貝(조개 패)자로 결합
+先자는 牛(소 우)자와 儿(어진사람 인)자가 결합
 
 景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
 
@@ -49,6 +50,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTk1MzQ5OCwxMTkxMzk4NDc3LC0xNT
-g0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMT
+U4NDU1NjQ4NywtMTQwNTcwNzgyNl19
 -->
