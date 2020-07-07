@@ -41,7 +41,7 @@ draft: false
 贊자는 兟(나아갈 신)자와 貝(조개 패)자로 결합
 先자는 牛(소 우)자와 儿(어진사람 인)자가 결합
 
-景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
+景(경치 경) 行(다닐 행/항렬 항) 維(벼리,오직 유) 賢(어질 현)
 賢자는 臤(어질 현)자와 貝(조개 패)자가 결합
 
 克(이길 극) 念(생각 념) 作(지을 작) 聖(성인 성)
@@ -55,7 +55,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMD
-A2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcw
-NzgyNl19
+eyJoaXN0b3J5IjpbMTY5MzIyNzU3MCw2MDg2NTIzOTEsMTY4Nz
+k1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4NDc3LC0xNTg0NTU2
+NDg3LC0xNDA1NzA3ODI2XX0=
 -->
