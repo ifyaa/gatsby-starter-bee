@@ -24,6 +24,9 @@ draft: false
 129聿붓 율
 130肉고기 육
 ```
+
+墨悲絲染  詩讚羔羊
+景行維賢  克念作聖
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
 흰 실에 검은 물이 들면 다시 희지 못함을 슬퍼한다. 즉 사람도 매사를 조심하여야 한다.
@@ -38,5 +41,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA1NTYyMDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDU3MDc4MjZdfQ==
 -->
