@@ -42,14 +42,16 @@ draft: false
 先자는 牛(소 우)자와 儿(어진사람 인)자가 결합
 
 景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
+賢자는 臤(어질 현)자와 貝(조개 패)자가 결합
 
 克(이길 극) 念(생각 념) 作(지을 작) 聖(성인 성)
+克자는 十(열 십)자와 兄(맏 형)자가 결합
 
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMT
-U4NDU1NjQ4NywtMTQwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMT
+kxMzk4NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
 -->
