@@ -33,7 +33,8 @@ draft: false
 붓으로  작성했다
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
-.
+墨자는 黑(검을 흑)자와 土(흙 토)자가 결합
+
 詩(시 시) 讚(칭찬할 찬) 羔(새끼양 고) 羊(양 양)
 
 景(경치 경) 行(다닐 행/항렬 항) 維(벼리 유) 賢(어질 현)
@@ -45,6 +46,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTc0OTAyNCwtMTU4NDU1NjQ4NywtMT
+eyJoaXN0b3J5IjpbMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMT
 QwNTcwNzgyNl19
 -->
