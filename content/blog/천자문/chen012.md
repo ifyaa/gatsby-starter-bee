@@ -29,7 +29,8 @@ draft: false
 景行維賢  克念作聖
 이사하는날 도토리묵먹고
 항아리에 새끼양
-
+노인의 밭은 경치가 좋다
+돼지머리 붓은 안쓴다고 작정을 했다
 ```js
 墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
 흰 실에 검은 물이 들면 다시 희지 못함을 슬퍼한다. 즉 사람도 매사를 조심하여야 한다.
@@ -44,6 +45,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI3NDA0NDEsLTE1ODQ1NTY0ODcsLT
-E0MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbMTUwMjY0MjE4MSwtMTU4NDU1NjQ4NywtMT
+QwNTcwNzgyNl19
 -->
