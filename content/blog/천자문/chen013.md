@@ -6,7 +6,7 @@ draft: false
 ---
   ##130 삼천원짜리 지구본과 컬럼버스
   컬럼버스는 지구는 자신이 스스로 자전한다는 것을 알았고
-  컬럼버스는 달빛아래 배위에서 설전하고
+  달빛아래 배위에서 설전하고
   도착한 아메리카에 빛바란 풀이 어긋나게 자라고 있다
   
 
@@ -25,8 +25,8 @@ draft: false
 138艮어긋날 간
 139色빛 색
 140艸풀 초
-
 ```
+![](https://i.ibb.co/f2gc0N9/2020-07-08-10-43-29.png)
 德建名立  形端表正
 空谷傳聲  虛堂習聽
 ```js
@@ -43,5 +43,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDkwODEyMiwtMjY1MTYwMzIwXX0=
+eyJoaXN0b3J5IjpbNTA3NDAzMzYwLC0yNjUxNjAzMjBdfQ==
 -->
