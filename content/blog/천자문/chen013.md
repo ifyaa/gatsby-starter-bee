@@ -16,15 +16,13 @@ draft: false
 131臣신하 신
 132自스스로 자
 133至이를 지
-134臼절구 구
+3 구
 
-135舌혀 설
-136舛이지러질 천
-137舟배 주
+舛이러질  천137배 주
 
-138艮어긋날 간
+38艮어 간간
 139色빛 색
-140艸풀 초
+140艸  초
 ```
 ![](https://i.ibb.co/f2gc0N9/2020-07-08-10-43-29.png)
 臣 -自 至 臼 --舌 舛 舟-- 艮 色 艸(艹)
@@ -63,8 +61,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODA4MTg2MiwtMjQ1NDY4MTM0LC02OD
-kyMDc3NDUsLTI4NTQxNjg3MCw1ODc2MDA3MjEsLTE4Njg4MDg2
-NDUsMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2MzcsLT
-I2NTE2MDMyMF19
+eyJoaXN0b3J5IjpbLTQ4MTQ0ODcxOSwxMzE4MDgxODYyLC0yND
+U0NjgxMzQsLTY4OTIwNzc0NSwtMjg1NDE2ODcwLDU4NzYwMDcy
+MSwtMTg2ODgwODY0NSwxNzY5NTk4NDcyLC0xNTIxMjk0MDI0LD
+g3NTA5NjYzN119
 -->
