@@ -56,12 +56,13 @@ draft: false
 
 虛(빌 허) 堂(집 당) 習(익힐 습) 聽(들을 청)
 虛자는 虎(범 호)자와 丘(언덕 구)자가 결합
+堂자는 土(흙 토)자와 尙(오히려 상)자가 결합
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTA4MDcxNCwtNjg5MjA3NzQ1LC0yOD
+eyJoaXN0b3J5IjpbLTcxNTk4ODgwMywtNjg5MjA3NzQ1LC0yOD
 U0MTY4NzAsNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Njk1OTg0
 NzIsLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNjUxNjAzMjBdfQ
 ==
