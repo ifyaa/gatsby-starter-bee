@@ -46,6 +46,8 @@ draft: false
 
 形(모양 형) 端(바를 단) 表(겉 표) 正(바를 정)
 形자는 幵(평평할 견)자와 彡(터럭 삼)자가 결합
+端자는 立(설 립)자와 耑(시초 단)자가 결합
+表자는 衣(옷 의)자와 毛(털 모)자가 결합
 
 空(빌 공) 谷(골 곡) 傳(전할 전) 聲(소리 성)
 산골짜기에서 크게 소리치면 그대로 전한다. 즉 악한 일을 당하게 된다.
@@ -56,7 +58,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTAyMjQ1OSw1ODc2MDA3MjEsLTE4Nj
+eyJoaXN0b3J5IjpbLTI4NTQxNjg3MCw1ODc2MDA3MjEsLTE4Nj
 g4MDg2NDUsMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2
 MzcsLTI2NTE2MDMyMF19
 -->
