@@ -30,10 +30,10 @@ draft: false
 德建名立  形端表正
 空谷傳聲  虛堂習聽
 
-딱지가 덕덕붙여있다
-
-
-허허벌판에
+지구본에 가격표가  덕지덕지붙여있다
+컬럼버스 형의 표정이 바르다
+싸움하면 공공의적이다 
+허허벌판에 풀이 피었다
 
 ```js
 德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
@@ -49,6 +49,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDg1MjA1NSwtMTUyMTI5NDAyNCw4Nz
+eyJoaXN0b3J5IjpbMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4Nz
 UwOTY2MzcsLTI2NTE2MDMyMF19
 -->
