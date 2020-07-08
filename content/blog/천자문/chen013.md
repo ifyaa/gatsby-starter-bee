@@ -42,6 +42,7 @@ draft: false
 ```js
 德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
 德자는 彳(조금 걸을 척)자와 直(곧을 직)자, 心(마음 심)자가 결합
+建자는 廴(길게 걸을 인)자와 聿(붓 율)자가 결합
 
 形(모양 형) 端(바를 단) 表(겉 표) 正(바를 정)
 몸 형상이 단정하고 깨끗하면 마음도 바르며 또 표면에 나타난다.
@@ -54,7 +55,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg4NDM0NDIsLTE4Njg4MDg2NDUsMT
-c2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2MzcsLTI2NTE2
-MDMyMF19
+eyJoaXN0b3J5IjpbNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Nj
+k1OTg0NzIsLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNjUxNjAz
+MjBdfQ==
 -->
