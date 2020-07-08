@@ -45,7 +45,8 @@ draft: false
 建자는 廴(길게 걸을 인)자와 聿(붓 율)자가 결합
 
 形(모양 형) 端(바를 단) 表(겉 표) 正(바를 정)
-몸 형상이 단정하고 깨끗하면 마음도 바르며 또 표면에 나타난다.
+形자는 幵(평평할 견)자와 彡(터럭 삼)자가 결합
+
 空(빌 공) 谷(골 곡) 傳(전할 전) 聲(소리 성)
 산골짜기에서 크게 소리치면 그대로 전한다. 즉 악한 일을 당하게 된다.
 虛(빌 허) 堂(집 당) 習(익힐 습) 聽(들을 청)
@@ -55,7 +56,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Nj
-k1OTg0NzIsLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNjUxNjAz
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTk5MTAyMjQ1OSw1ODc2MDA3MjEsLTE4Nj
+g4MDg2NDUsMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2
+MzcsLTI2NTE2MDMyMF19
 -->
