@@ -52,6 +52,7 @@ draft: false
 空(빌 공) 谷(골 곡) 傳(전할 전) 聲(소리 성)
 空자는 穴(구멍 혈)자와 工(장인 공)자가 결합
 傳자는 人(사람 인)자와 專(오로지 전)자가 결합
+專자는 寸(마디 촌)자와 ‘방추(紡錘)’를 그린
 
 虛(빌 허) 堂(집 당) 習(익힐 습) 聽(들을 청)
 빈방에서 소리를 내면 울려서 다 들린다. 즉 착한 말을 하면 천리 밖에서도 응한다.
@@ -60,7 +61,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjY0Nzc4OTIsLTI4NTQxNjg3MCw1OD
-c2MDA3MjEsLTE4Njg4MDg2NDUsMTc2OTU5ODQ3MiwtMTUyMTI5
-NDAyNCw4NzUwOTY2MzcsLTI2NTE2MDMyMF19
+eyJoaXN0b3J5IjpbLTY4OTIwNzc0NSwtMjg1NDE2ODcwLDU4Nz
+YwMDcyMSwtMTg2ODgwODY0NSwxNzY5NTk4NDcyLC0xNTIxMjk0
+MDI0LDg3NTA5NjYzNywtMjY1MTYwMzIwXX0=
 -->
