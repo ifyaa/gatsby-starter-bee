@@ -8,6 +8,7 @@ draft: false
   컬럼버스는 지구 자신이 스스로 돈다는것을 알고
   컬럼버스는 달빛아래 배위에서 설전하고
   도착한 아메리카에 빛바란 풀이 어긋나게 자라고 있다
+  ![](https://i.ibb.co/f2gc0N9/2020-07-08-10-43-29.png)
 ```js
 130
 131臣신하 신
@@ -30,6 +31,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5OTk3Myw0MzU3NDc5MDksLTEwODk3ND
-c4ODddfQ==
+eyJoaXN0b3J5IjpbLTg2NjE4NzgyNSwyMjk5OTczLDQzNTc0Nz
+kwOSwtMTA4OTc0Nzg4N119
 -->
