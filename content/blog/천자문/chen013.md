@@ -32,6 +32,9 @@ draft: false
 
 딱지가 덕덕붙여있다
 
+
+허허벌판에
+
 ```js
 德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
 항상 덕을 가지고 세상일을 행하면 자연 이름도 서게 된다.
@@ -46,6 +49,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyOTAxNDQ1LC0xNTIxMjk0MDI0LDg3NT
-A5NjYzNywtMjY1MTYwMzIwXX0=
+eyJoaXN0b3J5IjpbLTQyMDg1MjA1NSwtMTUyMTI5NDAyNCw4Nz
+UwOTY2MzcsLTI2NTE2MDMyMF19
 -->
