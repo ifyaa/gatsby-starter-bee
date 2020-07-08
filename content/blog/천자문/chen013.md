@@ -27,7 +27,8 @@ draft: false
 140艸풀 초
 
 ```
-
+德建名立  形端表正
+空谷傳聲  虛堂習聽
 ```js
 德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
 항상 덕을 가지고 세상일을 행하면 자연 이름도 서게 된다.
@@ -42,5 +43,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0OTY5MjY1LC0yNjUxNjAzMjBdfQ==
+eyJoaXN0b3J5IjpbMTU0NDkwODEyMiwtMjY1MTYwMzIwXX0=
 -->
