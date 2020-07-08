@@ -10,7 +10,7 @@ draft: false
   색깔예쁜풀이 어긋나게  자라고 있다
   
 
-## 臣 -自 至 臼 --舌 舛 舟-- 艮 色 艸(艹)
+## 
 
 ```js
 131臣신하 신
@@ -27,6 +27,10 @@ draft: false
 140艸풀 초
 ```
 ![](https://i.ibb.co/f2gc0N9/2020-07-08-10-43-29.png)
+臣 -自 至 臼 --舌 舛 舟-- 艮 色 艸(艹)
+
+
+![](https://i.ibb.co/wBzV0DP/2020-07-08-11-00-48.png)
 德建名立  形端表正
 空谷傳聲  虛堂習聽
 
@@ -49,6 +53,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4Nz
-UwOTY2MzcsLTI2NTE2MDMyMF19
+eyJoaXN0b3J5IjpbLTE4Njg4MDg2NDUsMTc2OTU5ODQ3MiwtMT
+UyMTI5NDAyNCw4NzUwOTY2MzcsLTI2NTE2MDMyMF19
 -->
