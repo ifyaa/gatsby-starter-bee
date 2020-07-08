@@ -55,13 +55,14 @@ draft: false
 專자는 寸(마디 촌)자와 ‘방추(紡錘)’를 그린
 
 虛(빌 허) 堂(집 당) 習(익힐 습) 聽(들을 청)
-빈방에서 소리를 내면 울려서 다 들린다. 즉 착한 말을 하면 천리 밖에서도 응한다.
+虛자는 虎(범 호)자와 丘(언덕 구)자가 결합
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTIwNzc0NSwtMjg1NDE2ODcwLDU4Nz
-YwMDcyMSwtMTg2ODgwODY0NSwxNzY5NTk4NDcyLC0xNTIxMjk0
-MDI0LDg3NTA5NjYzNywtMjY1MTYwMzIwXX0=
+eyJoaXN0b3J5IjpbLTczOTA4MDcxNCwtNjg5MjA3NzQ1LC0yOD
+U0MTY4NzAsNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Njk1OTg0
+NzIsLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNjUxNjAzMjBdfQ
+==
 -->
