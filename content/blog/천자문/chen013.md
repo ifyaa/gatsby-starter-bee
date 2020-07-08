@@ -18,7 +18,7 @@ draft: false
 133至이를 지
 134臼절구 구
 
-- [ ] 135舌혀 설
+135舌혀 설
 136舛이지러질 천
 137舟배 주
 
@@ -43,5 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MDk2NjM3LC0yNjUxNjAzMjBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNj
+UxNjAzMjBdfQ==
 -->
