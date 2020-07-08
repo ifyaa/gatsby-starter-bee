@@ -5,9 +5,9 @@ category: '천자문'
 draft: false
 ---
   ##130 삼천원짜리 지구본과 컬럼버스
-  컬럼버스는 지구는 자신이 스스로 자전한다는 것을 알았고
+  컬럼버스는 지구]자신이  자전한다는 것을 알았고
   이지러진 달빛아래 배위에서 설전하고
-  색깔ㅇ풀이 어긋나게  간신히 자라고 있다
+  색깔예쁜풀이 어긋나게  자라고 있다
   
 
 ## 臣 -自 至 臼 --舌 舛 舟-- 艮 色 艸(艹)
@@ -29,6 +29,9 @@ draft: false
 ![](https://i.ibb.co/f2gc0N9/2020-07-08-10-43-29.png)
 德建名立  形端表正
 空谷傳聲  虛堂習聽
+
+딱지가 덕덕붙여있다
+
 ```js
 德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
 항상 덕을 가지고 세상일을 행하면 자연 이름도 서게 된다.
@@ -43,6 +46,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MTYzMDI1LC0xNTIxMjk0MDI0LDg3NT
+eyJoaXN0b3J5IjpbNDkyOTAxNDQ1LC0xNTIxMjk0MDI0LDg3NT
 A5NjYzNywtMjY1MTYwMzIwXX0=
 -->
