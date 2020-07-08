@@ -32,7 +32,7 @@ draft: false
 
 ![](https://i.ibb.co/wBzV0DP/2020-07-08-11-00-48.png)
 德建名立  形端表正
-空谷傳聲  虛堂習聽
+空谷傳聲  虛堂習聽공곡전승 허당습청
 
 지구본에 가격표가  덕지덕지붙여있다
 컬럼버스 형의 표정이 바르다
@@ -63,8 +63,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTQ2ODEzNCwtNjg5MjA3NzQ1LC0yOD
-U0MTY4NzAsNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Njk1OTg0
-NzIsLTE1MjEyOTQwMjQsODc1MDk2NjM3LC0yNjUxNjAzMjBdfQ
-==
+eyJoaXN0b3J5IjpbMTMxODA4MTg2MiwtMjQ1NDY4MTM0LC02OD
+kyMDc3NDUsLTI4NTQxNjg3MCw1ODc2MDA3MjEsLTE4Njg4MDg2
+NDUsMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2MzcsLT
+I2NTE2MDMyMF19
 -->
