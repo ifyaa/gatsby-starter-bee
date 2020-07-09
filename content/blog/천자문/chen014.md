@@ -46,12 +46,13 @@ draft: false
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
 寶자는 宀(집 면)자와 玉(옥 옥)자, 缶(장군 부)자, 貝(조개 패)자가 결합
 陰자는 阜(阝:언덕 부)자와 今(이제 금)자, 云(구름 운)자가 결합
+是자는 日(해 일)자와 正(바를 정)자가 결합
 
 寸(마디 촌) 陰(그늘 음) 是(옳을/이 시) 競(다툴 경)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTUyNjIzNiwtNTgwNDgwNjAsLTg2ND
+eyJoaXN0b3J5IjpbMTg3OTE2NjE5MywtNTgwNDgwNjAsLTg2ND
 kwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4
 NDldfQ==
 -->
