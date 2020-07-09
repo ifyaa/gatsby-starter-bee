@@ -41,6 +41,7 @@ draft: false
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
 福자는 示(보일 시)자와 畐(가득할 복)자가 결합
 緣자는 糸(가는 실 사)자와 彖(판단할 단)자가 결합한 모습이다. 彖자는 豕(돼지 시)자가 변형
+慶자는 鹿(사슴 록)자와 心(마음 심)자, 夂(올 치)자가 결합
 
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
 한 자 되는 구슬이라고 해서 결코 보배라고는 할 수 없다.
@@ -48,6 +49,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMj
-A3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MT
+czODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
