@@ -27,7 +27,7 @@ draft: false
 사자가 복을주니까
 완이가 척척막았다
 사자가 촌에 산다
-禍因惡積  福緣善慶
+禍因惡積  福緣善慶 ㄹ
 尺璧非寶  寸陰是競
 ```js
 禍(재앙 화) 因(인할 인) 惡(악할 악/미워할 오) 積(쌓을 적)
@@ -53,7 +53,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2ND
-kwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4
-NDldfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ5NzM4MjUsMTIzNTQ1NTY3MiwtNT
+gwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0
+MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
