@@ -49,10 +49,11 @@ draft: false
 是자는 日(해 일)자와 正(바를 정)자가 결합
 
 寸(마디 촌) 陰(그늘 음) 是(옳을/이 시) 競(다툴 경)
+競자는 두 개의 立(설 립)자와 兄(맏 형)자가 결합
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTE2NjE5MywtNTgwNDgwNjAsLTg2ND
-kwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4
-NDldfQ==
+eyJoaXN0b3J5IjpbMjU4NTU2MjQwLC01ODA0ODA2MCwtODY0OT
+AwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcxNzQyMDUwLDU5NDQ5NDg0
+OV19
 -->
