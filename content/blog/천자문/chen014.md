@@ -39,13 +39,14 @@ draft: false
 積자는 禾(벼 화)자와 責(빚 채)자가 결합
 
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
-복은 착한 일에서 오는 것이니 착한 일을 하면 경사가 온다.
+福자는 示(보일 시)자와 畐(가득할 복)자가 결합
+
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
 한 자 되는 구슬이라고 해서 결코 보배라고는 할 수 없다.
 寸(마디 촌) 陰(그늘 음) 是(옳을/이 시) 競(다툴 경)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI1NTIwNjYsLTE3MTczODYzNzYsLT
-IwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMzU4Mjc4NTMzLC0xNzE3Mzg2Mzc2LC0yMD
+cxNzQyMDUwLDU5NDQ5NDg0OV19
 -->
