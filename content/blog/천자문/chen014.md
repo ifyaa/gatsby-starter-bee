@@ -8,7 +8,7 @@ draft: false
 
 
 ```js
-140 사슴 나뭇꾼
+140 사자와 호랑이
 141虍범 호
 142虫벌레 충
 143血피 혈
@@ -36,5 +36,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbLTE3MTczODYzNzYsLTIwNzE3NDIwNTAsNT
+k0NDk0ODQ5XX0=
 -->
