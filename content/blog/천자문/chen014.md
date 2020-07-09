@@ -26,12 +26,12 @@ draft: false
 호랑이가 화를낸다
 벌레가 복을주니까
 완이가 척척막았다
-사자가 촌놈이 멀
+사자가 촌에 산다
 禍因惡積  福緣善慶
 尺璧非寶  寸陰是競
 ```js
 禍(재앙 화) 因(인할 인) 惡(악할 악/미워할 오) 積(쌓을 적)
-재앙은 악을 쌓음에 인한 것이므로 재앙을 받는 이는 평일에 악을 쌓았기 때문이다.
+禍자는 示(보일 시)자와 咼(화할 화)자가 결합
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
 복은 착한 일에서 오는 것이니 착한 일을 하면 경사가 온다.
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
@@ -40,6 +40,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTU1Mzg1OSwtMTcxNzM4NjM3NiwtMj
+eyJoaXN0b3J5IjpbLTM3OTE0OTYwNCwtMTcxNzM4NjM3NiwtMj
 A3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
