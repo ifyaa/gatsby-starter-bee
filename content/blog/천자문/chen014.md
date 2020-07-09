@@ -22,7 +22,7 @@ draft: false
 149言말씀 언
 150谷계곡 곡
 ```
-
+![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
 禍因惡積  福緣善慶
 尺璧非寶  寸陰是競
 ```js
@@ -36,5 +36,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
