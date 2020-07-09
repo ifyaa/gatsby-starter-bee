@@ -23,8 +23,8 @@ draft: false
 150谷계곡 곡
 ```
 ![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
-사자 화를낸다
-벌레가 복을주니까
+호랑이가 화를낸다
+사자가 복을주니까
 완이가 척척막았다
 사자가 촌에 산다
 禍因惡積  福緣善慶
@@ -53,7 +53,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTQ5Mjg3OSwtNTgwNDgwNjAsLTg2ND
+eyJoaXN0b3J5IjpbMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2ND
 kwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4
 NDldfQ==
 -->
