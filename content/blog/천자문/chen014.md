@@ -31,7 +31,11 @@ draft: false
 尺璧非寶  寸陰是競
 ```js
 禍(재앙 화) 因(인할 인) 惡(악할 악/미워할 오) 積(쌓을 적)
-禍자는 示(보일 시)자와 咼(화할 화)자가 결합
+禍자는 示(보일 시)자와 咼(화할 화)자가 결합\
+##### 咼
+
+**입 비뚤어질 괘**
+
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
 복은 착한 일에서 오는 것이니 착한 일을 하면 경사가 온다.
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
@@ -40,6 +44,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTE0OTYwNCwtMTcxNzM4NjM3NiwtMj
+eyJoaXN0b3J5IjpbLTU2NDE4NzgyOCwtMTcxNzM4NjM3NiwtMj
 A3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
