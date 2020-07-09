@@ -35,6 +35,8 @@ draft: false
 ##### 咼
 **입 비뚤어질 괘**
 因자는 囗(에운담 위)자와 大(큰 대)자가 결합
+惡자는 亞(버금 아)자와 心(마음 심)자가 결합
+積자는 禾(벼 화)자와 責(빚 채)자가 결합
 
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
 복은 착한 일에서 오는 것이니 착한 일을 하면 경사가 온다.
@@ -44,6 +46,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY4NjA3NTUsLTE3MTczODYzNzYsLT
+eyJoaXN0b3J5IjpbLTE2ODI1NTIwNjYsLTE3MTczODYzNzYsLT
 IwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
