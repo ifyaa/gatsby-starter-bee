@@ -44,11 +44,14 @@ draft: false
 慶자는 鹿(사슴 록)자와 心(마음 심)자, 夂(올 치)자가 결합
 
 尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
-한 자 되는 구슬이라고 해서 결코 보배라고는 할 수 없다.
+寶자는 宀(집 면)자와 玉(옥 옥)자, 缶(장군 부)자, 貝(조개 패)자가 결합
+陰자는 阜(阝:언덕 부)자와 今(이제 금)자, 云(구름 운)자가 결합
+
 寸(마디 촌) 陰(그늘 음) 是(옳을/이 시) 競(다툴 경)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MT
-czODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMTI1MTUyNjIzNiwtNTgwNDgwNjAsLTg2ND
+kwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4
+NDldfQ==
 -->
