@@ -33,8 +33,8 @@ draft: false
 禍(재앙 화) 因(인할 인) 惡(악할 악/미워할 오) 積(쌓을 적)
 禍자는 示(보일 시)자와 咼(화할 화)자가 결합\
 ##### 咼
-
 **입 비뚤어질 괘**
+因자는 囗(에운담 위)자와 大(큰 대)자가 결합
 
 福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
 복은 착한 일에서 오는 것이니 착한 일을 하면 경사가 온다.
@@ -44,6 +44,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDE4NzgyOCwtMTcxNzM4NjM3NiwtMj
-A3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTE1NTY4NjA3NTUsLTE3MTczODYzNzYsLT
+IwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
