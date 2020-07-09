@@ -23,6 +23,10 @@ draft: false
 150谷계곡 곡
 ```
 ![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
+호랑이가 화를낸다
+벌레가 복을주니까
+완이가 척척막았다
+사자가 촌놈이 멀
 禍因惡積  福緣善慶
 尺璧非寶  寸陰是競
 ```js
@@ -36,6 +40,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTczODYzNzYsLTIwNzE3NDIwNTAsNT
-k0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMTU2NTU1Mzg1OSwtMTcxNzM4NjM3NiwtMj
+A3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
