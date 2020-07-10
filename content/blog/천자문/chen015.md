@@ -27,8 +27,8 @@ draft: false
 ```
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
 
-資父事君  曰嚴與敬자부사군 왈엄여경
-孝當竭力  忠則盡命
+資父事君  曰嚴與敬 자부사군 왈엄여경
+孝當竭力  忠則盡命 효당갈력 충측진명
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
 
@@ -44,5 +44,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDgxNjc5NSwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
