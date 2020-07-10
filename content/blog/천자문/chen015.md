@@ -41,6 +41,8 @@ draft: false
 苟자는 艹(풀 초)자와 句(글귀 구)자가 결합
 
 孝(효도 효) 當(마땅할 당) 竭(다할 갈) 力(힘 력)
+孝자는 耂(늙을 노)자와 子(아들 자)자가 결합
+當자는 尙(오히려 상)자와 田(밭 전)자가 결합
 
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
 
@@ -50,6 +52,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzQ3NDI3NSwxOTIyMjMyNjkyLC0xOT
+eyJoaXN0b3J5IjpbMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOT
 A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
 -->
