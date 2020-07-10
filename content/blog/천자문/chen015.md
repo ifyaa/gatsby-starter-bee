@@ -5,12 +5,11 @@ category: '천자문'
 draft: false
 ---
 ```js
----
-title: "천자문 15"
-date: 2020- 07-03 16:21:13
-category: "천자문"
-draft: false
----
+15 오이패치
+돼지시에 조개패치 두그릇을 붙인다
+족발에 붙이고 달리면 붙인자리가 붉어지고
+신차에붙이면  몸이 신나게맵다
+```
 ```js
 151豆그릇 두
 
@@ -26,6 +25,7 @@ draft: false
 159車수레 거/차
 160辛매울 신
 ```
+![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
 
@@ -47,5 +47,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzYxMTQ2NV19
+eyJoaXN0b3J5IjpbLTk1MTMzOTk2MV19
 -->
