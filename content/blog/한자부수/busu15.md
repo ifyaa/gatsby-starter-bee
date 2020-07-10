@@ -10,7 +10,7 @@ date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
-##150 오이패치
+##150 오이  조개패치
 
 돼지시에 조개패치 두그릇을 붙인다
 족발에 붙이고 달리면 붙인자리가 붉어지고
@@ -31,6 +31,7 @@ draft: false
 159車수레 거/차
 160辛매울 신
 ```
+![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
 ￼![](https://i.ibb.co/XYJXktP/150.png)
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -38,6 +39,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY4MzE2NDksLTEzMDgyMzE5ODNdfQ
-==
+eyJoaXN0b3J5IjpbLTU1MDA4MDA3MSwtMTMwODIzMTk4M119
 -->
