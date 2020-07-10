@@ -26,9 +26,10 @@ draft: false
 160辛매울 신
 ```
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
-
+시계는 자기것이 아니다
+엄마옆에 강아지가 왈왈거린다
 資父事君  曰嚴與敬 자부사군 왈엄여경
-孝當竭力  忠則盡命 효당갈력 충측진명
+孝當竭力  忠則盡命 효당갈력 충즉진명
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
 資자는 次(버금 차)자와 貝(조개 패)자가 결합
@@ -53,6 +54,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMj
-IzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbMTQ4ODY5NTA4OSw4NzcyODExMTUsMTMzMz
+E3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0
+NDBdfQ==
 -->
