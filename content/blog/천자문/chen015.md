@@ -28,6 +28,8 @@ draft: false
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
 시계는 자기것이 아니다
 엄마옆에 강아지가 왈왈거린다
+달리는 사람은 효자
+차는 기름이 충분하다
 資父事君  曰嚴與敬 자부사군 왈엄여경
 孝當竭力  忠則盡命 효당갈력 충즉진명
 ```js
@@ -54,7 +56,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODY5NTA4OSw4NzcyODExMTUsMTMzMz
-E3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMz
+MxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4
+NDQwXX0=
 -->
