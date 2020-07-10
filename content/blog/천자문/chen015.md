@@ -45,13 +45,14 @@ draft: false
 當자는 尙(오히려 상)자와 田(밭 전)자가 결합
 
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
-
+則자는 貝(조개 패)자와 刀(칼 도)자가 결합
+盡자는 皿(그릇 명)자와 聿(붓 율)자가 결합
 
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOT
-A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbMjA0NjI1NzUwNiwxMzMzMTc4OTc0LDE5Mj
+IyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
