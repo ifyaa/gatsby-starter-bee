@@ -12,7 +12,7 @@ draft: false
 ---
 ##150 오이패치
 
-두시에는 오이패치를 붙인다
+돼지시에 조개패치 두그릇을 붙인다
 족발에 붙이고 달리면 붙인자리가 붉어지고
 신차에붙이면  몸이 신나게맵다
 ## 豆 豕 豸 貝 赤 走 足 身 車 辛
@@ -38,5 +38,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMDEyMDg0LC0xMzA4MjMxOTgzXX0=
+eyJoaXN0b3J5IjpbLTEwOTY4MzE2NDksLTEzMDgyMzE5ODNdfQ
+==
 -->
