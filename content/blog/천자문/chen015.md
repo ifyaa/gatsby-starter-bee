@@ -32,14 +32,9 @@ draft: false
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
 
-
 曰(가로 왈) 嚴(엄할 엄) 與(더불 여) 敬(공경할 경)
 
-
-
 孝(효도 효) 當(마땅할 당) 竭(다할 갈) 力(힘 력)
-
-
 
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
 
@@ -49,5 +44,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbLTk3OTUyODM0MiwtMjQwMjc4NDQwXX0=
 -->
