@@ -36,7 +36,8 @@ draft: false
 
 曰(가로 왈) 嚴(엄할 엄) 與(더불 여) 敬(공경할 경)
 嚴자는 敢(감히 감)자와 厂(기슭 엄)자, 口(입 구)자가 결합
-(손톱조([爪](https://hanja.dict.naver.com/hanja?q=%E7%88%AA)(=[爫](https://hanja.dict.naver.com/hanja?q=%E7%88%AB))☞손톱)[部](https://hanja.dict.naver.com/hanja?q=%E9%83%A8)＋[又](https://hanja.dict.naver.com/hanja?q=%E5%8F%88))와 [古](https://hanja.dict.naver.com/hanja?q=%E5%8F%A4)(고→등글월문([攵](https://hanja.dict.naver.com/hanja?q=%E6%94%B5)(=[攴](https://hanja.dict.naver.com/hanja?q=%E6%94%B4))☞일을 하다, 회초리로 치다)[部](https://hanja.dict.naver.com/hanja?q=%E9%83%A8)의 변형)로 이루어짐
+與자는 舁(마주들 여)자와 与(어조사 여)자가 결합
+
 孝(효도 효) 當(마땅할 당) 竭(다할 갈) 力(힘 력)
 
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
@@ -47,6 +48,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNDYyMjIwLDE5MjIyMzI2OTIsLTE5MD
-Y2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbMTgzODM1NDU4NywxOTIyMjMyNjkyLC0xOT
+A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
 -->
