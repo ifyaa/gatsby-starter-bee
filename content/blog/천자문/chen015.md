@@ -35,6 +35,7 @@ draft: false
 君자는 尹(다스릴 윤)자와 口(입 구)자가 결합
 
 曰(가로 왈) 嚴(엄할 엄) 與(더불 여) 敬(공경할 경)
+嚴자는 敢(감히 감)자와 厂(기슭 엄)자, 口(입 구)자가 결합
 
 孝(효도 효) 當(마땅할 당) 竭(다할 갈) 力(힘 력)
 
@@ -46,6 +47,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTc1ODQ1NSwxOTIyMjMyNjkyLC0xOT
+eyJoaXN0b3J5IjpbMTc3MjI4MjEyMCwxOTIyMjMyNjkyLC0xOT
 A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
 -->
