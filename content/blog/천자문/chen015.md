@@ -47,12 +47,12 @@ draft: false
 忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
 則자는 貝(조개 패)자와 刀(칼 도)자가 결합
 盡자는 皿(그릇 명)자와 聿(붓 율)자가 결합
-
+命자는 亼(삼합 집)자와 口(입 구)자, 卩(병부 절)자가 결합
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjI1NzUwNiwxMzMzMTc4OTc0LDE5Mj
-IyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMj
+IzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
 -->
