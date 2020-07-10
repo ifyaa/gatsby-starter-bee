@@ -32,7 +32,7 @@ draft: false
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
 資자는 次(버금 차)자와 貝(조개 패)자가 결합
-
+君자는 尹(다스릴 윤)자와 口(입 구)자가 결합
 
 曰(가로 왈) 嚴(엄할 엄) 與(더불 여) 敬(공경할 경)
 
@@ -46,6 +46,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMj
-QwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbMTQxNTc1ODQ1NSwxOTIyMjMyNjkyLC0xOT
+A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
 -->
