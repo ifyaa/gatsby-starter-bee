@@ -25,8 +25,8 @@ draft: false
 170阜언덕 부
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
-臨深履薄  夙興溫凊
-似蘭斯馨  如松之盛
+臨深履薄  夙興溫凊 임심리박 숙흥온정
+似蘭斯馨  如松之盛 사란사형 여송지성
 ```js
 臨(임할 림) 深(깊을 심) 履(밟을 리) 薄(얇을 박)
 臨자는 臣(신하 신)자와 品(물건 품)자가 결합한
@@ -54,7 +54,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODE5MjU4Miw1MzczNjUxNDEsLTExMT
-gzMTUzMjIsMzA0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2
-NzksLTU5ODk4NTAwMV19
+eyJoaXN0b3J5IjpbLTI4MTk0OTY1LC0yMTgxOTI1ODIsNTM3Mz
+Y1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgz
+NiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
 -->
