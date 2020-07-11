@@ -14,12 +14,15 @@ draft: false
 언덕에 부지런히올라 긴 장문의 글을 문에 붙인다
 ```js
 161辰별 진
+
 162辵쉬엄쉬엄갈 착
 163邑고을 읍
 164酉술단지 유
+
 165釆분변할 변
 166里마을 리
 1678획 →金쇠 금
+
 168長길 장
 169門문 문
 170阜언덕 부
@@ -31,5 +34,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5Nzg1NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQwNzI3MjhdfQ==
 -->
