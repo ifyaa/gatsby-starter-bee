@@ -30,23 +30,17 @@ draft: false
 ```js
 臨(임할 림) 深(깊을 심) 履(밟을 리) 薄(얇을 박)
 
-깊은 곳에 임하듯 하며 얇은 데를 밟듯이 세심 주의하여야 한다.
-
 夙(일찍 숙) 興(흥할 흥) 溫(따뜻할 온) 疓(서늘할 정)
-
-일찍 일어나서 추우면 덥게, 더우면 서늘케 하는 것이 부모 섬기는 절차이다.
 
 似(같을 사) 蘭(난초 란) 斯(이 사) 馨(향기 형)
 
-난초같이 꽃다우니 군자의 지조를 비유한 것이다.
-
 如(같을 여) 松(소나무 송) 之(갈 지) 盛(성할 성)
 
-솔  나무같이  푸르러  성함은  군자의  절개를  말한  것이다.
+
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAxNDU1NDMsLTU5ODk4NTAwMV19
+eyJoaXN0b3J5IjpbLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
 -->
