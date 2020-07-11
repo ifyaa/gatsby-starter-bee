@@ -25,6 +25,10 @@ draft: false
 170阜언덕 부
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
+고을이 임박했다
+숙취가 있다
+고을에 사람이 안보인다
+여우가 나타났다
 臨深履薄  夙興溫凊 임심리박 숙흥온정
 似蘭斯馨  如松之盛 사란사형 여송지성
 ```js
@@ -54,7 +58,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTk0OTY1LC0yMTgxOTI1ODIsNTM3Mz
+eyJoaXN0b3J5IjpbNjIzMzU2MDIzLC0yMTgxOTI1ODIsNTM3Mz
 Y1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgz
 NiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
 -->
