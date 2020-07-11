@@ -4,7 +4,7 @@ date: 2020-07-11
 category: '천자문'
 draft: false
 ---
-##160 육개장
+##160 육포 술안주
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
 떨어진 별이 변해서 금이되면 마을 리가 노랗게 변한다
@@ -42,5 +42,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbLTE3NDQ1MDI3MjAsLTU5MTU1MzY3OSwtNT
+k4OTg1MDAxXX0=
 -->
