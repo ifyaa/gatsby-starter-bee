@@ -41,6 +41,7 @@ draft: false
 이수변([冫]☞고드름, 얼음)
 
 似(같을 사) 蘭(난초 란) 斯(이 사) 馨(향기 형)
+似자는 人(사람 인)자와 以(써 이)자가 결합
 
 如(같을 여) 松(소나무 송) 之(갈 지) 盛(성할 성)
 
@@ -50,6 +51,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTY0MzI0MCwzMDQ2OTgzOTcsLTIwMj
-kzMTg4MzYsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbLTE2MDg0ODMyNTgsMzA0Njk4Mzk3LC0yMD
+I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
 -->
