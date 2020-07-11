@@ -36,6 +36,7 @@ draft: false
 薄자는 艹(풀 초)자와 溥(넓을 부)자가 결합한 모습이다. 溥자는 강 옆 넓은 논밭에 모종을 펼쳐 심는 모습
 
 夙(일찍 숙) 興(흥할 흥) 溫(따뜻할 온) 疓(서늘할 정)
+興자는 舁(마주들 여)자와 同(한 가지 동)자가 결합한 모습이다. 舁자는 위아래로 손을 맞잡고 있는 모습
 
 似(같을 사) 蘭(난초 란) 斯(이 사) 馨(향기 형)
 
@@ -47,6 +48,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OT
-E1NTM2NzksLTU5ODk4NTAwMV19
+eyJoaXN0b3J5IjpbMTMxMTgwMDQyOCwzMDQ2OTgzOTcsLTIwMj
+kzMTg4MzYsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
 -->
