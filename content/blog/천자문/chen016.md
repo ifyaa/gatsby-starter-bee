@@ -4,21 +4,22 @@ date: 2020-07-11
 category: '천자문'
 draft: false
 ---
-```js
----
-title: "천자문 16"
-date: 2020- 07-03 16:21:13
-category: "천자문"
-draft: false
----
+##160 육개장
+별이지면
+쉬엄쉬엄착착 술단지들고 고을읍으로 간다
+떨어진 별이 변해서 금이되면 마을이 노랗게 변한다
+언덕에 부지런히올라 긴 장문의 글을 문에 붙인다
 ```js
 161辰별 진
+
 162辵쉬엄쉬엄갈 착
 163邑고을 읍
 164酉술단지 유
+
 165釆분변할 변
 166里마을 리
 1678획 →金쇠 금
+
 168長길 장
 169門문 문
 170阜언덕 부
@@ -47,5 +48,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDAyNDQ4LC01OTg5ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbMTY4MDMwMjE1OCwtNTk4OTg1MDAxXX0=
 -->
