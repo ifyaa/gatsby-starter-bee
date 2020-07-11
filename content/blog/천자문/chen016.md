@@ -32,6 +32,7 @@ draft: false
 臨자는 臣(신하 신)자와 品(물건 품)자가 결합한
 深자는 水(물 수)자와 罙(점점 미)자가 결합한 모습이다. 罙자는 동굴 속으로 횃불을 들고 가는 모습
 [㓁]그물망
+履자는 尸(주검 시)자와 復(돌아올 복)자가 결합
 
 夙(일찍 숙) 興(흥할 흥) 溫(따뜻할 온) 疓(서늘할 정)
 
@@ -45,6 +46,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njk2OTEzNCwtMjAyOTMxODgzNiwtNT
-kxNTUzNjc5LC01OTg5ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbMjE0NjU3NDI0LC0yMDI5MzE4ODM2LC01OT
+E1NTM2NzksLTU5ODk4NTAwMV19
 -->
