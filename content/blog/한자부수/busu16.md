@@ -12,7 +12,7 @@ draft: false
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
 별이 마을에 떨어지면 금으로 변한다
-길쪽으로 길게난 장문은 언덕에 붙어있다
+문앞의 긴길은 언덕으로갈수있다
 ```js
 161辰별 진
 
@@ -35,6 +35,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM3OTI4NjgsMTAyNDY2OTMxLC03Mj
+eyJoaXN0b3J5IjpbLTE0NDU1MTYyMDUsMTAyNDY2OTMxLC03Mj
 QxMDcwNTgsLTEzNDQwNzI3MjhdfQ==
 -->
