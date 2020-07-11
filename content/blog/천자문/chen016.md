@@ -7,8 +7,8 @@ draft: false
 ##160 육포 술안주
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
-떨어진 별이 변해서 금이되면 마을 리가 노랗게 변한다
-길쪽으로 길게난 장문은 언덕에 붙어있다
+별이 마을에 떨어지면 금으로 변한다
+문앞의 긴길은 언덕으로갈수있다
 ```js
 161辰별 진
 
@@ -42,6 +42,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ1MDI3MjAsLTU5MTU1MzY3OSwtNT
+eyJoaXN0b3J5IjpbLTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNT
 k4OTg1MDAxXX0=
 -->
