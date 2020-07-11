@@ -42,6 +42,7 @@ draft: false
 
 似(같을 사) 蘭(난초 란) 斯(이 사) 馨(향기 형)
 似자는 人(사람 인)자와 以(써 이)자가 결합
+蘭자는 艹(풀 초)자와 闌(가로막을 난)자가 결합한 모습이다. 闌자는 출입문을 봉쇄하는 모습
 
 如(같을 여) 松(소나무 송) 之(갈 지) 盛(성할 성)
 
@@ -51,6 +52,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg0ODMyNTgsMzA0Njk4Mzk3LC0yMD
+eyJoaXN0b3J5IjpbLTExMTgzMTUzMjIsMzA0Njk4Mzk3LC0yMD
 I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
 -->
