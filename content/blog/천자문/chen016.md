@@ -23,6 +23,8 @@ draft: false
 169門문 문
 170阜언덕 부
 ```
+臨深履薄  夙興溫凊
+似蘭斯馨  如松之盛
 ```js
 臨(임할 림) 深(깊을 심) 履(밟을 리) 薄(얇을 박)
 
@@ -44,5 +46,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODk4NTAwMV19
+eyJoaXN0b3J5IjpbLTE2NjU0NzU4MzMsLTU5ODk4NTAwMV19
 -->
