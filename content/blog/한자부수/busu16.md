@@ -9,9 +9,10 @@ draft: false
 
 ---
 ##160 육개장
-별이진후  술단지를 유유히 들고  쉬엄쉬엄 착착 고을읍으로 간다
-쇠금을 분별해서 맘변하기 전에 마을리장에게 가져간다
-언덕에 부지런히올라 긴 장문의 글을 문에 붙인다
+별이지면
+쉬엄쉬엄착착 술단지들고 고을읍으로 간다
+떨어진 별이 변해서 금이되면 마을 리가 노랗게 변한다
+길쪽으로 길게난 장문은 언덕에 붙어있다
 ```js
 161辰별 진
 
@@ -34,6 +35,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg1MDIwMDMsLTEzNDQwNzI3MjhdfQ
-==
+eyJoaXN0b3J5IjpbLTcyNDEwNzA1OCwtMTM0NDA3MjcyOF19
 -->
