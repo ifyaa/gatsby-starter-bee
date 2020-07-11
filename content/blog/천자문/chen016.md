@@ -31,6 +31,7 @@ draft: false
 臨(임할 림) 深(깊을 심) 履(밟을 리) 薄(얇을 박)
 臨자는 臣(신하 신)자와 品(물건 품)자가 결합한
 深자는 水(물 수)자와 罙(점점 미)자가 결합한 모습이다. 罙자는 동굴 속으로 횃불을 들고 가는 모습
+[㓁]그물망
 
 夙(일찍 숙) 興(흥할 흥) 溫(따뜻할 온) 疓(서늘할 정)
 
@@ -44,6 +45,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjY0MjY1NCwtMjAyOTMxODgzNiwtNT
+eyJoaXN0b3J5IjpbLTU3Njk2OTEzNCwtMjAyOTMxODgzNiwtNT
 kxNTUzNjc5LC01OTg5ODUwMDFdfQ==
 -->
