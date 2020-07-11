@@ -7,8 +7,8 @@ draft: false
 ##160 육개장
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
-떨어진 별이 변해서 금이되면 마을이 노랗게 변한다
-언덕에 부지런히올라 긴 장문의 글을 문에 붙인다
+떨어진 별이 변해서 금이되면 마을 리가 노랗게 변한다
+길쪽으로 길게난 문은 언덕에 붙어있다
 ```js
 161辰별 진
 
@@ -48,5 +48,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDMwMjE1OCwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbMTIyMDM0OTgzNiwtNTk4OTg1MDAxXX0=
 -->
