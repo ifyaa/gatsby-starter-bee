@@ -46,17 +46,15 @@ draft: false
 [柬]가릴간
 斯자는 其(그 기)자와 斤(도끼 근)자가 결합한 모습이다. 其자는 대나무를 잘라 엮어 만든 바구니
 
-
-[가릴 간,간략할 간](https://hanja.dict.naver.com/hanja?id=7795)  ![단어장 추가](https://ssl.pstatic.net/dicimg/hanja/style/202006221043/img/button_add_word2.gif "단어장 추가")
 如(같을 여) 松(소나무 송) 之(갈 지) 盛(성할 성)
-
+松자는 木(나무 목)자와 公(공평할 공)자가 결합한 모습이다. 公자는 칼로 무언가를 나누는 모습
 
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwND
-Y5ODM5NywtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5ODUw
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTIxODE5MjU4Miw1MzczNjUxNDEsLTExMT
+gzMTUzMjIsMzA0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2
+NzksLTU5ODk4NTAwMV19
 -->
