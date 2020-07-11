@@ -29,6 +29,7 @@ draft: false
 似蘭斯馨  如松之盛
 ```js
 臨(임할 림) 深(깊을 심) 履(밟을 리) 薄(얇을 박)
+臨자는 臣(신하 신)자와 品(물건 품)자가 결합한
 
 夙(일찍 숙) 興(흥할 흥) 溫(따뜻할 온) 疓(서늘할 정)
 
@@ -42,6 +43,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNT
-k4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbLTEwODYyNjMwODEsLTIwMjkzMTg4MzYsLT
+U5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
 -->
