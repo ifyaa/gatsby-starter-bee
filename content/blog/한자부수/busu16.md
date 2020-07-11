@@ -26,13 +26,14 @@ draft: false
 168長길 장
 169門문 문
 170阜언덕 부
-
 ```
+![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
 ## 辰 辵(辶) 邑(阝) 酉 釆 里 金 長 門 阜(阝)
 
 ￼![](https://i.ibb.co/1zH5t8Z/160.png)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQwNzI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg1MDIwMDMsLTEzNDQwNzI3MjhdfQ
+==
 -->
