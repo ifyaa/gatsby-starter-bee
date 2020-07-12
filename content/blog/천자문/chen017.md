@@ -6,12 +6,11 @@ draft: false
 ---
 ## 170 칠하다 벽에낙서
 
-  
-
+ 
 ### 푸른하늘에 비가와서 참새가 미치겠다
-### 얼굴에 비를 맞는데 가죽혁대는 물에 젖나
-### 부추전을 먹으니 위에서 음하고 소리가 난다
-
+### 얼굴가죽은 비를 안맞고
+### 부추구름 위에서 음소리가 난다
+![](https://i.ibb.co/pLDKyQ6/Screen-Shot-2020-07-12-at-11-44-59-AM.png)
 ```js
 171隶미칠 이
 
@@ -31,6 +30,7 @@ draft: false
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
 ![](https://i.ibb.co/tKrK5CR/170.png)
+
 川流不息  淵澄取映
 容止若思  言辭安定
 ```js
@@ -52,5 +52,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNzU3MjI1XX0=
+eyJoaXN0b3J5IjpbLTE0MTE5MDA1MDZdfQ==
 -->
