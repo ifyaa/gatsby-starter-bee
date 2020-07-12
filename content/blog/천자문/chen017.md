@@ -46,11 +46,11 @@ draft: false
 若자는 艹(풀 초)자와 右(오른쪽 우)자가 결합
 
 言(말씀 언) 辭(말씀 사) 安(편안 안) 定(정할 정)
-
+定자는 宀(집 면)자와 正(바를 정)자가 결합
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTczOD
-M0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5MzEx
-LC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTE0NDk5MjY3MzEsNjc0MTQwMTI3LDIxMT
+MzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQz
+MCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
 -->
