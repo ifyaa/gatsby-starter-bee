@@ -40,14 +40,11 @@ draft: false
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
 
-행동을 덤비지 말고 형용과 행지를 조용히 생각하는 침착한 태도를 가져라.
-
 言(말씀 언) 辭(말씀 사) 安(편안 안) 定(정할 정)
 
-태도만  침착할  뿐  아니라  말도  안정케  하며  쓸데없는  말을  삼가라.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUwMjEzOTMsMjExNjQ1OTMxMSwtMT
-QxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbLTE0MzEwMTQzMCwyMTE2NDU5MzExLC0xND
+ExOTAwNTA2XX0=
 -->
