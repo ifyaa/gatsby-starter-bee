@@ -31,8 +31,8 @@ draft: false
 
 ![](https://i.ibb.co/tKrK5CR/170.png)
 완이는 천사를 그리고
-연꽃도 그리고 
-용도그리고 
+연꽃도 징하게 그리고 
+용꼬리도그리고 
 언제나 야단은 맞는다 벽에 낙서한다고
 
 川流不息  淵澄取映 천류불식 연등취영
@@ -54,7 +54,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA1NjM5MzUsNjc0MTQwMTI3LDIxMT
-MzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQz
-MCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMz
+M5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMw
+LDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
 -->
