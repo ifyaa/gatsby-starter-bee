@@ -40,6 +40,7 @@ draft: false
 
 淵(못 연) 澄(맑을 징) 取(취할 취) 暎(비칠 영)
 取자는 耳(귀 이)자와 又(또 우)자가 결합
+映자는 日(해 일)자와 央(중앙 앙)자가 결합한 모습이다. 央자는 목에 칼을 찬 사람을 그린 것
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
 
@@ -48,7 +49,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMD
-YyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1
-MDZdfQ==
+eyJoaXN0b3J5IjpbMTAyMTI2MjEyNCwyMTEzMzk5OTcyLDE3Mz
+gzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMx
+MSwtMTQxMTkwMDUwNl19
 -->
