@@ -36,7 +36,7 @@ draft: false
 ```js
 川(내 천) 流(흐를 류) 不(아니 불) 息(쉴 식)
 
-淵(못 연) 澄(맑을 징) 取(취할 취) 暎(비칠 영)
+淵(못 연) 澄(맑을 등) 取(취할 취) 暎(비칠 영)
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
 
@@ -45,6 +45,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEwMTQzMCwyMTE2NDU5MzExLC0xND
-ExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbMTkyNTMzMjg0NiwtMTQzMTAxNDMwLDIxMT
+Y0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
 -->
