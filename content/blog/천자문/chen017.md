@@ -30,10 +30,11 @@ draft: false
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
 ![](https://i.ibb.co/tKrK5CR/170.png)
-완이는 천번이나 그리고
-연달아 그리고
-용을 그리다가
-언제나 용을 그린다
+완이는 천사를 그리고
+연꽃도 그리고 
+용도그리고 
+언제나 야단은 맞는다 벽에 낙서한다고
+
 川流不息  淵澄取映 천류불식 연등취영
 容止若思  言辭安定 용지약사 언사안정
 ```js
@@ -53,7 +54,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NjAxNTU5LDY3NDE0MDEyNywyMTEzMz
-k5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAs
-MjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbLTE2MzA1NjM5MzUsNjc0MTQwMTI3LDIxMT
+MzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQz
+MCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
 -->
