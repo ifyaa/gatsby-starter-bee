@@ -43,13 +43,14 @@ draft: false
 映자는 日(해 일)자와 央(중앙 앙)자가 결합한 모습이다. 央자는 목에 칼을 찬 사람을 그린 것
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
+若자는 艹(풀 초)자와 右(오른쪽 우)자가 결합
 
 言(말씀 언) 辭(말씀 사) 安(편안 안) 定(정할 정)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTI2MjEyNCwyMTEzMzk5OTcyLDE3Mz
-gzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMx
-MSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTczOD
+M0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5MzEx
+LC0xNDExOTAwNTA2XX0=
 -->
