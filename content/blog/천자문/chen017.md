@@ -38,7 +38,7 @@ draft: false
 流자는 水(물 수)자와 㐬(깃발 유)자가 결합한 모습이다. 㐬자는 물에 떠내려가는 아이를 그린 것
 息자는 自(스스로 자)자와 心(마음 심)자가 결합
 
-淵(못 연) 澄(맑을 등) 取(취할 취) 暎(비칠 영)
+淵(못 연) 澄(맑을 징) 取(취할 취) 暎(비칠 영)
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
 
@@ -47,6 +47,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0Mz
-EwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTMzMDA5MTUzNCwxNzM4MzQyNzQyLDQxMD
+YyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1
+MDZdfQ==
 -->
