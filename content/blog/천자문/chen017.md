@@ -31,8 +31,8 @@ draft: false
 
 ![](https://i.ibb.co/tKrK5CR/170.png)
 
-川流不息  淵澄取映
-容止若思  言辭安定
+川流不息  淵澄取映 천류불식 연등취영
+容止若思  言辭安定 용지약사 언사안정
 ```js
 川(내 천) 流(흐를 류) 不(아니 불) 息(쉴 식)
 
@@ -45,6 +45,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTMzMjg0NiwtMTQzMTAxNDMwLDIxMT
-Y0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg1MDUzMjYsLTE0MzEwMTQzMCwyMT
+E2NDU5MzExLC0xNDExOTAwNTA2XX0=
 -->
