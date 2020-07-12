@@ -31,6 +31,8 @@ draft: false
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
 ![](https://i.ibb.co/tKrK5CR/170.png)
+川流不息  淵澄取映
+容止若思  言辭安定
 ```js
 川(내 천) 流(흐를 류) 不(아니 불) 息(쉴 식)
 
@@ -50,5 +52,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mzk4MTQ0N119
+eyJoaXN0b3J5IjpbMzgyNzU3MjI1XX0=
 -->
