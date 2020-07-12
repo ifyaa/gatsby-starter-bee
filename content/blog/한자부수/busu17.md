@@ -10,7 +10,7 @@ draft: false
   
 
 ### 푸른하늘에 비가와서 참새가 미치겠다
-### 얼굴가죽은 비를 안
+### 얼굴가죽은 비를 안맞고
 ### 부추전을 먹으니 위에서 음하고 소리가 난다
 
 ```js
@@ -36,5 +36,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDEyNDA4M119
+eyJoaXN0b3J5IjpbLTUyMzA0MDQ1OV19
 -->
