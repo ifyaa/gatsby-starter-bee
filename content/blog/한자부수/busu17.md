@@ -32,11 +32,9 @@ draft: false
 
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
-  
-
-￼![](https://i.[ibb.co/tKrK5CR/170.png](http://ibb.co/tKrK5CR/170.png)
+![](https://i.ibb.co/tKrK5CR/170.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzgyNzUxNF19
+eyJoaXN0b3J5IjpbMzI0MDk4NjU0XX0=
 -->
