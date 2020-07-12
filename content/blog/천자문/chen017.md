@@ -35,6 +35,7 @@ draft: false
 容止若思  言辭安定 용지약사 언사안정
 ```js
 川(내 천) 流(흐를 류) 不(아니 불) 息(쉴 식)
+流자는 水(물 수)자와 㐬(깃발 유)자가 결합한 모습이다. 㐬자는 물에 떠내려가는 아이를 그린 것
 
 淵(못 연) 澄(맑을 등) 取(취할 취) 暎(비칠 영)
 
@@ -45,6 +46,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDg1MDUzMjYsLTE0MzEwMTQzMCwyMT
-E2NDU5MzExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNj
+Q1OTMxMSwtMTQxMTkwMDUwNl19
 -->
