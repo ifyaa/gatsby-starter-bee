@@ -39,6 +39,7 @@ draft: false
 息자는 自(스스로 자)자와 心(마음 심)자가 결합
 
 淵(못 연) 澄(맑을 징) 取(취할 취) 暎(비칠 영)
+取자는 耳(귀 이)자와 又(또 우)자가 결합
 
 容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
 
@@ -47,7 +48,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDA5MTUzNCwxNzM4MzQyNzQyLDQxMD
+eyJoaXN0b3J5IjpbMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMD
 YyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1
 MDZdfQ==
 -->
