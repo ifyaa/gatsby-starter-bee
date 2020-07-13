@@ -26,6 +26,10 @@ draft: false
 
 ```
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
+팔굽혀펴기는 성미가 독한사람이 한다
+완이는 말위에서 신이났다
+
+
 篤初誠美  愼終宜令 독초성미 신종의령
 榮業所基  籍甚無竟 영업소기 적심무경
 ```js
@@ -41,6 +45,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNz
-I0NDk3XX0=
+eyJoaXN0b3J5IjpbODExMjE1MjAxLC0xNDgzNDc5NzAsOTkwOD
+UzMzY2LDgyMTcyNDQ5N119
 -->
