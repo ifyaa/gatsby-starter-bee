@@ -27,34 +27,9 @@ draft: false
 のこつているから。
 ありは 　あせびつしよりです。
 ```
-```js
-あさ
-早(はや)くから
-ありたち　だけが
 
-はたらいています
-あついのに　はたらくなんて。　たべ 
-ものは　こんなに　あるのにさ。
-きりぎりすは　わらいながら　あり
-たちを　ながめました
-```
-```js
-しまった!」
-うさぎは
-あわてて
-だ
-はしり出しました。
-でも、いくら うさぎの
-足が はやくても、かめを おいぬく
-トJJ D
-もう できませんでした。
-なまけないで あるきつづけた か
-めは、うさぎに
-かったのです。
-```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ0NTIzNDgsLTE4NjQ0NTIzNDgsLT
-E0NDk4Nzc4NjAsLTE3ODQ4MTcyNDksLTE0NjI1Mzg4OTJdfQ==
-
+eyJoaXN0b3J5IjpbMjkxMjM3MTU2LC0xODY0NDUyMzQ4LC0xND
+Q5ODc3ODYwLC0xNzg0ODE3MjQ5LC0xNDYyNTM4ODkyXX0=
 -->
