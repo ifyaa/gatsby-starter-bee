@@ -1,6 +1,6 @@
 ---
 title: 'gugu'
-date: 2020-6-14
+date: 2020-07-13
 category: '13단'
 draft: false
 ---
@@ -52,5 +52,5 @@ draft: false
 > 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzk5MzczXX0=
+eyJoaXN0b3J5IjpbLTE5MjE1NjY1M119
 -->
