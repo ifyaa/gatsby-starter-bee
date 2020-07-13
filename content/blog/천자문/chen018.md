@@ -54,11 +54,12 @@ draft: false
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
 籍자는 竹(대나무 죽)자와 耤(친경할 적)자가 결합
 昔자는 日자(해 일)자와 巛(내 천)자가 결합
+甚자는 甘(달 감)자와 匕(비수 비)자가 결합
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg5MTMwODQsLTE4NTc2NTMwNTEsLT
-IxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5
-NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNT
+Y5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAs
+OTkwODUzMzY2LDgyMTcyNDQ5N119
 -->
