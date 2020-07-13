@@ -26,7 +26,7 @@ draft: false
 190髟머리털드리워질
 
 ```
-
+![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
 篤初誠美  愼終宜令
 榮業所基  籍甚無竟
 ```js
@@ -55,5 +55,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjg2NDBdfQ==
+eyJoaXN0b3J5IjpbODIxNzI0NDk3XX0=
 -->
