@@ -4,7 +4,7 @@ date: 2020-07-13
 category: '13단'
 draft: false
 ---
-
+```js
 13 x  1 =  13
 
 13 x  2 =  26
@@ -44,13 +44,7 @@ draft: false
 13 x 19 = 247
 
 13 x 20 = 260
-
- - [ ] 
-
-지금 이글은 바로볼 수있을 까???
-
-> 
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE1NjY1M119
+eyJoaXN0b3J5IjpbNjM3ODQ2ODQyLC0xOTIxNTY2NTNdfQ==
 -->
