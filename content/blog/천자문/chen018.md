@@ -29,7 +29,7 @@ draft: false
 팔굽혀펴기는 성미가 독한사람이 한다
 완이는 말위에서 신이났다
 향수는 영업소에서 샀다
-골뼈의 머리털이 적다
+말의 머리털이 적다
 
 篤初誠美  愼終宜令 독초성미 신종의령
 榮業所基  籍甚無竟 영업소기 적심무경
@@ -46,6 +46,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjQ0NjgxMywtMTQ4MzQ3OTcwLDk5MD
-g1MzM2Niw4MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwOD
+UzMzY2LDgyMTcyNDQ5N119
 -->
