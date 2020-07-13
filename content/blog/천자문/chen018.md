@@ -41,6 +41,9 @@ draft: false
 美자는 大(큰 대)자와 羊(양 양)자가 결합
 
 愼(삼갈 신) 終(마지막 종) 宜(마땅 의) 令(하여금 령)
+愼자는 心(마음 심)자와 眞(참 진)자가 결합
+終자는 糸(가는 실 사)자와 冬(겨울 동)자가 결합
+宜자는 宀(집 면)자와 且(또 차)자가 결합
 
 榮(영화 영) 業(업 업) 所(바 소) 基(터 기)
 
@@ -50,6 +53,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyODgwMzQxLDc5NzkzNDE3MSwtMTQ4Mz
-Q3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbLTEzNTk1ODM4NjksNzYyODgwMzQxLDc5Nz
+kzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTdd
+fQ==
 -->
