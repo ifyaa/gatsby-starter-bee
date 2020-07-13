@@ -48,6 +48,8 @@ draft: false
 
 榮(영화 영) 業(업 업) 所(바 소) 基(터 기)
 榮자는 木(나무 목)자와 冖(덮을 멱)자, 火(불 화)자가 결합
+所자는 戶(지게 호)자와 斤(도끼 근)자가 결합
+基자는 土(흙 토)자와 其(그 기)자가 결합
 
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
 
@@ -55,7 +57,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OT
-M0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
-
+eyJoaXN0b3J5IjpbLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3Nj
+I4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2
+LDgyMTcyNDQ5N119
 -->
