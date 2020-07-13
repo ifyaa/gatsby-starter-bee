@@ -5,10 +5,10 @@ category: "한자부수"
 draft: false
 ---
 
-##180  팔굽혀펴기
-###팔굽혀펴기하는 완이 머리혈에 바람이 불어 밥이 날아왔다
-###말의 머리에 향기가 난다
-###말머리 뼈는 높고 머리털이 드리워진 표가난다
+## 180  팔굽혀펴기 하는 완이
+####  머리혈에 바람이 불어 밥이 날아왔다
+#### 말의 머리에 향기가 난다
+#### 말머리 뼈는 높고 머리털이 드리워진 표가난다
 
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
 ```js
@@ -24,7 +24,7 @@ draft: false
 
 188骨뼈 골
 189高높을 고
-190髟머리털드리워질
+190髟머리털드리워질 표
 
 ```
 
@@ -33,6 +33,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTU1Mjg4MywtMTUxMzgyMDkwMywyMD
-U2NDczMTgzLC0xNTkzNzg5OTU0XX0=
+eyJoaXN0b3J5IjpbLTExNDYwNTI5MDcsLTE1MTM4MjA5MDMsMj
+A1NjQ3MzE4MywtMTU5Mzc4OTk1NF19
 -->
