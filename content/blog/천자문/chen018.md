@@ -8,7 +8,6 @@ draft: false
 ###팔굽혀펴기하는 주완이 머리에 밥풀이 바람에 날아왔다
 ###말머리에 향기로운 냄새가 난다
 ###머리털이 고고르르 하는게 표가난다
-<?xml version="1.0" encoding="UTF-8"?>
 
 ```js
 181頁머리 혈
@@ -33,20 +32,13 @@ draft: false
 篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
 
 무엇이든지 처음에 성실하고 신중히 하여야 한다.
-
-  
-
 愼(삼갈 신) 終(마지막 종) 宜(마땅 의) 令(하여금 령)
 
 처음뿐만 아니라 끝맺음도 좋아야 한다.
 
-  
-
 榮(영화 영) 業(업 업) 所(바 소) 基(터 기)
 
 이상과 같이 잘 지키면 번성하는 기본이 된다.
-
-  
 
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
 
@@ -55,5 +47,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNzI0NDk3XX0=
+eyJoaXN0b3J5IjpbODMzMTM5NjIwLDgyMTcyNDQ5N119
 -->
