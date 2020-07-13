@@ -1,6 +1,6 @@
 ---
 title: '19단'
-date: 2020-6-14 16:21:13
+date: 2020-6-14 
 category: '13단'
 draft: false
 ---
@@ -46,6 +46,6 @@ draft: false
 13 x 20 = 260
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQzNjc1NDgsNjM3ODQ2ODQyLC0xOT
-IxNTY2NTNdfQ==
+eyJoaXN0b3J5IjpbMTUyMDYwMzg4NCw2Mzc4NDY4NDIsLTE5Mj
+E1NjY1M119
 -->
