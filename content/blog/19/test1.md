@@ -5,9 +5,7 @@ category: '19단'
 draft: false
 ---
 
-이런일은 어떻게 하는게 가장 좋은일일까일까
-까문제는 컴퓨터에서만 이런작업을 하기에는 너무 조급하다는 것..
-아무래도 시간이 날때마다 핸드폰에서 작업하는게 여유가 있다는게 아닐까
+왜 안보이는게 있나.....헤갈리네...
 
  - [ ] 
 
@@ -16,6 +14,6 @@ draft: false
 > 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njg5ODI0MywyMTI4OTQyNTI1LDc1ND
-IyMjI0MCwxMzU2NDcwMDA5XX0=
+eyJoaXN0b3J5IjpbMjA2MjI4NzMyMCwtODQ2ODk4MjQzLDIxMj
+g5NDI1MjUsNzU0MjIyMjQwLDEzNTY0NzAwMDldfQ==
 -->
