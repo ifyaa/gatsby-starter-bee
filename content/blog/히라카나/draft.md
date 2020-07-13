@@ -1,7 +1,7 @@
 ---
 title: 'hirakana'
 date: 2020-07-13
-category: '히라카나'
+category: 'ありと きりぎりす'
 draft: false
 ---
 ```js
@@ -54,6 +54,6 @@ draft: false
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk4Nzc4NjAsLTE3ODQ4MTcyNDksLT
-E0NjI1Mzg4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjQ0NTIzNDgsLTE0NDk4Nzc4NjAsLT
+E3ODQ4MTcyNDksLTE0NjI1Mzg4OTJdfQ==
 -->
