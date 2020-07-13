@@ -4,7 +4,6 @@ date: 2020-07013
 category: 'The Ant and the Grasshopper'
 draft: false
 ---
-
 ```js
 Everyone~
 
@@ -59,5 +58,5 @@ He mustered up enough energy to knock on the door.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTcxNDE5OSwtMTk2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
