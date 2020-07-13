@@ -21,10 +21,53 @@ draft: false
 
 **パーティー**を  しています。
 ```
+```
+れつから
+
+  
+
+おくれて
+
+たべものを.
+
+おもそうに
+
+はこんでいる　 ありが います
+
+「きみ。ここで 　あそばないか？」
+
+「ありがとぅ。でも　 まだ 　しごとが
+
+のこつているから。
+
+ありは 　あせびつしよりです。
+
+  
+
+  
+
+あさ
+
+早(はや)くから
+
+ありたち　だけが
+
+  
+
+はたらいています
+
+あついのに　はたらくなんて。　たべ
+
+ものは　こんなに　あるのにさ。
+
+きりぎりすは　わらいながら　あり
+
+たちを　ながめました
+```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTk2NzkxOSwxOTYwMjAwNjQzLDMyOT
-c2NTU0OCwzMDIwNDg4ODIsLTE4NjQ0NTIzNDgsLTE0NDk4Nzc4
-NjAsLTE3ODQ4MTcyNDksLTE0NjI1Mzg4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTA0NTIzNzAsMTk2MDIwMDY0MywzMj
+k3NjU1NDgsMzAyMDQ4ODgyLC0xODY0NDUyMzQ4LC0xNDQ5ODc3
+ODYwLC0xNzg0ODE3MjQ5LC0xNDYyNTM4ODkyXX0=
 -->
