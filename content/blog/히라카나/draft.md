@@ -27,9 +27,9 @@ draft: false
 のこつているから。
 ありは 　あせびつしよりです。
 ```
-
+> Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMjM3MTU2LC0xODY0NDUyMzQ4LC0xND
+eyJoaXN0b3J5IjpbMzAyMDQ4ODgyLC0xODY0NDUyMzQ4LC0xND
 Q5ODc3ODYwLC0xNzg0ODE3MjQ5LC0xNDYyNTM4ODkyXX0=
 -->
