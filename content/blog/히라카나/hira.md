@@ -1,7 +1,7 @@
 ---
-title: '히라카나'
+title: 'ありと きりぎりす'
 date: 2020-07-13
-category: 'ありと きりぎりす'
+category: '히라카나'
 draft: false
 ---
 ```js
@@ -65,5 +65,6 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NzA5NTQwLC0xMjk5NzUyMDE4XX0=
+eyJoaXN0b3J5IjpbODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OT
+c1MjAxOF19
 -->
