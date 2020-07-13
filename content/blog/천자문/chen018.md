@@ -37,6 +37,7 @@ draft: false
 篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
 篤자는 竹(대나무 죽)자와 馬(말 마)자가 결합
 初자는 衤(옷 의)자와 刀(칼 도)자가 결합
+誠자는 言(말씀 언)자와 成(이룰 성)자가 결합한 모습이다. 成자는 창을 뜻하는 戊(창 모)자와 丁(못 정)자가 결합
 
 愼(삼갈 신) 終(마지막 종) 宜(마땅 의) 令(하여금 령)
 
@@ -48,6 +49,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNjEzMzkxLDc5NzkzNDE3MSwtMTQ4Mz
-Q3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbLTEzNDk4Mzk4MDUsNzk3OTM0MTcxLC0xND
+gzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
 -->
