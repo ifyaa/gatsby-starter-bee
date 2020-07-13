@@ -26,8 +26,8 @@ draft: false
 
 ```
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
-篤初誠美  愼終宜令
-榮業所基  籍甚無竟
+篤初誠美  愼終宜令 독초성미 신종의령
+榮業所基  籍甚無竟 영업소기 적심무경
 ```js
 篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
 
@@ -41,5 +41,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwODUzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNz
+I0NDk3XX0=
 -->
