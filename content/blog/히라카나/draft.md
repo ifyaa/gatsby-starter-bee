@@ -1,6 +1,6 @@
 ---
 title: 'hirakana'
-date: 2020-6-14 16:21:13
+date: 2020-07-13
 category: 'ありと きりぎりす'
 draft: false
 ---
@@ -54,6 +54,7 @@ draft: false
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTM2MzE0NiwtMTg2NDQ1MjM0OCwtMT
-Q0OTg3Nzg2MCwtMTc4NDgxNzI0OSwtMTQ2MjUzODg5Ml19
+eyJoaXN0b3J5IjpbLTE4NjQ0NTIzNDgsLTE4NjQ0NTIzNDgsLT
+E0NDk4Nzc4NjAsLTE3ODQ4MTcyNDksLTE0NjI1Mzg4OTJdfQ==
+
 -->
