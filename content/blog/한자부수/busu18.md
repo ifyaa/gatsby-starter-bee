@@ -7,8 +7,8 @@ draft: false
 
 ##180  팔굽혀펴기
 ###팔굽혀펴기하는 주완이 머리에 밥풀이 바람에 날아왔다
-###말머리에 향기로운 냄새가 난다
-###말머리 골뼈 높은곳에 머리털이 드리워진 표가난다
+###말머리에 향수를 발랐다
+###말머리 골뼈는 높고 머리털이 드리워진 표가난다
 
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
 ```js
@@ -33,6 +33,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDQ0OTk1MiwtMTUxMzgyMDkwMywyMD
-U2NDczMTgzLC0xNTkzNzg5OTU0XX0=
+eyJoaXN0b3J5IjpbOTU3NTI2NDM1LC0xNTEzODIwOTAzLDIwNT
+Y0NzMxODMsLTE1OTM3ODk5NTRdfQ==
 -->
