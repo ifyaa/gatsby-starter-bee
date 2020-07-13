@@ -5,9 +5,9 @@ category: '천자문'
 draft: false
 ---
 ##180  팔굽혀펴기
-###팔굽혀펴기하는 주완이 머리에 밥풀이 바람에 날아왔다
-###말머리에 향기로운 냄새가 난다
-###머리털이 고고르르 하는게 표가난다
+ #### 머리혈에 바람이 불어 밥이 날아왔다
+####말의 머리에 향기가 난다
+####말의 골뼈는 높고 머리털이 드리워진 표가난다
 
 ```js
 181頁머리 혈
@@ -28,7 +28,8 @@ draft: false
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
 팔굽혀펴기는 성미가 독한사람이 한다
 완이는 말위에서 신이났다
-
+향수는 영업소에서 샀다
+골뼈의 머리털이 적다
 
 篤初誠美  愼終宜令 독초성미 신종의령
 榮業所基  籍甚無竟 영업소기 적심무경
@@ -45,6 +46,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMjE1MjAxLC0xNDgzNDc5NzAsOTkwOD
-UzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbLTUzMjQ0NjgxMywtMTQ4MzQ3OTcwLDk5MD
+g1MzM2Niw4MjE3MjQ0OTddfQ==
 -->
