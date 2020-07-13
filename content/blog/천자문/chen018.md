@@ -52,12 +52,12 @@ draft: false
 基자는 土(흙 토)자와 其(그 기)자가 결합
 
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
-
+籍자는 竹(대나무 죽)자와 耤(친경할 적)자가 결합
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3Nj
-I4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2
-LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbMTUwOTc5NDk0MywtMTg1NzY1MzA1MSwtMj
+E1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5MzQxNzEsLTE0ODM0Nzk3
+MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
 -->
