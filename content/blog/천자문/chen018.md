@@ -44,8 +44,10 @@ draft: false
 愼자는 心(마음 심)자와 眞(참 진)자가 결합
 終자는 糸(가는 실 사)자와 冬(겨울 동)자가 결합
 宜자는 宀(집 면)자와 且(또 차)자가 결합
+令자는 亼(삼합 집)자와 卩(병부 절)자가 결합
 
 榮(영화 영) 業(업 업) 所(바 소) 基(터 기)
+榮자는 木(나무 목)자와 冖(덮을 멱)자, 火(불 화)자가 결합
 
 籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
 
@@ -53,7 +55,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk1ODM4NjksNzYyODgwMzQxLDc5Nz
-kzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTdd
-fQ==
+eyJoaXN0b3J5IjpbLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OT
+M0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
+
 -->
