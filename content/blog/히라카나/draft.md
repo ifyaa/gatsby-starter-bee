@@ -4,32 +4,11 @@ date: 2020-07-13
 category: 'ありと きりぎりす'
 draft: false
 ---
-```js
-ありと きりぎりす
-じりじり。お日さまが
-はたけや
 
-森を てりつける、あつい あつい
-なつ。きりぎりすは すずしい
-木かげの はっぱの、いえで、まい日
-
-**パーティー**を  しています。
-```
-```js
-れつから
-
-おくれて
-たべものを.
-おもそうに
-はこんでいる　 ありが います
- 「きみ。ここで 　あそばないか？」
- 「ありがとぅ。でも　 まだ 　しごとが 
-のこつているから。
-ありは 　あせびつしよりです。
-```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMDQ4ODgyLC0xODY0NDUyMzQ4LC0xND
-Q5ODc3ODYwLC0xNzg0ODE3MjQ5LC0xNDYyNTM4ODkyXX0=
+eyJoaXN0b3J5IjpbMzI5NzY1NTQ4LDMwMjA0ODg4MiwtMTg2ND
+Q1MjM0OCwtMTQ0OTg3Nzg2MCwtMTc4NDgxNzI0OSwtMTQ2MjUz
+ODg5Ml19
 -->
