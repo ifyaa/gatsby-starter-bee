@@ -35,6 +35,7 @@ draft: false
 榮業所基  籍甚無竟 영업소기 적심무경
 ```js
 篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
+篤자는 竹(대나무 죽)자와 馬(말 마)자가 결합
 
 愼(삼갈 신) 終(마지막 종) 宜(마땅 의) 令(하여금 령)
 
@@ -46,6 +47,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwOD
-UzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbLTczODQ0MDIxOCw3OTc5MzQxNzEsLTE0OD
+M0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
 -->
