@@ -53,12 +53,11 @@ draft: false
 
 다른 예를 보자
 
- x 7 이면 ------>
-
-14 x  8 이면 ----->
-
 
 ```js
+14 x 7 --->
+14 x 8 --->
+
 14x 9
     9를 곱하고 90을  더한다  (36 더하기 90)
 
@@ -74,6 +73,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Njg4NDQ2MywtMjA4NTQ4ODI5NiwtND
+eyJoaXN0b3J5IjpbLTM0MzIzMzI3OSwtMjA4NTQ4ODI5NiwtND
 Y4MjY3ODk2XX0=
 -->
