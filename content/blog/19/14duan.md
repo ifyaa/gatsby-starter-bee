@@ -58,10 +58,14 @@ draft: false
 ### 이 방법을 이해해야 19단을 이해할 수 있다
 
 ![](https://i.ibb.co/xfstNsf/Screen-Shot-2020-07-14-at-1-57-34-PM.png)
-6으로 곱하고 60을 더하는것 구구단과 동일하고
-14단이면 140을 더하면 된다
+6으로 곱하고 60을 더하면 84  여기에 
+14단이면 140을 더하면 된다 
+
+
+이방식은 19단 전체에 동일하게 적용된다
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjc4ODk1OCwtMTM0OTE0NzI3MiwtMT
+eyJoaXN0b3J5IjpbMjA2ODA1ODY1NSwtMTM0OTE0NzI3MiwtMT
 c2NzI4NTkyM119
 -->
