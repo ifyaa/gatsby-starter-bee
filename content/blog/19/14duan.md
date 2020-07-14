@@ -40,9 +40,10 @@ draft: false
 14 x  9 = 126
 14 x 10 = 140
 에서
-
-
 ```
+![](https://i.ibb.co/1JtPkJq/Screen-Shot-2020-07-14-at-1-39-16-PM.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2ODkwMTYsLTE3NjcyODU5MjNdfQ==
+eyJoaXN0b3J5IjpbLTQ2MzAyMzYyNCwtMTc2NzI4NTkyM119
 -->
