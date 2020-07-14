@@ -5,8 +5,8 @@ category: '천자문'
 draft: false
 ---
 
-##귀신이 술먹고 솥위에서 싸운다
-##바닷에 사는 물고기와 새
+##귀신이 술먹고 솥위에서 창들고 싸운다
+##솥에 소금을 넣고  물고기와 새를 삶는다
 ##삼베입은 사슴이 보리떡을 먹는다
 
 ```js
@@ -27,13 +27,14 @@ draft: false
 
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
-귀신이 학교에  간다
-귀신친구는 섭섭하다
-선생님에게 존대말을 쓴다
-귀신은 거짓말은 안한다
+##### 귀신이 학교에  간다
+##### 귀신친구는 섭섭하다
+##### 선생님에게 존대말을 쓴다
+##### 귀신은 거짓말은 안한다
 
-學優登仕  攝職從政 학우등사 섭직종정
-存以甘棠  去而益詠 존이감당 거이익영
+
+### 學優登仕  攝職從政 학우등사 섭직종정
+### 存以甘棠  去而益詠 존이감당 거이익영
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
 學자는 臼(절구 구)자와 宀(집 면)자, 爻(효 효)자, 子(아들 자)자가 결합
@@ -56,7 +57,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1Mj
-kwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1
-NTJdfQ==
+eyJoaXN0b3J5IjpbNzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MD
+Q5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjIsMTA1MDMzNDc4
+MiwxODkyMjg2NTUyXX0=
 -->
