@@ -58,7 +58,7 @@ draft: false
 14 x 7 --->
 14 x 8 --->
 
-14x 9
+14x 9 --->
     9를 곱하고 90을  더한다  (36 더하기 90)
 
 14x 7
@@ -73,6 +73,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzIzMzI3OSwtMjA4NTQ4ODI5NiwtND
+eyJoaXN0b3J5IjpbMTQ2MjUwNTM0MCwtMjA4NTQ4ODI5NiwtND
 Y4MjY3ODk2XX0=
 -->
