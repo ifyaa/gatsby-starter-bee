@@ -57,9 +57,11 @@ draft: false
 
 ### 이 방법을 이해해야 19단을 이해할 수 있다
 
-
+![](https://i.ibb.co/xfstNsf/Screen-Shot-2020-07-14-at-1-57-34-PM.png)
+6으로 곱하고 60을 더하는것 구구단과 동일하고
+14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTYxMjc4ODk1OCwtMTM0OTE0NzI3MiwtMT
+c2NzI4NTkyM119
 -->
