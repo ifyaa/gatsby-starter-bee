@@ -9,9 +9,9 @@ draft: false
 #190 귀신 신비아파트
 
 ##귀신이 술먹고 솥위에서 창들고 싸운다
-##바닷에 사는 물고기와 새
+##솥에 소금을 넣고  물고기와 새를 삶는다
 ##삼베입은 사슴이 보리떡을 먹는다
-
+![](https://i.ibb.co/cTRCfx9/Screen-Shot-2020-07-14-at-11-53-50-AM.png)
 ```js
 191鬥싸울 투
 
@@ -34,5 +34,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU3MzA4MTVdfQ==
+eyJoaXN0b3J5IjpbLTEyNjIxODg2NDIsLTExMjU3MzA4MTVdfQ
+==
 -->
