@@ -40,9 +40,9 @@ draft: false
 14 x  9 = 126
 14 x 10 = 140
 에서
-14 x  6 =  84은 24에 60을 더한 수입니다. 그말을 14곱하기 6에서 4곱하기 
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjEyMjAyOCwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbNjg2ODkwMTYsLTE3NjcyODU5MjNdfQ==
 -->
