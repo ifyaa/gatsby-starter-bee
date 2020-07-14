@@ -6,7 +6,7 @@ draft: false
 ---
 여기서 14단을 합니다
 
-```js
+```
 14 x  1 =  14
 14 x  2 =  28
 14 x  3 =  42
@@ -31,6 +31,9 @@ draft: false
 14 x 19 = 266
 14 x 20 = 280
 ```
+
+4단과 14단은 4 8 2 6 0으로 끝납니다
+그리고 8다음은 비었습니다. 
 ```js
 14단의 계산
 
@@ -67,6 +70,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwOTgyMDc5LC0xMDc5NDcwNDEwLDIwNj
-gwNTg2NTUsLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ==
+eyJoaXN0b3J5IjpbMTMwMTQ2OTQyOCwtMTA3OTQ3MDQxMCwyMD
+Y4MDU4NjU1LC0xMzQ5MTQ3MjcyLC0xNzY3Mjg1OTIzXX0=
 -->
