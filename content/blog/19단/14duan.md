@@ -57,11 +57,12 @@ draft: false
 ```js
 14 x 7 --->
 14 x 8 --->
+14 x 9 --->
 
 14x 9 --->
     9를 곱하고 90을  더한다  (36 더하기 90)
 
-14x 7
+14x 7 --->
     7을 곱하고 70을 더한다   ( 28 더하기 70 )
 
 ```
@@ -73,6 +74,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjUwNTM0MCwtMjA4NTQ4ODI5NiwtND
-Y4MjY3ODk2XX0=
+eyJoaXN0b3J5IjpbMzgxNjIxMTM4LC0yMDg1NDg4Mjk2LC00Nj
+gyNjc4OTZdfQ==
 -->
