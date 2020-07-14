@@ -33,7 +33,9 @@ draft: false
 ```
 
 4단과 14단은 4 8 2 6 0으로 끝납니다
-그리고 8다음은 비었습니다. 
+이걸 4 8 0
+        2 6 0
+  으로 합니다
 ```js
 14단의 계산
 
@@ -70,6 +72,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTQ2OTQyOCwtMTA3OTQ3MDQxMCwyMD
-Y4MDU4NjU1LC0xMzQ5MTQ3MjcyLC0xNzY3Mjg1OTIzXX0=
+eyJoaXN0b3J5IjpbNjUwOTY4MDg4LC0xMDc5NDcwNDEwLDIwNj
+gwNTg2NTUsLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ==
 -->
