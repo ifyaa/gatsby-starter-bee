@@ -5,7 +5,8 @@ category: '19'
 draft: false
 ---
 ```js
-19단을 계산하기 위해서 일단 9단까지를 잘 해석해야 합니다
+19단의 계산
+
 예를 들어 
 14 x  6 =  84
 에서
@@ -44,5 +45,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDY3Mjc5Ml19
+eyJoaXN0b3J5IjpbMTUwMjkxMDcxMV19
 -->
