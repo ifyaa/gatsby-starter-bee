@@ -47,12 +47,13 @@ draft: false
 6으로 곱하고 6으로 더한다 (뒤에 6은 60이다)
 
 다른예를 들어보자 
-
+```js
 14x9
-여기서 9를 곱하고 90을  더한다 
+여기서 9를 곱하고 90을  더한다  (81 더하기 90)
 
 14x 7
-7d
+    7을 곱하고 70을 더한다   ( 28 더하기 70 )
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjA2NzUzLC0xNzY3Mjg1OTIzXX0=
+eyJoaXN0b3J5IjpbMTY3NTc3NDg2OSwtMTc2NzI4NTkyM119
 -->
