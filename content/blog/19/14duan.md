@@ -35,15 +35,13 @@ draft: false
 19단을 계산하기 위해서 일단 9단까지를 잘 해석해야 합니다
 예를 들어 
 14 x  6 =  84
-14 x  7 =  98
-14 x  8 = 112
-14 x  9 = 126
-14 x 10 = 140
 에서
 ```
 ![](https://i.ibb.co/1JtPkJq/Screen-Shot-2020-07-14-at-1-39-16-PM.png  )
 
-
+14와 6을 곱하려면 4곱하기 6을 하고 
+6으로 곱했으니 24에 60을 더한다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDQ3Nzg4MCwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbLTE1NzY3MTc2NjAsLTE3NjcyODU5MjNdfQ
+==
 -->
