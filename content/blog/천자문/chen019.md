@@ -36,13 +36,11 @@ draft: false
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
 
-주나라 소공이 남국의 아가위나무 아래에서 백성을 교화하였다.
-
 去(갈 거) 而(어조사 이) 益(더할 익) 詠(읊을 영)
 
-소공이  죽은  후  남국의  백성이  그의  덕을  추모하여  감당시를  읊었다.
+
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzY5NTU5MSwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
