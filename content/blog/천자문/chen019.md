@@ -38,6 +38,7 @@ draft: false
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
 學자는 臼(절구 구)자와 宀(집 면)자, 爻(효 효)자, 子(아들 자)자가 결합
 優자는 人(사람 인)자와 憂(근심할 우)자가 결합
+登자는 癶(등질 발)자와 豆(콩 두)자가 결합
 
 攝(잡을 섭) 職(벼슬 직) 從(좇을 종) 政(정사 정)
 
@@ -49,6 +50,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTAzMDg1NiwtOTEwMTk5MzYyLDEwNT
-AzMzQ3ODIsMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbLTEwODg1MDM3NTYsMTUyOTAzMDg1NiwtOT
+EwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
 -->
