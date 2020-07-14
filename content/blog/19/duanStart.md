@@ -23,7 +23,7 @@ draft: false
 다른예를 들어보자 
 ```js
 14x 9
-    9를 곱하고 90을  더한다  (81 더하기 90)
+    9를 곱하고 90을  더한다  ( 36 더하기 90 )
 
 14x 7
     7을 곱하고 70을 더한다   ( 28 더하기 70 )
@@ -45,5 +45,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjkxMDcxMV19
+eyJoaXN0b3J5IjpbNjIxNjk1OTIxLDE1MDI5MTA3MTFdfQ==
 -->
