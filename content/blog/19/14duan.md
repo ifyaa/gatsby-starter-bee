@@ -46,7 +46,13 @@ draft: false
 
 6으로 곱하고 6으로 더한다 (뒤에 6은 60이다)
 
-다른예를 
+다른예를 들어보자 
+
+14x9
+여기서 9를 곱하고 90을  더한다 
+
+14x 7
+7d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY0MzMyNSwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbLTg2MjA2NzUzLC0xNzY3Mjg1OTIzXX0=
 -->
