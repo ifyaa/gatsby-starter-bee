@@ -6,9 +6,9 @@ draft: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
-#190
+#190 귀신 신비아파트
 
-##귀신이 술먹고 솥위에서 싸운다
+##귀신이 술먹고 솥위에서 창들고 싸운다
 ##바닷에 사는 물고기와 새
 ##삼베입은 사슴이 보리떡을 먹는다
 
@@ -34,5 +34,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MzY4ODAyXX0=
+eyJoaXN0b3J5IjpbLTExMjU3MzA4MTVdfQ==
 -->
