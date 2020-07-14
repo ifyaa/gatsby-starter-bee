@@ -41,10 +41,9 @@ draft: false
 14 x 10 = 140
 에서
 ```
-![](https://i.ibb.co/1JtPkJq/Screen-Shot-2020-07-14-at-1-39-16-PM.png 100x)
+![](https://i.ibb.co/1JtPkJq/Screen-Shot-2020-07-14-at-1-39-16-PM.png  = '200'x'200')
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcxNjM4NjMsLTE3NjcyODU5MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTEzOTQ0MjU2MSwtMTc2NzI4NTkyM119
 -->
