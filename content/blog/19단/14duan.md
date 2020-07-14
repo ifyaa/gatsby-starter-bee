@@ -51,11 +51,12 @@ draft: false
 
 6으로 곱하고 6으로 더한다 (뒤에 6은 60이다)
 
-14 x 7 이면 ------>
+다른 예를 보자
+
+ x 7 이면 ------>
 
 14 x  8 이면 ----->
 
-다른예를 들어보자
 
 ```js
 14x 9
@@ -73,5 +74,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU0ODgyOTYsLTQ2ODI2Nzg5Nl19
+eyJoaXN0b3J5IjpbLTQ0Njg4NDQ2MywtMjA4NTQ4ODI5NiwtND
+Y4MjY3ODk2XX0=
 -->
