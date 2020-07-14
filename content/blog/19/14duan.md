@@ -6,7 +6,7 @@ draft: false
 ---
 여기서 14단을 합니다
 
-```
+```js
 14 x  1 =  14
 14 x  2 =  28
 14 x  3 =  42
@@ -67,6 +67,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk0NzA0MTAsMjA2ODA1ODY1NSwtMT
-M0OTE0NzI3MiwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbMjcwOTgyMDc5LC0xMDc5NDcwNDEwLDIwNj
+gwNTg2NTUsLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ==
 -->
