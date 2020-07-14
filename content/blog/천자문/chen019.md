@@ -44,6 +44,7 @@ draft: false
 攝자는 手(손 수)자와 聶(소곤거릴 섭)자가 결합
 職자는 耳(귀 이)자와 音(소리 음)자, 戈(창 과)자가 결합
 從자는 彳(조금 걸을 척)자와 止(발 지)자, 从(좇을 종)자가 결합
+政자는 正(바를 정)자와 攵(칠 복)자가 결합
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
 
@@ -53,6 +54,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MzI4NDYwLDE1MjkwMzA4NTYsLTkxMD
-E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbMTY0MTc4ODY1OCwxNTI5MDMwODU2LC05MT
+AxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
