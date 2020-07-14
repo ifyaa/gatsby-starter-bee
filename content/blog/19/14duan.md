@@ -36,6 +36,8 @@ draft: false
 이걸 4 8 0
         2 6 0
   으로 합니다
+  이말의 의미는 14곱하기 1을 14 그리고 14곱하기 2는 28 
+                        14곱하기 3은 3이 나오지않고 42가 되고 14고하기 4는 
 ```js
 14단의 계산
 
@@ -72,6 +74,6 @@ draft: false
 14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwOTY4MDg4LC0xMDc5NDcwNDEwLDIwNj
+eyJoaXN0b3J5IjpbNTU4NDI2NTIxLC0xMDc5NDcwNDEwLDIwNj
 gwNTg2NTUsLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ==
 -->
