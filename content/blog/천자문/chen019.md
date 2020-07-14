@@ -27,8 +27,10 @@ draft: false
 
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
-學優登仕  攝職從政 
-存以甘棠  去而益詠
+귀신이 학교에 간다
+
+學優登仕  攝職從政 학우등사 섭직종정
+存以甘棠  去而益詠 존이감당 거이익영
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
 
@@ -42,6 +44,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQ0OTg2OCwxMDUwMzM0NzgyLDE4OT
-IyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbMTM0MjY5NTE4LDEwNTAzMzQ3ODIsMTg5Mj
+I4NjU1Ml19
 -->
