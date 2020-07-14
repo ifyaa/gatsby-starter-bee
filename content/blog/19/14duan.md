@@ -31,7 +31,18 @@ draft: false
 14 x 19 = 266
 14 x 20 = 280
 ```
+```js
+19단을 계산하기 위해서 일단 9단까지를 잘 해석해야 합니다
+예를 들어 
+14 x  6 =  84
+14 x  7 =  98
+14 x  8 = 112
+14 x  9 = 126
+14 x 10 = 140
+에서
 
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDE4NjgwMCwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbNjg2ODkwMTYsLTE3NjcyODU5MjNdfQ==
 -->
