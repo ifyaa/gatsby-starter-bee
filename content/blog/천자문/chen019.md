@@ -32,11 +32,7 @@ draft: false
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
 
-배운 것이 넉넉하면 벼슬에 오를 수 있다.
-
 攝(잡을 섭) 職(벼슬 직) 從(좇을 종) 政(정사 정)
-
-벼슬을 잡아 정사를 좇으니 국가 정사에 종사하니라.
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
 
@@ -48,5 +44,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbMTcxMzY5NTU5MSwxODkyMjg2NTUyXX0=
 -->
