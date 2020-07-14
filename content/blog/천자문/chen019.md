@@ -50,11 +50,13 @@ draft: false
 存자는 才(재주 재)자와 子(아들 자)자가 결합
 
 去(갈 거) 而(어조사 이) 益(더할 익) 詠(읊을 영)
+詠자는 言(말씀 언)자와 永(길 영)자가 결합한 모습이다. 永자는 하천이 굽이쳐 흐르는 모습을 그린 것으로 ‘길게 늘이다’라는 뜻
 
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MT
-AxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1Mj
+kwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1
+NTJdfQ==
 -->
