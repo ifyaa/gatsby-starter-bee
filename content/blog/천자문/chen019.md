@@ -43,6 +43,7 @@ draft: false
 攝(잡을 섭) 職(벼슬 직) 從(좇을 종) 政(정사 정)
 攝자는 手(손 수)자와 聶(소곤거릴 섭)자가 결합
 職자는 耳(귀 이)자와 音(소리 음)자, 戈(창 과)자가 결합
+從자는 彳(조금 걸을 척)자와 止(발 지)자, 从(좇을 종)자가 결합
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
 
@@ -52,6 +53,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTY4NzkwLDE1MjkwMzA4NTYsLTkxMD
+eyJoaXN0b3J5IjpbOTU0MzI4NDYwLDE1MjkwMzA4NTYsLTkxMD
 E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
 -->
