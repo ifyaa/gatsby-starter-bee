@@ -26,7 +26,7 @@ draft: false
 ```
 
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
-![](https://i.ibb.co/cTRCfx9/Screen-Shot-2020-07-14-at-11-53-50-AM.png)
+![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
 學優登仕  攝職從政
 存以甘棠  去而益詠
 ```js
@@ -48,5 +48,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MTExNDgxXX0=
+eyJoaXN0b3J5IjpbMTg5MjI4NjU1Ml19
 -->
