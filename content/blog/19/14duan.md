@@ -63,9 +63,12 @@ draft: false
 
 
 이방식은 19단 전체에 동일하게 적용된다
+19 x 19를 예로들면
 
-
+![](https://i.ibb.co/yf143Kb/Screen-Shot-2020-07-14-at-2-02-22-PM.png)
+19곱하기 9는 81이고 90을 더하면 171
+여기에 190을 더하면 된다
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODA1ODY1NSwtMTM0OTE0NzI3MiwtMT
-c2NzI4NTkyM119
+eyJoaXN0b3J5IjpbLTE0NjU2MTE2NTcsMjA2ODA1ODY1NSwtMT
+M0OTE0NzI3MiwtMTc2NzI4NTkyM119
 -->
