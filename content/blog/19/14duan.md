@@ -41,7 +41,12 @@ draft: false
 
 14와 6을 곱하려면 4곱하기 6을 하고 
 6으로 곱했으니 24에 60을 더한다
+
+![](https://i.ibb.co/MM80pGc/Screen-Shot-2020-07-14-at-1-50-08-PM.png)
+
+6으로 곱하고 6으로 더한다 (뒤에 6은 60이다)
+
+다른예를 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzY3MTc2NjAsLTE3NjcyODU5MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTEzNDY0MzMyNSwtMTc2NzI4NTkyM119
 -->
