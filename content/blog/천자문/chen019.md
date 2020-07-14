@@ -47,6 +47,7 @@ draft: false
 政자는 正(바를 정)자와 攵(칠 복)자가 결합
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
+存자는 才(재주 재)자와 子(아들 자)자가 결합
 
 去(갈 거) 而(어조사 이) 益(더할 익) 詠(읊을 영)
 
@@ -54,6 +55,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTc4ODY1OCwxNTI5MDMwODU2LC05MT
+eyJoaXN0b3J5IjpbLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MT
 AxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
