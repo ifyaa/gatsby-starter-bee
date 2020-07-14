@@ -31,9 +31,42 @@ draft: false
 14 x 19 = 266
 14 x 20 = 280
 ```
+```js
+14단의 계산
 
+예를 들어 
+14 x  6 =  84
+에서
+
+```
+
+![](https://i.ibb.co/1JtPkJq/Screen-Shot-2020-07-14-at-1-39-16-PM.png)
+
+14와 6을 곱하려면 4곱하기 6을 하고  
+6으로 곱했으니 24에 60을 더한다
+
+![](https://i.ibb.co/MM80pGc/Screen-Shot-2020-07-14-at-1-50-08-PM.png)
+
+6으로 곱하고 6으로 더한다 (뒤에 6은 60이다)
+
+다른예를 들어보자
+
+```js
+14x 9
+    9를 곱하고 90을  더한다  (81 더하기 90)
+
+14x 7
+    7을 곱하고 70을 더한다   ( 28 더하기 70 )
+
+```
+
+### 이 방법을 이해해야 19단을 이해할 수 있다
+
+![](https://i.ibb.co/xfstNsf/Screen-Shot-2020-07-14-at-1-57-34-PM.png)  
+6으로 곱하고 60을 더하면 84 여기에  
+14단이면 140을 더하면 된다
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDE0NDkzMCwyMDY4MDU4NjU1LC0xMz
-Q5MTQ3MjcyLC0xNzY3Mjg1OTIzXX0=
+eyJoaXN0b3J5IjpbLTEwNzk0NzA0MTAsMjA2ODA1ODY1NSwtMT
+M0OTE0NzI3MiwtMTc2NzI4NTkyM119
 -->
