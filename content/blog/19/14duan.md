@@ -48,12 +48,18 @@ draft: false
 
 다른예를 들어보자 
 ```js
-14x9
-여기서 9를 곱하고 90을  더한다  (81 더하기 90)
+14x 9
+    9를 곱하고 90을  더한다  (81 더하기 90)
 
 14x 7
     7을 곱하고 70을 더한다   ( 28 더하기 70 )
 ```
+
+### 이 방법을 이해해야 19단을 이해할 수 있다
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTc3NDg2OSwtMTc2NzI4NTkyM119
+eyJoaXN0b3J5IjpbLTEzNDkxNDcyNzIsLTE3NjcyODU5MjNdfQ
+==
 -->
