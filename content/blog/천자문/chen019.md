@@ -41,6 +41,7 @@ draft: false
 登자는 癶(등질 발)자와 豆(콩 두)자가 결합
 
 攝(잡을 섭) 職(벼슬 직) 從(좇을 종) 政(정사 정)
+攝자는 手(손 수)자와 聶(소곤거릴 섭)자가 결합
 
 存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
 
@@ -50,6 +51,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg1MDM3NTYsMTUyOTAzMDg1NiwtOT
-EwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbNDI3ODIyNzc2LDE1MjkwMzA4NTYsLTkxMD
+E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
 -->
