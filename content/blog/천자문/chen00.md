@@ -31,11 +31,11 @@ draft: false
  
    
 
-|1一한 일  | 天(하늘 천) |
+| 1一한 일   | 天(하늘 천) |
 
-| 2丨뚫을 곤 |宇(집 우) |
-| 3丶점 주|日(날 일)|
-| 4丿삐침 별 |  辰(별 진) |
+| 2丨뚫을 곤  | 宇(집 우) |
+| 3丶점 주   | 日(날 일)|
+| 4丿삐침 별  | 辰(별 진) |
 
 
 
@@ -81,5 +81,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODgxMjE5MSwtMTQ1NDA1ODI0M119
+eyJoaXN0b3J5IjpbLTI5NjYwODUzOSwtMTQ1NDA1ODI0M119
 -->
