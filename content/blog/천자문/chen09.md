@@ -21,42 +21,15 @@ draft: false
 ```
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
 
-개가 신발에 차였다     개차신발  蓋此身髮
-소다리는 4개              사대오상  四大五常
-차인개는 공손하다      공유국양  恭惟鞠養
-기뻐다 감을 보니        기감훼상  豈敢毁傷
 
-```js
-蓋(덮을 개) 此(이 차) 身(몸 신) 髮(터럭 발)
-蓋자는 艹(풀 초)자와 盍(덮을 합)자가 결합
-髮자는 髟(늘어질 표)자와 犮(달릴 발)자가 결합
-
-四(넉 사) 大(큰 대) 五(다섯 오) 常(항상 상)
-常자는 尙(오히려 상)자와 巾(수건 건)자가 결합
-네 가지 큰 것과 다섯 가지 떳떳함이 있으니 즉 사대는 천지 군부요 오상은 인의예지신이다.
-
-
-恭(공손할 공) 惟(오직 유) 鞠(국문할 국) 養(기를 양)
-恭자는 共(함께 공)자와 心(마음 심)자가 결합
-惟자는 心(마음 심)자와 隹(새 추)자가 결합
-養자는 羊(양 양)자와 食(밥 식)자가 결합
-
-豈(어찌 기) 敢(감히 감) 毁(헐 훼) 傷(상할 상)
-[豆]콩두
-傷자는 人(사람 인)자와 昜(볕 양)자, 矢(화살 시)자가 결합
-```
-```js
-
-1.  [蓋此身髮]  [四大五常] 
-2.  [恭惟鞠養]  [豈敢毁傷] 
-4.  [女慕貞烈]  [男效才良]
-5.  [知過必改]  [得能莫忘]
-
+055 圖寫禽獸 畫彩仙靈 056 丙舍傍啟 甲帳對楹 
+057 肆筵設席 鼓瑟吹笙 058 升階納陛 弁轉疑星 
+059 右通廣內 左達承明 060 既集墳典 亦聚群英
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxND
-g3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0
-MTc5NTM1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMT
-MxMjk0NF19
+eyJoaXN0b3J5IjpbNjIxODMzOTc5LDgxNzI5MjIxNywtMTY5ND
+UyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEs
+NTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2Mz
+QwMDg4LC03MzEzMTI5NDRdfQ==
 -->
