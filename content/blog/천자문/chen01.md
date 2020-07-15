@@ -30,7 +30,9 @@ draft: false
 
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
 검을차고 들어간다
-8개의 구슬슬멀리 고알나무
+8개의 야광주
+멀리과일나무
+눈속애 채소
 
 007 劍號巨闕 珠稱夜光 
 008 果珍李柰 菜重芥薑 
@@ -52,6 +54,7 @@ draft: false
 손톱조([爪]☞손톱)爫]
 重자는 東(동녘 동)자와 人(사람 인)자가 결합
 ```
+
 009 海鹹河淡 鱗潛羽翔 
 010 龍師火帝 鳥官人皇 
 ```js
@@ -99,7 +102,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1OTE1MDcsLTcxMDY5Mzk1MywtMj
-AzNzEyMDMzMywzMTE1NTIzNDgsLTk5NjY0MjIzNiwtMjAwOTcw
-ODgzNl19
+eyJoaXN0b3J5IjpbNzg1NjY1NSwtNzEwNjkzOTUzLC0yMDM3MT
+IwMzMzLDMxMTU1MjM0OCwtOTk2NjQyMjM2LC0yMDA5NzA4ODM2
+XX0=
 -->
