@@ -1,5 +1,5 @@
 ---
-title: '천자문 00'
+title: '천자문 001'
 date: 2020-07-15
 category: '천자문'
 draft: false
@@ -26,11 +26,10 @@ draft: false
 10儿어진사람 인
 ```
 ![](https://i.ibb.co/TgwPyGb/02.jpg)
-天地玄黃  宇宙洪荒
-日月盈昃  辰宿列張
 
+001 天地玄黃 宇宙洪荒 
+002 日月盈昃 辰宿列張
 ```js
-
 天(하늘 천) 地(땅 지) 玄(검을 현) 黃(누를 황)
 
 宇(집 우) 宙(집 주) 洪(넓을 홍) 荒(거칠 황)
@@ -41,9 +40,8 @@ draft: false
 
 ```
 
-寒來暑往 秋收冬藏  
-閏餘成歲 律呂調陽
-
+003 寒來暑往 秋收冬藏 
+004 閏餘成歲 律呂調陽 
 ```js
 
 寒(찰 한) 來(올 래) 暑(더울 서) 往(갈 왕)
@@ -51,8 +49,8 @@ draft: false
 閏(윤달 윤) 餘(남을 여) 成(이룰 성) 歲(해 세戉(도끼 월)자와 步(걸음 보))
 律(가락 률彳조금 걸을 척 聿(붓율) 呂(음률 려) 調(고를 조) 陽(볕 양阝언덕 부)
 ```
-雲騰致雨 露結爲霜 
-金生麗水 玉出崑岡
+005 雲騰致雨 露結為霜 
+006 金生麗水 玉出昆岡 
 ```js
 雲(구름 운) 騰(오를 등) 致(이를 치) 雨(비 우)
 朕(나 짐)자와 馬(말 마)자가 결합
@@ -70,5 +68,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQwNTgyNDNdfQ==
+eyJoaXN0b3J5IjpbNDA2NDMyMzU2LC0xNDU0MDU4MjQzXX0=
 -->
