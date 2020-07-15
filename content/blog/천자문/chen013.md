@@ -29,40 +29,14 @@ draft: false
 
 
 ![](https://i.ibb.co/wBzV0DP/2020-07-08-11-00-48.png)
-德建名立  形端表正
-空谷傳聲  虛堂習聽공곡전승 허당습청
-
-지구본에 가격표가  덕지덕지붙여있다
-컬럼버스 형의 표정이 바르다
-싸움하면 공공의적이다 
-허허벌판에 풀이 피었다
-
-```js
-德(덕 덕) 建(세울 건) 名(이름 명) 立(설 립)
-德자는 彳(조금 걸을 척)자와 直(곧을 직)자, 心(마음 심)자가 결합
-建자는 廴(길게 걸을 인)자와 聿(붓 율)자가 결합
-
-形(모양 형) 端(바를 단) 表(겉 표) 正(바를 정)
-形자는 幵(평평할 견)자와 彡(터럭 삼)자가 결합
-端자는 立(설 립)자와 耑(시초 단)자가 결합
-表자는 衣(옷 의)자와 毛(털 모)자가 결합
-
-空(빌 공) 谷(골 곡) 傳(전할 전) 聲(소리 성)
-空자는 穴(구멍 혈)자와 工(장인 공)자가 결합
-傳자는 人(사람 인)자와 專(오로지 전)자가 결합
-專자는 寸(마디 촌)자와 ‘방추(紡錘)’를 그린
-
-虛(빌 허) 堂(집 당) 習(익힐 습) 聽(들을 청)
-虛자는 虎(범 호)자와 丘(언덕 구)자가 결합
-堂자는 土(흙 토)자와 尙(오히려 상)자가 결합
-聽자는 耳(귀 이)자와 壬(천간 임)자, 悳(덕 덕)자가 결합
-```
-
+079 雁門紫塞 雞田赤城 080 昆池碣石 巨野洞庭 
+081 曠遠綿邈 巖岫杳冥 082 治本於農 務資稼穡
+083 俶載南畝 我藝黍稷 084 稅熟貢新 勸賞黜陟 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTQ0ODcxOSwxMzE4MDgxODYyLC0yND
-U0NjgxMzQsLTY4OTIwNzc0NSwtMjg1NDE2ODcwLDU4NzYwMDcy
-MSwtMTg2ODgwODY0NSwxNzY5NTk4NDcyLC0xNTIxMjk0MDI0LD
-g3NTA5NjYzN119
+eyJoaXN0b3J5IjpbLTE1MjA3NjIzLC00ODE0NDg3MTksMTMxOD
+A4MTg2MiwtMjQ1NDY4MTM0LC02ODkyMDc3NDUsLTI4NTQxNjg3
+MCw1ODc2MDA3MjEsLTE4Njg4MDg2NDUsMTc2OTU5ODQ3MiwtMT
+UyMTI5NDAyNCw4NzUwOTY2MzddfQ==
 -->
