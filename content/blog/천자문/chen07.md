@@ -1,5 +1,5 @@
 ---
-title: '천자문 7043'
+title: '천자문 07'
 date: 2020-6-14 16:21:13
 category: '천자문'
 draft: false
@@ -62,6 +62,6 @@ draft: false
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5ODI2MDQsLTE1MDEyNjM1NzIsODk1MT
-U4NDU0LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbLTY3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMj
+YzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ==
 -->
