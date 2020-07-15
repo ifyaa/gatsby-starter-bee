@@ -74,7 +74,8 @@ draft: false
 갓머리([宀]와 [㠯]
 
 ```
-
+로마군인 입기시작한 내복
+칼로찌른 예수는 추워워쌀포에
 011 始制文字 乃服衣裳 
 012 推位讓國 有虞陶唐
 ```js
@@ -104,7 +105,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NzExNTgsLTcxMDY5Mzk1MywtMjAzNz
-EyMDMzMywzMTE1NTIzNDgsLTk5NjY0MjIzNiwtMjAwOTcwODgz
-Nl19
+eyJoaXN0b3J5IjpbMTU0NDEzMjUzMSwtNzEwNjkzOTUzLC0yMD
+M3MTIwMzMzLDMxMTU1MjM0OCwtOTk2NjQyMjM2LC0yMDA5NzA4
+ODM2XX0=
 -->
