@@ -87,9 +87,15 @@ draft: false
 陶자는 阜(阝:언덕 부)자와 匋(질그릇 도)자가 결합
 唐자는 庚(별 경)자와 口(입 구)자가 결합
 
+```js
+寒(찰 한) 來(올 래) 暑(더울 서) 往(갈 왕)
+秋(가을  추) 收(거둘  수 丩(얽힐 구)자와 攵(칠 복)자) 冬(겨울  동冫(얼음 빙)자와 夂(뒤져 올 치)) 藏(감출  장)
+閏(윤달 윤) 餘(남을 여) 成(이룰 성) 歲(해 세戉(도끼 월)자와 步(걸음 보))
+律(가락 률彳조금 걸을 척 聿(붓율) 呂(음률 려) 調(고를 조) 陽(볕 양阝언덕 부)
 ```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTUyMzQ4LC05OTY2NDIyMzYsLTIwMD
-k3MDg4MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzcxMjAzMzMsMzExNTUyMzQ4LC05OT
+Y2NDIyMzYsLTIwMDk3MDg4MzZdfQ==
 -->
