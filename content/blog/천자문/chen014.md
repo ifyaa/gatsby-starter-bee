@@ -23,37 +23,12 @@ draft: false
 150谷계곡 곡
 ```
 ![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
-호랑이가 화를낸다
-사자가 복을주니까
-완이가 척척막았다
-사자가 촌에 산다
-禍因惡積  福緣善慶 화인악적 복연선경
-尺璧非寶  寸陰是競 척벽비보 촌음시경
-```js
-禍(재앙 화) 因(인할 인) 惡(악할 악/미워할 오) 積(쌓을 적)
-禍자는 示(보일 시)자와 咼(화할 화)자가 결합\
-##### 咼
-**입 비뚤어질 괘**
-因자는 囗(에운담 위)자와 大(큰 대)자가 결합
-惡자는 亞(버금 아)자와 心(마음 심)자가 결합
-積자는 禾(벼 화)자와 責(빚 채)자가 결합
-
-福(복 복) 緣(인연 연) 善(착할 선) 慶(경사 경)
-福자는 示(보일 시)자와 畐(가득할 복)자가 결합
-緣자는 糸(가는 실 사)자와 彖(판단할 단)자가 결합한 모습이다. 彖자는 豕(돼지 시)자가 변형
-慶자는 鹿(사슴 록)자와 心(마음 심)자, 夂(올 치)자가 결합
-
-尺(자 척) 璧(구슬 벽) 非(아닐 비) 寶(보배 보)
-寶자는 宀(집 면)자와 玉(옥 옥)자, 缶(장군 부)자, 貝(조개 패)자가 결합
-陰자는 阜(阝:언덕 부)자와 今(이제 금)자, 云(구름 운)자가 결합
-是자는 日(해 일)자와 正(바를 정)자가 결합
-
-寸(마디 촌) 陰(그늘 음) 是(옳을/이 시) 競(다툴 경)
-競자는 두 개의 立(설 립)자와 兄(맏 형)자가 결합
-```
+085 孟軻敦素 史魚秉直086 庶幾中庸 勞謙謹敕 
+087 聆音察理 鑒貌辨色 088 貽厥嘉猷 勉其祗植 
+089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNT
-gwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0
-MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTE5Njg0MzYwODksLTE0NTU5MTM5MzMsMT
+IzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4
+NjM3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
