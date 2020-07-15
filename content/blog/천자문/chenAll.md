@@ -125,7 +125,7 @@ draft: false
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 ```
 20
-
+```js
 121 指薪修祜 永綏吉劭 122 矩步引領 俯仰廊廟 
 123 束帶矜莊 徘徊瞻眺 124 孤陋寡聞 愚蒙等誚 
 125 謂語助者 焉哉乎也
@@ -133,5 +133,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODEwNTczM119
+eyJoaXN0b3J5IjpbLTE5MTE1NjI3NDJdfQ==
 -->
