@@ -31,6 +31,9 @@ draft: false
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
 007 劍號巨闕 珠稱夜光 
 008 果珍李柰 菜重芥薑 
+
+009 海鹹河淡 鱗潛羽翔 
+010 龍師火帝 鳥官人皇 
 ```js
 
 海(바다 해) 鹹(짤 함) 河(물 하) 淡(묽을 담)
@@ -47,8 +50,11 @@ draft: false
 
 ```
 
+011 始制文字 乃服衣裳 
+012 推位讓國 有虞陶唐
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTk0Nzc2LC05OTY2NDIyMzYsLTIwMD
-k3MDg4MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3MDAxMDMyNTcsLTk5NjY0MjIzNiwtMj
+AwOTcwODgzNl19
 -->
