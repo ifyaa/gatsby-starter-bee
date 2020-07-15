@@ -26,37 +26,13 @@ draft: false
 ```
 矢 石 示(礻) 禸 禾 穴 立 竹 米 糸 
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
-원시인은 동물을 못찾으면 망한다
-원시인은 미술시간이 없다
-여자원시인은 신사복을 입었다
-기억을 못한다
-罔談彼短   靡恃己長 
-信使可覆   器欲難量 
-망담피단   미시기장 
-신사가복    기용난량
-
-```js
-罔(없을 망) 談(말씀 담) 彼(저 피)피차간에 短(짧을 단)
-罔자는 网(그물 망)자와 亡(망할 망)자가 결합
-談자는 言(말씀 언)자와 炎(불탈 염)자가 결합
-彼자는 彳(조금 걸을 척)자와 皮(가죽 피)자가 결합
-短자는 矢(화살 시)자와 豆(콩 두)자가 결합
-.
-靡(아닐 미) 恃(믿을 시) 己(몸 기) 長(길 장)
-.
-信(믿을 신) 使(하여금 사) 可(옳을 가) 覆(뒤집힐 복)
-覆자는 襾(덮을 아)자와 復(돌아올 복)자가 결합
-.
-器(그릇 기) 欲(하고자할 욕) 難(어려울 난) 量(헤아릴 량)
-欲자는 谷(골 곡)자와 欠(하품 흠)자가 결합
-難자는 堇(진흙 근)자와 隹(새 추)자가 결합
-##### 甘**달 감**##### 廿**스물 입**
-量자는 旦(아침 단)자와 里(마을 리)자가 결합
-```
+067 磻溪伊尹 佐時阿衡 068 奄宅曲阜 微旦孰營 
+069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
+071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDE1MjYxMiwzMTY2MTk5ODgsOTczMD
-QyMjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2NSwtMTc5MDE2NTcx
-MywtNzQyOTU0NzIyXX0=
+eyJoaXN0b3J5IjpbODY3ODY1OTksMTQ4MDE1MjYxMiwzMTY2MT
+k5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2NSwt
+MTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
