@@ -21,7 +21,7 @@ draft: false
 213龜거북 귀
 214龠피리 약
 ```
-![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png)
+![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png = 150x150)
 樂殊貴賤  禮別尊卑 악수귀천  예별존비
 上和下睦  夫唱婦隨 상화하목  부창부수
 ```js
@@ -44,5 +44,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY0OTcxM119
+eyJoaXN0b3J5IjpbLTg5MDkyNTk5OF19
 -->
