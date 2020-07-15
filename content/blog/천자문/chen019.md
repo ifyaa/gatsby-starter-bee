@@ -27,35 +27,13 @@ draft: false
 
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
-##### 귀신이 학교에  가면 아빠는섭섭하다
-##### 귀신은 존대말을  거의안쓴다
 
-
-### 學優登仕  攝職從政 학우등사 섭직종정
-### 存以甘棠  去而益詠 존이감당 거이익영
-```js
-學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
-學자는 臼(절구 구)자와 宀(집 면)자, 爻(효 효)자, 子(아들 자)자가 결합
-優자는 人(사람 인)자와 憂(근심할 우)자가 결합
-登자는 癶(등질 발)자와 豆(콩 두)자가 결합
-
-攝(잡을 섭) 職(벼슬 직) 從(좇을 종) 政(정사 정)
-攝자는 手(손 수)자와 聶(소곤거릴 섭)자가 결합
-職자는 耳(귀 이)자와 音(소리 음)자, 戈(창 과)자가 결합
-從자는 彳(조금 걸을 척)자와 止(발 지)자, 从(좇을 종)자가 결합
-政자는 正(바를 정)자와 攵(칠 복)자가 결합
-
-存(있을 존) 以(써 이) 甘(달 감) 棠(해당화 당)
-存자는 才(재주 재)자와 子(아들 자)자가 결합
-
-去(갈 거) 而(어조사 이) 益(더할 익) 詠(읊을 영)
-詠자는 言(말씀 언)자와 永(길 영)자가 결합한 모습이다. 永자는 하천이 굽이쳐 흐르는 모습을 그린 것으로 ‘길게 늘이다’라는 뜻
-
-
-```
+115 布射僚丸 嵇琴阮嘯 116 恬筆倫紙 鈞巧任釣 
+117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
+119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjcxODYsNzk0OTU5OTcyLDEzNTEzOT
-Q2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjIs
-MTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbLTEzOTg3NzMyOTUsLTcyMjcxODYsNzk0OT
+U5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2
+LC05MTAxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
