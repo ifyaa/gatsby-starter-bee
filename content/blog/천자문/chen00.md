@@ -31,15 +31,13 @@ draft: false
  
    
 
-| 1一한 일   | 天(하늘 천) |
+| 1一한 일   | 天(하늘 천) | 하늘이 
 
-| 2丨뚫을 곤  | 宇(집 우) |
+| 2丨뚫을 곤  | 宇(집 우) | 번개로 집을  
 | 3丶점 주   | 日(날 일)|
 | 4丿삐침 별  | 辰(별 진) |
-
-
-
 ```
+![](https://i.ibb.co/4YMJndQ/Screen-Shot-2020-07-15-at-1-42-19-PM.png)
 001 天地玄黃 宇宙洪荒 
 002 日月盈昃 辰宿列張
 ```js
@@ -81,5 +79,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjYwODUzOSwtMTQ1NDA1ODI0M119
+eyJoaXN0b3J5IjpbLTE3MDU5OTM5NTgsLTI5NjYwODUzOSwtMT
+Q1NDA1ODI0M119
 -->
