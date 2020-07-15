@@ -1,5 +1,5 @@
 ---
-title: '천자문 13'
+title: '천자문 '
 date: 2020-07-07
 category: '천자문'
 draft: false
@@ -29,14 +29,16 @@ draft: false
 
 
 ![](https://i.ibb.co/wBzV0DP/2020-07-08-11-00-48.png)
-079 雁門紫塞 雞田赤城 080 昆池碣石 巨野洞庭 
+      
+     
+      079 雁門紫塞 雞田赤城 080 昆池碣石 巨野洞庭 
 081 曠遠綿邈 巖岫杳冥 082 治本於農 務資稼穡
 083 俶載南畝 我藝黍稷 084 稅熟貢新 勸賞黜陟 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjQwNDI0OSwtNDgxNDQ4NzE5LDEzMT
-gwODE4NjIsLTI0NTQ2ODEzNCwtNjg5MjA3NzQ1LC0yODU0MTY4
-NzAsNTg3NjAwNzIxLC0xODY4ODA4NjQ1LDE3Njk1OTg0NzIsLT
-E1MjEyOTQwMjQsODc1MDk2NjM3XX0=
+eyJoaXN0b3J5IjpbNjA1MDkwNTk1LDE2MzY0MDQyNDksLTQ4MT
+Q0ODcxOSwxMzE4MDgxODYyLC0yNDU0NjgxMzQsLTY4OTIwNzc0
+NSwtMjg1NDE2ODcwLDU4NzYwMDcyMSwtMTg2ODgwODY0NSwxNz
+Y5NTk4NDcyLC0xNTIxMjk0MDI0LDg3NTA5NjYzN119
 -->
