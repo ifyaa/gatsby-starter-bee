@@ -54,9 +54,9 @@ draft: false
 손톱조([爪]☞손톱)爫]
 重자는 東(동녘 동)자와 人(사람 인)자가 결합
 ```
-입벌린감에 바닷물에 비늘이 떠있다
-안석괘 촛불에 용
-얼음빙에 새한마리
+입벌린감에 바닷물에 비늘이 잠수한다
+안석괘 촛불에 용의불
+얼음빙에 새한
 009 海鹹河淡 鱗潛羽翔 
 010 龍師火帝 鳥官人皇 
 ```js
@@ -106,7 +106,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzI3NDIxOSwtODE3OTM0MDc0LC03MT
-A2OTM5NTMsLTIwMzcxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIy
-MzYsLTIwMDk3MDg4MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjc1MjMzNjksLTgxNzkzNDA3NCwtNz
+EwNjkzOTUzLC0yMDM3MTIwMzMzLDMxMTU1MjM0OCwtOTk2NjQy
+MjM2LC0yMDA5NzA4ODM2XX0=
 -->
