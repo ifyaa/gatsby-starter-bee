@@ -1,5 +1,5 @@
 ---
-title: '천자문 14'
+title: '천자문 '
 date: 2020-07-09
 category: '천자문'
 draft: false
@@ -28,7 +28,8 @@ draft: false
 089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMj
-M1NDU1NjcyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2
-Mzc2LC0yMDcxNzQyMDUwLDU5NDQ5NDg0OV19
+eyJoaXN0b3J5IjpbMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xND
+U1OTEzOTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0
+MjMsLTE3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX
+0=
 -->
