@@ -1,5 +1,5 @@
 ---
-title: '천자문 130'
+title: '천자문 079'
 date: 2020-07-07
 category: '천자문'
 draft: false
@@ -35,8 +35,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA3NjIzLC00ODE0NDg3MTksMTMxOD
-A4MTg2MiwtMjQ1NDY4MTM0LC02ODkyMDc3NDUsLTI4NTQxNjg3
-MCw1ODc2MDA3MjEsLTE4Njg4MDg2NDUsMTc2OTU5ODQ3MiwtMT
-UyMTI5NDAyNCw4NzUwOTY2MzddfQ==
+eyJoaXN0b3J5IjpbLTE3NDM0NzM5MjMsLTQ4MTQ0ODcxOSwxMz
+E4MDgxODYyLC0yNDU0NjgxMzQsLTY4OTIwNzc0NSwtMjg1NDE2
+ODcwLDU4NzYwMDcyMSwtMTg2ODgwODY0NSwxNzY5NTk4NDcyLC
+0xNTIxMjk0MDI0LDg3NTA5NjYzN119
 -->
