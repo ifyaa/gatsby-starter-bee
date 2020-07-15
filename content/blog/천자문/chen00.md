@@ -26,7 +26,16 @@ draft: false
 10儿어진사람 인
 ```
 ![](https://i.ibb.co/TgwPyGb/02.jpg)
+```js
+   天(하늘 천)
+2丨뚫을 곤 宇(집 우)
+3丶점 주   日(날 일)
+4丿삐침 별 辰(별 진)
+|1一한 일  |  |
+|--|--|
+|  |  |
 
+```
 001 天地玄黃 宇宙洪荒 
 002 日月盈昃 辰宿列張
 ```js
@@ -68,5 +77,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NDMyMzU2LC0xNDU0MDU4MjQzXX0=
+eyJoaXN0b3J5IjpbMjAyOTIxMTc5NSwtMTQ1NDA1ODI0M119
 -->
