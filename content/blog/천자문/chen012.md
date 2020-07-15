@@ -25,37 +25,14 @@ draft: false
 130肉고기 육
 ```
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
-墨悲絲染  詩讚羔羊 묵비사염 시찬고양
-景行維賢  克念作聖 경행유현 극념작성
-이사하는날 도토리묵먹고
-항아리속에 고양이가 시끄럽게 운다
-노인의 밭은 경치가 좋다
-붓으로  작성했다
-```js
-墨(먹 묵) 悲(슬플 비) 絲(실 사) 染(물들일 염)
-墨자는 黑(검을 흑)자와 土(흙 토)자가 결합
-
-詩(시 시) 讚(칭찬할 찬) 羔(새끼양 고) 羊(양 양)
-言(말씀 언)자와 寺(절 사)자가 결합
-讚자는 言(말씀 언)자와 贊(도울 찬)자가 결합
-贊자는 兟(나아갈 신)자와 貝(조개 패)자로 결합
-先자는 牛(소 우)자와 儿(어진사람 인)자가 결합
-
-景(경치 경) 行(다닐 행/항렬 항) 維(벼리,오직 유) 賢(어질 현)
-賢자는 臤(어질 현)자와 貝(조개 패)자가 결합
-
-克(이길 극) 念(생각 념) 作(지을 작) 聖(성인 성)
-克자는 十(열 십)자와 兄(맏 형)자가 결합
-念자는 今(이제 금)자와 心(마음 심)자가 결합
-作자는 人(사람 인)자와 乍(잠깐 사)자가 결합
-聖자는 耳(귀 이)자와 口(입 구)자, 壬(천간 임)자가 결합
-
-
-```
+073 假途滅虢 踐土會盟 074 何遵約法 韓弊煩刑
+075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
+077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4Nj
-UyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3
-NywtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbOTk4NTMxODk1LDc1MDQ5MDY4MywxNjkzMj
+I3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3Nzk5
+LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ
+==
 -->
