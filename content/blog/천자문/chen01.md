@@ -29,7 +29,8 @@ draft: false
 ```
 
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
-검을
+검을차고 들어간다
+8개의 구슬슬멀리 고알나무
 
 007 劍號巨闕 珠稱夜光 
 008 果珍李柰 菜重芥薑 
@@ -98,7 +99,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNTM1MTIzLC03MTA2OTM5NTMsLTIwMz
-cxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIyMzYsLTIwMDk3MDg4
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTU1OTE1MDcsLTcxMDY5Mzk1MywtMj
+AzNzEyMDMzMywzMTE1NTIzNDgsLTk5NjY0MjIzNiwtMjAwOTcw
+ODgzNl19
 -->
