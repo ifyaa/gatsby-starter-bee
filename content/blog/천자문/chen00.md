@@ -40,7 +40,17 @@ draft: false
 辰(별 진) 宿(잘 숙) 列(벌일 열) 張(베풀 장)
 
 ```
+
+寒來暑往 秋收冬藏  
+閏餘成歲 律呂調陽
+
+```js
+寒(찰 한) 來(올 래) 暑(더울 서) 往(갈 왕)
+秋(가을  추) 收(거둘  수 丩(얽힐 구)자와 攵(칠 복)자) 冬(겨울  동冫(얼음 빙)자와 夂(뒤져 올 치)) 藏(감출  장)
+閏(윤달 윤) 餘(남을 여) 成(이룰 성) 歲(해 세戉(도끼 월)자와 步(걸음 보))
+律(가락 률彳조금 걸을 척 聿(붓율) 呂(음률 려) 調(고를 조) 陽(볕 양阝언덕 부)
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzMzNjM3N119
+eyJoaXN0b3J5IjpbLTIwMjIzOTE1NDldfQ==
 -->
