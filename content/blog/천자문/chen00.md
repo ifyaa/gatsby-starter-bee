@@ -65,9 +65,9 @@ draft: false
 律(가락 률彳조금 걸을 척 聿(붓율) 呂(음률 려) 調(고를 조) 陽(볕 양阝언덕 부)
 ```
 ```js
-8亠돼지해머리 두  雲(구름 운)露(이슬 로)
-9 人사람 인      金(쇠 금)
-10儿어진사람 인  玉(구슬 옥)
+8亠돼지해머리 두   雲(구름 운)露(이슬 로) 돼지는 구름의 이슬로 삶아내고
+9 人사람 인      金(쇠 금)           아빠는 쇠금을 
+10儿어진사람 인   玉(구슬 옥)         아들은 구슬옥을 가지고 있다
 ```
 005 雲騰致雨 露結為霜 
 006 金生麗水 玉出昆岡 
@@ -88,6 +88,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODM1ODYzNCwtMjk2NjA4NTM5LC0xND
-U0MDU4MjQzXX0=
+eyJoaXN0b3J5IjpbLTExNDYwMjQyNzEsLTI5NjYwODUzOSwtMT
+Q1NDA1ODI0M119
 -->
