@@ -1,5 +1,5 @@
 ---
-title: '천자문 007'
+title: '천자문 007-01'
 date: 2020-6-14 16:21:13
 category: '천자문'
 draft: false
@@ -29,6 +29,8 @@ draft: false
 ```
 
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
+검을
+
 007 劍號巨闕 珠稱夜光 
 008 果珍李柰 菜重芥薑 
 ```js
@@ -96,6 +98,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDY5Mzk1MywtMjAzNzEyMDMzMywzMT
-E1NTIzNDgsLTk5NjY0MjIzNiwtMjAwOTcwODgzNl19
+eyJoaXN0b3J5IjpbNDQyNTM1MTIzLC03MTA2OTM5NTMsLTIwMz
+cxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIyMzYsLTIwMDk3MDg4
+MzZdfQ==
 -->
