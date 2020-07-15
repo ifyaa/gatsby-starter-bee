@@ -25,8 +25,22 @@ draft: false
 9人사람 인
 10儿어진사람 인
 ```
+![](https://i.ibb.co/TgwPyGb/02.jpg)
 
+<?xml version="1.0" encoding="UTF-8"?>
+
+```js
+
+天(하늘 천) 地(땅 지) 玄(검을 현) 黃(누를 황)
+
+宇(집 우) 宙(집 주) 洪(넓을 홍) 荒(거칠 황)
+
+日(날 일) 月(달 월) 盈(찰 영) 仄(기울 측)
+
+辰(별 진) 宿(잘 숙) 列(벌일 열) 張(베풀 장)
+
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ0MTg2MjZdfQ==
+eyJoaXN0b3J5IjpbLTExNDc5MjIxMV19
 -->
