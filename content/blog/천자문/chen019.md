@@ -27,10 +27,8 @@ draft: false
 
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
-##### 귀신이 학교에  간다
-##### 귀신친구는 섭섭하다
-##### 선생님에게 존대말을 쓴다
-##### 귀신은 거짓말은 안한다
+##### 귀신이 학교에  가면 아빠는섭섭하다
+##### 선생님에게 존대말을  거의안쓴다
 
 
 ### 學優登仕  攝職從政 학우등사 섭직종정
@@ -57,7 +55,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MD
-Q5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjIsMTA1MDMzNDc4
-MiwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbLTIwNzAxNDk3MzcsNzk0OTU5OTcyLDEzNT
+EzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkz
+NjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
