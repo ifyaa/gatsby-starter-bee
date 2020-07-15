@@ -7,7 +7,7 @@ draft: false
 #200 영어공부
 ##누른기장으로 검은 옷을 바느질한다
 ##맹꽁이가 솥에서 북친다
-##쥐코구멍이 가지런하다
+##코에 쥐가 가지런히 들어간다
 ##거북이와 용은 이빨로 피리를 분다
 ```js
 200
@@ -35,5 +35,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjQwMTM2MV19
+eyJoaXN0b3J5IjpbLTIwODc5MDI5MjZdfQ==
 -->
