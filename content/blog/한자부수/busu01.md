@@ -20,7 +20,7 @@ draft: false
 1 일요일
 여덟명이 교회로 들어가는데 멀리 눈이 덮여있고
 안석괘촛불을 켜고 일벌릴감에 얼음과 함께
-로마군이 힘으로 칼로 에수를 찔러 쌀포에 담고
+힘센군인이 칼로 쌀자루찌르는 동상
 
 교회에서 촛불켜고 십자가에 기도
 
@@ -42,6 +42,6 @@ draft: false
 ![](https://i.ibb.co/LtP1LS5/2020-07-05-2-07-44.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU0MDA1MzgsLTE2OTkwODUxLDEyMz
-Y0MzM5MDVdfQ==
+eyJoaXN0b3J5IjpbLTczNzE1OTk0NiwtMTc1NTQwMDUzOCwtMT
+Y5OTA4NTEsMTIzNjQzMzkwNV19
 -->
