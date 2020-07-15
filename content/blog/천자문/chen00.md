@@ -38,6 +38,7 @@ draft: false
 | 4丿삐침 별  | 辰(별 진) | 별도 삐쳤다
 ```
 ![](https://i.ibb.co/4YMJndQ/Screen-Shot-2020-07-15-at-1-42-19-PM.png)
+```
 001 天地玄黃 宇宙洪荒 
 002 日月盈昃 辰宿列張
 ```js
@@ -88,6 +89,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2Mjc1NzM1LC0xMTQ2MDI0MjcxLC0yOT
-Y2MDg1MzksLTE0NTQwNTgyNDNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODY5OTQ0NTksLTExNDYwMjQyNzEsLT
+I5NjYwODUzOSwtMTQ1NDA1ODI0M119
 -->
