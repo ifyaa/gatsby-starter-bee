@@ -1,5 +1,5 @@
 ---
-title: '천자문 180'
+title: '천자문 109'
 date: 2020-07-13
 category: '천자문'
 draft: false
@@ -31,7 +31,7 @@ draft: false
 113 驢騾犢特 駭躍超驤 114 誅斬賊盜 捕獲叛亡 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMTcyMDQ5LDg5MjY2MDI3OSw5NjI4MT
+eyJoaXN0b3J5IjpbNzEzODcxNzEyLDg5MjY2MDI3OSw5NjI4MT
 Q2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3
 OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0ND
 k3XX0=
