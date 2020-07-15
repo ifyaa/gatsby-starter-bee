@@ -9,7 +9,7 @@ draft: false
 #### 손톱에 불과물이 그려져있다
 #### 탁자는 아버지가 점효 x 두개를 조각한 장이다
 ```js
-
+팔씨름
 81比견줄 비
 
 82毛털 모
@@ -35,7 +35,7 @@ draft: false
 아버지 x자두개를  조각을 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTUyNTI1NCwtMjk1OTUxNDQsODQ3Nz
-MzODQ4LC0xNTcxNzEzODc2LDE2NTY0MjM2NzIsLTYwOTM5OTA3
-MF19
+eyJoaXN0b3J5IjpbLTE4NjA0MDY4MDgsMTY5MTUyNTI1NCwtMj
+k1OTUxNDQsODQ3NzMzODQ4LC0xNTcxNzEzODc2LDE2NTY0MjM2
+NzIsLTYwOTM5OTA3MF19
 -->
