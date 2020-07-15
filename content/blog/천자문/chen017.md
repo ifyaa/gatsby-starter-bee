@@ -1,5 +1,5 @@
 ---
-title: '천자문 103'
+title: '천자문 17'
 date: 2020-07-12
 category: '천자문'
 draft: false
@@ -35,7 +35,8 @@ draft: false
 107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MTYwODE2LDE1Mzg1NjIxMjIsNjc0MT
-QwMTI3LDIxMTMzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcs
-LTE0MzEwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2Nz
+QxNDAxMjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4
+NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ
+==
 -->
