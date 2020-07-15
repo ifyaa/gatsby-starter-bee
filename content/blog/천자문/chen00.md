@@ -50,6 +50,8 @@ draft: false
 閏(윤달 윤) 餘(남을 여) 成(이룰 성) 歲(해 세戉(도끼 월)자와 步(걸음 보))
 律(가락 률彳조금 걸을 척 聿(붓율) 呂(음률 려) 調(고를 조) 陽(볕 양阝언덕 부)
 ```
+雲騰致雨 露結爲霜 
+金生麗水 玉出崑岡
 ```js
 5. 雲騰致雨 (운등치우) 수증기가 올라가서 구름이 되고 냉기를 만나 비가 된다. 즉 천지 자연의 기상을 말한다.
    露結爲霜 (로결위상) 이슬이 맺혀 서리가 되니 밤 기운이 풀잎에 물방울처럼 이슬을 이룬다.
@@ -58,8 +60,7 @@ draft: false
 
 ```
 
-```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTczNDMyXX0=
+eyJoaXN0b3J5IjpbLTEzNzgyNTI5NTJdfQ==
 -->
