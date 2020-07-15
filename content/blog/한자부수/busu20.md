@@ -9,6 +9,7 @@ draft: false
 ##맹꽁이가 솥에서 북친다
 ##코에 쥐가 가지런히 들어간다
 ##거북이와 용은 이빨로 피리를 분다
+![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png)
 ```js
 200
 20112획 →黃누를 황
@@ -35,5 +36,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY0NTY3MDddfQ==
+eyJoaXN0b3J5IjpbNjg3NDM4Mzg0LC0xNDQ2NDU2NzA3XX0=
 -->
