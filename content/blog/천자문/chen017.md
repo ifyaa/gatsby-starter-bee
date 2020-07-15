@@ -29,32 +29,13 @@ draft: false
 ```
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
-![](https://i.ibb.co/tKrK5CR/170.png)
-완이는 천사를 그리고
-연꽃도 징하게 그리고 
-용꼬리도그리고 
-언제나 야단은 맞는다 벽에 낙서한다고
 
-川流不息  淵澄取映 천류불식 연등취영
-容止若思  言辭安定 용지약사 언사안정
-```js
-川(내 천) 流(흐를 류) 不(아니 불) 息(쉴 식)
-流자는 水(물 수)자와 㐬(깃발 유)자가 결합한 모습이다. 㐬자는 물에 떠내려가는 아이를 그린 것
-息자는 自(스스로 자)자와 心(마음 심)자가 결합
-
-淵(못 연) 澄(맑을 징) 取(취할 취) 暎(비칠 영)
-取자는 耳(귀 이)자와 又(또 우)자가 결합
-映자는 日(해 일)자와 央(중앙 앙)자가 결합한 모습이다. 央자는 목에 칼을 찬 사람을 그린 것
-
-容(얼굴 용) 止(그칠 지) 若(같을 약) 思(생각 사)
-若자는 艹(풀 초)자와 右(오른쪽 우)자가 결합
-
-言(말씀 언) 辭(말씀 사) 安(편안 안) 定(정할 정)
-定자는 宀(집 면)자와 正(바를 정)자가 결합
-```
+103 親戚故舊 老少異糧 104 妾御績紡 侍巾帷房
+105 紈扇圓絜 銀燭煒煌 106 晝眠夕寐 藍筍象床 
+107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMz
-M5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMw
-LDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTMyMjc1MzI5MiwxNTM4NTYyMTIyLDY3ND
+E0MDEyNywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3
+LC0xNDMxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
