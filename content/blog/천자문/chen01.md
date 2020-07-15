@@ -29,6 +29,8 @@ draft: false
 ```
 
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
+007 劍號巨闕 珠稱夜光 
+008 果珍李柰 菜重芥薑 
 ```js
 
 海(바다 해) 鹹(짤 함) 河(물 하) 淡(묽을 담)
@@ -47,5 +49,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjY0MjIzNiwtMjAwOTcwODgzNl19
+eyJoaXN0b3J5IjpbMTU3OTk0Nzc2LC05OTY2NDIyMzYsLTIwMD
+k3MDg4MzZdfQ==
 -->
