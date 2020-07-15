@@ -1,5 +1,5 @@
 ---
-title: '천자문 049'
+title: '천자문 8049'
 date: 2020-07-02 16:21:13
 category: '천자문'
 draft: false
@@ -23,16 +23,42 @@ draft: false
 90爿조각 장
 ```
 
+鳴鳳在樹  
+白駒食場
+化被草木
+賴及萬方
 ![](https://i.ibb.co/HHyZMkZ/2020-07-02-11-33-53.png)
 049 性靜情逸 心動神疲 050 守真志滿 逐物意移
 051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
-053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚
+053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚팔씨름은 명예를 지킨다
+모씨는 백번 싸워 구십번 이겼다
+손톱에 불화로 피해를 입었다
+조각장은 내것인데 방에있다
+
+```js
+鳴(울 명) 鳳(봉황새 봉) 在(있을 재) 樹(나무 수)
+鳳자는 凡(무릇 범)자와 鳥(새 조)자가 결합
+在자는 土(흙 토)자와 才(재주 재)자가 결합
+樹자는 木(나무 목)자와 尌(세울 주)자가 결합
+
+白(흰 백) 駒(망아지 구) 食(밥 식) 場(마당 장)
+場자는 土(흙 토)자와 昜(볕 양)자가 결합
+被자는 衣(옷 의)자와 皮(가죽 피)자가 결합
+草자는 艹(풀 초)자와 早(일찍 조)자가 결합
+賴자는 剌(어그러질 랄)자와 貝(조개 패)자가 결합
+
+化(될 화) 被(입을 피) 草(풀 초) 木(나무 목)
+덕화가 사람이나 짐승에게만 미칠 뿐 아니라 초목에까지도 미침을 말한다.
+賴(힘입을 뢰) 及(미칠 급) 萬(일만 만) 方(모 방)
+萬자는 艹(풀 초)자와 禺(긴꼬리원숭이 우)자가 결합
+
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMj
-U0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1
-ODQ3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNzczLC
-0xNzM2NzMzNDcxLC01MzkxNzA5NzBdfQ==
+eyJoaXN0b3J5IjpbLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMD
+QyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3
+ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4NDgzNC
+w2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
 -->
