@@ -13,12 +13,15 @@ draft: false
 ```js
 
 614획 →心마음 심
+
 62戈창 과
 63戶지게 호
 64手손 수
+
 65支가를 지
 66攴칠 복
 67文글월 문
+
 68斗말 두
 69斤도끼 근
 70方모날 방
@@ -48,7 +51,11 @@ draft: false
 甚자는 甘(달 감)자와 匕(비수 비)자가 결합
 竟자는 立(설 립)자와 見(볼 견)자가 결합
 ```
-
+```js
+68斗말 두
+69斤도끼 근
+70方모날 방
+```
 039 學優登仕 攝職從政 040 存以甘棠 去而益詠 
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
@@ -92,5 +99,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzI5MDE5XX0=
+eyJoaXN0b3J5IjpbMjAzMDcwMjM2M119
 -->
