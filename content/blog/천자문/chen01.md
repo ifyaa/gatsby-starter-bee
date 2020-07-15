@@ -56,7 +56,7 @@ draft: false
 ```
 입벌린감에 바닷물에 비늘이 잠수한다
 안석괘 촛불에 용의불
-얼음빙에 새한
+얼음빙에 새가 관을 쓰고있다
 009 海鹹河淡 鱗潛羽翔 
 010 龍師火帝 鳥官人皇 
 ```js
@@ -106,7 +106,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc1MjMzNjksLTgxNzkzNDA3NCwtNz
-EwNjkzOTUzLC0yMDM3MTIwMzMzLDMxMTU1MjM0OCwtOTk2NjQy
-MjM2LC0yMDA5NzA4ODM2XX0=
+eyJoaXN0b3J5IjpbLTc3MzQ1MTI2MSwtODE3OTM0MDc0LC03MT
+A2OTM5NTMsLTIwMzcxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIy
+MzYsLTIwMDk3MDg4MzZdfQ==
 -->
