@@ -44,7 +44,7 @@ draft: false
 ```js
 037 篤初誠美 慎終宜令 038 榮業所基 籍甚無竟 
 039 學優登仕 攝職從政 040 存以甘棠 去而益詠 
-041 樂殊貴賤 禮別尊卑 042 上和下睦 夫唱婦隨 
+041 樂殊貴賤 禮別尊卑 042 上和下睦 夫唱婦隨   여기까지 1차공부 
 ```
 07
 ```js
@@ -133,5 +133,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE1NjI3NDJdfQ==
+eyJoaXN0b3J5IjpbMjA0OTE1MjA4NCwtMTkxMTU2Mjc0Ml19
 -->
