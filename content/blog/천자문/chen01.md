@@ -76,7 +76,7 @@ draft: false
 ```
 로마군인 입기시작한 내복
 칼로찌른 예수는 나라를 물려줬다
-쌀포에 우유통ㅇ
+쌀포에 우유통으로 쓴다
 011 始制文字 乃服衣裳 
 012 推位讓國 有虞陶唐
 ```js
@@ -106,7 +106,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTg0NzczNiwtODE3OTM0MDc0LC03MT
+eyJoaXN0b3J5IjpbLTQyNDEyMzQ4NywtODE3OTM0MDc0LC03MT
 A2OTM5NTMsLTIwMzcxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIy
 MzYsLTIwMDk3MDg4MzZdfQ==
 -->
