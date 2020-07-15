@@ -1,5 +1,5 @@
 ---
-title: '천자문 11'
+title: '천자문 '
 date: 2020-07-06
 category: '천자문'
 draft: false
@@ -26,13 +26,16 @@ draft: false
 ```
 矢 石 示(礻) 禸 禾 穴 立 竹 米 糸 
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
-067 磻溪伊尹 佐時阿衡 068 奄宅曲阜 微旦孰營 
+      
+      
+      067 磻溪伊尹 佐時阿衡 068 奄宅曲阜 微旦孰營 
 069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
 071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMT
-Y2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2
-NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
+eyJoaXN0b3J5IjpbMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxND
+gwMTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3
+LC0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ
+==
 -->
