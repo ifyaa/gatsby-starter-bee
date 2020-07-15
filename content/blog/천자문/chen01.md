@@ -31,7 +31,7 @@ draft: false
 ![](https://i.ibb.co/6g5mJg2/2020-06-23-11-32-33.png)
 검을차고 들어간다
 8개의 야광주
-멀리과일나무
+멀리 과일나무
 눈속애 채소
 
 007 劍號巨闕 珠稱夜光 
@@ -57,6 +57,7 @@ draft: false
 입벌린감에 바닷물에 비늘이 잠수한다
 안석괘 촛불에 용의불
 얼음빙에 새가 관을 쓰고있다
+
 009 海鹹河淡 鱗潛羽翔 
 010 龍師火帝 鳥官人皇 
 ```js
@@ -77,6 +78,7 @@ draft: false
 로마군인 입기시작한 내복
 칼로찌른 예수는 나라를 물려줬다
 쌀포에 우유통으로 쓴다
+
 011 始制文字 乃服衣裳 
 012 推位讓國 有虞陶唐
 ```js
@@ -106,7 +108,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTczODM0OTcsLTQyNDEyMzQ4NywtOD
+eyJoaXN0b3J5IjpbLTIxMDUwOTA2NjMsLTQyNDEyMzQ4NywtOD
 E3OTM0MDc0LC03MTA2OTM5NTMsLTIwMzcxMjAzMzMsMzExNTUy
 MzQ4LC05OTY2NDIyMzYsLTIwMDk3MDg4MzZdfQ==
 -->
