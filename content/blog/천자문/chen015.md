@@ -26,37 +26,13 @@ draft: false
 160辛매울 신
 ```
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
-시계는 자기것이 아니다
-엄마옆에 강아지가 왈왈거린다
-달리는 사람은 효자
-차는 기름이 충분하다
-資父事君  曰嚴與敬 자부사군 왈엄여경
-孝當竭力  忠則盡命 효당갈력 충즉진명
-```js
-資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
-資자는 次(버금 차)자와 貝(조개 패)자가 결합
-君자는 尹(다스릴 윤)자와 口(입 구)자가 결합
-
-曰(가로 왈) 嚴(엄할 엄) 與(더불 여) 敬(공경할 경)
-嚴자는 敢(감히 감)자와 厂(기슭 엄)자, 口(입 구)자가 결합
-與자는 舁(마주들 여)자와 与(어조사 여)자가 결합
-敬자는 苟(진실로 구)자와 攵(칠 복)자가 결합
-苟자는 艹(풀 초)자와 句(글귀 구)자가 결합
-
-孝(효도 효) 當(마땅할 당) 竭(다할 갈) 力(힘 력)
-孝자는 耂(늙을 노)자와 子(아들 자)자가 결합
-當자는 尙(오히려 상)자와 田(밭 전)자가 결합
-
-忠(충성 충) 則(곧 즉/법 칙) 盡(다할 진) 命(목숨 명)
-則자는 貝(조개 패)자와 刀(칼 도)자가 결합
-盡자는 皿(그릇 명)자와 聿(붓 율)자가 결합
-命자는 亼(삼합 집)자와 口(입 구)자, 卩(병부 절)자가 결합
-
-```
+091 兩疏見機 解組誰逼 092 索居閑處 沉默寂寥
+093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
+095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMz
-MxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4
-NDQwXX0=
+eyJoaXN0b3J5IjpbMTcyNjAyOTUsLTE3NTEzODgwMDgsODc3Mj
+gxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5
+OCwtMjQwMjc4NDQwXX0=
 -->
