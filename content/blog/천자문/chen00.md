@@ -53,7 +53,7 @@ draft: false
 ```js
 5乙새 을        寒(찰 한)秋(가을  추) 차거운 가을에는 새를 잡아
 6亅갈고리 궐     閏(윤달 윤)         달빛아래 갈고리에 걸어
-7二두 이        律(가락 률)         젖가락 두개로 
+7二두 이        律(가락 률)         2마리를 젖가락 두개로 익힌다
 ```
 003 寒來暑往 秋收冬藏 
 004 閏餘成歲 律呂調陽 
@@ -83,6 +83,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzQ0NzQ2MSwtMjk2NjA4NTM5LC0xND
+eyJoaXN0b3J5IjpbMTQ3OTA2MzUwMCwtMjk2NjA4NTM5LC0xND
 U0MDU4MjQzXX0=
 -->
