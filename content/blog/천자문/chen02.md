@@ -14,6 +14,20 @@ draft: false
 또  사사롭게  입구에  물을  뿌린다
 
  匕 匚 匸 十 卜 卩 厂 厶 又 口 
+ ```js
+21匕비수 비
+22匚상자 방
+23匸감출 혜
+24十열 십
+
+25卜점 복
+26卩무릎 꿇을 절
+27厂기슭 한
+
+28厶사사로울 사
+29又또 우
+30口입 구
+```
 
 013 吊民伐罪 周發殷湯 014 坐朝問道 垂拱平章 
 015 愛育黎首 臣伏戎羌 016 遐邇一體 率賓歸王 
@@ -21,5 +35,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzEwNDQ5NF19
+eyJoaXN0b3J5IjpbMzA1MTQzNTY0XX0=
 -->
