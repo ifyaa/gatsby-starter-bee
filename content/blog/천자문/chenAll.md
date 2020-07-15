@@ -93,7 +93,7 @@ draft: false
 42. 上和下睦 (상화하목) 위에서 사랑하고 아래서 공경함으로써 화목이 된다.
 夫唱婦隨 (부창부수) 지아비가 부르면 지어미가 따르니 즉 원만한 가정을 말한다.
 ```
-
+```js
 
 43. 外受傅訓 (외수부훈) 여덟살이 되면 밖의 스승에 가르침을 받아야 한다.
 入奉母儀 (입봉모의) 집에 들어서는 어머니를 받들어 종사한다.
@@ -269,5 +269,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODA4MTM5NV19
+eyJoaXN0b3J5IjpbLTE1NjA4MjE3OTJdfQ==
 -->
