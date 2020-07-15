@@ -33,9 +33,9 @@ draft: false
 
 | 1一한 일   | 天(하늘 천) | 하늘이 
 
-| 2丨뚫을 곤  | 宇(집 우) | 번개로 집을  
-| 3丶점 주   | 日(날 일)|
-| 4丿삐침 별  | 辰(별 진) |
+| 2丨뚫을 곤  | 宇(집 우) | 번개로 집을  뚫고
+| 3丶점 주   | 日(날 일)|  날일자모양 점이 생겼다
+| 4丿삐침 별  | 辰(별 진) | 별도 삐쳤다
 ```
 ![](https://i.ibb.co/4YMJndQ/Screen-Shot-2020-07-15-at-1-42-19-PM.png)
 001 天地玄黃 宇宙洪荒 
@@ -50,7 +50,11 @@ draft: false
 辰(별 진) 宿(잘 숙) 列(벌일 열) 張(베풀 장)
 
 ```
-
+```js
+5乙새 을
+6亅갈고리 궐
+7二두 이
+```
 003 寒來暑往 秋收冬藏 
 004 閏餘成歲 律呂調陽 
 ```js
@@ -79,6 +83,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5OTM5NTgsLTI5NjYwODUzOSwtMT
+eyJoaXN0b3J5IjpbLTIwOTQzMjYyMTYsLTI5NjYwODUzOSwtMT
 Q1NDA1ODI0M119
 -->
