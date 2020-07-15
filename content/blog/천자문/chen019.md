@@ -1,5 +1,5 @@
 ---
-title: '천자문 190'
+title: '천자문 115'
 date: 2020-07-14
 category: '천자문'
 draft: false
@@ -33,7 +33,7 @@ draft: false
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg3NzMyOTUsLTcyMjcxODYsNzk0OT
+eyJoaXN0b3J5IjpbLTE4NTI5MDQ2NzQsLTcyMjcxODYsNzk0OT
 U5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2
 LC05MTAxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
