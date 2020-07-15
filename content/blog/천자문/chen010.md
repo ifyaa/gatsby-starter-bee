@@ -26,35 +26,13 @@ draft: false
 110 矛창 모 전차에 달린 창
 ```
 ![](https://i.ibb.co/Zfcymb4/2020-07-05-3-28-16.png)
-女慕貞烈  男效才良
-知過必改  得能莫忘
-여자를 구하러 간다
-용은 남자다
-지게에 지고간다
-깨진그릇에 망막을 다쳤다
-```js
-女(계집 녀) 慕(사모할 모) 貞(곧을 정) 烈(매울 렬)
-慕자는 莫(없을 막)자와 心(마음 심)자가 결합
-貞자는 貝(조개 패)자와 卜(점 복)자가 결합
-烈자는 火(불 화)자와 列(벌일 렬)자가 결합한 모습
-
-男(사내 남) 效(본받을 효) 才(재주 재) 良(어질 량)
-效자는 交(사귈 교)자와 攵(칠 복)자가 결합[_攴  칠 복 ]
-
-
-知(알 지) 過(지날/허물 과) 必(반드시 필) 改(고칠 개)
-知자는 矢(화살 시)자와 口(입 구)자가 결합
-過자는 辶(쉬엄쉬엄 갈 착)자와 咼(가를 과)자가 결합
-改자는 己(자기 기)자와 攵(칠 복)자가 결합
-
-得(얻을 득) 能(능할 능) 莫(말 막) 忘(잊을 망)
-得자는 彳(조금 걸을 척)자와 貝(조개 패)자, 寸(마디 촌)자가 결합
-莫자는 茻(잡풀 우거질 망)자와 日(해 일)자가 결합.
-```
+061 杜稿鐘隸 漆書壁經 062 府羅將相 路俠槐卿 
+063 戶封八縣 家給千兵 064 高冠陪輦 驅轂振纓 
+065 世祿侈富 車駕肥輕 066 策功茂實 勒碑刻銘
 
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc3NzU3MDcsLTk2MTg2MTQwLC0xOD
-QzNDk0MTA1LDEzMTY0Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDEx
-OTU5NywtOTY5ODc4NjAzXX0=
+eyJoaXN0b3J5IjpbLTQwMzgyMTgzNSwtMTc0Nzc3NTcwNywtOT
+YxODYxNDAsLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYy
+ODM2NCwyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
 -->
