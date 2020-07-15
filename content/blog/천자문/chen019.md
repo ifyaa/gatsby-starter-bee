@@ -1,5 +1,5 @@
 ---
-title: '천자문 19'
+title: '천자문 1'
 date: 2020-07-14
 category: '천자문'
 draft: false
@@ -28,12 +28,16 @@ draft: false
 **##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
 
+      
+      
+     
 115 布射僚丸 嵇琴阮嘯 116 恬筆倫紙 鈞巧任釣 
 117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NT
-k5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYs
-LTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNz
+IyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0
+LDE1MjkwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OT
+IyODY1NTJdfQ==
 -->
