@@ -5,7 +5,7 @@ category: "한자부수"
 draft: false
 ---
 #200 영어공부
-##누른기장으로 검은 옷을 바느질한다
+##누렇고 검은기장으로 바느질한다
 ##맹꽁이가 솥에서 북친다
 ##코에 쥐가 가지런히 들어간다
 ##거북이와 용은 이빨로 피리를 분다
@@ -35,5 +35,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc5MDI5MjZdfQ==
+eyJoaXN0b3J5IjpbMTAxODk5MTMxMl19
 -->
