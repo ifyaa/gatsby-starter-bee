@@ -1,7 +1,7 @@
 ---
-title: "천자문 1159"
+title: "천자문 09"
 date: 2020-07-03 16:21:13
-category: "천자문"
+category: "천자문311324
 draft: false
 ---
 9구름
@@ -28,8 +28,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDYwNTQyMiw4MTcyOTIyMTcsLTE2OT
-Q1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUx
-LDUwMTUxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2Nj
-M0MDA4OCwtNzMxMzEyOTQ0XX0=
+eyJoaXN0b3J5IjpbNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5ND
+UyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEs
+NTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2Mz
+QwMDg4LC03MzEzMTI5NDRdfQ==
 -->
