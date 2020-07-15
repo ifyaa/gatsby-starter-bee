@@ -75,7 +75,8 @@ draft: false
 
 ```
 로마군인 입기시작한 내복
-칼로찌른 예수는 추워워쌀포에
+칼로찌른 예수는 추워워
+쌀포에 우유통
 011 始制文字 乃服衣裳 
 012 推位讓國 有虞陶唐
 ```js
@@ -105,7 +106,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDEzMjUzMSwtNzEwNjkzOTUzLC0yMD
+eyJoaXN0b3J5IjpbLTgxNzkzNDA3NCwtNzEwNjkzOTUzLC0yMD
 M3MTIwMzMzLDMxMTU1MjM0OCwtOTk2NjQyMjM2LC0yMDA5NzA4
 ODM2XX0=
 -->
