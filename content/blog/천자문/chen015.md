@@ -1,5 +1,5 @@
 ---
-title: '천자문 15'
+title: '천자문 091'
 date: 2020-07-10
 category: '천자문'
 draft: false
@@ -26,13 +26,15 @@ draft: false
 160辛매울 신
 ```
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
-091 兩疏見機 解組誰逼 092 索居閑處 沉默寂寥
+     
+      
+     091 兩疏見機 解組誰逼 092 索居閑處 沉默寂寥
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
 095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NT
-EzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5
-MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3Mj
+YwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0
+LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
