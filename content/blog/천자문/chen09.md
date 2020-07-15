@@ -1,5 +1,5 @@
 ---
-title: "천자문 09"
+title: "천자문 0955"
 date: 2020-07-03 16:21:13
 category: "천자문311324
 draft: false
@@ -28,8 +28,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5ND
-UyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEs
-NTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2Mz
-QwMDg4LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbMTIzNzkxNDI4NSw1MTY0NTMxOTcsODE3Mj
+kyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIwLDc4NTU5OTczMywt
+MTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxOD
+QwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
 -->
