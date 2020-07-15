@@ -1,5 +1,5 @@
 ---
-title: "천자문 90"
+title: "천자문 055"
 date: 2020-07-03 16:21:13
 category: "천자문"
 draft: false
@@ -28,7 +28,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxODMzOTc5LDgxNzI5MjIxNywtMTY5ND
+eyJoaXN0b3J5IjpbNDE1NzgzNzQ0LDgxNzI5MjIxNywtMTY5ND
 UyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEs
 NTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2Mz
 QwMDg4LC03MzEzMTI5NDRdfQ==
