@@ -26,8 +26,8 @@ draft: false
 10儿어진사람 인
 ```
 ![](https://i.ibb.co/TgwPyGb/02.jpg)
-
-<?xml version="1.0" encoding="UTF-8"?>
+天地玄黃  宇宙洪荒
+日月盈昃  辰宿列張
 
 ```js
 
@@ -42,5 +42,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5MjIxMV19
+eyJoaXN0b3J5IjpbLTY5MzMzNjM3N119
 -->
