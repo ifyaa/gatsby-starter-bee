@@ -21,6 +21,7 @@ draft: false
 213龜거북 귀
 214龠피리 약
 ```
+
 ```js
 樂(풍류 악/즐길 락/좋아할 요) 殊(다를 수) 貴(귀할 귀) 賤(천할 천)
 
@@ -41,5 +42,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzMzMTI1MV19
+eyJoaXN0b3J5IjpbLTEzODkyMzU2ODFdfQ==
 -->
