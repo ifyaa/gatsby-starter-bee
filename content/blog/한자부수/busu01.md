@@ -4,6 +4,9 @@ date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
+[instagram](https://www.instagram.com/p/CCqdfmolGkk/?utm_source=ig_web_copy_link)
+
+
 
 ## 01  일요일  入 八 冂 冖 冫几 凵 刀(刂) 力 勹
 1 일요일
@@ -39,5 +42,6 @@ draft: false
 ![](https://i.ibb.co/LtP1LS5/2020-07-05-2-07-44.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkwODUxLDEyMzY0MzM5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU0MDA1MzgsLTE2OTkwODUxLDEyMz
+Y0MzM5MDVdfQ==
 -->
