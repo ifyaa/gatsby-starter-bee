@@ -51,9 +51,9 @@ draft: false
 
 ```
 ```js
-5乙새 을
-6亅갈고리 궐
-7二두 이
+5乙새 을        寒(찰 한)秋(가을  추)
+6亅갈고리 궐     閏(윤달 윤)
+7二두 이        律(가락 률)
 ```
 003 寒來暑往 秋收冬藏 
 004 閏餘成歲 律呂調陽 
@@ -83,6 +83,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQzMjYyMTYsLTI5NjYwODUzOSwtMT
-Q1NDA1ODI0M119
+eyJoaXN0b3J5IjpbNzU2MDk4NDA4LC0yOTY2MDg1MzksLTE0NT
+QwNTgyNDNdfQ==
 -->
