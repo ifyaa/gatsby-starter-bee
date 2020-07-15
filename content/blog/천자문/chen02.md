@@ -48,6 +48,10 @@ draft: false
 ```
 015 愛育黎首 臣伏戎羌 
 016 遐邇一體 率賓歸王 
+사랑애 말못하는 달도 (애육여수)
+신발이 없다 (신복융강)
+하품하면서 간다 (하이일체)
+솔직히 만나기 싫다 (솔빈귀왕)
 ```js
 
 愛(사랑 애) 育(기를 육) 黎(검을 려) 首(머리 수)
@@ -87,6 +91,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4Nz
-E2MTYyMTUsMjQ0NzQ3MDg1XX0=
+eyJoaXN0b3J5IjpbLTEyMTgwNTI3NzQsLTIzMjA0NDM4OSwtMT
+A1MjY1OTkwNyw4NzE2MTYyMTUsMjQ0NzQ3MDg1XX0=
 -->
