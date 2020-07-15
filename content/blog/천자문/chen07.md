@@ -1,5 +1,5 @@
 ---
-title: '천자문 70'
+title: '천자문 043'
 date: 2020-6-14 16:21:13
 category: '천자문'
 draft: false
@@ -31,5 +31,6 @@ draft: false
 045 孔懷兄弟 同氣連枝 046 交友投分 切磨箴規 
 047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MTU4NDU0LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbLTE1MDEyNjM1NzIsODk1MTU4NDU0LDk3Nj
+Q0NjA1OV19
 -->
