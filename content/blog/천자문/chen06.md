@@ -51,11 +51,7 @@ draft: false
 甚자는 甘(달 감)자와 匕(비수 비)자가 결합
 竟자는 立(설 립)자와 見(볼 견)자가 결합
 ```
-```js
-68斗말 두
-69斤도끼 근
-70方모날 방
-```
+
 039 學優登仕 攝職從政 040 存以甘棠 去而益詠 
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
@@ -77,7 +73,11 @@ draft: false
 
 
 ```
-
+```js
+68斗말 두  樂(풍류 악)禮(예도 례)
+69斤도끼 근 上(위 상)
+70方모날 방 夫(지아비 부)
+```
 041 樂殊貴賤 禮別尊卑 
 042 上和下睦 夫唱婦隨
 ```js
@@ -99,5 +99,5 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDcwMjM2M119
+eyJoaXN0b3J5IjpbLTgyMDM0MDc5NV19
 -->
