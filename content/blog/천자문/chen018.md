@@ -26,40 +26,13 @@ draft: false
 
 ```
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
-팔굽혀펴기는 성미가 독한사람이 한다
-완이는 말위에서 신이났다
-향수는 영업소에서 샀다
-말의 머리털이 적다
-
-篤初誠美  愼終宜令 독초성미 신종의령
-榮業所基  籍甚無竟 영업소기 적심무경
-```js
-篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
-篤자는 竹(대나무 죽)자와 馬(말 마)자가 결합
-初자는 衤(옷 의)자와 刀(칼 도)자가 결합
-誠자는 言(말씀 언)자와 成(이룰 성)자가 결합한 모습이다. 成자는 창을 뜻하는 戊(창 모)자와 丁(못 정)자가 결합
-美자는 大(큰 대)자와 羊(양 양)자가 결합
-
-愼(삼갈 신) 終(마지막 종) 宜(마땅 의) 令(하여금 령)
-愼자는 心(마음 심)자와 眞(참 진)자가 결합
-終자는 糸(가는 실 사)자와 冬(겨울 동)자가 결합
-宜자는 宀(집 면)자와 且(또 차)자가 결합
-令자는 亼(삼합 집)자와 卩(병부 절)자가 결합
-
-榮(영화 영) 業(업 업) 所(바 소) 基(터 기)
-榮자는 木(나무 목)자와 冖(덮을 멱)자, 火(불 화)자가 결합
-所자는 戶(지게 호)자와 斤(도끼 근)자가 결합
-基자는 土(흙 토)자와 其(그 기)자가 결합
-
-籍(호적 적) 甚(심할 심) 無(없을 무) 竟(마침내 경)
-籍자는 竹(대나무 죽)자와 耤(친경할 적)자가 결합
-昔자는 日자(해 일)자와 巛(내 천)자가 결합
-甚자는 甘(달 감)자와 匕(비수 비)자가 결합
-竟자는 立(설 립)자와 見(볼 견)자가 결합
-```
+109 嫡後嗣續 祭祀烝嘗 110 稽顙再拜 悚懼恐惶 
+111 箋牒簡要 顧答審詳 112 骸垢想浴 執熱願涼 
+113 驢騾犢特 駭躍超驤 114 誅斬賊盜 捕獲叛亡 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNjYwMjc5LDk2MjgxNDY2LC0xODU3Nj
-UzMDUxLC0yMTU2OTA5OTMsNzYyODgwMzQxLDc5NzkzNDE3MSwt
-MTQ4MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbODkyMTcyMDQ5LDg5MjY2MDI3OSw5NjI4MT
+Q2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3
+OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0ND
+k3XX0=
 -->
