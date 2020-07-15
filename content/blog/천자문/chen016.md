@@ -1,5 +1,5 @@
 ---
-title: '천자문 16'
+title: '천자문 '
 date: 2020-07-11
 category: '천자문'
 draft: false
@@ -25,13 +25,16 @@ draft: false
 170阜언덕 부
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
-097 陳根委翳 落葉飄搖 098 游鵾獨運 凌摩絳霄 
+      
+      
+     097 陳根委翳 落葉飄搖 098 游鵾獨運 凌摩絳霄 
 099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTA5MDQwLDY0Nzk4MDAzMSwtMjE4MT
-kyNTgyLDUzNzM2NTE0MSwtMTExODMxNTMyMiwzMDQ2OTgzOTcs
-LTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0Nz
+k4MDAzMSwtMjE4MTkyNTgyLDUzNzM2NTE0MSwtMTExODMxNTMy
+MiwzMDQ2OTgzOTcsLTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNT
+k4OTg1MDAxXX0=
 -->
