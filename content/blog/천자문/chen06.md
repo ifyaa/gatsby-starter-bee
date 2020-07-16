@@ -75,8 +75,8 @@ draft: false
 ```
 ```js
 68斗말 두  樂(풍류 악)禮(예도 례) 풍류와 예를 갖춰 두말을 나눈다
-69斤도끼 근 上(위 상)
-70方모날 방 夫(지아비 부)
+69斤도끼 근 上(위 상) 도끼날은 자루위에 있다
+70方모날 방 夫(지아비 부) 방에 아빠
 ```
 방마다 두근씩 나눈다
 
@@ -94,6 +94,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjg5MjYxMiwtOTMwNTAxMTQ5LC0xOD
-QxODQ0ODI1LDI1NDM0NjgxOV19
+eyJoaXN0b3J5IjpbLTExNDgwNjYzOTEsLTkzMDUwMTE0OSwtMT
+g0MTg0NDgyNSwyNTQzNDY4MTldfQ==
 -->
