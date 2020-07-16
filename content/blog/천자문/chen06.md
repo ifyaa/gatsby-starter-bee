@@ -74,7 +74,7 @@ draft: false
 
 ```
 ```js
-68斗말 두  樂(풍류 악)禮(예도 례) 수박을 나눌때 악수해서 한다
+68斗말 두  樂(풍류 악)禮(예도 례) 수박을 나눌때 고개숙여 악수해서 예의를 갖춘다
 69斤도끼 근 上(위 상) 도끼날은 자루위에 있다
 70方모날 방 夫(지아비 부) 방에 아빠가 있다 
 ```
@@ -94,6 +94,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDc5MTMyMiwxODU5NTg5Nzc5LC05Mz
+eyJoaXN0b3J5IjpbMjAxNjUxNzg2OSwxODU5NTg5Nzc5LC05Mz
 A1MDExNDksLTE4NDE4NDQ4MjUsMjU0MzQ2ODE5XX0=
 -->
