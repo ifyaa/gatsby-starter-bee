@@ -26,7 +26,15 @@ draft: false
 69斤도끼 근
 70方모날 방
 ```
-037 篤初誠美 慎終宜令 038 榮業所基 籍甚無竟 
+```js
+61心마음 심  篤(도타울 독)
+
+62戈창 과    愼(삼갈 신)
+63戶지게 호  榮(영화 영)
+64手손 수    籍(호적 적)
+```
+037 篤初誠美 慎終宜令 
+038 榮業所基 籍甚無竟 
 ```js
 篤(도타울 독) 初(처음 초) 誠(정성 성) 美(아름다울 미)
 篤자는 竹(대나무 죽)자와 馬(말 마)자가 결합
@@ -94,6 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcyNDA2OTEsMTg1OTU4OTc3OSwtOT
-MwNTAxMTQ5LC0xODQxODQ0ODI1LDI1NDM0NjgxOV19
+eyJoaXN0b3J5IjpbMTc4MzI4NjMxOSwtMTYyNzI0MDY5MSwxOD
+U5NTg5Nzc5LC05MzA1MDExNDksLTE4NDE4NDQ4MjUsMjU0MzQ2
+ODE5XX0=
 -->
