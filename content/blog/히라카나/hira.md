@@ -40,6 +40,7 @@ draft: false
 
 たちを　ながめました
 ```
+07-16
 ```
 れつから
 
@@ -60,7 +61,7 @@ draft: false
 ありは 　あせびつしよりです。
 ```
   
-07-16
+
   
 ```js
 しまった!」
@@ -90,7 +91,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjE1NDQyMywxMTE0ODA1MDQxLDUwMD
-gwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4
-XX0=
+eyJoaXN0b3J5IjpbNjQ3Njc1MjQxLDExMTQ4MDUwNDEsNTAwOD
+A0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThd
+fQ==
 -->
