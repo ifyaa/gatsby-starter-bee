@@ -31,7 +31,7 @@ draft: false
 159車수레 거/차
 160辛매울 신
 ```
-![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
+![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png =250x)
 ￼![](https://i.ibb.co/XYJXktP/150.png)
 
 > Written with [StackEdit](https://stackedit.io/).
@@ -39,5 +39,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDA4MDA3MSwtMTMwODIzMTk4M119
+eyJoaXN0b3J5IjpbLTQxNjk0MDIwNywtNTUwMDgwMDcxLC0xMz
+A4MjMxOTgzXX0=
 -->
