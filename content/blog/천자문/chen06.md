@@ -59,7 +59,11 @@ draft: false
 甚자는 甘(달 감)자와 匕(비수 비)자가 결합
 竟자는 立(설 립)자와 見(볼 견)자가 결합
 ```
-
+```js
+65支가를 지  學(배울 학)攝(잡을 섭)
+66攴칠 복   存(있을 존)
+67文글월 문  去(갈 거) 
+```
 039 學優登仕 攝職從政 040 存以甘棠 去而益詠 
 ```js
 學(배울 학) 優(넉넉할 우) 登(오를 등) 仕(벼슬 사)
@@ -102,7 +106,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzI4NjMxOSwtMTYyNzI0MDY5MSwxOD
+eyJoaXN0b3J5IjpbLTk4NDc1NTI2OCwtMTYyNzI0MDY5MSwxOD
 U5NTg5Nzc5LC05MzA1MDExNDksLTE4NDE4NDQ4MjUsMjU0MzQ2
 ODE5XX0=
 -->
