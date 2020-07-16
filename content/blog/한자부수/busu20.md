@@ -11,6 +11,7 @@ draft: false
 ##맹꽁이가 솥에서 북친다
 ##코에 쥐가 가지런히 들어간다
 ##거북이와 용은 이빨로 피리를 분다
+
 ```js
 200
 20112획 →黃누를 황
@@ -26,7 +27,8 @@ draft: false
 208鼠쥐 서
 209鼻코 비
 210齊가지런할 제
-
+```
+![](https://i.ibb.co/16c6k6m/Screen-Shot-2020-07-16-at-12-37-07-PM.png)
 211齒이 치
 212龍용 룡
 213龜거북 귀
@@ -37,6 +39,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ1NjU0LDY4NzQzODM4NCwtMTQ0Nj
-Q1NjcwN119
+eyJoaXN0b3J5IjpbLTEzNjAxMDEyMywtMTM3NDU2NTQsNjg3ND
+M4Mzg0LC0xNDQ2NDU2NzA3XX0=
 -->
