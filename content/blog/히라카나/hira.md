@@ -4,6 +4,7 @@ date: 2020-07-13
 category: '히라카나'
 draft: false
 ---
+[ocr](https://www.onlineocr.net/ko/)
 ```js
 ありと きりぎりす
 
@@ -62,7 +63,7 @@ draft: false
 ```
 
 
-
+![](https://i.ibb.co/XCjXJh3/ttt.png)
   れつから おくれて たべものを おもそうに はこんでいる 
 . 
 . 
@@ -99,7 +100,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTczMjQ4OTIsNjQ3Njc1MjQxLDExMT
-Q4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAs
-LTEyOTk3NTIwMThdfQ==
+eyJoaXN0b3J5IjpbLTQ4MzU1NzczMyw2NDc2NzUyNDEsMTExND
+gwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwt
+MTI5OTc1MjAxOF19
 -->
