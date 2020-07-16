@@ -11,7 +11,7 @@ draft: false
 ##귀신이 술먹고 솥위에서 창들고 싸운다
 ##솥에 소금을 넣고  물고기와 새를 삶는다
 ##삼베입은 사슴이 보리떡을 먹는다
-![](https://i.ibb.co/cTRCfx9/Screen-Shot-2020-07-14-at-11-53-50-AM.png)
+![](https://i.ibb.co/cTRCfx9/Screen-Shot-2020-07-14-at-11-53-50-AM.png =250x)
 ```js
 191鬥싸울 투
 
@@ -34,6 +34,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIxODg2NDIsLTExMjU3MzA4MTVdfQ
-==
+eyJoaXN0b3J5IjpbLTQ0NDIwMzE5NCwtMTI2MjE4ODY0MiwtMT
+EyNTczMDgxNV19
 -->
