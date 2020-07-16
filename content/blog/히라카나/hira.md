@@ -97,10 +97,21 @@ draft: false
 
 かったのです。
 ```
+![](https://i.ibb.co/bmGDk3P/aaa.png)
+```
+
+あつい 
+なつが すぎて、 あきに なりました。ありは にち 
+まい日 
+「ああー、気もちいい 
+すれて 
+はたらいています。 
+きりぎりすはありの 
+たのしく 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzU1NzczMyw2NDc2NzUyNDEsMTExND
+eyJoaXN0b3J5IjpbMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExND
 gwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwt
 MTI5OTc1MjAxOF19
 -->
