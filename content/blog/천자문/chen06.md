@@ -83,11 +83,8 @@ draft: false
 ```js
 樂(풍류 악/즐길 락/좋아할 요) 殊(다를 수) 貴(귀할 귀) 賤(천할 천)
 
-풍류는 귀천이 다르니 천자는 팔일 제후는 육일 사대부는 사일 선일은 이일이다.
-
 禮(예도 례) 別(다를 별) 尊(높을 존) 卑(낮을 비)
 
-예도에 존비의 분별이 있으니 군신, 부자, 부부, 장유, 붕우의 차별이 있다.
 
 上(위 상) 和(화할 화) 下(아래 하) 睦(화목할 목)
 
@@ -99,5 +96,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE4NDQ4MjUsMjU0MzQ2ODE5XX0=
+eyJoaXN0b3J5IjpbLTEwODY0NTYxMTcsLTE4NDE4NDQ4MjUsMj
+U0MzQ2ODE5XX0=
 -->
