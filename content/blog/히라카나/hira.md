@@ -60,9 +60,34 @@ draft: false
 
 たちを　ながめました
 ```
+```js
+しまった!」
+
+うさぎは
+
+あわてて
+
+だ
+
+はしり出しました。
+
+でも、いくら うさぎの
+
+足が はやくても、かめを おいぬく
+
+トJJ D
+
+もう できませんでした。
+
+なまけないで あるきつづけた か
+
+めは、うさぎに
+
+かったのです。
+```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MD
-k1NDAsLTEyOTk3NTIwMThdfQ==
+eyJoaXN0b3J5IjpbLTE3NTE1MTY2OTksNTAwODA0MTEyLDgyNz
+IzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
 -->
