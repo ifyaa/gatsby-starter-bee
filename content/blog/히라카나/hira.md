@@ -19,6 +19,27 @@ draft: false
 
 パーティーを しています。
 ```
+```js
+
+
+あさ
+
+早(はや)くから
+
+ありたち　だけが
+
+  
+
+はたらいています
+
+あついのに　はたらくなんて。　たべ
+
+ものは　こんなに　あるのにさ。
+
+きりぎりすは　わらいながら　あり
+
+たちを　ながめました
+```
 ```
 れつから
 
@@ -40,27 +61,7 @@ draft: false
 ```
   
 07-16
-  ```js
-
-
-あさ
-
-早(はや)くから
-
-ありたち　だけが
-
   
-
-はたらいています
-
-あついのに　はたらくなんて。　たべ
-
-ものは　こんなに　あるのにさ。
-
-きりぎりすは　わらいながら　あり
-
-たちを　ながめました
-```
 ```js
 しまった!」
 
@@ -89,6 +90,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDgwNTA0MSw1MDA4MDQxMTIsODI3Mj
-MzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
+eyJoaXN0b3J5IjpbLTg1MjE1NDQyMywxMTE0ODA1MDQxLDUwMD
+gwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4
+XX0=
 -->
