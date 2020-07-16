@@ -28,13 +28,13 @@ draft: false
 169門문 문
 170阜언덕 부
 ```
-![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
+![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png =250x)
 ## 辰 辵(辶) 邑(阝) 酉 釆 里 金 長 門 阜(阝)
 
 ￼![](https://i.ibb.co/1zH5t8Z/160.png)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1MTYyMDUsMTAyNDY2OTMxLC03Mj
-QxMDcwNTgsLTEzNDQwNzI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE4ODI4NDgwMDUsLTE0NDU1MTYyMDUsMT
+AyNDY2OTMxLC03MjQxMDcwNTgsLTEzNDQwNzI3MjhdfQ==
 -->
