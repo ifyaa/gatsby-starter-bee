@@ -17,9 +17,7 @@ draft: false
 
 木かげの はっぱの、いえで、まい日
 
-  
-
-**パーティー**を  しています。
+パーティーを しています。
 ```
 ```
 れつから
@@ -65,6 +63,6 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OT
-c1MjAxOF19
+eyJoaXN0b3J5IjpbNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MD
+k1NDAsLTEyOTk3NTIwMThdfQ==
 -->
