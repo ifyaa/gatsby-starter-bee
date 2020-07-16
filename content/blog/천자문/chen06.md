@@ -74,7 +74,7 @@ draft: false
 
 ```
 ```js
-68斗말 두  樂(풍류 악)禮(예도 례)
+68斗말 두  樂(풍류 악)禮(예도 례) 풍류와 예를 갖춰 두말을 나눈다
 69斤도끼 근 上(위 상)
 70方모날 방 夫(지아비 부)
 ```
@@ -94,6 +94,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjk3NjIzLC05MzA1MDExNDksLTE4ND
-E4NDQ4MjUsMjU0MzQ2ODE5XX0=
+eyJoaXN0b3J5IjpbMTk1Mjg5MjYxMiwtOTMwNTAxMTQ5LC0xOD
+QxODQ0ODI1LDI1NDM0NjgxOV19
 -->
