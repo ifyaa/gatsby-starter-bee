@@ -85,17 +85,13 @@ draft: false
 
 禮(예도 례) 別(다를 별) 尊(높을 존) 卑(낮을 비)
 
-
 上(위 상) 和(화할 화) 下(아래 하) 睦(화목할 목)
-
-위에서 사랑하고 아래에서 공경함으로써 화목이 된다.
 
 夫(지아비 부) 唱(부를 창) 婦(며느리 부) 隨(따를 수)
 
-지아비가  부르면  지어미가  따른다. 즉  원만한  가정을  말한다
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY0NTYxMTcsLTE4NDE4NDQ4MjUsMj
-U0MzQ2ODE5XX0=
+eyJoaXN0b3J5IjpbLTkzMDUwMTE0OSwtMTg0MTg0NDgyNSwyNT
+QzNDY4MTldfQ==
 -->
