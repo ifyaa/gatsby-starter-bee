@@ -5,7 +5,7 @@ category: '영어'
 draft: false
 ---
 [영어사이트](http://blog.naver.com/PostView.nhn?blogId=leane55&logNo=221070278253)
-![](https://i.ibb.co/PcCLtNZ/Screen-Shot-2020-07-16-at-8-43-07-PM.png)
+![](https://i.ibb.co/PcCLtNZ/Screen-Shot-2020-07-16-at-8-43-07-PM.png =250x)
 ```js
 Everyone~
 **Everyone~**  
@@ -66,6 +66,6 @@ He mustered up enough energy to knock on the door.**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMjg0NTIyLDE0NTM2MjUwMzEsLTE5Nj
-cwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbMTU3NjYzNjYxMCwxNDUzNjI1MDMxLC0xOT
+Y3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
 -->
