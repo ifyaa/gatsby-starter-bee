@@ -75,7 +75,7 @@ draft: false
 「きみ。ここであそばないか？に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
 ```
 ![](https://i.ibb.co/bmGDk3P/aaa.png)
-```
+
 
 あつい 
 なつが すぎて、 あきに なりました。ありは にち 
@@ -88,7 +88,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNTQ0MzE4LDE3MTgwNjkyMzQsNjQ3Nj
+eyJoaXN0b3J5IjpbNjA2MzIzMDYyLDE3MTgwNjkyMzQsNjQ3Nj
 c1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0
 ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
 -->
