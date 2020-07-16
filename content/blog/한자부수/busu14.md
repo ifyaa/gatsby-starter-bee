@@ -29,7 +29,7 @@ draft: false
 149言말씀 언
 150谷계곡 곡
 ```
-![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
+![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png =250x)
 ## 虍 虫 血 行 衣(衤) 襾(覀)見 角 言 谷
 
 ![](https://i.ibb.co/0QP1PkS/140.png)
@@ -38,5 +38,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTIzNDA3NCwyMTE0MDQxMzNdfQ==
+eyJoaXN0b3J5IjpbLTEyMTExNTM3NzgsLTM5NTIzNDA3NCwyMT
+E0MDQxMzNdfQ==
 -->
