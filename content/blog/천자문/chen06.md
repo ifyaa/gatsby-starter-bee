@@ -80,8 +80,8 @@ draft: false
 ```
 방마다 두근씩 나눈다
 
-041 樂殊貴賤 禮別尊卑 
-042 上和下睦 夫唱婦隨
+041 樂殊貴賤 禮別尊卑 악수귀천 예별존비
+042 上和下睦 夫唱婦隨 상하화목 부창부수
 ```js
 樂(풍류 악/즐길 락/좋아할 요) 殊(다를 수) 貴(귀할 귀) 賤(천할 천)
 
@@ -94,6 +94,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjUxNzg2OSwxODU5NTg5Nzc5LC05Mz
-A1MDExNDksLTE4NDE4NDQ4MjUsMjU0MzQ2ODE5XX0=
+eyJoaXN0b3J5IjpbLTE2MjcyNDA2OTEsMTg1OTU4OTc3OSwtOT
+MwNTAxMTQ5LC0xODQxODQ0ODI1LDI1NDM0NjgxOV19
 -->
