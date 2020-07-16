@@ -78,6 +78,8 @@ draft: false
 69斤도끼 근 上(위 상)
 70方모날 방 夫(지아비 부)
 ```
+방마다 두근씩 나눈다
+
 041 樂殊貴賤 禮別尊卑 
 042 上和下睦 夫唱婦隨
 ```js
@@ -92,6 +94,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDUwMTE0OSwtMTg0MTg0NDgyNSwyNT
-QzNDY4MTldfQ==
+eyJoaXN0b3J5IjpbMjAwMjk3NjIzLC05MzA1MDExNDksLTE4ND
+E4NDQ4MjUsMjU0MzQ2ODE5XX0=
 -->
