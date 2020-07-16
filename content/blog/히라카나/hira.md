@@ -64,38 +64,15 @@ draft: false
 
 
 ![](https://i.ibb.co/XCjXJh3/ttt.png)
-  れつから おくれて たべものを おもそうに はこんでいる 
-. 
-. 
-×「e び（ 
-ありがいます。 
-「きみ。ここであそばないか？に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
+
 
   
 ```js
-しまった!」
+れつから おくれて たべものを おもそうに はこんでいる 
 
-うさぎは
-
-あわてて
-
-だ
-
-はしり出しました。
-
-でも、いくら うさぎの
-
-足が はやくても、かめを おいぬく
-
-トJJ D
-
-もう できませんでした。
-
-なまけないで あるきつづけた か
-
-めは、うさぎに
-
-かったのです。
+×「e び（ 
+ありがいます。 
+「きみ。ここであそばないか？に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
 ```
 ![](https://i.ibb.co/bmGDk3P/aaa.png)
 ```
@@ -111,7 +88,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExND
-gwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwt
-MTI5OTc1MjAxOF19
+eyJoaXN0b3J5IjpbNTExNTQ0MzE4LDE3MTgwNjkyMzQsNjQ3Nj
+c1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0
+ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
 -->
