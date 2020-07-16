@@ -10,7 +10,7 @@ draft: false
 #### 말의 머리에 향기가 난다
 #### 말의 골뼈는 높고 머리털이 드리워진 표가난다
 
-![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
+![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png =250x)
 ```js
 181頁머리 혈
 
@@ -33,6 +33,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyOTk0MjczLC0xNTEzODIwOTAzLDIwNT
-Y0NzMxODMsLTE1OTM3ODk5NTRdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM1NDM0MzEsMzgyOTk0MjczLC0xNT
+EzODIwOTAzLDIwNTY0NzMxODMsLTE1OTM3ODk5NTRdfQ==
 -->
