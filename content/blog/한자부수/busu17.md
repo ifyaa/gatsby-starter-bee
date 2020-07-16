@@ -29,7 +29,7 @@ draft: false
 180音소리 음
 
 ```
-![](https://i.ibb.co/pLDKyQ6/Screen-Shot-2020-07-12-at-11-44-59-AM.png)
+![](https://i.ibb.co/pLDKyQ6/Screen-Shot-2020-07-12-at-11-44-59-AM.png =250x)
 
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
@@ -37,5 +37,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDgzNDI3NywtMjAzNDc2MzEwMF19
+eyJoaXN0b3J5IjpbMjE3NjQ2NzMzLC0yMDM0NzYzMTAwXX0=
 -->
