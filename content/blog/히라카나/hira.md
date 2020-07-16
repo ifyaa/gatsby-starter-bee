@@ -60,7 +60,15 @@ draft: false
 
 ありは 　あせびつしよりです。
 ```
-  
+
+
+
+  れつから おくれて たべものを おもそうに はこんでいる 
+. 
+. 
+×「e び（ 
+ありがいます。 
+「きみ。ここであそばないか？に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
 
   
 ```js
@@ -91,7 +99,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3Njc1MjQxLDExMTQ4MDUwNDEsNTAwOD
-A0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMTczMjQ4OTIsNjQ3Njc1MjQxLDExMT
+Q4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAs
+LTEyOTk3NTIwMThdfQ==
 -->
