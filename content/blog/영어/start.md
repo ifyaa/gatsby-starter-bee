@@ -4,6 +4,7 @@ date: 2020-07-23
 category: '영어'
 draft: false
 ---
+[영어사이트](http://blog.naver.com/PostView.nhn?blogId=leane55&logNo=221070278253)
 ```js
 Everyone~
 **Everyone~**  
@@ -64,6 +65,6 @@ He mustered up enough energy to knock on the door.**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNz
-k4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbMjM5MDA2MzY1LDE0NTM2MjUwMzEsLTE5Nj
+cwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
