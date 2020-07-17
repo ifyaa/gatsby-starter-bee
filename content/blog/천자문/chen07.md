@@ -5,7 +5,10 @@ category: '천자문'
 draft: false
 ---
 
-7칠석날 ####칠석날 날도 달도 말이 없다 ####견우가 하품을 그치고 나무를 가지고 온다 ####직녀는 부서진뼈를 가져올려다 말어
+7칠석날 
+#### 칠석날 날도 달도 말이 없다 
+#### 견우가 하품을 그치고 나무를 가지고 온다 
+#### 직녀는 부서진뼈를 가져올려다 말어
 
 ```js
 
@@ -65,7 +68,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQ1Nzg4MTksLTExNTc4NzAzNzUsLT
-Y3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1
-NCw5NzY0NDYwNTldfQ==
+eyJoaXN0b3J5IjpbMTc2ODA1MjExOSwtMTE1Nzg3MDM3NSwtNj
+c5NjY4NTMsMzc5ODI2MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0
+LDk3NjQ0NjA1OV19
 -->
