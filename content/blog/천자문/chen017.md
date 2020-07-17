@@ -34,11 +34,63 @@ draft: false
 105 紈扇圓絜 銀燭煒煌 106 晝眠夕寐 藍筍象床 
 107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
       
-      
+      51
+
+親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
+
+친은 동성지친이고 척은 이성지친이요 고구는 오랜 친구를 말한다.
+
+老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
+
+늙은이와 젊은이의 식사가 다르다.
+
+妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
+
+남자는 밖에서 일하고 여자는 안에서 길쌈을 짜니라.
+
+侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
+
+유방에서 모시고 수건을 받드니 처첩이 하는 일이다.
+
+52
+
+紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
+
+흰 비단으로 만든 부채는 둥글고 깨끗하다.
+
+銀(은 은) 燭(촛불 촉) 济(빛날 위) 煌(빛날 황)
+
+은촛대의 촛불은 빛나서 휘황 찬란하다.
+
+晝(낮 주) 眠(잘 면) 夕(저녁 석) 寐(잘 매)
+
+낮에 낮잠 자고 밤에 일찍 자니 한가한 사람의 일이다.
+
+藍(쪽 람) 筍(죽순 순) 象(코끼리 상) 牀(상 상)=床
+
+푸른 대순과 코끼리 상이니 즉 한가한 사람의 침대이다.
+
+53
+
+弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
+
+거문고를 타며 술과 노래로 잔치하니.
+
+接(이을 접) 杯(잔 배) 擧(들 거) 觴(잔 상)
+
+작고 큰 술잔을 서로 주고받으며 즐기는 모습이다.
+
+矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
+
+손을 들고 발을 두드리며 춤을 춘다.
+
+悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
+
+이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjYxNDg4NiwtMTU4NDE5MDE2MiwxNT
-M4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLDE3MzgzNDI3
-NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMxMSwtMT
-QxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbLTE3MDQwMTE1NzgsMTk4NjYxNDg4NiwtMT
+U4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5
+OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMj
+ExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
