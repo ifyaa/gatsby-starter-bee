@@ -35,10 +35,77 @@ draft: false
 081 曠遠綿邈 巖岫杳冥 082 治本於農 務資稼穡
 083 俶載南畝 我藝黍稷 084 稅熟貢新 勸賞黜陟 
 
+
+39
+
+雁(기러기 안) 門(문 문) 紫(붉을 자) 塞(변방 새)
+
+안문은 봄기러기 북으로 가는 고로 안문이고 흙이 붉은 고로 자색이라 하였다.
+
+鷄(닭 계) 田(밭 전) 赤(붉을 적) 城(성 성)
+
+계전은 옹주에 있는 고을이고 적성은 기주에 있는 고을이다.
+
+昆(맏 곤) 池(못 지) 碣(돌 갈) 石(돌 석)
+
+곤지는 운남 곤명현에 있고 갈석은 부평현에 있다.
+
+鉅(클 거) 野(들 야) 洞(골 동/꿰뚫을 통) 庭(뜰 정)
+
+거야는 태산 동편에 있는 광야 동전은 호남성에 있는 중국 제일의 호수이다.
+
+  
+
+  
+
+  
+
+40
+
+曠(빌 광) 遠(멀 원) 綿(이어질 면) 邈(멀 막)
+
+산, 벌판, 호수 등이 아득하고 멀리 그리고 널리 줄지어 있음을 말한다.
+
+巖(바위 암) 峀(메뿌리 수) 杳(아득할 묘) 冥(어두울 명)
+
+큰 바위와 메뿌리가 묘연하고 아득함을 말한다.
+
+治(다스릴 치) 本(근본 본) 於(어조사 어) 農(농사 농)
+
+다스리는 것은 농사를 근본으로 하니 중농 정치를 이른다.
+
+務(힘쓸 무) 玆(이 자) 稼(심을 가) 穡(거둘 색)
+
+때맞춰 심고 힘써 일하며 많은 수익을 거둔다.
+
+  
+
+  
+
+  
+
+41
+
+林(비로소 숙) 載(실을 재) 南(남녘 남) 畝(이랑 묘)
+
+비로소 남양의 밭에서 농작물을 배양한다.
+
+我(나 아) 藝(재주 예) 黍(기장 서) 稷(피 직)
+
+나는 기장과 피를 심는 일에 열중하겠다.
+
+稅(징수할 세) 熟(익을 숙) 貢(바칠 공) 新(새 신)
+
+곡식이 익으면 부세하여 국용을 준비하고 신곡으로 종묘에 제사를 올린다.
+
+勸(권할 권) 賞(상줄 상) 黜(물리칠 출) 陟(오를 척)
+
+농민의  의기를  앙양키  위하여  열심인  자는  상주고  게을리한  자는  출석하였다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MDkwNTk1LDE2MzY0MDQyNDksLTQ4MT
-Q0ODcxOSwxMzE4MDgxODYyLC0yNDU0NjgxMzQsLTY4OTIwNzc0
-NSwtMjg1NDE2ODcwLDU4NzYwMDcyMSwtMTg2ODgwODY0NSwxNz
-Y5NTk4NDcyLC0xNTIxMjk0MDI0LDg3NTA5NjYzN119
+eyJoaXN0b3J5IjpbMjA3NzgxMzAyNSw2MDUwOTA1OTUsMTYzNj
+QwNDI0OSwtNDgxNDQ4NzE5LDEzMTgwODE4NjIsLTI0NTQ2ODEz
+NCwtNjg5MjA3NzQ1LC0yODU0MTY4NzAsNTg3NjAwNzIxLC0xOD
+Y4ODA4NjQ1LDE3Njk1OTg0NzIsLTE1MjEyOTQwMjQsODc1MDk2
+NjM3XX0=
 -->
