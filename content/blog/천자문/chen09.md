@@ -26,11 +26,65 @@ draft: false
 057 肆筵設席 鼓瑟吹笙 058 升階納陛 弁轉疑星 
 059 右通廣內 左達承明 060 既集墳典 亦聚群英
 
+
+27
+
+圖(그림 도) 寫(베낄 사) 禽(날짐승 금) 獸(짐승 수)
+
+궁전 내부에는 유명한 화가들이 그린 그림 조각 등으로 장식되어 있다.
+
+畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
+
+신선과 신령의 그림도 화려하게 채색되어 있다.
+
+丙(남녘 병) 舍(집 사) 傍(곁 방) 啓(열 계)
+
+병사 곁에 통고를 열어 궁전 내를 출입하는 사람들의 편리를 도모하였다.
+
+甲(갑옷 갑) 帳(휘장 장) 對(대답할 대) 楹(기둥 영)
+
+아름다운 갑장이 기둥을 대하였으니 동방 삭이 갑장을 지어 임금이 잠시 정지하는 곳이다.
+
+28
+
+肆(베풀 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
+
+자리를 베풀고 돗자리를 베푸니 연회하는 좌석이다.
+
+鼓(북 고) 瑟(비파 슬) 吹(불 취) 笙(생황 생)
+
+비파를 치고 저를 부니 잔치하는 풍류이다.
+
+陞(오른쪽 승) 階(뜰 계) 納(바칠 납) 陛(섬돌 폐)
+
+문무백관이 계단을 올라 임금께 납폐하는 절차이니라.
+
+弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
+
+많은 사람들의 관에서 번쩍이는 구슬이 별안간 의심할 정도이다.
+
+29
+
+右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
+
+오른편에 광내가 통하니 광내는 나라 비서를 두는 집이다.
+
+左(왼 좌) 達(통달할 달) 承(이을 승) 明(밝을 명)
+
+왼편에 승명이 사무치니 승명은 사기를 교열하는 집이다.
+
+旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
+
+이미 분과 전을 모았으니 삼황의 글은 삼분이요 오제의 글은 오전이다.
+
+亦(또 역) 聚(모을 취) 群(무리 군) 英(꽃부리 영)
+
+또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTAxNzkzLDEyMzc5MTQyODUsNTE2ND
-UzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3
-ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OTUzNT
-M1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRd
-fQ==
+eyJoaXN0b3J5IjpbMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNj
+Q1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAs
+Nzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1Mz
+UzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4OCwtNzMxMzEyOTQ0
+XX0=
 -->
