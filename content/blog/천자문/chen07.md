@@ -28,7 +28,7 @@ draft: false
 
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
 ```js
-71无없을 무   外(밖 외)
+71无없을 무   外(밖 외) 아무것도 없으면 밖에 나가지마
 72日날 일     入(들 입)
 73曰말할 왈    諸(모두 제)
 74月달 월     猶(같을 유)
@@ -51,6 +51,7 @@ draft: false
 
 猶(같을 유) 子(아들 자) 比(견줄 비) 兒(아이 아)
 猶자는 犬(개 견)자와 酋(묵은 술 추)자가 결합
+兒자는 儿(어진사람 인)자와 臼(절구 구)자가 결합
 ```
 045 孔懷兄弟 同氣連枝 046 交友投分 切磨箴規 
 
@@ -79,9 +80,9 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4ND
-cwMzE4MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcw
-MiwtMTE5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMz
-c5ODI2MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0LDk3NjQ0NjA1
-OV19
+eyJoaXN0b3J5IjpbMTU4MzQ5Njg1Miw1NzE3MjE2NDcsLTg2MT
+YyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMTc3MzQwMzcx
+MiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3ODcwMzc1LC
+02Nzk2Njg1MywzNzk4MjYwNCwtMTUwMTI2MzU3Miw4OTUxNTg0
+NTQsOTc2NDQ2MDU5XX0=
 -->
