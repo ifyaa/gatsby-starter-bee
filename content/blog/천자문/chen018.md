@@ -29,10 +29,64 @@ draft: false
 109 嫡後嗣續 祭祀烝嘗 110 稽顙再拜 悚懼恐惶 
 111 箋牒簡要 顧答審詳 112 骸垢想浴 執熱願涼 
 113 驢騾犢特 駭躍超驤 114 誅斬賊盜 捕獲叛亡 
+
+54
+
+嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
+
+적자된 자, 즉 장남은 뒤를 계승하여 대를 이룬다.
+
+祭(제사 제) 祀(제사 사) 蒸(찔 증) 嘗(맛볼 상)
+
+제사하되 겨울 제사는 증이라 하고 가을 제사는 상이라 한다.
+
+稽(조아릴 계) 斎(이마 상) 再(둘 재) 拜(절 배)
+
+이마를 조아려 선조에게 두 번 절한다.
+
+悚(두려워할 송) 懼(두려워할 구) 恐(두려워할 공) 惶(두려워할 황)
+
+송구하고 공황하니 엄중, 공경함이 지극함이라.(3년상 이후의 제사시의 몸가짐이다.)
+
+55
+
+烗(편지 전) 牒(편지 첩) 簡(편지 간) 要(중요 요)
+
+글과 편지는 간략함을 요한다.
+
+顧(돌아볼 고) 答(대답 답) 審(살필 심) 詳(자세할 상)
+
+편지의 회답도 자세히 살펴 써야 한다.
+
+骸(뼈 해) 垢(때 구) 想(생각할 상) 浴(목욕할 욕)
+
+몸에 때가 끼면 목욕하기를 생각하고.
+
+執(잡을 집) 熱(더울 열) 願(원할 원) 凉(서늘할 량)
+
+더우면 서늘하기를 원한다.
+
+56
+
+驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
+
+나귀와 노새와 송아지, 즉 가축을 말한다.
+
+駭(놀랄 해) 躍(뛸 약) 超(넘을 초) 槐(달릴 양)
+
+뛰고 달리며 노는 가축의 모습을 말한다.
+
+誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
+
+역적과 도적을 베어 물리침.
+
+捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
+
+배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OT
-I2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MDk5
-Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwOD
-UzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbMjA5MDk4MzgxNiwtMTY2OTY3NDQyMywxND
+E0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1MzA1
+MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5MzQxNzEsLTE0OD
+M0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
 -->
