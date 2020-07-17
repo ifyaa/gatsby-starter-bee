@@ -32,9 +32,64 @@ draft: false
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
 095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
 
+
+45
+
+兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
+
+한나라의 소광과 소수는 기틀을 보고 상소하고 낙향했다.
+
+解(풀 해) 組(짤 조) 誰(누구 수) 逼(핍박할 핍)
+
+관의 끈을 풀어 사직하고 돌아가니 누가 핍박하리요.
+
+索(찾을 색) 居(살 거) 閑(한가 한) 處(곳 처)
+
+퇴직하여 한가한 곳에서 세상을 보냈다.
+
+沈(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
+
+세상에 나와서 교제하는 데도 언행에 침착해야 한다.
+
+46
+
+求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
+
+예를 찾아 의논하고 고인을 찾아 토론한다.
+
+散(흩을 산) 慮(생각 려) 逍(거닐 소) 遙(멀 요)
+
+세상일을 잊어버리고 자연 속에서 한가하게 즐긴다.
+
+欣(기쁠 흔) 奏(아뢸 주) 累(여러 루) 遣(보낼 견)
+
+기쁨은 아뢰고 더러움은 보내니.
+
+瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
+
+심중의 슬픈 것은 없어지고 즐거움만 부른 듯이 오게 된다.
+
+47
+
+渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
+
+개천의 연꽃도 아름다우니 향기를 잡아볼 만하다.
+
+園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
+
+동산의 풀은 땅속 양분으로 가지가 뻗고 크게 자란다.
+
+枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
+
+비파나무는 늦은 겨울에도 그 빛은 푸르다.
+
+梧(오동 오) 桐(오동 동) 早(이를 조) 凋(시들 조)
+
+오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3Mj
-YwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0
-LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbMTQ0MTc5ODU3NSw2MjAwMjg2NTUsLTE1Nj
+Q2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1
+LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMj
+QwMjc4NDQwXX0=
 -->
