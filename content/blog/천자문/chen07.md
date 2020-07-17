@@ -34,10 +34,8 @@ draft: false
 73曰말할 왈    諸(모두 제)  모두 제잘났다 왈왈거리고
 74月달 월     猶(같을 유)   달은 유유히 뜬다
 ```
-043 外受傅訓 
-         入奉母儀  외수부훈 입봉모의
-044 諸姑伯叔 
-        猶子比兒  제고백숙 유자비아
+043 外受傅訓 入奉母儀  외수부훈 입봉모의
+044 諸姑伯叔 猶子比兒  제고백숙 유자비아
 
 ```js
 21     0
@@ -55,6 +53,11 @@ draft: false
 猶(같을 유) 子(아들 자) 比(견줄 비) 兒(아이 아)
 猶자는 犬(개 견)자와 酋(묵은 술 추)자가 결합
 兒자는 儿(어진사람 인)자와 臼(절구 구)자가 결합
+```
+```js
+75木나무 목
+76欠하품 흠
+77止그칠 지
 ```
 045 孔懷兄弟 同氣連枝 046 交友投分 切磨箴規 
 
@@ -83,9 +86,9 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1Nz
-E3MjE2NDcsLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYw
-NCwtMTc3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC
-0xMTU3ODcwMzc1LC02Nzk2Njg1MywzNzk4MjYwNCwtMTUwMTI2
-MzU3Miw4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
+eyJoaXN0b3J5IjpbNTk2Njg2NDEzLDExNjE1Njg3NzQsLTEzOT
+A3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4
+MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMT
+E5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMzc5ODI2
+MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0LDk3NjQ0NjA1OV19
 -->
