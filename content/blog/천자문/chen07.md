@@ -47,6 +47,7 @@ draft: false
 義자는 羊(양 양)자와 我(나 아)자가 결합 (창과)
 
 諸(모두 제) 姑(시어미 고) 伯(맏 백) 叔(아재비 숙)
+者자는 耂(늙을 노)자와 白(흰 백)자가 결합
 
 猶(같을 유) 子(아들 자) 比(견줄 비) 兒(아이 아)
 
@@ -78,7 +79,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzkzOTk1MSwtNzg0NzAzMTgxLDY3OD
+eyJoaXN0b3J5IjpbLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3OD
 cxMTYwNCwtMTc3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcw
 NzMzLC0xMTU3ODcwMzc1LC02Nzk2Njg1MywzNzk4MjYwNCwtMT
 UwMTI2MzU3Miw4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
