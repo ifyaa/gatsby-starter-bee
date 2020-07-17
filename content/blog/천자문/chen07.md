@@ -28,12 +28,13 @@ draft: false
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
 
 043 外受傅訓 入奉母儀 044 諸姑伯叔 猶子比兒 
+
 045 孔懷兄弟 同氣連枝 046 交友投分 切磨箴規 
 047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 ```js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5NDk2OTI3LC02Nzk2Njg1MywzNzk4Mj
+eyJoaXN0b3J5IjpbNjgwNzgyMjU3LC02Nzk2Njg1MywzNzk4Mj
 YwNCwtMTUwMTI2MzU3Miw4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
 
 -->
