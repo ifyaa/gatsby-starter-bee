@@ -31,8 +31,8 @@ draft: false
 칠월칠석은 없다 날도 말도 달도 없다
 71无없을 무   外(밖 외)     바깥에 아무것도 없어도
 72日날 일     入(들 입)    날밝으면 들어오고
-73曰말할 왈    諸(모두 제)  모두 제잘났다 왈왈거리는
-74月달 월     猶(같을 유)   같은 사람끼리 달마다 모인다
+73曰말할 왈    諸(모두 제)  모두 제잘났다
+74月달 월     猶(같을 유)   달마
 ```
 043 外受傅訓 入奉母儀  외수부훈 입봉모의
 044 諸姑伯叔 猶子比兒  제고백숙 유자비아
@@ -91,7 +91,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI2MDgzNCwxMTYxNTY4Nzc0LC0xMz
+eyJoaXN0b3J5IjpbMjA1MDI5MzE1NywxMTYxNTY4Nzc0LC0xMz
 kwNzc5MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMx
 ODEsNjc4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLT
 ExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgy
