@@ -29,8 +29,8 @@ draft: false
 30口입 구
 ```
 
-013 吊民伐罪 周發殷湯 
-014 坐朝問道 垂拱平章 
+013 吊民伐罪 周發殷湯 조민벌죄 주발은탕
+014 坐朝問道 垂拱平章 주조문도 수공평장
 ```js
 弔(슬퍼할 조) 民(백성 민) 伐(칠 벌) 罪(허물 죄)
 罪자는 网(그물 망)자와 非(아닐 비)자가 결합
@@ -88,6 +88,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUxOTQzMjMsLTIzMjA0NDM4OSwtMT
-A1MjY1OTkwNyw4NzE2MTYyMTUsMjQ0NzQ3MDg1XX0=
+eyJoaXN0b3J5IjpbMTk2NjI0OTA5LC0xMjg1MTk0MzIzLC0yMz
+IwNDQzODksLTEwNTI2NTk5MDcsODcxNjE2MjE1LDI0NDc0NzA4
+NV19
 -->
