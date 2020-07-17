@@ -28,7 +28,8 @@ draft: false
 
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
 
-043 外受傅訓 入奉母儀 044 諸姑伯叔 猶子比兒 
+043 外受傅訓 入奉母儀 
+044 諸姑伯叔 猶子比兒 
 
 ```js
 21     0
@@ -68,7 +69,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODA1MjExOSwtMTE1Nzg3MDM3NSwtNj
-c5NjY4NTMsMzc5ODI2MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0
-LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbNzY4NTcwNTAxLC0xMTU3ODcwMzc1LC02Nz
+k2Njg1MywzNzk4MjYwNCwtMTUwMTI2MzU3Miw4OTUxNTg0NTQs
+OTc2NDQ2MDU5XX0=
 -->
