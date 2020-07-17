@@ -23,8 +23,6 @@ draft: false
 80毋말 무
 ```
 
-
-
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
 
 043 外受傅訓 入奉母儀 044 諸姑伯叔 猶子比兒 
@@ -67,7 +65,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OT
-gyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTld
-fQ==
+eyJoaXN0b3J5IjpbLTIxMjQ1Nzg4MTksLTExNTc4NzAzNzUsLT
+Y3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1
+NCw5NzY0NDYwNTldfQ==
 -->
