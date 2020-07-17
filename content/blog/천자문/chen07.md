@@ -44,7 +44,7 @@ draft: false
 訓자는 言(말씀 언)자와 川(내 천)자가 결합한 모습
 
 入(들 입) 奉(받들 봉) 母(어미 모) 儀(거동 의)
-義자는 羊(양 양)자와 我(나 아)자가 결합
+義자는 羊(양 양)자와 我(나 아)자가 결합 (창과)
 
 諸(모두 제) 姑(시어미 고) 伯(맏 백) 叔(아재비 숙)
 
@@ -78,8 +78,8 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDcwMzE4MSw2Nzg3MTE2MDQsLTE3Nz
-M0MDM3MTIsLTQ0Nzk2NDcwMiwtMTE5NjE3MDczMywtMTE1Nzg3
-MDM3NSwtNjc5NjY4NTMsMzc5ODI2MDQsLTE1MDEyNjM1NzIsOD
-k1MTU4NDU0LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbMjA2MzkzOTk1MSwtNzg0NzAzMTgxLDY3OD
+cxMTYwNCwtMTc3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcw
+NzMzLC0xMTU3ODcwMzc1LC02Nzk2Njg1MywzNzk4MjYwNCwtMT
+UwMTI2MzU3Miw4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
 -->
