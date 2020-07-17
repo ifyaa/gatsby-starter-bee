@@ -30,11 +30,63 @@ draft: false
      097 陳根委翳 落葉飄搖 098 游鵾獨運 凌摩絳霄 
 099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
+48
 
+陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
+
+가을이 오면 오동뿐 아니라 고목의 뿌리는 시들어 마른다.
+
+落(떨어질 락) 葉(잎사귀 엽) 飄(나부낄 표) 汞(나부낄 요)
+
+가을이 오면 낙엽이 펄펄 날리며 떨어진다.
+
+游(헤엄칠 유) 噔(곤새 곤) 獨(홀로 독) 運(운전 운)
+
+곤새가 자유로이 홀로 날개를 펴고 運回하고 있다.
+
+凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
+
+적색의 大空을 업신여기는 듯이 선회하고 있다.
+
+49
+
+耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
+
+하나라의 왕총은 독서를 즐겨 서점에 가서 탐독하였다.
+
+寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
+
+왕총이 한번 읽으면 잊지 아니하여 글을 주머니나 상자에 둠과 같다고 하였다.
+
+易(쉬울 이/바꿀 역) 淙(가벼울 유) 攸(바 유) 畏(두려워할 외)
+
+매사를 소홀히 하고 경솔함은 군자가 진실로 두려워하는 바이다.
+
+屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
+
+담장에도 귀가 있다는 말과 같이 경솔히 말하는 것을 조심하라.
+
+50
+
+具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
+
+반찬을 갖추고 밥을 먹으니
+
+適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
+
+훌륭한 음식이 아니라도 입에 맞으면 배를 채운다.
+
+飽(배부를 포) 槤(배부를 어) 烹(삶을 팽) 宰(재상 재)
+
+배부를 때에는 아무리 좋은 음식이라도 그 맛을 모른다.
+
+饑(주릴 기) 厭(싫을 염) 糟(재강 조) 糠(겨 강)
+
+반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0Nz
-k4MDAzMSwtMjE4MTkyNTgyLDUzNzM2NTE0MSwtMTExODMxNTMy
-MiwzMDQ2OTgzOTcsLTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNT
-k4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbMTEyNDQzMDc0MSwtMTk3MjkzMTYyNywxOT
+cxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQx
+LC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgzNiwtNT
+kxNTUzNjc5LC01OTg5ODUwMDFdfQ==
 -->
