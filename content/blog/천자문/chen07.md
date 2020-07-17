@@ -41,6 +41,8 @@ draft: false
 外(밖 외) 受(받을 수) 傅(스승 부) 訓(가르칠 훈)
 外자는 夕(저녁 석)자와 卜(점 복)자가 결합
 受자는 爫(손톱 조)자와 冖(덮을 멱)자, 又(또 우)자가 결합한 모습
+訓자는 言(말씀 언)자와 川(내 천)자가 결합한 모습
+
 入(들 입) 奉(받들 봉) 母(어미 모) 儀(거동 의)
 
 諸(모두 제) 姑(시어미 고) 伯(맏 백) 叔(아재비 숙)
@@ -75,7 +77,8 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMT
-E5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMzc5ODI2
-MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbNjc4NzExNjA0LC0xNzczNDAzNzEyLC00ND
+c5NjQ3MDIsLTExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2
+ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5Nz
+Y0NDYwNTldfQ==
 -->
