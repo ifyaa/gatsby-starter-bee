@@ -75,7 +75,7 @@ draft: false
 ```js
 78歹부서진 뼈 알  仁(어질 인)造(지을 조)
 79殳몽둥이 수    節(마디 절)
-80毋말 무
+80毋말 무        顚(엎드러질 전)
 ```
 047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 
 ```js
@@ -91,9 +91,10 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjQ1Mjk4LDExNjE1Njg3NzQsLTEzOT
-A3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4
-MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMT
-E5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMzc5ODI2
-MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0LDk3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbLTQxNDgzNDk2OSwxMTYxNTY4Nzc0LC0xMz
+kwNzc5MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMx
+ODEsNjc4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLT
+ExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgy
+NjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ
+==
 -->
