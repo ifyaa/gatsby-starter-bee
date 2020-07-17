@@ -55,9 +55,9 @@ draft: false
 兒자는 儿(어진사람 인)자와 臼(절구 구)자가 결합
 ```
 ```js
-75木나무 목
-76欠하품 흠
-77止그칠 지
+75木나무 목 孔(구멍 공)同(한가지 동)
+76欠하품 흠 交(사귈 교)
+77止그칠 지 切(끊을 절/모두 체)
 ```
 045 孔懷兄弟 同氣連枝 046 交友投分 切磨箴規 
 
@@ -71,6 +71,11 @@ draft: false
 벗을 사귈 때에는 서로가 분에 맞는 사람끼리 사귀어야 한다.
 切(끊을 절/모두 체) 磨(갈 마) 箴(경계 잠) 規(법 규)
 열심히 닦고 배워서 사람으로서의 도리를 지켜야 한다.
+```
+```js
+78歹부서진 뼈 알  仁(어질 인)造(지을 조)
+79殳몽둥이 수    節(마디 절)
+80毋말 무
 ```
 047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 
 ```js
@@ -86,7 +91,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5OTY2MDE4LDExNjE1Njg3NzQsLTEzOT
+eyJoaXN0b3J5IjpbMjQwMjQ1Mjk4LDExNjE1Njg3NzQsLTEzOT
 A3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4
 MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMT
 E5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMzc5ODI2
