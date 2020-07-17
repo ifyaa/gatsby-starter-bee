@@ -27,9 +27,14 @@ draft: false
 ```
 
 ![](https://i.ibb.co/SsY0kw8/2020-07-01-3-47-08.png)
-
-043 外受傅訓 入奉母儀 
-044 諸姑伯叔 猶子比兒 
+```js
+71无없을 무
+72日날 일
+73曰말할 왈
+74月달 월
+```
+043 外受傅訓 入奉母儀  외수부훈 입봉모의
+044 諸姑伯叔 猶子比兒  제고백숙 유자비아
 
 ```js
 21     0
@@ -69,7 +74,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTYxNzA3MzMsLTExNTc4NzAzNzUsLT
-Y3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1
-NCw5NzY0NDYwNTldfQ==
+eyJoaXN0b3J5IjpbLTE2OTY1MjIwNTksLTExOTYxNzA3MzMsLT
+ExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYz
+NTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ==
 -->
