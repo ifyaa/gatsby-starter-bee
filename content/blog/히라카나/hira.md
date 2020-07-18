@@ -77,19 +77,25 @@ draft: false
 ![](https://i.ibb.co/bmGDk3P/aaa.png =250x)
 
 
-あつい  なつが すぎて、 あきに なりました。ありは にち 
+あつい  なつが すぎて、 あきに なりました。ありは 
 まい日 
-
+はたらいています。 
 「ああー、気もちいい 
+きりぎりすはありの 
+
+にち 
+
+
+
 
 すれて 
-はたらいています。 
-きりぎりすはありの 
+
+
 たのしく 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTgxNDQ1Myw2MDYzMjMwNjIsMTcxOD
-A2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIs
-ODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
+eyJoaXN0b3J5IjpbLTEwMjE0ODg3MzEsNjA2MzIzMDYyLDE3MT
+gwNjkyMzQsNjQ3Njc1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEy
+LDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
 -->
