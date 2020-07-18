@@ -77,9 +77,9 @@ draft: false
 ![](https://i.ibb.co/bmGDk3P/aaa.png =250x)
 
 
-あつい  なつが すぎて、 あきに なりました。
-ありは にち 
+あつい  なつが すぎて、 あきに なりました。ありは にち 
 まい日 
+
 「ああー、気もちいい 
 
 すれて 
@@ -89,7 +89,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTIzODYwOSw2MDYzMjMwNjIsMTcxOD
+eyJoaXN0b3J5IjpbLTkxMTgxNDQ1Myw2MDYzMjMwNjIsMTcxOD
 A2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIs
 ODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
 -->
