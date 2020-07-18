@@ -35,7 +35,7 @@ draft: false
 24 十 열 십     垂(드리울 수) 열개의 수건이 있다
 ```
 013 弔民伐罪 周發殷湯 조민벌죄 주발은탕
-014 坐朝問道 垂拱平章 주조문도 수공평장
+014 坐朝問道 垂拱平章 좌조문도 수공평장
 ```js
 弔(슬퍼할 조) 民(백성 민) 伐(칠 벌) 罪(허물 죄)
 罪자는 网(그물 망)자와 非(아닐 비)자가 결합
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDEyMjMyNywzMjgxNjgwMDMsMTk2Nj
+eyJoaXN0b3J5IjpbMTI2NTYyMDkzNSwzMjgxNjgwMDMsMTk2Nj
 I0OTA5LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5
 MDcsODcxNjE2MjE1LDI0NDc0NzA4NV19
 -->
