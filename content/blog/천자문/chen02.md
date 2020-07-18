@@ -29,7 +29,7 @@ draft: false
 ```
 
 ```js
-21 匕 비수 비   弔(슬퍼할 조) 비수로 머리를 ㄷ 슬프다
+21 匕 비수 비   弔(슬퍼할 조) 비수로 머리를 깍으니 안 슬프다
 22 匚 상자 방   周(두루 주)  상자에는 주로 비수가 들어있다
 23 匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자리에있다
 24 十 열 십     垂(드리울 수) 열개의 발이 드리워졌다
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTgzNzA3NSwzMjgxNjgwMDMsMTk2Nj
-I0OTA5LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5
-MDcsODcxNjE2MjE1LDI0NDc0NzA4NV19
+eyJoaXN0b3J5IjpbNDYwNzc3ODksMzI4MTY4MDAzLDE5NjYyND
+kwOSwtMTI4NTE5NDMyMywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3
+LDg3MTYxNjIxNSwyNDQ3NDcwODVdfQ==
 -->
