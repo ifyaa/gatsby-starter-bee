@@ -38,7 +38,6 @@ draft: false
 044 諸姑伯叔 猶子比兒  제고백숙 유자비아
 
 ```js
-21     0
 外(밖 외) 受(받을 수) 傅(스승 부) 訓(가르칠 훈)
 外자는 夕(저녁 석)자와 卜(점 복)자가 결합
 受자는 爫(손톱 조)자와 冖(덮을 멱)자, 又(또 우)자가 결합한 모습
@@ -91,10 +90,10 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTMyNTEwNiwxMTYxNTY4Nzc0LC0xMz
-kwNzc5MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMx
-ODEsNjc4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLT
-ExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgy
-NjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ
-==
+eyJoaXN0b3J5IjpbLTExNTUzNDQ5MDksMTQzOTMyNTEwNiwxMT
+YxNTY4Nzc0LC0xMzkwNzc5MzU4LDU3MTcyMTY0NywtODYxNjI0
+NjY4LC03ODQ3MDMxODEsNjc4NzExNjA0LC0xNzczNDAzNzEyLC
+00NDc5NjQ3MDIsLTExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3
+OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NC
+w5NzY0NDYwNTldfQ==
 -->
