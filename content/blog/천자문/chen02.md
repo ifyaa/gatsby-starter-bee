@@ -14,18 +14,18 @@ draft: false
 
  匕 匚 匸 十 卜 卩 厂 厶 又 口 
  ```js
-21匕비수 비
-22匚상자 방
-23匸감출 혜
-24十열 십
+21 匕 비수 비
+22 匚 상자 방
+23 匸 감출 혜
+24 十 열 십
 
-25卜점 복
-26卩무릎 꿇을 절
-27厂기슭 한
+25 卜 점 복
+26 卩 무릎 꿇을 절
+27 厂 기슭 한
 
-28厶사사로울 사
-29又또 우
-30口입 구
+28 厶 사사로울 사
+29 又 또 우
+30 口 입 구
 ```
 
 013 吊民伐罪 周發殷湯 조민벌죄 주발은탕
@@ -87,7 +87,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NzcxNjc5LDE5NjYyNDkwOSwtMTI4NT
-E5NDMyMywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3LDg3MTYxNjIx
-NSwyNDQ3NDcwODVdfQ==
+eyJoaXN0b3J5IjpbLTExOTgwNTA0NSwxOTY2MjQ5MDksLTEyOD
+UxOTQzMjMsLTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4NzE2MTYy
+MTUsMjQ0NzQ3MDg1XX0=
 -->
