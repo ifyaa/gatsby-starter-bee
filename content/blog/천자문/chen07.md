@@ -71,6 +71,7 @@ draft: false
 同(한가지 동) 氣(기운 기) 連(이어질 연) 枝(가지 지)
 同자는 凡(무릇 범)자와 口(입 구)자가 결합
 氣자는 气(기운 기)자와 米(쌀 미)자가 결합
+連자는 辶(쉬엄쉬엄 갈 착)자와 車(수레 거)자가 결합한 모습
 
 交(사귈 교) 友(벗 우) 投(던질 투) 分(나눌 분)
 벗을 사귈 때에는 서로가 분에 맞는 사람끼리 사귀어야 한다.
@@ -96,7 +97,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODkwMzA2OCwtMzI2ODk4NTYwLC01MD
+eyJoaXN0b3J5IjpbLTg3MzU0MTE2MCwtMzI2ODk4NTYwLC01MD
 AwODQ0MTIsMTQzOTMyNTEwNiwxMTYxNTY4Nzc0LC0xMzkwNzc5
 MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMxODEsNj
 c4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLTExOTYx
