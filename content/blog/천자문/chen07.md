@@ -55,8 +55,8 @@ draft: false
 兒자는 儿(어진사람 인)자와 臼(절구 구)자가 결합
 ```
 ```js
-75木나무 목 孔(구멍 공)同(한가지 동)
-76欠하품 흠 交(사귈 교)
+75木나무 목 孔(구멍 공)同(한가지 동)나무 한가지에 난 구멍
+76欠하품 흠 交(사귈 교) 하품은 사귀기
 77止그칠 지 切(끊을 절/모두 체)
 ```
 045 孔懷兄弟 同氣連枝 
@@ -92,10 +92,10 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDA4NDQxMiwxNDM5MzI1MTA2LDExNj
-E1Njg3NzQsLTEzOTA3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2
-NjgsLTc4NDcwMzE4MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLT
-Q0Nzk2NDcwMiwtMTE5NjE3MDczMywtMTE1Nzg3MDM3NSwtNjc5
-NjY4NTMsMzc5ODI2MDQsLTE1MDEyNjM1NzIsODk1MTU4NDU0LD
-k3NjQ0NjA1OV19
+eyJoaXN0b3J5IjpbLTM5NjUyNjEwNywtNTAwMDg0NDEyLDE0Mz
+kzMjUxMDYsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2
+NDcsLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMT
+c3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3
+ODcwMzc1LC02Nzk2Njg1MywzNzk4MjYwNCwtMTUwMTI2MzU3Mi
+w4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
 -->
