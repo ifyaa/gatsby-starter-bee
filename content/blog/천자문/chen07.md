@@ -74,9 +74,9 @@ draft: false
 連자는 辶(쉬엄쉬엄 갈 착)자와 車(수레 거)자가 결합한 모습
 
 交(사귈 교) 友(벗 우) 投(던질 투) 分(나눌 분)
-벗을 사귈 때에는 서로가 분에 맞는 사람끼리 사귀어야 한다.
+
 切(끊을 절/모두 체) 磨(갈 마) 箴(경계 잠) 規(법 규)
-열심히 닦고 배워서 사람으로서의 도리를 지켜야 한다.
+磨자는 石(돌 석)자와 麻(삼 마)자가 결합
 ```
 ```js
 78歹부서진 뼈 알  仁(어질 인)造(지을 조)
@@ -97,10 +97,11 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzU0MTE2MCwtMzI2ODk4NTYwLC01MD
-AwODQ0MTIsMTQzOTMyNTEwNiwxMTYxNTY4Nzc0LC0xMzkwNzc5
-MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMxODEsNj
-c4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLTExOTYx
-NzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgyNjA0LC
-0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ==
+eyJoaXN0b3J5IjpbLTExODc0MjY5ODcsLTg3MzU0MTE2MCwtMz
+I2ODk4NTYwLC01MDAwODQ0MTIsMTQzOTMyNTEwNiwxMTYxNTY4
+Nzc0LC0xMzkwNzc5MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC
+03ODQ3MDMxODEsNjc4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5
+NjQ3MDIsLTExOTYxNzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2OD
+UzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0
+NDYwNTldfQ==
 -->
