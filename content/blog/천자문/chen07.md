@@ -56,7 +56,7 @@ draft: false
 ```
 ```js
 75木나무 목 孔(구멍 공)同(한가지 동)나무 한가지에 난 구멍
-76欠하품 흠 交(사귈 교) 하품은 사귀는ㄱ
+76欠하품 흠 交(사귈 교) 하품은 교실에서 사귀는것
 77止그칠 지 切(끊을 절/모두 체) 절에서 그친다
 ```
 045 孔懷兄弟 同氣連枝 
@@ -65,7 +65,8 @@ draft: false
 ```js
 22
 孔(구멍 공) 懷(품을 회) 兄(맏 형) 弟(아우 제)
-형제는 서로 사랑하여 의좋게 지내야 한다.
+孔자는 子(아들 자)자와 乚(숨을 은)자가 결합
+
 同(한가지 동) 氣(기운 기) 連(이어질 연) 枝(가지 지)
 형제는 부모의 기운을 같이 받았으니 나무의 가지와 같다.
 交(사귈 교) 友(벗 우) 投(던질 투) 分(나눌 분)
@@ -92,7 +93,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzY1NzI4OCwtNTAwMDg0NDEyLDE0Mz
+eyJoaXN0b3J5IjpbLTE3ODc4Mjc5NCwtNTAwMDg0NDEyLDE0Mz
 kzMjUxMDYsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2
 NDcsLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMT
 c3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3
