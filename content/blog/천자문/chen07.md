@@ -57,7 +57,7 @@ draft: false
 ```js
 75木나무 목 孔(구멍 공)同(한가지 동) 나무에 동그란 공기구멍
 76欠하품 흠 交(사귈 교)           교만해서 하품하고
-77止그칠 지 切(끊을 절/모두 체)     저절로 그친다
+77止그칠 지 切(끊을 절/모두 체)     절에서 그친다
 ```
 045 孔懷兄弟 同氣連枝 
 046 交友投分 切磨箴規 
@@ -97,11 +97,11 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIyMTYxMiwtMTE4NzQyNjk4NywtOD
-czNTQxMTYwLC0zMjY4OTg1NjAsLTUwMDA4NDQxMiwxNDM5MzI1
-MTA2LDExNjE1Njg3NzQsLTEzOTA3NzkzNTgsNTcxNzIxNjQ3LC
-04NjE2MjQ2NjgsLTc4NDcwMzE4MSw2Nzg3MTE2MDQsLTE3NzM0
-MDM3MTIsLTQ0Nzk2NDcwMiwtMTE5NjE3MDczMywtMTE1Nzg3MD
-M3NSwtNjc5NjY4NTMsMzc5ODI2MDQsLTE1MDEyNjM1NzIsODk1
-MTU4NDU0XX0=
+eyJoaXN0b3J5IjpbLTE5NTcyMTMxMDAsLTExODc0MjY5ODcsLT
+g3MzU0MTE2MCwtMzI2ODk4NTYwLC01MDAwODQ0MTIsMTQzOTMy
+NTEwNiwxMTYxNTY4Nzc0LC0xMzkwNzc5MzU4LDU3MTcyMTY0Ny
+wtODYxNjI0NjY4LC03ODQ3MDMxODEsNjc4NzExNjA0LC0xNzcz
+NDAzNzEyLC00NDc5NjQ3MDIsLTExOTYxNzA3MzMsLTExNTc4Nz
+AzNzUsLTY3OTY2ODUzLDM3OTgyNjA0LC0xNTAxMjYzNTcyLDg5
+NTE1ODQ1NF19
 -->
