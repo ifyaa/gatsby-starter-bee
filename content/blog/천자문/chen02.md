@@ -77,8 +77,8 @@ draft: false
 ```
 ```js
 28 厶 사사로울 사   鳴(울 명) 白(흰 백)
-29 又 또 우
-30 口 입 구
+29 又 또 우       化(될 화)
+30 口 입 구       賴(힘입을 뢰)
 ```
 017 鳴鳳在樹 白駒食場 
 018 化被草木 賴及萬方 
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjIzMDU3MiwxOTY2MjQ5MDksLTEyOD
-UxOTQzMjMsLTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4NzE2MTYy
-MTUsMjQ0NzQ3MDg1XX0=
+eyJoaXN0b3J5IjpbMzI4MTY4MDAzLDE5NjYyNDkwOSwtMTI4NT
+E5NDMyMywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3LDg3MTYxNjIx
+NSwyNDQ3NDcwODVdfQ==
 -->
