@@ -29,12 +29,12 @@ draft: false
 ```
 
 ```js
-21 匕 비수 비   弔(슬퍼할 조) 비수를 써야하니 슬프다
+21 匕 비수 비   弔(슬퍼할 조) 비수로 머리를 ㄷ 슬프다
 22 匚 상자 방   周(두루 주)  상자에는 주로 비수가 들어있다
 23 匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자리에있다
 24 十 열 십     垂(드리울 수) 열개의 발이 드리워졌다
 ```
-013 吊民伐罪 周發殷湯 조민벌죄 주발은탕
+013 弔民伐罪 周發殷湯 조민벌죄 주발은탕
 014 坐朝問道 垂拱平章 주조문도 수공평장
 ```js
 弔(슬퍼할 조) 民(백성 민) 伐(칠 벌) 罪(허물 죄)
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2Mjc0NzMyLDMyODE2ODAwMywxOTY2Mj
-Q5MDksLTEyODUxOTQzMjMsLTIzMjA0NDM4OSwtMTA1MjY1OTkw
-Nyw4NzE2MTYyMTUsMjQ0NzQ3MDg1XX0=
+eyJoaXN0b3J5IjpbMTczMTgzNzA3NSwzMjgxNjgwMDMsMTk2Nj
+I0OTA5LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5
+MDcsODcxNjE2MjE1LDI0NDc0NzA4NV19
 -->
