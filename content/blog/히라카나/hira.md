@@ -64,15 +64,13 @@ draft: false
 
 
 ![](https://i.ibb.co/XCjXJh3/ttt.png =250x)
-
-
-  
 ```js
-れつから おくれて たべものを おもそうに はこんでいる 
-
-×「e び（ 
+れつから 
+おくれて たべものを おもそうに 
+はこんでいる 
 ありがいます。 
-「きみ。ここであそばないか？に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
+「きみ。ここで あそばないか？
+に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
 ```
 ![](https://i.ibb.co/bmGDk3P/aaa.png =250x)
 
@@ -88,7 +86,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTUzOTMyMiw2MDYzMjMwNjIsMTcxOD
+eyJoaXN0b3J5IjpbLTk1OTQ4MzE5Nyw2MDYzMjMwNjIsMTcxOD
 A2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIs
 ODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
 -->
