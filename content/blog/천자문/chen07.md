@@ -69,7 +69,9 @@ draft: false
 懷자는 心(마음 심)자와 褱(품을 회)자가 결합한 모습이다. 褱자는 衣(옷 의)자에 目(눈 목)자를 결합
 
 同(한가지 동) 氣(기운 기) 連(이어질 연) 枝(가지 지)
-형제는 부모의 기운을 같이 받았으니 나무의 가지와 같다.
+同자는 凡(무릇 범)자와 口(입 구)자가 결합
+氣자는 气(기운 기)자와 米(쌀 미)자가 결합
+
 交(사귈 교) 友(벗 우) 投(던질 투) 分(나눌 분)
 벗을 사귈 때에는 서로가 분에 맞는 사람끼리 사귀어야 한다.
 切(끊을 절/모두 체) 磨(갈 마) 箴(경계 잠) 規(법 규)
@@ -94,10 +96,10 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjg5ODU2MCwtNTAwMDg0NDEyLDE0Mz
-kzMjUxMDYsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2
-NDcsLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMT
-c3MzQwMzcxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3
-ODcwMzc1LC02Nzk2Njg1MywzNzk4MjYwNCwtMTUwMTI2MzU3Mi
-w4OTUxNTg0NTQsOTc2NDQ2MDU5XX0=
+eyJoaXN0b3J5IjpbLTIzODkwMzA2OCwtMzI2ODk4NTYwLC01MD
+AwODQ0MTIsMTQzOTMyNTEwNiwxMTYxNTY4Nzc0LC0xMzkwNzc5
+MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMxODEsNj
+c4NzExNjA0LC0xNzczNDAzNzEyLC00NDc5NjQ3MDIsLTExOTYx
+NzA3MzMsLTExNTc4NzAzNzUsLTY3OTY2ODUzLDM3OTgyNjA0LC
+0xNTAxMjYzNTcyLDg5NTE1ODQ1NCw5NzY0NDYwNTldfQ==
 -->
