@@ -55,9 +55,9 @@ draft: false
 兒자는 儿(어진사람 인)자와 臼(절구 구)자가 결합
 ```
 ```js
-75木나무 목 孔(구멍 공)同(한가지 동) 나무 한가지에 난 구멍
-76欠하품 흠 交(사귈 교)           하품은 교실에서 사귀는것
-77止그칠 지 切(끊을 절/모두 체)     절에서 그친다
+75木나무 목 孔(구멍 공)同(한가지 동) 나무에 동그란 공기구멍
+76欠하품 흠 交(사귈 교)           교만해서 하품하고
+77止그칠 지 切(끊을 절/모두 체)     저절로 그친다
 ```
 045 孔懷兄弟 同氣連枝 
 046 交友投分 切磨箴規 
@@ -97,7 +97,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTI0MjE3MSwtMTE4NzQyNjk4NywtOD
+eyJoaXN0b3J5IjpbLTE5MjIyMTYxMiwtMTE4NzQyNjk4NywtOD
 czNTQxMTYwLC0zMjY4OTg1NjAsLTUwMDA4NDQxMiwxNDM5MzI1
 MTA2LDExNjE1Njg3NzQsLTEzOTA3NzkzNTgsNTcxNzIxNjQ3LC
 04NjE2MjQ2NjgsLTc4NDcwMzE4MSw2Nzg3MTE2MDQsLTE3NzM0
