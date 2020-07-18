@@ -70,15 +70,18 @@ draft: false
 はこんでいる 
 ありがいます。 
 「きみ。ここで あそばないか？
-に 「ありがとう。でもまだしごとが のこっているから。」 ありはあせびっしょりです。 
+ありがとう。でも まだ
+しごとが のこっているから。
+ありはあせびっしょりです。 
 ```
 ![](https://i.ibb.co/bmGDk3P/aaa.png =250x)
 
 
-あつい 
-なつが すぎて、 あきに なりました。ありは にち 
+あつい  なつが すぎて、 あきに なりました。
+ありは にち 
 まい日 
 「ああー、気もちいい 
+
 すれて 
 はたらいています。 
 きりぎりすはありの 
@@ -86,7 +89,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTQ4MzE5Nyw2MDYzMjMwNjIsMTcxOD
+eyJoaXN0b3J5IjpbLTczNTIzODYwOSw2MDYzMjMwNjIsMTcxOD
 A2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIs
 ODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
 -->
