@@ -83,19 +83,10 @@ draft: false
 「ああー、気もちいい 
 きりぎりすはありの 
 
-にち 
-
-
-
-
-すれて 
-
-
-たのしく 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE0ODg3MzEsNjA2MzIzMDYyLDE3MT
-gwNjkyMzQsNjQ3Njc1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEy
-LDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
+eyJoaXN0b3J5IjpbMTE0MTE0MTUzLDYwNjMyMzA2MiwxNzE4MD
+Y5MjM0LDY0NzY3NTI0MSwxMTE0ODA1MDQxLDUwMDgwNDExMiw4
+MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4XX0=
 -->
