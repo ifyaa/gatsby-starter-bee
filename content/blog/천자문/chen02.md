@@ -31,7 +31,7 @@ draft: false
 ```js
 21 匕 비수 비   弔(슬퍼할 조) 비수로 조심해서 머리를 깍으니 안 슬프다
 22 匚 상자 방   周(두루 주)  상자에는 주로 비수가 들어있다
-23 匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자리에있다
+23 匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자석에있다
 24 十 열 십     垂(드리울 수) 열개의 수건이 있다
 ```
 013 弔民伐罪 周發殷湯 조민벌죄 주발은탕
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTYyMDkzNSwzMjgxNjgwMDMsMTk2Nj
+eyJoaXN0b3J5IjpbMTM0NTc0Mzg2MiwzMjgxNjgwMDMsMTk2Nj
 I0OTA5LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5
 MDcsODcxNjE2MjE1LDI0NDc0NzA4NV19
 -->
