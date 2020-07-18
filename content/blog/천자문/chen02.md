@@ -5,7 +5,6 @@ category: '천자문'
 draft: false
 ---
 ## 02  이발소 
-20 이발
 
 비수를 10개 상자에 담아감추고
 
@@ -88,7 +87,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjI0OTA5LC0xMjg1MTk0MzIzLC0yMz
-IwNDQzODksLTEwNTI2NTk5MDcsODcxNjE2MjE1LDI0NDc0NzA4
-NV19
+eyJoaXN0b3J5IjpbNjE1NzcxNjc5LDE5NjYyNDkwOSwtMTI4NT
+E5NDMyMywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3LDg3MTYxNjIx
+NSwyNDQ3NDcwODVdfQ==
 -->
