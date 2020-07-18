@@ -30,9 +30,9 @@ draft: false
 
 ```js
 21 匕 비수 비   弔(슬퍼할 조)
-22 匚 상자 방  周(두루 주)
-23 匸 감출 혜
-24 十 열 십
+22 匚 상자 방   周(두루 주)
+23 匸 감출 혜   坐(앉을 좌)
+24 十 열 십     垂(드리울 수)
 ```
 013 吊民伐罪 周發殷湯 조민벌죄 주발은탕
 014 坐朝問道 垂拱平章 주조문도 수공평장
@@ -51,9 +51,9 @@ draft: false
 垂(드리울 수) 拱(껴안을 공) 平(평평할 평) 章(글월 장)
 ```
 ```js
-25 卜 점 복
-26 卩 무릎 꿇을 절
-27 厂 기슭 한
+25 卜 점 복        愛(사랑 애)臣(신하 신)
+26 卩 무릎 꿇을 절   遐(멀 하)
+27 厂 기슭 한      率(거느릴 솔/비율 률)
 ```
 015 愛育黎首 臣伏戎羌 
 016 遐邇一體 率賓歸王 
@@ -76,7 +76,7 @@ draft: false
 歸자는 阜(언덕 부)자와 止(발 지)자, 帚(비 추)자가 결합
 ```
 ```js
-28 厶 사사로울 사
+28 厶 사사로울 사   鳴(울 명) 白(흰 백)
 29 又 또 우
 30 口 입 구
 ```
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MTUxNzE3LDE5NjYyNDkwOSwtMTI4NT
-E5NDMyMywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3LDg3MTYxNjIx
-NSwyNDQ3NDcwODVdfQ==
+eyJoaXN0b3J5IjpbMTQwNjIzMDU3MiwxOTY2MjQ5MDksLTEyOD
+UxOTQzMjMsLTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4NzE2MTYy
+MTUsMjQ0NzQ3MDg1XX0=
 -->
