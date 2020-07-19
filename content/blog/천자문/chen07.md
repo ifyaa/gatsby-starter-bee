@@ -94,7 +94,7 @@ draft: false
 造(지을 조) 次(버금 차) 弗(아닐 불) 離(떠날 리)
 次자는 二(두 이)자와 欠(하품 흠)자가 결합
 離자는 离(흩어질 리)자와 隹(새 추)자가 결합한 모습이다. 离자는 짐승의 발자국에 덫을 그린 것으로 ‘흩어지다’라는 뜻
-
+##### 禸 **발자국 유**
 
 節(마디 절) 義(옳을 의) 廉(청렴 렴) 退(물러갈 퇴)
 청렴과 절개와 의리와 사양함과 물러감은 늘 지켜야 한다.
@@ -102,11 +102,11 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDQzOTU1OCwxMTQ0Njc5NjM3LC0xND
-M5MzE2MTkyLC05OTU5MzE5ODgsLTExODc0MjY5ODcsLTg3MzU0
-MTE2MCwtMzI2ODk4NTYwLC01MDAwODQ0MTIsMTQzOTMyNTEwNi
-wxMTYxNTY4Nzc0LC0xMzkwNzc5MzU4LDU3MTcyMTY0NywtODYx
-NjI0NjY4LC03ODQ3MDMxODEsNjc4NzExNjA0LC0xNzczNDAzNz
-EyLC00NDc5NjQ3MDIsLTExOTYxNzA3MzMsLTExNTc4NzAzNzUs
-LTY3OTY2ODUzXX0=
+eyJoaXN0b3J5IjpbLTE4MTA2NDgxMTAsMTE0NDY3OTYzNywtMT
+QzOTMxNjE5MiwtOTk1OTMxOTg4LC0xMTg3NDI2OTg3LC04NzM1
+NDExNjAsLTMyNjg5ODU2MCwtNTAwMDg0NDEyLDE0MzkzMjUxMD
+YsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2NDcsLTg2
+MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMTc3MzQwMz
+cxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3ODcwMzc1
+LC02Nzk2Njg1M119
 -->
