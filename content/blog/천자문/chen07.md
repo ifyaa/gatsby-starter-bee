@@ -83,7 +83,8 @@ draft: false
 79殳몽둥이 수    節(마디 절)          절한다
 80毋말 무        顚(엎드러질 전)      직녀앞에는 전부 엎드린다
 ```
-047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 
+047 仁慈隱惻 造次弗離 
+048 節義廉退 顛沛匪虧 
 ```js
 
 23
@@ -103,14 +104,14 @@ draft: false
 退자는 辶(쉬엄쉬엄 갈 착)자와 艮(어긋날 간)자가 결합
 
 顚(엎드러질 전) 沛(자빠질 패) 匪(아닐 비) 虧(이지러질 휴)
-엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
+于자는 亏(어조사 우)자의 약자(略字)로 亏자와 마찬가지로 무언가가 굽은 모습을 표현
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY2MDg1NTQsMTAyMzI4MDM4LC0xOD
-EwNjQ4MTEwLDExNDQ2Nzk2MzcsLTE0MzkzMTYxOTIsLTk5NTkz
-MTk4OCwtMTE4NzQyNjk4NywtODczNTQxMTYwLC0zMjY4OTg1Nj
-AsLTUwMDA4NDQxMiwxNDM5MzI1MTA2LDExNjE1Njg3NzQsLTEz
-OTA3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMz
-E4MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwt
-MTE5NjE3MDczM119
+eyJoaXN0b3J5IjpbMTUwMDk3MTQ1OSwtMTYxNjYwODU1NCwxMD
+IzMjgwMzgsLTE4MTA2NDgxMTAsMTE0NDY3OTYzNywtMTQzOTMx
+NjE5MiwtOTk1OTMxOTg4LC0xMTg3NDI2OTg3LC04NzM1NDExNj
+AsLTMyNjg5ODU2MCwtNTAwMDg0NDEyLDE0MzkzMjUxMDYsMTE2
+MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2NDcsLTg2MTYyND
+Y2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMTc3MzQwMzcxMiwt
+NDQ3OTY0NzAyXX0=
 -->
