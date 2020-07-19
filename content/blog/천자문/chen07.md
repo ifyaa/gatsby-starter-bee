@@ -79,9 +79,9 @@ draft: false
 磨자는 石(돌 석)자와 麻(삼 마)자가 결합
 ```
 ```js
-78歹부서진 뼈 알  仁(어질 인)造(지을 조)
-79殳몽둥이 수    節(마디 절)
-80毋말 무        顚(엎드러질 전)
+78歹부서진 뼈 알  仁(어질 인)造(지을 조) 인조
+79殳몽둥이 수    節(마디 절)          절한다
+80毋말 무        顚(엎드러질 전)      직녀앞에는 전부 엎드린다
 ```
 047 仁慈隱惻 造次弗離 048 節義廉退 顛沛匪虧 
 ```js
@@ -97,11 +97,11 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkzMTYxOTIsLTk5NTkzMTk4OCwtMT
-E4NzQyNjk4NywtODczNTQxMTYwLC0zMjY4OTg1NjAsLTUwMDA4
-NDQxMiwxNDM5MzI1MTA2LDExNjE1Njg3NzQsLTEzOTA3NzkzNT
-gsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4MSw2Nzg3
-MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMTE5NjE3MD
-czMywtMTE1Nzg3MDM3NSwtNjc5NjY4NTMsMzc5ODI2MDQsLTE1
-MDEyNjM1NzJdfQ==
+eyJoaXN0b3J5IjpbMTI2MDE1NDc5NywtMTQzOTMxNjE5MiwtOT
+k1OTMxOTg4LC0xMTg3NDI2OTg3LC04NzM1NDExNjAsLTMyNjg5
+ODU2MCwtNTAwMDg0NDEyLDE0MzkzMjUxMDYsMTE2MTU2ODc3NC
+wtMTM5MDc3OTM1OCw1NzE3MjE2NDcsLTg2MTYyNDY2OCwtNzg0
+NzAzMTgxLDY3ODcxMTYwNCwtMTc3MzQwMzcxMiwtNDQ3OTY0Nz
+AyLC0xMTk2MTcwNzMzLC0xMTU3ODcwMzc1LC02Nzk2Njg1Mywz
+Nzk4MjYwNF19
 -->
