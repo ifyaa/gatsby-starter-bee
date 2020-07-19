@@ -97,16 +97,17 @@ draft: false
 ##### 禸 **발자국 유**
 
 節(마디 절) 義(옳을 의) 廉(청렴 렴) 退(물러갈 퇴)
-청렴과 절개와 의리와 사양함과 물러감은 늘 지켜야 한다.
+節자는 竹(대나무 죽)자와 卽(곧 즉)자가 결합
+
 顚(엎드러질 전) 沛(자빠질 패) 匪(아닐 비) 虧(이지러질 휴)
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA2NDgxMTAsMTE0NDY3OTYzNywtMT
-QzOTMxNjE5MiwtOTk1OTMxOTg4LC0xMTg3NDI2OTg3LC04NzM1
-NDExNjAsLTMyNjg5ODU2MCwtNTAwMDg0NDEyLDE0MzkzMjUxMD
-YsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3MjE2NDcsLTg2
-MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwtMTc3MzQwMz
-cxMiwtNDQ3OTY0NzAyLC0xMTk2MTcwNzMzLC0xMTU3ODcwMzc1
-LC02Nzk2Njg1M119
+eyJoaXN0b3J5IjpbMTAyMzI4MDM4LC0xODEwNjQ4MTEwLDExND
+Q2Nzk2MzcsLTE0MzkzMTYxOTIsLTk5NTkzMTk4OCwtMTE4NzQy
+Njk4NywtODczNTQxMTYwLC0zMjY4OTg1NjAsLTUwMDA4NDQxMi
+wxNDM5MzI1MTA2LDExNjE1Njg3NzQsLTEzOTA3NzkzNTgsNTcx
+NzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4MSw2Nzg3MTE2MD
+QsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMTE5NjE3MDczMywt
+MTE1Nzg3MDM3NV19
 -->
