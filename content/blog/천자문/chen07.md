@@ -99,16 +99,18 @@ draft: false
 節(마디 절) 義(옳을 의) 廉(청렴 렴) 退(물러갈 퇴)
 節자는 竹(대나무 죽)자와 卽(곧 즉)자가 결합
 廉자는 广(집 엄)자와 兼(겸할 겸)자가 결합한 모습이다. 兼자는 손에 벼를 움켜쥐고 있는 모습
+兼자는 두 개의 禾(벼 화)자와 又(또 우)자가 결합한 모습이다. 兼자는 손에 여러 개의 벼를 움켜쥔 모습
+退자는 辶(쉬엄쉬엄 갈 착)자와 艮(어긋날 간)자가 결합
 
 顚(엎드러질 전) 沛(자빠질 패) 匪(아닐 비) 虧(이지러질 휴)
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzODY4ODgsMTAyMzI4MDM4LC0xODEwNj
-Q4MTEwLDExNDQ2Nzk2MzcsLTE0MzkzMTYxOTIsLTk5NTkzMTk4
-OCwtMTE4NzQyNjk4NywtODczNTQxMTYwLC0zMjY4OTg1NjAsLT
-UwMDA4NDQxMiwxNDM5MzI1MTA2LDExNjE1Njg3NzQsLTEzOTA3
-NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMzE4MS
-w2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwtMTE5
-NjE3MDczM119
+eyJoaXN0b3J5IjpbLTE2MTY2MDg1NTQsMTAyMzI4MDM4LC0xOD
+EwNjQ4MTEwLDExNDQ2Nzk2MzcsLTE0MzkzMTYxOTIsLTk5NTkz
+MTk4OCwtMTE4NzQyNjk4NywtODczNTQxMTYwLC0zMjY4OTg1Nj
+AsLTUwMDA4NDQxMiwxNDM5MzI1MTA2LDExNjE1Njg3NzQsLTEz
+OTA3NzkzNTgsNTcxNzIxNjQ3LC04NjE2MjQ2NjgsLTc4NDcwMz
+E4MSw2Nzg3MTE2MDQsLTE3NzM0MDM3MTIsLTQ0Nzk2NDcwMiwt
+MTE5NjE3MDczM119
 -->
