@@ -76,9 +76,9 @@ draft: false
 歸자는 阜(언덕 부)자와 止(발 지)자, 帚(비 추)자가 결합
 ```
 ```js
-28 厶 사사로울 사   鳴(울 명) 白(흰 백)
-29 又 또 우       化(될 화)
-30 口 입 구       賴(힘입을 뢰)
+28 厶 사사로울 사   鳴(울 명) 白(흰 백)흰말이울고
+29 又 또 우       化(될 화) 또화성에 간다고
+30 口 입 구       賴(힘입을 뢰) 문ㅇ
 ```
 017 鳴鳳在樹 白駒食場 
 018 化被草木 賴及萬方 
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc0Mzg2MiwzMjgxNjgwMDMsMTk2Nj
-I0OTA5LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5
-MDcsODcxNjE2MjE1LDI0NDc0NzA4NV19
+eyJoaXN0b3J5IjpbMzU2MDc1MTI4LDEzNDU3NDM4NjIsMzI4MT
+Y4MDAzLDE5NjYyNDkwOSwtMTI4NTE5NDMyMywtMjMyMDQ0Mzg5
+LC0xMDUyNjU5OTA3LDg3MTYxNjIxNSwyNDQ3NDcwODVdfQ==
 -->
