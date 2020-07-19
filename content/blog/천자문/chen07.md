@@ -89,6 +89,7 @@ draft: false
 23
 仁(어질 인) 慈(사랑할 자) 隱(숨을 은) 惻(슬플 측)
 慈자는 玆(이 자)자와 心(마음 심)자가 결합한 모습이다. 玆자는 실타래가 드리워진 모습
+玆자는 玄(검을 현)자가 겹쳐진 모습이다. 玄자는 활시위를 그린 것으로 ‘검다’라는 뜻
 
 造(지을 조) 次(버금 차) 弗(아닐 불) 離(떠날 리)
 남을 위한 동정심을 잠시라도 잊지 말고 항상 가져야 한다.
@@ -98,7 +99,7 @@ draft: false
 엎드려지고 자빠져도 이지러지지 않으니 용기를 잃지 말라.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDc4Nzc2NywtMTQzOTMxNjE5MiwtOT
+eyJoaXN0b3J5IjpbMTE0NDY3OTYzNywtMTQzOTMxNjE5MiwtOT
 k1OTMxOTg4LC0xMTg3NDI2OTg3LC04NzM1NDExNjAsLTMyNjg5
 ODU2MCwtNTAwMDg0NDEyLDE0MzkzMjUxMDYsMTE2MTU2ODc3NC
 wtMTM5MDc3OTM1OCw1NzE3MjE2NDcsLTg2MTYyNDY2OCwtNzg0
