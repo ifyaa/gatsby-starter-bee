@@ -7,7 +7,7 @@ draft: false
 ## 08 팔씨름
 #### 털모 씨와 기운을 견준다
 #### 손톱에 불과물이 그려져있다
-#### 아버지는 효자라서 조각장을 만들었다
+#### 아버지는 점을 친다 조각장으로 
 ```js
 팔씨름
 81比견줄 비
@@ -35,7 +35,8 @@ draft: false
 아버지 x자두개를  조각을 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDMzMzE0MiwtMTg2MDQwNjgwOCwxNj
-kxNTI1MjU0LC0yOTU5NTE0NCw4NDc3MzM4NDgsLTE1NzE3MTM4
-NzYsMTY1NjQyMzY3MiwtNjA5Mzk5MDcwXX0=
+eyJoaXN0b3J5IjpbLTY4NjkwMTcyNiwxNTY0MzMzMTQyLC0xOD
+YwNDA2ODA4LDE2OTE1MjUyNTQsLTI5NTk1MTQ0LDg0NzczMzg0
+OCwtMTU3MTcxMzg3NiwxNjU2NDIzNjcyLC02MDkzOTkwNzBdfQ
+==
 -->
