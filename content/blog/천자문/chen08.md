@@ -29,10 +29,9 @@ draft: false
 賴及萬方
 ![](https://i.ibb.co/HHyZMkZ/2020-07-02-11-33-53.png)
 049 性靜情逸 心動神疲 050 守真志滿 逐物意移
-051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
-053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚팔씨름은 명예를 지킨다
-24
 
+24
+```js
 性(성품 성) 靜(고요할 정) 情(뜻 정) 逸(편안할 일)
 
 성품이 고요하면 뜻이 편안하니 고요함은 천성이요 동작함은 인정이다.
@@ -48,9 +47,11 @@ draft: false
 逐(쫓을 축) 物(만물 물) 意(뜻 의) 移(옮길 이)
 
 마음이 불안함은 욕심이 있어서 그렇다. 너무 욕심내면 마음도 변한다.
+```
+051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
 
 25
-
+```js
 堅(굳을 견) 持(가질 지) 雅(우아할 아) 操(잡을 조)
 
 맑은 절조를 굳게 가지고 있으면 나의 도리를 극진히 함이라.
@@ -66,8 +67,8 @@ draft: false
 東(동녘 동) 西(서녘 서) 二(두 이) 京(서울 경)
 
 동과 서에 두 서울이 있으니 동경은 낙양이고 서경은 장안이다.
-
- 
+```
+ 053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚팔씨름은 명예를 지킨다
 
 26
 
@@ -90,9 +91,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04OD
-k0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5
-MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC
-0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNzczLC0xNzM2
-NzMzNDcxLC01MzkxNzA5NzBdfQ==
+eyJoaXN0b3J5IjpbLTIwODUzNzY3NDQsLTE3NTE1MTgzODQsND
+U4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1
+OTkzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC
+0xMTA5MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0
+OTMzNzczLC0xNzM2NzMzNDcxLC01MzkxNzA5NzBdfQ==
 -->
