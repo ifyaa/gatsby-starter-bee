@@ -17,7 +17,9 @@ draft: false
 
 [포토강의](https://www.youtube.com/watch?v=5-RmbfQ6zFY&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=7)
 
+
+[애니메이션character-animator](https://helpx.adobe.com/kr/adobe-character-animator/using/overview.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzEwMjYyMCwxMzQyODcxODM0LC00OT
-Y0Mzc3MzUsMTg0MTg0Mzk5NV19
+eyJoaXN0b3J5IjpbLTE3ODA3NjE2ODgsMTc2MzEwMjYyMCwxMz
+QyODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0Mzk5NV19
 -->
