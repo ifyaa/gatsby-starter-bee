@@ -44,8 +44,10 @@ draft: false
 性(성품 성) 靜(고요할 정) 情(뜻 정) 逸(편안할 일)
 靜자는 靑(푸를 청)자와 爭(다툴 쟁)자가 결합
 靑자는 우물과 초목을 그린 것
+逸자는 辶(쉬엄쉬엄 갈 착)자와 兎(토끼 토)자가 결합
 
 心(마음 심) 動(움직일 동) 神(귀신 신) 疲(피곤할 피)
+神자는 示(보일 시)자와 申(펼 신)자가 결합
 
 守(지킬 수) 眞(참 진) 志(뜻 지) 滿(찰 만)
 
@@ -95,10 +97,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMT
-c2NjU2MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEw
-MzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOC
-wtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5
-MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNz
-czLC0xNzM2NzMzNDcxLC01MzkxNzA5NzBdfQ==
+eyJoaXN0b3J5IjpbMTM1ODk1OTQ5NywtMTk2MjgxNTY1NywxOD
+k1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUx
+ODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC
+0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcy
+MTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4ND
+gzNCw2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
+
 -->
