@@ -36,8 +36,8 @@ draft: false
 84气기운 기  逐(쫓을 축) 物(만물 물) 
 ```
 
-049 性靜情逸 心動神疲 
-050 守真志滿 逐物意移
+049 性靜情逸 心動神疲 성징정일 심동신피
+050 守真志滿 逐物意移 수진지만 죽물의이
 
 24
 ```js
@@ -93,10 +93,10 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNz
-UxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5
-MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMT
-cxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2
-Mjg0ODM0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOT
-cwXX0=
+eyJoaXN0b3J5IjpbMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NT
+E3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2
+MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLD
+kxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0xOTAw
+NTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNzczLC0xNzM2NzMzND
+cxLC01MzkxNzA5NzBdfQ==
 -->
