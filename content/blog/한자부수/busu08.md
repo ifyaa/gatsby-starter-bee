@@ -5,9 +5,9 @@ category: "한자부수"
 draft: false
 ---
 ## 08 팔씨름
-#### 털모씨와 기운을 견준다
+#### 털모 씨와 기운을 견준다
 #### 손톱에 불과물이 그려져있다
-#### 탁자는 아버지가 점효 x 두개를 조각한 장이다
+#### 아버지는 효자라서 조각장을 만들었다
 ```js
 팔씨름
 81比견줄 비
@@ -35,7 +35,7 @@ draft: false
 아버지 x자두개를  조각을 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE1MTA3NzEsLTE4NjA0MDY4MDgsMT
-Y5MTUyNTI1NCwtMjk1OTUxNDQsODQ3NzMzODQ4LC0xNTcxNzEz
-ODc2LDE2NTY0MjM2NzIsLTYwOTM5OTA3MF19
+eyJoaXN0b3J5IjpbMTU2NDMzMzE0MiwtMTg2MDQwNjgwOCwxNj
+kxNTI1MjU0LC0yOTU5NTE0NCw4NDc3MzM4NDgsLTE1NzE3MTM4
+NzYsMTY1NjQyMzY3MiwtNjA5Mzk5MDcwXX0=
 -->
