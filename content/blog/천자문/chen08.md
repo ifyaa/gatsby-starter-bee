@@ -48,6 +48,7 @@ draft: false
 
 心(마음 심) 動(움직일 동) 神(귀신 신) 疲(피곤할 피)
 神자는 示(보일 시)자와 申(펼 신)자가 결합
+疲자는 疒(병들 녁)자와 皮(가죽 피)자가 결합
 
 守(지킬 수) 眞(참 진) 志(뜻 지) 滿(찰 만)
 
@@ -97,11 +98,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODk1OTQ5NywtMTk2MjgxNTY1NywxOD
-k1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUx
-ODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC
-0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcy
-MTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4ND
-gzNCw2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
+eyJoaXN0b3J5IjpbMjUwMTAwODczLC0xOTYyODE1NjU3LDE4OT
+UxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4
+Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLT
+EwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIx
+MTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0OD
+M0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX0=
 
 -->
