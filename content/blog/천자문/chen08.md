@@ -42,6 +42,8 @@ draft: false
 24
 ```js
 性(성품 성) 靜(고요할 정) 情(뜻 정) 逸(편안할 일)
+靜자는 靑(푸를 청)자와 爭(다툴 쟁)자가 결합
+靑자는 우물과 초목을 그린 것
 
 心(마음 심) 動(움직일 동) 神(귀신 신) 疲(피곤할 피)
 
@@ -93,10 +95,10 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NT
-E3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2
-MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLD
-kxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0xOTAw
-NTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNzczLC0xNzM2NzMzND
-cxLC01MzkxNzA5NzBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMT
+c2NjU2MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEw
+MzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOC
+wtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5
+MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNz
+czLC0xNzM2NzMzNDcxLC01MzkxNzA5NzBdfQ==
 -->
