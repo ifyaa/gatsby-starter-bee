@@ -54,7 +54,7 @@ draft: false
 守(지킬 수) 眞(참 진) 志(뜻 지) 滿(찰 만)
 
 逐(쫓을 축) 物(만물 물) 意(뜻 의) 移(옮길 이)
-
+物자는 牛(소 우)자와 勿(말 물)자가 결합한 모습이다. 여기서 勿자는 무언가를 칼로 내리치는 모습
 ```
 051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
 
@@ -99,11 +99,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjAwNjY3LC0xOTYyODE1NjU3LDE4OT
-UxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4
-Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLT
-EwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIx
-MTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0OD
-M0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX0=
+eyJoaXN0b3J5IjpbMTkyNjc5MDczMCwtMTk2MjgxNTY1NywxOD
+k1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUx
+ODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC
+0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcy
+MTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4ND
+gzNCw2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
 
 -->
