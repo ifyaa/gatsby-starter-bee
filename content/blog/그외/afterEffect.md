@@ -18,13 +18,10 @@ draft: false
 [포토강의](https://www.youtube.com/watch?v=5-RmbfQ6zFY&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=7)
 
 
-[애니메이션character-animator](https://helpx.adobe.com/kr/adobe-character-animator/using/overview.html)
-![](https://i.ibb.co/BwJbs9c/image.png =500x)
 
-![](https://i.ibb.co/dGLv8C2/image.png =500x)
-[animator-sample](https://www.youtube.com/watch?v=ISTy1k8J39c&list=TLPQMjAwNzIwMjBH7CoziMSofQ&index=4)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NTYxMTE2LDY0MzYzMjgzOSwxNzYzMT
-AyNjIwLDEzNDI4NzE4MzQsLTQ5NjQzNzczNSwxODQxODQzOTk1
-XX0=
+eyJoaXN0b3J5IjpbMTUwOTE3ODAyMiw2NDM2MzI4MzksMTc2Mz
+EwMjYyMCwxMzQyODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0Mzk5
+NV19
 -->
