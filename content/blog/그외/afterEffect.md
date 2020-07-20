@@ -19,7 +19,8 @@ draft: false
 
 
 [애니메이션character-animator](https://helpx.adobe.com/kr/adobe-character-animator/using/overview.html)
+![](https://i.ibb.co/BwJbs9c/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA3NjE2ODgsMTc2MzEwMjYyMCwxMz
-QyODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0Mzk5NV19
+eyJoaXN0b3J5IjpbNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mj
+g3MTgzNCwtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
 -->
