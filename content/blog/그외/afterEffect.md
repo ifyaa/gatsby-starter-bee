@@ -23,8 +23,10 @@ draft: false
 
 ![](https://i.ibb.co/dGLv8C2/image.png =500x)
 [animatorsample](https://www.youtube.com/watch?v=ISTy1k8J39c&list=TLPQMjAwNzIwMjBH7CoziMSofQ&index=4)
+
+[데모 얼굴만들기부터 ](https://helpx.adobe.com/kr/adobe-character-animator/how-to/build-animated-face.html?playlist=/services/playlist.helpx/products:SG_CHARACTERANIMATOR/learn-path:get-started/set-header:ccx-designer/playlist:orientation/ko_KR.json&ref=helpx.adobe.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUxNTExODksMTUwOTE3ODAyMiw2ND
-M2MzI4MzksMTc2MzEwMjYyMCwxMzQyODcxODM0LC00OTY0Mzc3
-MzUsMTg0MTg0Mzk5NV19
+eyJoaXN0b3J5IjpbMTczNjI5NjAwNywtMTExNTE1MTE4OSwxNT
+A5MTc4MDIyLDY0MzYzMjgzOSwxNzYzMTAyNjIwLDEzNDI4NzE4
+MzQsLTQ5NjQzNzczNSwxODQxODQzOTk1XX0=
 -->
