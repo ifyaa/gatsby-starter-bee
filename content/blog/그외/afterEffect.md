@@ -20,7 +20,11 @@ draft: false
 
 [애니메이션character-animator](https://helpx.adobe.com/kr/adobe-character-animator/using/overview.html)
 ![](https://i.ibb.co/BwJbs9c/image.png)
+
+![](https://i.ibb.co/dGLv8C2/image.png =300x)
+[animator-sample](https://www.youtube.com/watch?v=ISTy1k8J39c&list=TLPQMjAwNzIwMjBH7CoziMSofQ&index=4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mj
-g3MTgzNCwtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
+eyJoaXN0b3J5IjpbMzM1NDUzNTk4LDY0MzYzMjgzOSwxNzYzMT
+AyNjIwLDEzNDI4NzE4MzQsLTQ5NjQzNzczNSwxODQxODQzOTk1
+XX0=
 -->
