@@ -49,6 +49,7 @@ draft: false
 心(마음 심) 動(움직일 동) 神(귀신 신) 疲(피곤할 피)
 神자는 示(보일 시)자와 申(펼 신)자가 결합
 疲자는 疒(병들 녁)자와 皮(가죽 피)자가 결합
+滿자는 水(물 수)자와 㒼(평평할 만)자가 결합한 모습이다. 㒼자는 물이 가득 찬 두 개의 항아리를 끈으로 묶어 놓은 모습을 그린 것
 
 守(지킬 수) 眞(참 진) 志(뜻 지) 滿(찰 만)
 
@@ -98,7 +99,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwMTAwODczLC0xOTYyODE1NjU3LDE4OT
+eyJoaXN0b3J5IjpbLTk1NjAwNjY3LC0xOTYyODE1NjU3LDE4OT
 UxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4
 Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLT
 EwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIx
