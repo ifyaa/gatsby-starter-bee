@@ -31,9 +31,9 @@ draft: false
 ```js
 81比견줄 비  性(성품 성) 靜(고요할 정)
 
-82毛털 모   心(마음 심) 動(움직일 동)
-83氏성씨 씨  守(지킬 수) 眞(참 진)
-84气기운 기
+82毛털 모    心(마음 심) 動(움직일 동)
+83氏성씨 씨   守(지킬 수) 眞(참 진)
+84气기운 기  逐(쫓을 축) 物(만물 물) 
 ```
 
 049 性靜情逸 心動神疲 050 守真志滿 逐物意移
@@ -99,9 +99,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjQ1Mzg3OSwtMTc1MTUxODM4NCw0NT
-g0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQyNTU5
-OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3ODcsLT
-ExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4NDgzNCw2MDQ5
-MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
+eyJoaXN0b3J5IjpbODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1OD
+QxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLTEwNDI1NTk5
+MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIxMTc4NywtMT
+EwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0ODM0LDYwNDkz
+Mzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX0=
 -->
