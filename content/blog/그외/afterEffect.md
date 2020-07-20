@@ -27,9 +27,11 @@ draft: false
 [데모 얼굴만들기부터 ](https://helpx.adobe.com/kr/adobe-character-animator/how-to/build-animated-face.html?playlist=/services/playlist.helpx/products:SG_CHARACTERANIMATOR/learn-path:get-started/set-header:ccx-designer/playlist:orientation/ko_KR.json&ref=helpx.adobe.com)
 
 ![](https://i.ibb.co/P9P6M25/image.png =500x)
+
+![](https://i.ibb.co/S5TY4n4/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMT
-E1MTUxMTg5LDE1MDkxNzgwMjIsNjQzNjMyODM5LDE3NjMxMDI2
-MjAsMTM0Mjg3MTgzNCwtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ
-==
+eyJoaXN0b3J5IjpbLTE1NDc5NDQxMzUsLTExNzA4NjU0OSwxNz
+M2Mjk2MDA3LC0xMTE1MTUxMTg5LDE1MDkxNzgwMjIsNjQzNjMy
+ODM5LDE3NjMxMDI2MjAsMTM0Mjg3MTgzNCwtNDk2NDM3NzM1LD
+E4NDE4NDM5OTVdfQ==
 -->
