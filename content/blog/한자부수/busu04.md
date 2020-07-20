@@ -8,8 +8,23 @@ draft: false
 나뭇군지게 작은 왕사슴시체
 산천에 철마다 싹나고
 공인의 몸에 수건이 있다
+```js
+41寸마디 촌
+
+42小작을 소
+43尢절름발이 왕
+44尸주검 시
+
+45屮싹날 철
+46山산 산
+47巛개미허리 천
+
+48工장인 공
+49己몸 
+50巾수건  건
+```
 ![](https://i.ibb.co/2SyQpjR/2020-07-03-2-38-13.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjY5ODc0N119
+eyJoaXN0b3J5IjpbLTEzNTkxMTg1MDQsLTU2MjY5ODc0N119
 -->
