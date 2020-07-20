@@ -29,11 +29,11 @@ draft: false
 賴及萬方
 ![](https://i.ibb.co/HHyZMkZ/2020-07-02-11-33-53.png)
 ```js
-81比견줄 비  性(성품 성) 靜(고요할 정)성정을 견준다
+81比견줄 비  性(성품 성) 靜(고요할 정)성정이 고요하다
 
 82毛털 모    心(마음 심)   털모자는 심성이 착하다
 83氏성씨 씨   守(지킬 수)  성을 지킨다
-84气기운 기  逐(쫓을 축)  기운기는 물건을 쫓아간다
+84气기운 기  逐(쫓을 축)   기운은 돼지를 쫓아간다
 ```
 
 049 性靜情逸 心動神疲 성징정일 심동신피
@@ -101,11 +101,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcyMzAwOCwtMTk2MjgxNTY1NywxOD
-k1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUx
-ODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC
-0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcy
-MTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4ND
-gzNCw2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
+eyJoaXN0b3J5IjpbOTk0Njc0NjAyLC0xOTYyODE1NjU3LDE4OT
+UxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4
+Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLT
+EwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIx
+MTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0OD
+M0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX0=
 
 -->
