@@ -31,9 +31,9 @@ draft: false
 ```js
 81比견줄 비  性(성품 성) 靜(고요할 정)성정을 견준다
 
-82毛털 모    心(마음 심) 動(움직일 동)털모자는 마음이 움직인다
-83氏성씨 씨   守(지킬 수) 眞(참 진) 성씨는 잔짜 지킨다
-84气기운 기  逐(쫓을 축) 物(만물 물) 기운기ㅡㄴㄴ 
+82毛털 모    心(마음 심)   털모자는 심성이 착하다
+83氏성씨 씨   守(지킬 수)  성을 지킨다
+84气기운 기  逐(쫓을 축)  기운기는 물건을 쫓아간다
 ```
 
 049 性靜情逸 心動神疲 성징정일 심동신피
@@ -101,7 +101,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjM0NDQxNiwtMTk2MjgxNTY1NywxOD
+eyJoaXN0b3J5IjpbLTE5OTcyMzAwOCwtMTk2MjgxNTY1NywxOD
 k1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUx
 ODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC
 0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcy
