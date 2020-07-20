@@ -90,8 +90,8 @@ draft: false
 79殳몽둥이 수    節(마디 절)          절한다
 80毋말 무        顚(엎드러질 전)      직녀앞에는 전부 엎드린다
 ```
-047 仁慈隱惻 造次弗離 
-048 節義廉退 顛沛匪虧 
+047 仁慈隱惻 造次弗離 인자은측 조차불리
+048 節義廉退 顛沛匪虧 절의염퇴 전폐비휴
 ```js
 
 23
@@ -116,11 +116,11 @@ draft: false
 于자는 亏(어조사 우)자의 약자(略字)로 亏자와 마찬가지로 무언가가 굽은 모습을 표현阜(
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgwODY3OTEsMTUwMDk3MTQ1OSwtMT
-YxNjYwODU1NCwxMDIzMjgwMzgsLTE4MTA2NDgxMTAsMTE0NDY3
-OTYzNywtMTQzOTMxNjE5MiwtOTk1OTMxOTg4LC0xMTg3NDI2OT
-g3LC04NzM1NDExNjAsLTMyNjg5ODU2MCwtNTAwMDg0NDEyLDE0
-MzkzMjUxMDYsMTE2MTU2ODc3NCwtMTM5MDc3OTM1OCw1NzE3Mj
-E2NDcsLTg2MTYyNDY2OCwtNzg0NzAzMTgxLDY3ODcxMTYwNCwt
-MTc3MzQwMzcxMl19
+eyJoaXN0b3J5IjpbLTYyMzA2MDQ0MCwtMjEyODA4Njc5MSwxNT
+AwOTcxNDU5LC0xNjE2NjA4NTU0LDEwMjMyODAzOCwtMTgxMDY0
+ODExMCwxMTQ0Njc5NjM3LC0xNDM5MzE2MTkyLC05OTU5MzE5OD
+gsLTExODc0MjY5ODcsLTg3MzU0MTE2MCwtMzI2ODk4NTYwLC01
+MDAwODQ0MTIsMTQzOTMyNTEwNiwxMTYxNTY4Nzc0LC0xMzkwNz
+c5MzU4LDU3MTcyMTY0NywtODYxNjI0NjY4LC03ODQ3MDMxODEs
+Njc4NzExNjA0XX0=
 -->
