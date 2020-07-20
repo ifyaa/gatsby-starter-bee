@@ -38,10 +38,12 @@ draft: false
 
 [무료음악](https://www.youtube.com/audiolibrary/music?nv=1)
 ![](https://i.ibb.co/FBNznZh/image.png  =600x)
+
+[동영상강의 추천  모든 동영상강의 ](https://terua768.tistory.com/entry/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4-%ED%94%84%EB%A1%9C-%EA%B0%95%EC%9D%98-%EC%B6%94%EC%B2%9C)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NjU5NjM0LC0xNzc4NTkyMTcxLC0xNj
-U5NTA5MDg5LC0xNTQ3OTQ0MTM1LC0xMTcwODY1NDksMTczNjI5
-NjAwNywtMTExNTE1MTE4OSwxNTA5MTc4MDIyLDY0MzYzMjgzOS
-wxNzYzMTAyNjIwLDEzNDI4NzE4MzQsLTQ5NjQzNzczNSwxODQx
-ODQzOTk1XX0=
+eyJoaXN0b3J5IjpbLTIyODQ4MzQwOCw4OTY2NTk2MzQsLTE3Nz
+g1OTIxNzEsLTE2NTk1MDkwODksLTE1NDc5NDQxMzUsLTExNzA4
+NjU0OSwxNzM2Mjk2MDA3LC0xMTE1MTUxMTg5LDE1MDkxNzgwMj
+IsNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mjg3MTgzNCwtNDk2
+NDM3NzM1LDE4NDE4NDM5OTVdfQ==
 -->
