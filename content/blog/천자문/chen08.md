@@ -36,25 +36,19 @@ draft: false
 84气기운 기  逐(쫓을 축) 物(만물 물) 
 ```
 
-049 性靜情逸 心動神疲 050 守真志滿 逐物意移
+049 性靜情逸 心動神疲 
+050 守真志滿 逐物意移
 
 24
 ```js
 性(성품 성) 靜(고요할 정) 情(뜻 정) 逸(편안할 일)
 
-성품이 고요하면 뜻이 편안하니 고요함은 천성이요 동작함은 인정이다.
-
 心(마음 심) 動(움직일 동) 神(귀신 신) 疲(피곤할 피)
-
-마음이 움직이면 신기가 피곤하니 마음이 불안하면 신기가 불편하다.
 
 守(지킬 수) 眞(참 진) 志(뜻 지) 滿(찰 만)
 
-사람의 도리를 지키면 뜻이 차고 군자의 도를 지키면 뜻이 편안하다.
-
 逐(쫓을 축) 物(만물 물) 意(뜻 의) 移(옮길 이)
 
-마음이 불안함은 욕심이 있어서 그렇다. 너무 욕심내면 마음도 변한다.
 ```
 051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
 
@@ -99,9 +93,10 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1OD
-QxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5MDAsLTEwNDI1NTk5
-MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMTcxNzIxMTc4NywtMT
-EwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2Mjg0ODM0LDYwNDkz
-Mzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOTcwXX0=
+eyJoaXN0b3J5IjpbLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNz
+UxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIxNjM5
+MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OTMsMT
+cxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwxODI2
+Mjg0ODM0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwtNTM5MTcwOT
+cwXX0=
 -->
