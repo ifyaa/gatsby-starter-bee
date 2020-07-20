@@ -30,10 +30,10 @@ draft: false
 
 ![](https://i.ibb.co/S5TY4n4/image.png)
 
-캘릭터 애니메이션 에서  --->포토샾으로 그림보내는 방법
+캘릭터 cc 에서  --->포토샾으로 그림보내는 방법
 ![](https://i.ibb.co/3s4JKSS/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU5NzkyMjksLTE1NDc5NDQxMzUsLT
+eyJoaXN0b3J5IjpbLTE2NTk1MDkwODksLTE1NDc5NDQxMzUsLT
 ExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMTE1MTUxMTg5LDE1MDkx
 NzgwMjIsNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mjg3MTgzNC
 wtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
