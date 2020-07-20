@@ -28,6 +28,14 @@ draft: false
 化被草木
 賴及萬方
 ![](https://i.ibb.co/HHyZMkZ/2020-07-02-11-33-53.png)
+```js
+81比견줄 비  性(성품 성) 靜(고요할 정)
+
+82毛털 모   心(마음 심) 動(움직일 동)
+83氏성씨 씨  守(지킬 수) 眞(참 진)
+84气기운 기
+```
+
 049 性靜情逸 心動神疲 050 守真志滿 逐物意移
 
 24
@@ -71,7 +79,7 @@ draft: false
  053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚팔씨름은 명예를 지킨다
 
 26
-
+```js
 背(등 배) 邙(산이름 망) 面(낯 면) 洛(강이름 락)
 
 동경은 북에 북망산이 있고 낙양은 남에 낙천이 있다.
@@ -87,13 +95,13 @@ draft: false
 樓(다락 루) 觀(볼 관) 飛(날 비) 驚(놀랄 경)
 
 궁전  가운데  있는  물견대는  높아서  올라가면  나는  듯하여  놀란다.
-
+```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUzNzY3NDQsLTE3NTE1MTgzODQsND
-U4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1
-OTkzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC
-0xMTA5MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0
-OTMzNzczLC0xNzM2NzMzNDcxLC01MzkxNzA5NzBdfQ==
+eyJoaXN0b3J5IjpbMTg0MjQ1Mzg3OSwtMTc1MTUxODM4NCw0NT
+g0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQyNTU5
+OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3ODcsLT
+ExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4NDgzNCw2MDQ5
+MzM3NzMsLTE3MzY3MzM0NzEsLTUzOTE3MDk3MF19
 -->
