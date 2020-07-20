@@ -4,8 +4,8 @@ date: 2020-07-02 16:21:13
 category: "한자부수"
 draft: false
 ---
-## 04 사슴과 나뭇군 寸 小 尢 尸 屮 山 巛 工 己 巾
-나뭇군지게 작은 왕사슴시체
+## 04 사슴과 나뭇군 
+나뭇군 지게마디에  작은 절름발이 왕사슴시체
 산천에 철마다 싹나고
 공인의 몸에 수건이 있다
 ```js
@@ -23,8 +23,10 @@ draft: false
 49己몸 
 50巾수건  건
 ```
+寸 小 尢 尸 屮 山 巛 工 己 巾
+
 ![](https://i.ibb.co/2SyQpjR/2020-07-03-2-38-13.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTkxMTg1MDQsLTU2MjY5ODc0N119
+eyJoaXN0b3J5IjpbMTE0NjgyMTE5OCwtNTYyNjk4NzQ3XX0=
 -->
