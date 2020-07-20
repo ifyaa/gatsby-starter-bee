@@ -29,9 +29,12 @@ draft: false
 ![](https://i.ibb.co/P9P6M25/image.png =500x)
 
 ![](https://i.ibb.co/S5TY4n4/image.png)
+
+캘릭터 애니메이션 에서  --->포토샾으로 그림보내는 방법
+![](https://i.ibb.co/3s4JKSS/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc5NDQxMzUsLTExNzA4NjU0OSwxNz
-M2Mjk2MDA3LC0xMTE1MTUxMTg5LDE1MDkxNzgwMjIsNjQzNjMy
-ODM5LDE3NjMxMDI2MjAsMTM0Mjg3MTgzNCwtNDk2NDM3NzM1LD
-E4NDE4NDM5OTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MjU5NzkyMjksLTE1NDc5NDQxMzUsLT
+ExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMTE1MTUxMTg5LDE1MDkx
+NzgwMjIsNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mjg3MTgzNC
+wtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
 -->
