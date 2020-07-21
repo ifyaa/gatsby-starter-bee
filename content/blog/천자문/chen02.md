@@ -1,5 +1,5 @@
 ---
-title: "천자문 02"
+title: "천자문 02
 date: 2020-07-15
 category: '천자문'
 draft: false
@@ -78,7 +78,7 @@ draft: false
 ```js
 28 厶 사사로울 사   鳴(울 명) 白(흰 백)흰말이울고
 29 又 또 우       化(될 화) 또화성에 간다고
-30 口 입 구       賴(힘입을 뢰) 문ㅇ
+30 口 입 구       賴(힘입을 뢰) 입구는 지뢰밭
 ```
 017 鳴鳳在樹 白駒食場 
 018 化被草木 賴及萬方 
@@ -102,8 +102,8 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNDYxNjY0LDM1NjA3NTEyOCwxMzQ1Nz
-QzODYyLDMyODE2ODAwMywxOTY2MjQ5MDksLTEyODUxOTQzMjMs
-LTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4NzE2MTYyMTUsMjQ0Nz
-Q3MDg1XX0=
+eyJoaXN0b3J5IjpbLTEzMzQzNDMyNjcsNTkxNDYxNjY0LDEzND
+U3NDM4NjIsMzI4MTY4MDAzLDE5NjYyNDkwOSwtMTI4NTE5NDMy
+MywtMjMyMDQ0Mzg5LC0xMDUyNjU5OTA3LDg3MTYxNjIxNSwyND
+Q3NDcwODVdfQ==
 -->
