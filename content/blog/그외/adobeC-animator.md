@@ -1,10 +1,7 @@
 ---
-title: "마크다운 사용법"
-date: 2020-6-14 17:21:13
+title: "캐릭터애니-소리일치"
+date: 2020-07-21
 category: "그외"
-thumbnail: "./images/hello.png"
-draft: false
-featuredImage: "./images/2Custom Preset.jpg"
 ---
 
 [소리일치하기](https://helpx.adobe.com/kr/adobe-character-animator/how-to/recording-editing-performances.html?playlist=/services/playlist.helpx/products:SG_CHARACTERANIMATOR/learn-path:get-started/set-header:ccx-designer/playlist:orientation/ko_KR.json&ref=helpx.adobe.com)
@@ -20,5 +17,5 @@ featuredImage: "./images/2Custom Preset.jpg"
 ![](https://i.ibb.co/g6F8GdT/image.png)
 ![](https://i.ibb.co/ZK48vkv/image.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTUzNzg0MV19
+eyJoaXN0b3J5IjpbLTEwMzc0NTYyMTRdfQ==
 -->
