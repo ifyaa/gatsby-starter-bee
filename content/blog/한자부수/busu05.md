@@ -8,6 +8,7 @@ draft: false
 작고 요사한 오리들이  방패들고 길게 걸어 인사하면서  집으로 엄숙하게 간다
 완이가  활을 두손으로 받들어  공손히  돼지를 주살한다
 털3개난 돼지머리는 조금씩 척척걸어간다
+![](https://i.ibb.co/7gk0RDQ/image.png)
 ```js
 51干방패 간
 
@@ -28,5 +29,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA2MjgyMTAsMTg0NjAwNDMwMV19
+eyJoaXN0b3J5IjpbNTg0MTgwMDgzLC0xNDcwNjI4MjEwLDE4ND
+YwMDQzMDFdfQ==
 -->
