@@ -42,26 +42,14 @@ draft: false
 [동영상강의 추천  모든 동영상강의 ](https://terua768.tistory.com/entry/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4-%ED%94%84%EB%A1%9C-%EA%B0%95%EC%9D%98-%EC%B6%94%EC%B2%9C)
 ![](https://i.ibb.co/h7fmMg6/image.png =500x)
 
-[모션 그래픽 (움직임)](https://www.youtube.com/watch?v=bfgkNPFva74)
-![](https://i.ibb.co/ySk7xvj/image.png =500x)
 
 
-[심볼 테스트 샘플다운가능 ](https://helpx.adobe.com/kr/animate/how-to/tweening-animation.html)
-[국내강의 심볼테스트](https://www.youtube.com/watch?v=1dwC9QV19cA)
-![](https://i.ibb.co/7jRGhpv/image.png)
-![](https://i.ibb.co/S0Nw0JR/image.png =500x)
-
-심볼은 그래픽으로 저장하고 q를 눌러야 이동포인터를 찾을 수 있다 
-![](https://i.ibb.co/gdVcvVH/image.png =500x)
-![](https://i.ibb.co/cbvfxBw/image.png =500x)
-![](https://i.ibb.co/BNbYYTW/image.png =500x)
-![](https://i.ibb.co/dMPr57Y/image.png =500x) 
-![](https://i.ibb.co/SQYkdmM/image.png =500x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MTM0NTcsLTIwNTI1MTQxMzUsMTAxND
-Q0Mzc4MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcxNzMs
-ODk2NjU5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC0xNT
-Q3OTQ0MTM1LC0xMTcwODY1NDksMTczNjI5NjAwNywtMTExNTE1
-MTE4OSwxNTA5MTc4MDIyLDY0MzYzMjgzOSwxNzYzMTAyNjIwLD
-EzNDI4NzE4MzQsLTQ5NjQzNzczNSwxODQxODQzOTk1XX0=
+eyJoaXN0b3J5IjpbLTE5MzM0NjU1LDYxNjEzNDU3LC0yMDUyNT
+E0MTM1LDEwMTQ0NDM3ODIsLTkwNjY4NTIxNyw1OTUyMzQwMjgs
+NDY4MjU3MTczLDg5NjY1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OT
+UwOTA4OSwtMTU0Nzk0NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYw
+MDcsLTExMTUxNTExODksMTUwOTE3ODAyMiw2NDM2MzI4MzksMT
+c2MzEwMjYyMCwxMzQyODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0
+Mzk5NV19
 -->
