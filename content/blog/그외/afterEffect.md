@@ -45,10 +45,14 @@ draft: false
 [모션 그래픽 (움직임)](https://www.youtube.com/watch?v=bfgkNPFva74)
 ![](https://i.ibb.co/ySk7xvj/image.png)
 
+
+[심볼 테스트 샘플다운가능 ](https://helpx.adobe.com/kr/animate/how-to/tweening-animation.html)
+[국내강의 심볼테스트](https://www.youtube.com/watch?v=1dwC9QV19cA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MjM0MDI4LDQ2ODI1NzE3Myw4OTY2NT
-k2MzQsLTE3Nzg1OTIxNzEsLTE2NTk1MDkwODksLTE1NDc5NDQx
-MzUsLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMTE1MTUxMTg5LD
-E1MDkxNzgwMjIsNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mjg3
-MTgzNCwtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
+eyJoaXN0b3J5IjpbLTkwNjY4NTIxNyw1OTUyMzQwMjgsNDY4Mj
+U3MTczLDg5NjY1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4
+OSwtMTU0Nzk0NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLT
+ExMTUxNTExODksMTUwOTE3ODAyMiw2NDM2MzI4MzksMTc2MzEw
+MjYyMCwxMzQyODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0Mzk5NV
+19
 -->
