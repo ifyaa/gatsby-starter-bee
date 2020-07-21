@@ -4,7 +4,7 @@ date: 2020-07-18
 category: "그외"
 draft: false
 ---
-[에프트 이 psd사용하여 애니메이션](https://www.youtube.com/watch?v=-54JJ_re6qw)
+[에프트 이펙트 psd사용하여 애니메이션](https://www.youtube.com/watch?v=-54JJ_re6qw)
 ![](https://i.ibb.co/vHG29Rt/image.png)
 
 [소리일치하기](https://helpx.adobe.com/kr/adobe-character-animator/how-to/recording-editing-performances.html?playlist=/services/playlist.helpx/products:SG_CHARACTERANIMATOR/learn-path:get-started/set-header:ccx-designer/playlist:orientation/ko_KR.json&ref=helpx.adobe.com)
@@ -148,7 +148,7 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTM5ODc4OSwtMzA1MTUzODkxLDE2Nj
+eyJoaXN0b3J5IjpbMTMxOTA1NDM3NCwtMzA1MTUzODkxLDE2Nj
 M0NjE0NjcsNjE2MTM0NTcsLTIwNTI1MTQxMzUsMTAxNDQ0Mzc4
 MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcxNzMsODk2Nj
 U5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC0xNTQ3OTQ0
