@@ -61,9 +61,9 @@ draft: false
 移자는 禾(벼 화)자와 多(많을 다)자가 결합한 모습
 ```
 ```js
-85水물 수     堅(굳을 견)好(좋을 호)
-86火불 화     都(도읍 도)
-87爪손톱 조    東(동녘 동)
+85水물 수     堅(굳을 견)好(좋을 호) 굳어야 좋은 것이다
+86火불 화     都(도읍 도)          불은 물을 돕지 않는다
+87爪손톱 조    東(동녘 동)          손톱그림은 
 ```
 051 堅持雅操 好爵自縻 
 052 都邑華夏 東西二京 
@@ -112,11 +112,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MD
-Y0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2
-OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MC
-w4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0
-NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MT
-gyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0x
-OTAwNTY1Mjc0XX0=
+eyJoaXN0b3J5IjpbLTExNTM5NTM5NjksMTc2MjMzMTk0NiwxOT
+g1NTY2OTE4LDE3MDY0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzEx
+MjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OS
+wtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4
+NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OT
+kzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0x
+MTA5MzI1ODQ3XX0=
 -->
