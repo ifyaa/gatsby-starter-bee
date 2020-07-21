@@ -49,14 +49,16 @@ draft: false
 [심볼 테스트 샘플다운가능 ](https://helpx.adobe.com/kr/animate/how-to/tweening-animation.html)
 [국내강의 심볼테스트](https://www.youtube.com/watch?v=1dwC9QV19cA)
 ![](https://i.ibb.co/7jRGhpv/image.png)
-![](https://i.ibb.co/S0Nw0JR/image.png =500x) 
-![](https://i.ibb.co/gdVcvVH/image.png)
-![](https://i.ibb.co/cbvfxBw/image.png)
-![](https://i.ibb.co/BNbYYTW/image.png)
-![](https://i.ibb.co/dMPr57Y/image.png)
-![](https://i.ibb.co/SQYkdmM/image.png)
+![](https://i.ibb.co/S0Nw0JR/image.png =500x)
+
+심볼은 그래픽으로 저장하고 q를 눌러야 이동포인터를 찾을 수 있다 
+![](https://i.ibb.co/gdVcvVH/image.png =500x)
+![](https://i.ibb.co/cbvfxBw/image.png =500x)
+![](https://i.ibb.co/BNbYYTW/image.png =500x)
+![](https://i.ibb.co/dMPr57Y/image.png =500x) 
+![](https://i.ibb.co/SQYkdmM/image.png =500x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMxNzAwODksLTIwNTI1MTQxMzUsMT
+eyJoaXN0b3J5IjpbLTEzMzc3MTAyMjEsLTIwNTI1MTQxMzUsMT
 AxNDQ0Mzc4MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcx
 NzMsODk2NjU5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC
 0xNTQ3OTQ0MTM1LC0xMTcwODY1NDksMTczNjI5NjAwNywtMTEx
