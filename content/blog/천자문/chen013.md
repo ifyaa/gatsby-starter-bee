@@ -1,5 +1,5 @@
 ---
-title: '천자문 '
+title: '천자문 013'
 date: 2020-07-07
 category: '천자문'
 draft: false
@@ -103,9 +103,9 @@ draft: false
 농민의  의기를  앙양키  위하여  열심인  자는  상주고  게을리한  자는  출석하였다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzgxMzAyNSw2MDUwOTA1OTUsMTYzNj
-QwNDI0OSwtNDgxNDQ4NzE5LDEzMTgwODE4NjIsLTI0NTQ2ODEz
-NCwtNjg5MjA3NzQ1LC0yODU0MTY4NzAsNTg3NjAwNzIxLC0xOD
-Y4ODA4NjQ1LDE3Njk1OTg0NzIsLTE1MjEyOTQwMjQsODc1MDk2
-NjM3XX0=
+eyJoaXN0b3J5IjpbMTAxNzI2MDU1LDYwNTA5MDU5NSwxNjM2ND
+A0MjQ5LC00ODE0NDg3MTksMTMxODA4MTg2MiwtMjQ1NDY4MTM0
+LC02ODkyMDc3NDUsLTI4NTQxNjg3MCw1ODc2MDA3MjEsLTE4Nj
+g4MDg2NDUsMTc2OTU5ODQ3MiwtMTUyMTI5NDAyNCw4NzUwOTY2
+MzddfQ==
 -->
