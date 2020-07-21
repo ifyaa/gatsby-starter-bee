@@ -4,8 +4,6 @@ date: 2020-07-09
 category: '천자문'
 draft: false
 ---
-<?xml version="1.0" encoding="UTF-8"?>
-
 
 ```js
 140 사자와 호랑이
@@ -82,7 +80,7 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODUxMjgxMCwtMzk3NDkxMjQ3LDEzMz
+eyJoaXN0b3J5IjpbLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMz
 U0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1
 NjcyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC
 0yMDcxNzQyMDUwLDU5NDQ5NDg0OV19
