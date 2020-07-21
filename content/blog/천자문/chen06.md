@@ -1,5 +1,5 @@
 ---
-title: '천자문 064'
+title: '천자문 06'
 date: 2020-07-15
 category: '천자문'
 draft: false
@@ -106,7 +106,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNDU4MDM2LC0xNjI3MjQwNjkxLDE4NT
-k1ODk3NzksLTkzMDUwMTE0OSwtMTg0MTg0NDgyNSwyNTQzNDY4
-MTldfQ==
+eyJoaXN0b3J5IjpbLTEyMTIxODE0MTYsLTE2MjcyNDA2OTEsMT
+g1OTU4OTc3OSwtOTMwNTAxMTQ5LC0xODQxODQ0ODI1LDI1NDM0
+NjgxOV19
 -->
