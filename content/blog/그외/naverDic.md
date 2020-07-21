@@ -2,7 +2,7 @@
 title: "네이버한자사전 선택"
 date: 2020-07-01
 category: "그외"
-draft: true
+draft: false
 ---
 
 한자를 선택하여 바로 네이버 한자사전으로 이동하는 방법
@@ -27,6 +27,6 @@ end run
 ![](https://i.ibb.co/Gc5YW0R/auto-05.png)
 [한자사전](https://hanja.dict.naver.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDI1MTM3LC0xOTk1MzYzNzczLDE4OT
-QyNTEzN119
+eyJoaXN0b3J5IjpbMTM0NjUwNDc2NiwxODk0MjUxMzcsLTE5OT
+UzNjM3NzNdfQ==
 -->
