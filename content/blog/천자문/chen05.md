@@ -29,7 +29,7 @@ draft: false
 59彡터럭 삼
 60彳조금 걸을 척
 ```
-
+![](https://i.ibb.co/7gk0RDQ/image.png =300x)
 031 資父事君 曰嚴與敬 032 孝當竭力 忠則盡命
 ```js
 資(자료 자) 父(아비 부) 事(일/섬길 사) 君(임금 군)
@@ -97,6 +97,6 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTQxNjM2NCwxNDAzNTAxNDI5LC0xNj
-IwNTcxMTE5XX0=
+eyJoaXN0b3J5IjpbLTEwNDM4MTU0NTcsLTc1NTQxNjM2NCwxND
+AzNTAxNDI5LC0xNjIwNTcxMTE5XX0=
 -->
