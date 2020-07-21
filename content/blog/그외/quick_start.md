@@ -1,6 +1,6 @@
 ---
 title: "지겨워하지 않아야 "
-date: 2020-06-14 
+date: 2020-06-14 17:21:13
 category: "그외"
 draft: false
 ---
@@ -118,5 +118,6 @@ src/styles
 > Happy blogging! 👻
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzEwMTgwNSwtNjI4ODk0NTcyXX0=
+eyJoaXN0b3J5IjpbLTIzNDc1MDE3MiwxNDAzMTAxODA1LC02Mj
+g4OTQ1NzJdfQ==
 -->
