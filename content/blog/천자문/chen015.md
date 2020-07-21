@@ -1,5 +1,5 @@
 ---
-title: '천자문 091'
+title: '천자문 015'
 date: 2020-07-10
 category: '천자문'
 draft: false
@@ -88,8 +88,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTc5ODU3NSw2MjAwMjg2NTUsLTE1Nj
-Q2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1
-LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMj
-QwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNT
+Y0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTEx
+NSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLT
+I0MDI3ODQ0MF19
 -->
