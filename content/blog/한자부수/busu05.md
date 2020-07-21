@@ -6,10 +6,8 @@ draft: false
 ---
 ## 05 한강오리 干 幺 广 廴 廾 弋 弓 彐(彑) 彡 彳
 작고 요사한 오리들이  방패들고 길게 걸어 인사하면서  집으로 엄숙하게 간다
-
+완이가 활을 두손으로 받들어  돼지를 주살한다
 터럭이 달린 돼지도 조금걸어 척척간다
-
-돼지를 쏠려고 활을 두손으로 공손히  받든다
 ```js
 51干방패 간
 
@@ -30,5 +28,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODIwNTY5MywxODQ2MDA0MzAxXX0=
+eyJoaXN0b3J5IjpbLTExMjAzNTg1OCwxODQ2MDA0MzAxXX0=
 -->
