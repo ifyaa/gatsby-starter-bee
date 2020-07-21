@@ -49,11 +49,12 @@ draft: false
 [심볼 테스트 샘플다운가능 ](https://helpx.adobe.com/kr/animate/how-to/tweening-animation.html)
 [국내강의 심볼테스트](https://www.youtube.com/watch?v=1dwC9QV19cA)
 ![](https://i.ibb.co/7jRGhpv/image.png)
+![](https://i.ibb.co/S0Nw0JR/image.png =500x) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDQ0Mzc4MiwtOTA2Njg1MjE3LDU5NT
-IzNDAyOCw0NjgyNTcxNzMsODk2NjU5NjM0LC0xNzc4NTkyMTcx
-LC0xNjU5NTA5MDg5LC0xNTQ3OTQ0MTM1LC0xMTcwODY1NDksMT
-czNjI5NjAwNywtMTExNTE1MTE4OSwxNTA5MTc4MDIyLDY0MzYz
-MjgzOSwxNzYzMTAyNjIwLDEzNDI4NzE4MzQsLTQ5NjQzNzczNS
-wxODQxODQzOTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNTI1MTQxMzUsMTAxNDQ0Mzc4MiwtOT
+A2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcxNzMsODk2NjU5NjM0
+LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC0xNTQ3OTQ0MTM1LC
+0xMTcwODY1NDksMTczNjI5NjAwNywtMTExNTE1MTE4OSwxNTA5
+MTc4MDIyLDY0MzYzMjgzOSwxNzYzMTAyNjIwLDEzNDI4NzE4Mz
+QsLTQ5NjQzNzczNSwxODQxODQzOTk1XX0=
 -->
