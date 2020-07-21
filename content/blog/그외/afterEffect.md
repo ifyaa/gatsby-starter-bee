@@ -42,12 +42,13 @@ draft: false
 [동영상강의 추천  모든 동영상강의 ](https://terua768.tistory.com/entry/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4-%ED%94%84%EB%A1%9C-%EA%B0%95%EC%9D%98-%EC%B6%94%EC%B2%9C)
 ![](https://i.ibb.co/h7fmMg6/image.png)
 
+[모션 그래픽 (움직임)](https://www.youtube.com/watch?v=bfgkNPFva74)
 ![](https://i.ibb.co/ySk7xvj/image.png)
-[움직임 종류](https://www.youtube.com/watch?v=bfgkNPFva74)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU2NDExOTcsNDY4MjU3MTczLDg5Nj
-Y1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4OSwtMTU0Nzk0
-NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLTExMTUxNTExOD
-ksMTUwOTE3ODAyMiw2NDM2MzI4MzksMTc2MzEwMjYyMCwxMzQy
-ODcxODM0LC00OTY0Mzc3MzUsMTg0MTg0Mzk5NV19
+eyJoaXN0b3J5IjpbNTk1MjM0MDI4LDQ2ODI1NzE3Myw4OTY2NT
+k2MzQsLTE3Nzg1OTIxNzEsLTE2NTk1MDkwODksLTE1NDc5NDQx
+MzUsLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMTE1MTUxMTg5LD
+E1MDkxNzgwMjIsNjQzNjMyODM5LDE3NjMxMDI2MjAsMTM0Mjg3
+MTgzNCwtNDk2NDM3NzM1LDE4NDE4NDM5OTVdfQ==
 -->
