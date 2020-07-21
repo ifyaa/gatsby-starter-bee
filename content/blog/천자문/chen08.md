@@ -60,7 +60,8 @@ draft: false
 意자는 音(소리 음)자와 心(마음 심)자가 결합
 移자는 禾(벼 화)자와 多(많을 다)자가 결합한 모습
 ```
-051 堅持雅操 好爵自縻 052 都邑華夏 東西二京 
+051 堅持雅操 好爵自縻 
+052 都邑華夏 東西二京 
 
 25
 ```js
@@ -103,11 +104,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwND
-Y3NDY2OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2
-MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC
-04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0
-Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1OD
-Q3LC0xOTAwNTY1Mjc0LDE4MjYyODQ4MzQsNjA0OTMzNzczLC0x
-NzM2NzMzNDcxXX0=
+eyJoaXN0b3J5IjpbMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNz
+QzMTEyMTksMjA0Njc0NjY5MCwtMTk2MjgxNTY1NywxODk1MTE1
+ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUxODM4NC
+w0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQy
+NTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3OD
+csLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4NDgzNCw2
+MDQ5MzM3NzNdfQ==
 -->
