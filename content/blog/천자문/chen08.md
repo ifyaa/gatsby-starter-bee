@@ -63,10 +63,10 @@ draft: false
 ```js
 85水물 수     堅(굳을 견)好(좋을 호) 굳어야 좋은 것이다
 86火불 화     都(도읍 도)          불은 물을 돕지 않는다
-87爪손톱 조    東(동녘 동)          손톱그림은 
+87爪손톱 조    東(동녘 동)          손톱그림은 동쪽에서 그린다
 ```
-051 堅持雅操 好爵自縻 
-052 都邑華夏 東西二京 
+051 堅持雅操 好爵自縻 견지아조 호작자미
+052 都邑華夏 東西二京  도읍화하 동서이경
 
 25
 ```js
@@ -112,11 +112,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM5NTM5NjksMTc2MjMzMTk0NiwxOT
-g1NTY2OTE4LDE3MDY0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzEx
-MjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OS
-wtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4
-NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OT
-kzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0x
-MTA5MzI1ODQ3XX0=
+eyJoaXN0b3J5IjpbLTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5OD
+U1NjY5MTgsMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEy
+MTksMjA0Njc0NjY5MCwtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC
+0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUxODM4NCw0NTg0
+MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQyNTU5OT
+M4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3ODcsLTEx
+MDkzMjU4NDddfQ==
 -->
