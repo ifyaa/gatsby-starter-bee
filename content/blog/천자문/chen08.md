@@ -72,7 +72,8 @@ draft: false
 ```js
 堅(굳을 견) 持(가질 지) 雅(우아할 아) 操(잡을 조)
 
-맑은 절조를 굳게 가지고 있으면 나의 도리를 극진히 함이라.
+堅자는 土(흙 토)자와 臤(굳을 간)자가 결합한 모습이다. 臤자는 신하가 손을 올리고 있는 모습
+
 
 好(좋을 호) 爵(벼슬 작) 自(스스로 자) 慔(얽을 미)
 
@@ -109,11 +110,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MDA4MTI1LDE3MDY0MzIwMjcsLTU0Nz
-Y1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2
-NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLT
-E3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2
-MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5My
-wxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4
-MjYyODQ4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE2MjMyNjcyMDMsMTcwNjQzMjAyNywtNT
+Q3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5MCwtMTk2Mjgx
+NTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNi
+wtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYy
+MTYzOTAwLC0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNj
+kzLDE3MTcyMTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQs
+MTgyNjI4NDgzNF19
 -->
