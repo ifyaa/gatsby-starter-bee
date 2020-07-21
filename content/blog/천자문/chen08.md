@@ -60,6 +60,11 @@ draft: false
 意자는 音(소리 음)자와 心(마음 심)자가 결합
 移자는 禾(벼 화)자와 多(많을 다)자가 결합한 모습
 ```
+```js
+85水물 수     堅(굳을 견)好(좋을 호)
+86火불 화     都(도읍 도)
+87爪손톱 조    東(동녘 동)
+```
 051 堅持雅操 好爵自縻 
 052 都邑華夏 東西二京 
 
@@ -104,11 +109,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNz
-QzMTEyMTksMjA0Njc0NjY5MCwtMTk2MjgxNTY1NywxODk1MTE1
-ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUxODM4NC
-w0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQy
-NTU5OTM4LC0yNTQyOTkxODIsOTE0MzMwNjkzLDE3MTcyMTE3OD
-csLTExMDkzMjU4NDcsLTE5MDA1NjUyNzQsMTgyNjI4NDgzNCw2
-MDQ5MzM3NzNdfQ==
+eyJoaXN0b3J5IjpbMzA0MDA4MTI1LDE3MDY0MzIwMjcsLTU0Nz
+Y1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2
+NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLT
+E3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2
+MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5My
+wxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4
+MjYyODQ4MzRdfQ==
 -->
