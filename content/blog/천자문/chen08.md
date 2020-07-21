@@ -74,6 +74,7 @@ draft: false
 
 堅자는 土(흙 토)자와 臤(굳을 간)자가 결합한 모습이다. 臤자는 신하가 손을 올리고 있는 모습
 雅자는 牙(어금니 아)자와 隹(새 추)자가 결합
+操자는 手(손 수)자와 喿(울 소)자가 결합한 모습이다. 喿자는 나무 위에 새들이 떼 지어 지저귀는 모습
 
 好(좋을 호) 爵(벼슬 작) 自(스스로 자) 慔(얽을 미)
 
@@ -110,11 +111,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NDM2NzQ1LDE3MDY0MzIwMjcsLTU0Nz
-Y1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2
-NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLT
-E3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2
-MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkxNDMzMDY5My
-wxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0xOTAwNTY1Mjc0LDE4
-MjYyODQ4MzRdfQ==
+eyJoaXN0b3J5IjpbMTk4NTU2NjkxOCwxNzA2NDMyMDI3LC01ND
+c2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC0xOTYyODE1
+NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC
+0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIx
+NjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OT
+MsMTcxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwx
+ODI2Mjg0ODM0XX0=
 -->
