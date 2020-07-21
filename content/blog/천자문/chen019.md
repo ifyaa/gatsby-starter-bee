@@ -1,5 +1,5 @@
 ---
-title: '천자문 1'
+title: '천자문 019'
 date: 2020-07-14
 category: '천자문'
 draft: false
@@ -91,8 +91,8 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTUyODEsLTE0MDQ1NjQ1ODIsLTE2NT
-I3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwt
-OTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMz
-M0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTg0MDk4MjAwNiwtMTQwNDU2NDU4MiwtMT
+Y1Mjc5NDkxLC03MjI3MTg2LDc5NDk1OTk3MiwxMzUxMzk0NjY0
+LC05ODA0OTU5MTQsMTUyOTAzMDg1NiwtOTEwMTk5MzYyLDEwNT
+AzMzQ3ODIsMTg5MjI4NjU1Ml19
 -->
