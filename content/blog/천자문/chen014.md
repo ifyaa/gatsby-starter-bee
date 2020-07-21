@@ -1,5 +1,5 @@
 ---
-title: '천자문 '
+title: '천자문 014'
 date: 2020-07-09
 category: '천자문'
 draft: false
@@ -82,8 +82,8 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzQ5MTI0NywxMzM1NDIxMDY0LDEzMT
-QzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNTgwNDgw
-NjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MC
-w1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbMTA0ODUxMjgxMCwtMzk3NDkxMjQ3LDEzMz
+U0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1
+NjcyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC
+0yMDcxNzQyMDUwLDU5NDQ5NDg0OV19
 -->
