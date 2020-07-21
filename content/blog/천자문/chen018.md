@@ -1,5 +1,5 @@
 ---
-title: '천자문 1'
+title: '천자문 018'
 date: 2020-07-13
 category: '천자문'
 draft: false
@@ -85,8 +85,8 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDk4MzgxNiwtMTY2OTY3NDQyMywxND
-E0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1MzA1
-MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5MzQxNzEsLTE0OD
-M0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
+eyJoaXN0b3J5IjpbNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxND
+Q2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEs
+LTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzND
+c5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
 -->
