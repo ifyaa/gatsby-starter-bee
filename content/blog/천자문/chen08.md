@@ -8,7 +8,7 @@ draft: false
 팔씨름
 털난 모씨성을  가진사람과 기운을 견준다
 완이 손톱에 물과 불을 그렸다
-아빠는 조각장으로 x자 막대기를
+아빠는 팔시름하던 조각장 다리를 부셔서  x자 막대기를 만들었다
 ```js
 81比견줄 비
 
@@ -103,11 +103,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTY4NzMsMjA0Njc0NjY5MCwtMTk2Mj
-gxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUz
-NiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOCwtMz
-YyMTYzOTAwLC0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0MzMw
-NjkzLDE3MTcyMTE3ODcsLTExMDkzMjU4NDcsLTE5MDA1NjUyNz
-QsMTgyNjI4NDgzNCw2MDQ5MzM3NzMsLTE3MzY3MzM0NzEsLTUz
-OTE3MDk3MF19
+eyJoaXN0b3J5IjpbLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC0xOT
+YyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4
+NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC
+0zNjIxNjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQz
+MzA2OTMsMTcxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NT
+I3NCwxODI2Mjg0ODM0LDYwNDkzMzc3MywtMTczNjczMzQ3MSwt
+NTM5MTcwOTcwXX0=
 -->
