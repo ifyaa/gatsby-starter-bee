@@ -1,5 +1,5 @@
 ---
-title: '천자문 '
+title: '천자문 016'
 date: 2020-07-11
 category: '천자문'
 draft: false
@@ -85,7 +85,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDQzMDc0MSwtMTk3MjkzMTYyNywxOT
+eyJoaXN0b3J5IjpbMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywxOT
 cxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQx
 LC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgzNiwtNT
 kxNTUzNjc5LC01OTg5ODUwMDFdfQ==
