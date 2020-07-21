@@ -78,11 +78,10 @@ draft: false
 
 好(좋을 호) 爵(벼슬 작) 自(스스로 자) 慔(얽을 미)
 
-스스로 벼슬을 얻게 되니 찬작을 극진하면 인작이 스스로 이르게 된다.
 
 都(도읍 도) 邑(고을 읍) 華(빛날 화) 夏(여름 하)
-
-도읍은 왕성의 지위를 말한 것이고 화하는 당시 중국을 지칭하던 말이다.
+邑자는 囗(에워쌀 위)자와 巴(꼬리 파)자가 결합
+華자는 艹(풀 초)자와 垂(드리울 수)자가 결합
 
 東(동녘 동) 西(서녘 서) 二(두 이) 京(서울 경)
 
@@ -111,11 +110,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTU2NjkxOCwxNzA2NDMyMDI3LC01ND
-c2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC0xOTYyODE1
-NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC
-0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNjM4LC0zNjIx
-NjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5MTQzMzA2OT
-MsMTcxNzIxMTc4NywtMTEwOTMyNTg0NywtMTkwMDU2NTI3NCwx
-ODI2Mjg0ODM0XX0=
+eyJoaXN0b3J5IjpbMTkyNDMzMDQ3MiwxOTg1NTY2OTE4LDE3MD
+Y0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2
+OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MC
+w4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0
+NTM2MzgsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MT
+gyLDkxNDMzMDY5MywxNzE3MjExNzg3LC0xMTA5MzI1ODQ3LC0x
+OTAwNTY1Mjc0XX0=
 -->
