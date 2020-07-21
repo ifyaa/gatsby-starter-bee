@@ -1,5 +1,5 @@
 ---
-title: '천자문 '
+title: '천자문 020'
 date: 2020-07-15
 category: '천자문'
 draft: false
@@ -71,6 +71,6 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mzg1MjE1LDI0NzIyMTM5NiwxMjAzNz
-c5MzUwLC0xMDU5ODg2NTA0LC00Mjg2NDk3MTNdfQ==
+eyJoaXN0b3J5IjpbLTUwNTM4OTcyOSwyNDcyMjEzOTYsMTIwMz
+c3OTM1MCwtMTA1OTg4NjUwNCwtNDI4NjQ5NzEzXX0=
 -->
