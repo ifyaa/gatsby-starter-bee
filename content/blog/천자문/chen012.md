@@ -1,5 +1,5 @@
 ---
-title: '천자문 '
+title: '천자문 012 '
 date: 2020-07-07
 category: '천자문'
 draft: false
@@ -83,7 +83,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDkwMjU0NSwtNTAyODY0MDYsMTk0Mj
+eyJoaXN0b3J5IjpbMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0Mj
 YzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MDg2NTIzOTEs
 MTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4NDc3LC0xNT
 g0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
