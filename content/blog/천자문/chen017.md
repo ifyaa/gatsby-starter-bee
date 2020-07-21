@@ -1,5 +1,5 @@
 ---
-title: '천자문 1'
+title: '천자문 017'
 date: 2020-07-12
 category: '천자문'
 draft: false
@@ -89,8 +89,8 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQwMTE1NzgsMTk4NjYxNDg4NiwtMT
-U4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5
-OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMj
-ExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1OD
+QxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3
+MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMT
+Y0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
 -->
