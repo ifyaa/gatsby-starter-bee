@@ -4,14 +4,12 @@ date: 2020-07-15
 category: '천자문'
 draft: false
 ---
-```js
 40 사슴과 나뭇군
 
 나뭇군지게 작은 왕사슴시체
 산천에 철마다 싹나고
 공인의 몸에 수건이 있다
 ```js
-
 41寸마디 촌
 
 42小작을 소
@@ -45,9 +43,7 @@ draft: false
 克자는 十(열 십)자와 兄(맏 형)자가 결합
 念자는 今(이제 금)자와 心(마음 심)자가 결합
 作자는 人(사람 인)자와 乍(잠깐 사)자가 결합
-聖자는 耳(귀 이)자와 口(입 구)자, 壬(천간 임)자가 결합
-
-
+聖자는 耳(귀 이)자와 口(입 구)자, 壬(천간 임)자가 결
 ```
 027 德建名立 形端表正 
 028 空谷傳聲 虛堂習聽 
@@ -101,7 +97,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzQwNDQ4LC0xMzg3MTQ1OTE3LDEwNj
-c0MDQ0OCwtMTM4NzE0NTkxNywxMDY3NDA0NDgsMTA2NzQwNDQ4
-XX0=
+eyJoaXN0b3J5IjpbLTQyMzU4OTY5NCwxMDY3NDA0NDgsLTEzOD
+cxNDU5MTcsMTA2NzQwNDQ4LC0xMzg3MTQ1OTE3LDEwNjc0MDQ0
+OCwxMDY3NDA0NDhdfQ==
 -->
