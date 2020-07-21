@@ -4,7 +4,7 @@ date: 2020-07-15
 category: '천자문'
 draft: false
 ---
-40 사슴과 나뭇군
+### 40 사슴과 나뭇군
 
 나뭇군지게 작은 왕사슴시체
 산천에 철마다 싹나고
@@ -97,7 +97,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzU4OTY5NCwxMDY3NDA0NDgsLTEzOD
-cxNDU5MTcsMTA2NzQwNDQ4LC0xMzg3MTQ1OTE3LDEwNjc0MDQ0
-OCwxMDY3NDA0NDhdfQ==
+eyJoaXN0b3J5IjpbLTczODY1NDkzOSwtNDIzNTg5Njk0LDEwNj
+c0MDQ0OCwtMTM4NzE0NTkxNywxMDY3NDA0NDgsLTEzODcxNDU5
+MTcsMTA2NzQwNDQ4LDEwNjc0MDQ0OF19
 -->
