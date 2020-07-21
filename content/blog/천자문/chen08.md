@@ -83,6 +83,7 @@ draft: false
 邑자는 囗(에워쌀 위)자와 巴(꼬리 파)자가 결합
 華자는 艹(풀 초)자와 垂(드리울 수)자가 결합
 垂자는 식물의 잎이 늘어진 모습에서 ‘드리우다’나 ‘늘어뜨리다’라는 뜻을 표현한 글자
+夏자는 頁(머리 혈)자와 夊(천천히 걸을 쇠)자가 결합
 
 東(동녘 동) 西(서녘 서) 二(두 이) 京(서울 경)
 
@@ -111,7 +112,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzU4MjQxMSwxOTg1NTY2OTE4LDE3MD
+eyJoaXN0b3J5IjpbMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MD
 Y0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2
 OTAsLTE5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MC
 w4NTE3Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0
