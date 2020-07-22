@@ -100,28 +100,24 @@ draft: false
 ```js
 背(등 배) 邙(산이름 망) 面(낯 면) 洛(낙수 락)
 
-동경은 북에 북망산이 있고 낙양은 남에 낙천이 있다.
 
 浮(뜰 부) 渭(물이름 위) 據(의지할 거) 涇(물이름 경)
 
-위수에 뜨고 경수를 눌렀으니 장안은 서북에 위천, 경수, 두물이 있었다.
 
 宮(집 궁) 殿(대궐 전) 盤(소반 반) 鬱(울창할 울)
 
-궁전은 울창한 나무 사이에 서린 듯 정하고
 
 樓(다락 루) 觀(볼 관) 飛(날 비) 驚(놀랄 경)
 
-궁전  가운데  있는  물견대는  높아서  올라가면  나는  듯하여  놀란다.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDM5ODM4MCwtMjAzMjE4NDY0NywtMz
-U4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMy
-MDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC
-0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUx
-NzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNj
-M4LC0zNjIxNjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5
-MTQzMzA2OTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzE5NDYsLTIwMzIxODQ2NDcsLTM1OD
+QxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNjQzMjAy
+NywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5MCwtMT
+k2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTcz
+ODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOC
+wtMzYyMTYzOTAwLC0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0
+MzMwNjkzXX0=
 -->
