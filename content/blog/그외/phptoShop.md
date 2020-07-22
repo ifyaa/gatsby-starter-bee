@@ -9,7 +9,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
-
+![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NDM2MjkyLDIxMTk3Mzc4MzVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTcxNTg3ODcsMjExOTczNzgzNV19
 -->
