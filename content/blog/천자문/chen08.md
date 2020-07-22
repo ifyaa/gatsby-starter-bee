@@ -102,11 +102,11 @@ draft: false
 
 동경은 북에 북망산이 있고 낙양은 남에 낙천이 있다.
 
-浮(뜰 부) 渭(산이름 위) 據(의거할 거) 涇(통할 경)
+浮(뜰 부) 渭(물이름 위) 據(의지할 거) 涇(물이름 경)
 
 위수에 뜨고 경수를 눌렀으니 장안은 서북에 위천, 경수, 두물이 있었다.
 
-宮(집 궁) 殿(큰집 전) 盤(서릴 반) 鬱(답답 울)
+宮(집 궁) 殿(대궐 전) 盤(소반 반) 鬱(울창할 울)
 
 궁전은 울창한 나무 사이에 서린 듯 정하고
 
@@ -117,11 +117,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM2MDQ5LC0yMDMyMTg0NjQ3LC0zNT
-g0MTIxMDksMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MDY0MzIw
-MjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLT
-E5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3
-Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2Mz
-gsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkx
-NDMzMDY5M119
+eyJoaXN0b3J5IjpbLTUyMDM5ODM4MCwtMjAzMjE4NDY0NywtMz
+U4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMy
+MDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC
+0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUx
+NzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNj
+M4LC0zNjIxNjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5
+MTQzMzA2OTNdfQ==
 -->
