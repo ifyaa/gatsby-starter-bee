@@ -1,6 +1,6 @@
 ---
-title: "에님"
-date: 2020-07-22
+title: "에니메이트 열공중"
+date: 2020-07-23
 category: "그외"
 draft: false
 ---
@@ -9,5 +9,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4MTQzNTI4XX0=
+eyJoaXN0b3J5IjpbMjExNzMwMjI3N119
 -->
