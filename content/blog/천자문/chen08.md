@@ -88,10 +88,10 @@ draft: false
 東(동녘 동) 西(서녘 서) 二(두 이) 京(서울 경)
 
 ```
- 053 背邙面洛 浮渭據涇 
- 054 宮殿盤鬱 樓觀飛驚
 
 26
+ 053 背邙面洛 浮渭據涇  배망면락 부위경수
+ 054 宮殿盤鬱 樓觀飛驚 궁전반ㅇ
 ```js
 88 父 아버지 부    背(등 배) 浮(뜰 부)
 89 爻 효 효       宮(집 궁)
@@ -113,11 +113,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE5NDYsLTIwMzIxODQ2NDcsLTM1OD
-QxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNjQzMjAy
-NywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5MCwtMT
-k2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTcz
-ODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1MzYzOC
-wtMzYyMTYzOTAwLC0xMDQyNTU5OTM4LC0yNTQyOTkxODIsOTE0
-MzMwNjkzXX0=
+eyJoaXN0b3J5IjpbMTgxNjUzOTg2MSwtMjAzMjE4NDY0NywtMz
+U4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMy
+MDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC
+0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUx
+NzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNj
+M4LC0zNjIxNjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5
+MTQzMzA2OTNdfQ==
 -->
