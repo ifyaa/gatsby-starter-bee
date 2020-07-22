@@ -116,11 +116,13 @@ draft: false
 ##### 串**땅 이름 곶, 꿸 관, 꿰미 천, 꼬챙이 찬**
 觀자는 雚(황새 관)자와 見(볼 견)자가 결합한 모습이다. 雚자는 隹(새 추)자 위에 큰 눈과 눈썹을 그린 것으로 ‘황새’라는 뜻
 敬자는 개와 몽둥이를 함께 그린 것으로 ‘공경하다’라는 뜻
+苟자는 艹(풀 초)자와 句(글귀 구)자가 결합한 모습
+苟자는 개가 주변을 철저히 경계한다는 의미
 ```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTkwOTgxMywxMjQ5NjQzMDgsNzIyMT
+eyJoaXN0b3J5IjpbLTQyMTE1MjgwNiwxMjQ5NjQzMDgsNzIyMT
 U4MjU3LC0zNzYzODg5NDUsMTM4MTU1MDcyLC0yMDMyMTg0NjQ3
 LC0zNTg0MTIxMDksMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MD
 Y0MzIwMjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2
