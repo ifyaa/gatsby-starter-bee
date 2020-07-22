@@ -98,11 +98,11 @@ draft: false
 90 爿 조각 장     樓(다락 루)
 ```
 ```js
-背(등 배) 邙(산이름 망) 面(낯 면) 洛(강이름 락)
+背(등 배) 邙(산이름 망) 面(낯 면) 洛(낙수 락)
 
 동경은 북에 북망산이 있고 낙양은 남에 낙천이 있다.
 
-浮(뜰 부) 渭(강이름 위) 據(의거할 거) 涇(통할 경)
+浮(뜰 부) 渭(산이름 위) 據(의거할 거) 涇(통할 경)
 
 위수에 뜨고 경수를 눌렀으니 장안은 서북에 위천, 경수, 두물이 있었다.
 
@@ -117,7 +117,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODM3MDAyLC0yMDMyMTg0NjQ3LC0zNT
+eyJoaXN0b3J5IjpbLTQ0NzM2MDQ5LC0yMDMyMTg0NjQ3LC0zNT
 g0MTIxMDksMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MDY0MzIw
 MjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLT
 E5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3
