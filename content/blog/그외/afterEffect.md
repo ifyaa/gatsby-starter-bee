@@ -49,15 +49,11 @@ draft: false
 
   
 
-[마스크](https://www.youtube.com/watch?v=lvQgKa0CNkE&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=28)
+[에프트 마스크](https://www.youtube.com/watch?v=lvQgKa0CNkE&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=28)
 
 ![](https://i.ibb.co/CBTQ1Rm/Screen-Shot-2020-07-19-at-9-30-57-PM.png)
 
-  
-
-  
-
-[포토강의](https://www.youtube.com/watch?v=5-RmbfQ6zFY&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=7)
+ 
 
   
 
@@ -148,11 +144,11 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTA1NDM3NCwtMzA1MTUzODkxLDE2Nj
-M0NjE0NjcsNjE2MTM0NTcsLTIwNTI1MTQxMzUsMTAxNDQ0Mzc4
-MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcxNzMsODk2Nj
-U5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC0xNTQ3OTQ0
-MTM1LC0xMTcwODY1NDksMTczNjI5NjAwNywtMTExNTE1MTE4OS
-wxNTA5MTc4MDIyLDY0MzYzMjgzOSwxNzYzMTAyNjIwLDEzNDI4
-NzE4MzRdfQ==
+eyJoaXN0b3J5IjpbMTAxNjkyMTQ1NiwxMzE5MDU0Mzc0LC0zMD
+UxNTM4OTEsMTY2MzQ2MTQ2Nyw2MTYxMzQ1NywtMjA1MjUxNDEz
+NSwxMDE0NDQzNzgyLC05MDY2ODUyMTcsNTk1MjM0MDI4LDQ2OD
+I1NzE3Myw4OTY2NTk2MzQsLTE3Nzg1OTIxNzEsLTE2NTk1MDkw
+ODksLTE1NDc5NDQxMzUsLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC
+0xMTE1MTUxMTg5LDE1MDkxNzgwMjIsNjQzNjMyODM5LDE3NjMx
+MDI2MjBdfQ==
 -->
