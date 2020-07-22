@@ -96,7 +96,7 @@ draft: false
 ```js
 88 父 아버지 부    背(등 배) 浮(뜰 부) 배가 부셔졌다
 89 爻 효 효       宮(집 궁)  궁전문에 붙이고 
-90 爿 조각 장     樓(다락 루) 다락다리를 고쳤다
+90 爿 조각 장     樓(다락 루) 다락다리에 루비를 박았다
 ```
 ```js
 背(등 배) 邙(산이름 망) 面(낯 면) 洛(낙수 락)
@@ -122,11 +122,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3MjE5MDgsMTI0OTY0MzA4LDcyMj
-E1ODI1NywtMzc2Mzg4OTQ1LDEzODE1NTA3MiwtMjAzMjE4NDY0
-NywtMzU4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNz
-A2NDMyMDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2
-NjkwLC0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1Nz
-AsODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5
-NDUzNjM4XX0=
+eyJoaXN0b3J5IjpbNjI0MTkzNjIzLDEyNDk2NDMwOCw3MjIxNT
+gyNTcsLTM3NjM4ODk0NSwxMzgxNTUwNzIsLTIwMzIxODQ2NDcs
+LTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNj
+QzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5
+MCwtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLD
+g1MTczODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1
+MzYzOF19
 -->
