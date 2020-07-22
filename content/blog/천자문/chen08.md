@@ -104,6 +104,7 @@ draft: false
 
 浮(뜰 부) 渭(물이름 위) 據(의지할 거) 涇(물이름 경)
 浮자는 水(물 수)자와 孚(미쁠 부)자가 결합한 모습이다. 孚자는 子(아들 자)자에 爪(손톱 조)자가 결합
+據자는 (손 수)자와 豦(원숭이 거)자가 결합한 모습이다. 豦자는 호랑이와 돼지를 함께 그린 것으로 본래는 ‘멧돼지’를 뜻
 
 
 宮(집 궁) 殿(대궐 전) 盤(소반 반) 鬱(울창할 울)
@@ -115,11 +116,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjM4ODk0NSwxMzgxNTUwNzIsLTIwMz
-IxODQ2NDcsLTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5
-MTgsMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMj
-A0Njc0NjY5MCwtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2
-NTYzNTcwLDg1MTczODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMT
-ksLTg4OTQ1MzYzOCwtMzYyMTYzOTAwLC0xMDQyNTU5OTM4LC0y
-NTQyOTkxODJdfQ==
+eyJoaXN0b3J5IjpbNzIyMTU4MjU3LC0zNzYzODg5NDUsMTM4MT
+U1MDcyLC0yMDMyMTg0NjQ3LC0zNTg0MTIxMDksMTc2MjMzMTk0
+NiwxOTg1NTY2OTE4LDE3MDY0MzIwMjcsLTU0NzY1MjMwNywtMz
+c0MzExMjE5LDIwNDY3NDY2OTAsLTE5NjI4MTU2NTcsMTg5NTEx
+NTg0OSwtMTc2NjU2MzU3MCw4NTE3Mzg1MzYsLTE3NTE1MTgzOD
+QsNDU4NDEwMzE5LC04ODk0NTM2MzgsLTM2MjE2MzkwMCwtMTA0
+MjU1OTkzOF19
 -->
