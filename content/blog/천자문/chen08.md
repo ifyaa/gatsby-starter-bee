@@ -87,15 +87,16 @@ draft: false
 
 東(동녘 동) 西(서녘 서) 二(두 이) 京(서울 경)
 
-동과 서에 두 서울이 있으니 동경은 낙양이고 서경은 장안이다.
 ```
  053 背邙面洛 浮渭據涇 
  054 宮殿盤鬱 樓觀飛驚
 
 26
-88父아버지 부
-89爻효 효
-90爿조각 장
+```js
+88 父 아버지 부    背(등 배) 浮(뜰 부)
+89 爻 효 효       宮(집 궁)
+90 爿 조각 장     樓(다락 루)
+```
 ```js
 背(등 배) 邙(산이름 망) 面(낯 면) 洛(강이름 락)
 
@@ -116,11 +117,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzk3MDc3OSwtMjAzMjE4NDY0NywtMz
-U4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMy
-MDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC
-0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUx
-NzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQxMDMxOSwtODg5NDUzNj
-M4LC0zNjIxNjM5MDAsLTEwNDI1NTk5MzgsLTI1NDI5OTE4Miw5
-MTQzMzA2OTNdfQ==
+eyJoaXN0b3J5IjpbNDA5ODM3MDAyLC0yMDMyMTg0NjQ3LC0zNT
+g0MTIxMDksMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MDY0MzIw
+MjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLT
+E5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3
+Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2Mz
+gsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkx
+NDMzMDY5M119
 -->
