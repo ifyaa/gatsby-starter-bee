@@ -4,6 +4,8 @@ date: 2020-07-18
 category: "그외"
 draft: false
 ---
+[# Effects Puppet](https://www.youtube.com/watch?v=Oy5xQTIwKZc&list=PL5yNm_k-t3GBolbu9zv0A57762gpb1Tc9&index=13)
+![](https://i.ibb.co/8Nt0d7s/image.png =500x)
 [# 3강. 움직이는 달팽이](https://www.youtube.com/watch?v=VsrOs4BNdvA)
 
 [에프트 이펙트 psd사용하여 애니메이션](https://www.youtube.com/watch?v=-54JJ_re6qw)
@@ -146,11 +148,11 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDI0MjIzMiwxMDE2OTIxNDU2LDEzMT
-kwNTQzNzQsLTMwNTE1Mzg5MSwxNjYzNDYxNDY3LDYxNjEzNDU3
-LC0yMDUyNTE0MTM1LDEwMTQ0NDM3ODIsLTkwNjY4NTIxNyw1OT
-UyMzQwMjgsNDY4MjU3MTczLDg5NjY1OTYzNCwtMTc3ODU5MjE3
-MSwtMTY1OTUwOTA4OSwtMTU0Nzk0NDEzNSwtMTE3MDg2NTQ5LD
-E3MzYyOTYwMDcsLTExMTUxNTExODksMTUwOTE3ODAyMiw2NDM2
-MzI4MzldfQ==
+eyJoaXN0b3J5IjpbLTE1MDQ4MTI3NzAsLTYxMDI0MjIzMiwxMD
+E2OTIxNDU2LDEzMTkwNTQzNzQsLTMwNTE1Mzg5MSwxNjYzNDYx
+NDY3LDYxNjEzNDU3LC0yMDUyNTE0MTM1LDEwMTQ0NDM3ODIsLT
+kwNjY4NTIxNyw1OTUyMzQwMjgsNDY4MjU3MTczLDg5NjY1OTYz
+NCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4OSwtMTU0Nzk0NDEzNS
+wtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLTExMTUxNTExODksMTUw
+OTE3ODAyMl19
 -->
