@@ -92,6 +92,7 @@ draft: false
 26
  053 背邙面洛 浮渭據涇  배망면락 부위경수
  054 宮殿盤鬱 樓觀飛驚 궁전반울  루관비경
+ ![](https://i.ibb.co/JxNVQJM/image.png)
 ```js
 88 父 아버지 부    背(등 배) 浮(뜰 부) 배가 물에 뜬다
 89 爻 효 효       宮(집 궁)  궁전문에 붙이고 
@@ -113,11 +114,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODI0NjE0LC0yMDMyMTg0NjQ3LC0zNT
-g0MTIxMDksMTc2MjMzMTk0NiwxOTg1NTY2OTE4LDE3MDY0MzIw
-MjcsLTU0NzY1MjMwNywtMzc0MzExMjE5LDIwNDY3NDY2OTAsLT
-E5NjI4MTU2NTcsMTg5NTExNTg0OSwtMTc2NjU2MzU3MCw4NTE3
-Mzg1MzYsLTE3NTE1MTgzODQsNDU4NDEwMzE5LC04ODk0NTM2Mz
-gsLTM2MjE2MzkwMCwtMTA0MjU1OTkzOCwtMjU0Mjk5MTgyLDkx
-NDMzMDY5M119
+eyJoaXN0b3J5IjpbLTIxMTM2NjU4NDUsLTIwMzIxODQ2NDcsLT
+M1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNjQz
+MjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5MC
+wtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1
+MTczODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1Mz
+YzOCwtMzYyMTYzOTAwLC0xMDQyNTU5OTM4LC0yNTQyOTkxODIs
+OTE0MzMwNjkzXX0=
 -->
