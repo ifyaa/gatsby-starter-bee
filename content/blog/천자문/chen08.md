@@ -91,11 +91,11 @@ draft: false
 
 26
  053 背邙面洛 浮渭據涇  배망면락 부위경수
- 054 宮殿盤鬱 樓觀飛驚 궁전반ㅇ
+ 054 宮殿盤鬱 樓觀飛驚 궁전반울  루관비경
 ```js
 88 父 아버지 부    背(등 배) 浮(뜰 부)
-89 爻 효 효       宮(집 궁)
-90 爿 조각 장     樓(다락 루)
+89 爻 효 효       宮(집 궁)  궁전문에 붙이고 
+90 爿 조각 장     樓(다락 루) 다락을 
 ```
 ```js
 背(등 배) 邙(산이름 망) 面(낯 면) 洛(낙수 락)
@@ -113,7 +113,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjUzOTg2MSwtMjAzMjE4NDY0NywtMz
+eyJoaXN0b3J5IjpbMTYyMjU0NTYwMCwtMjAzMjE4NDY0NywtMz
 U4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMy
 MDI3LC01NDc2NTIzMDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC
 0xOTYyODE1NjU3LDE4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUx
