@@ -89,7 +89,8 @@ draft: false
 
 동과 서에 두 서울이 있으니 동경은 낙양이고 서경은 장안이다.
 ```
- 053 背邙面洛 浮渭據涇 054 宮殿盤鬱 樓觀飛驚팔씨름은 명예를 지킨다
+ 053 背邙面洛 浮渭據涇 
+ 054 宮殿盤鬱 樓觀飛驚
 
 26
 ```js
@@ -112,7 +113,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk4NzUxODAsLTM1ODQxMjEwOSwxNz
+eyJoaXN0b3J5IjpbLTIwMzIxODQ2NDcsLTM1ODQxMjEwOSwxNz
 YyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNjQzMjAyNywtNTQ3NjUy
 MzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5MCwtMTk2MjgxNTY1Ny
 wxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1
