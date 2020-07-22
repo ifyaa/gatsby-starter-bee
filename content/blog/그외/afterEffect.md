@@ -4,6 +4,8 @@ date: 2020-07-18
 category: "그외"
 draft: false
 ---
+[# 3강. 움직이는 달팽이](https://www.youtube.com/watch?v=VsrOs4BNdvA)
+
 [에프트 이펙트 psd사용하여 애니메이션](https://www.youtube.com/watch?v=-54JJ_re6qw)
 ![](https://i.ibb.co/vHG29Rt/image.png)
 
@@ -144,11 +146,11 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjkyMTQ1NiwxMzE5MDU0Mzc0LC0zMD
-UxNTM4OTEsMTY2MzQ2MTQ2Nyw2MTYxMzQ1NywtMjA1MjUxNDEz
-NSwxMDE0NDQzNzgyLC05MDY2ODUyMTcsNTk1MjM0MDI4LDQ2OD
-I1NzE3Myw4OTY2NTk2MzQsLTE3Nzg1OTIxNzEsLTE2NTk1MDkw
-ODksLTE1NDc5NDQxMzUsLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC
-0xMTE1MTUxMTg5LDE1MDkxNzgwMjIsNjQzNjMyODM5LDE3NjMx
-MDI2MjBdfQ==
+eyJoaXN0b3J5IjpbLTYxMDI0MjIzMiwxMDE2OTIxNDU2LDEzMT
+kwNTQzNzQsLTMwNTE1Mzg5MSwxNjYzNDYxNDY3LDYxNjEzNDU3
+LC0yMDUyNTE0MTM1LDEwMTQ0NDM3ODIsLTkwNjY4NTIxNyw1OT
+UyMzQwMjgsNDY4MjU3MTczLDg5NjY1OTYzNCwtMTc3ODU5MjE3
+MSwtMTY1OTUwOTA4OSwtMTU0Nzk0NDEzNSwtMTE3MDg2NTQ5LD
+E3MzYyOTYwMDcsLTExMTUxNTExODksMTUwOTE3ODAyMiw2NDM2
+MzI4MzldfQ==
 -->
