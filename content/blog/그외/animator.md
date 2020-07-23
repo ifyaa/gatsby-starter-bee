@@ -6,6 +6,10 @@ draft: false
 ---
 [열공중](https://www.youtube.com/watch?v=bfgkNPFva74&t=6s)
 
+[동영상 강의 ](https://www.youtube.com/watch?v=ZJqNLtyTKJQ&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=27)
+
+[# 3강. 움직이는 달팽이](https://www.youtube.com/watch?v=VsrOs4BNdvA)
+
 [애니메이션characteranimator](https://helpx.adobe.com/kr/adobe-character-animator/using/overview.html)
 
 ![](https://i.ibb.co/BwJbs9c/image.png =500x)
@@ -95,5 +99,5 @@ draft: false
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDI0NTI3NiwyMTE3MzAyMjc3XX0=
+eyJoaXN0b3J5IjpbMTQzMDY2MDkzOSwyMTE3MzAyMjc3XX0=
 -->
