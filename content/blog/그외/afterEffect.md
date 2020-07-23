@@ -11,31 +11,8 @@ draft: false
 [에프트 이펙트 psd사용하여 애니메이션](https://www.youtube.com/watch?v=-54JJ_re6qw)
 ![](https://i.ibb.co/vHG29Rt/image.png)
 
-[소리일치하기](https://helpx.adobe.com/kr/adobe-character-animator/how-to/recording-editing-performances.html?playlist=/services/playlist.helpx/products:SG_CHARACTERANIMATOR/learn-path:get-started/set-header:ccx-designer/playlist:orientation/ko_KR.json&ref=helpx.adobe.com)
 
-  
 
-![](https://i.ibb.co/8bf2GcG/image.png =250x)
-
-![](https://i.ibb.co/WBJYSxK/image.png =250x)
-
-![](https://i.ibb.co/qMmywrw/image.png =250x)
-
-![](https://i.ibb.co/nDQRXRc/image.png =250x)
-
-![](https://i.ibb.co/BNM7ydm/image.png =250x)
-
-![](https://i.ibb.co/DCzTt2B/image.png =250x)
-
-![](https://i.ibb.co/3f45RvG/image.png =250x)
-
-![](https://i.ibb.co/c8443cZ/image.png =250x )
-
-![](https://i.ibb.co/g6F8GdT/image.png =250x)
-
-![](https://i.ibb.co/ZK48vkv/image.png =250x)
-
-  
 
   
 
@@ -126,11 +103,11 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxODYwMjIsLTE1MDQ4MTI3NzAsLTYxMD
-I0MjIzMiwxMDE2OTIxNDU2LDEzMTkwNTQzNzQsLTMwNTE1Mzg5
-MSwxNjYzNDYxNDY3LDYxNjEzNDU3LC0yMDUyNTE0MTM1LDEwMT
-Q0NDM3ODIsLTkwNjY4NTIxNyw1OTUyMzQwMjgsNDY4MjU3MTcz
-LDg5NjY1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4OSwtMT
-U0Nzk0NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLTExMTUx
-NTExODldfQ==
+eyJoaXN0b3J5IjpbMTI0MzkyMTQzNCwtMTUwNDgxMjc3MCwtNj
+EwMjQyMjMyLDEwMTY5MjE0NTYsMTMxOTA1NDM3NCwtMzA1MTUz
+ODkxLDE2NjM0NjE0NjcsNjE2MTM0NTcsLTIwNTI1MTQxMzUsMT
+AxNDQ0Mzc4MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcx
+NzMsODk2NjU5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC
+0xNTQ3OTQ0MTM1LC0xMTcwODY1NDksMTczNjI5NjAwNywtMTEx
+NTE1MTE4OV19
 -->
