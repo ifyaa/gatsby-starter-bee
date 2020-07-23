@@ -4,6 +4,9 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+[기초강의동영상](https://www.youtube.com/watch?v=NqLK-OibL5A&list=PLF3xwVWbSafz2UUEFr8BVkjQw6V806kdd)
+![](https://i.ibb.co/ZgQ9VY8/image.png)
+
 [# 베스트 100 포토샵 텍스트](https://design.tutsplus.com/ko/articles/100-best-text-effect-tutorials--cms-28650)
 ![image](https://i.ibb.co/t4hWhXJ/image.png =500x)
 
@@ -15,6 +18,6 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTg0ODMzNiwtMTg5NzE1ODc4NywyMT
-E5NzM3ODM1XX0=
+eyJoaXN0b3J5IjpbODY2NzYzODQ4LDEzOTk4NDgzMzYsLTE4OT
+cxNTg3ODcsMjExOTczNzgzNV19
 -->
