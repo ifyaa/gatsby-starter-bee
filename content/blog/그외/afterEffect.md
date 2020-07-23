@@ -15,9 +15,9 @@ draft: false
 
   
 
-![](https://i.ibb.co/8bf2GcG/image.png)
+![](https://i.ibb.co/8bf2GcG/image.png =250x)
 
-![](https://i.ibb.co/WBJYSxK/image.png)
+![](https://i.ibb.co/WBJYSxK/image.png =250x)
 
 ![](https://i.ibb.co/qMmywrw/image.png =250x)
 
@@ -133,26 +133,26 @@ draft: false
 
 심볼은  그래픽으로  저장하고 q를  눌러야  이동포인터를  찾을  수  있다
 
-![](https://i.ibb.co/gdVcvVH/image.png =500x)
+![](https://i.ibb.co/gdVcvVH/image.png  =250x)
 
-![](https://i.ibb.co/cbvfxBw/image.png =500x)
+![](https://i.ibb.co/cbvfxBw/image.png  =250x)
 
-![](https://i.ibb.co/BNbYYTW/image.png =500x)
+![](https://i.ibb.co/BNbYYTW/image.png  =250x)
 
-![](https://i.ibb.co/dMPr57Y/image.png =500x)
+![](https://i.ibb.co/dMPr57Y/image.png  =250x)
 
-![](https://i.ibb.co/SQYkdmM/image.png =500x)
+![](https://i.ibb.co/SQYkdmM/image.png  =250x)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzQ3MTk3MCwtMTUwNDgxMjc3MCwtNj
-EwMjQyMjMyLDEwMTY5MjE0NTYsMTMxOTA1NDM3NCwtMzA1MTUz
-ODkxLDE2NjM0NjE0NjcsNjE2MTM0NTcsLTIwNTI1MTQxMzUsMT
-AxNDQ0Mzc4MiwtOTA2Njg1MjE3LDU5NTIzNDAyOCw0NjgyNTcx
-NzMsODk2NjU5NjM0LC0xNzc4NTkyMTcxLC0xNjU5NTA5MDg5LC
-0xNTQ3OTQ0MTM1LC0xMTcwODY1NDksMTczNjI5NjAwNywtMTEx
-NTE1MTE4OV19
+eyJoaXN0b3J5IjpbLTIxMzE3NTQwNzIsLTE1MDQ4MTI3NzAsLT
+YxMDI0MjIzMiwxMDE2OTIxNDU2LDEzMTkwNTQzNzQsLTMwNTE1
+Mzg5MSwxNjYzNDYxNDY3LDYxNjEzNDU3LC0yMDUyNTE0MTM1LD
+EwMTQ0NDM3ODIsLTkwNjY4NTIxNyw1OTUyMzQwMjgsNDY4MjU3
+MTczLDg5NjY1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4OS
+wtMTU0Nzk0NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLTEx
+MTUxNTExODldfQ==
 -->
