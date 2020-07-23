@@ -4,6 +4,7 @@ date: 2020-07-15
 category: '천자문'
 draft: false
 ---
+
 ## 02  이발소 
 
 비수를 10개 상자에 담아감추고
@@ -102,7 +103,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Njk2OTc2OSwtMTMzNDM0MzI2Nyw1OT
+eyJoaXN0b3J5IjpbMTA5MDkzNTM2NSwtMTMzNDM0MzI2Nyw1OT
 E0NjE2NjQsMTM0NTc0Mzg2MiwzMjgxNjgwMDMsMTk2NjI0OTA5
 LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5MDcsOD
 cxNjE2MjE1LDI0NDc0NzA4NV19
