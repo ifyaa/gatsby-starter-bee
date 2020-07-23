@@ -39,9 +39,8 @@ draft: false
 
   
 
-[눈누 글꼴](https://noonnu.cc/)
 
-![](https://i.ibb.co/0VmXSx5/Screen-Shot-2020-07-19-at-8-25-14-PM.png =350x)
+
 
   
 
@@ -91,20 +90,6 @@ draft: false
 
 ![](https://i.ibb.co/3s4JKSS/image.png)
 
-  
-
-인트로 샘플 프리미어](https://www.motionelements.com/ko/search/mg-template?sort=popular)
-
-![](https://i.ibb.co/QCccymF/image.png =500x)
-
-  
-
-
-
-
-  
-
-  
 
 [모션 그래픽 (움직임)](https://www.youtube.com/watch?v=bfgkNPFva74)
 
@@ -141,11 +126,11 @@ draft: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMzEwNzk4LC0xNTA0ODEyNzcwLC02MT
-AyNDIyMzIsMTAxNjkyMTQ1NiwxMzE5MDU0Mzc0LC0zMDUxNTM4
-OTEsMTY2MzQ2MTQ2Nyw2MTYxMzQ1NywtMjA1MjUxNDEzNSwxMD
-E0NDQzNzgyLC05MDY2ODUyMTcsNTk1MjM0MDI4LDQ2ODI1NzE3
-Myw4OTY2NTk2MzQsLTE3Nzg1OTIxNzEsLTE2NTk1MDkwODksLT
-E1NDc5NDQxMzUsLTExNzA4NjU0OSwxNzM2Mjk2MDA3LC0xMTE1
-MTUxMTg5XX0=
+eyJoaXN0b3J5IjpbNDQxODYwMjIsLTE1MDQ4MTI3NzAsLTYxMD
+I0MjIzMiwxMDE2OTIxNDU2LDEzMTkwNTQzNzQsLTMwNTE1Mzg5
+MSwxNjYzNDYxNDY3LDYxNjEzNDU3LC0yMDUyNTE0MTM1LDEwMT
+Q0NDM3ODIsLTkwNjY4NTIxNyw1OTUyMzQwMjgsNDY4MjU3MTcz
+LDg5NjY1OTYzNCwtMTc3ODU5MjE3MSwtMTY1OTUwOTA4OSwtMT
+U0Nzk0NDEzNSwtMTE3MDg2NTQ5LDE3MzYyOTYwMDcsLTExMTUx
+NTExODldfQ==
 -->
