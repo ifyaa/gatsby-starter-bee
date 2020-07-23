@@ -4,7 +4,7 @@ date: 2020-07-14
 category: '19단'
 draft: false
 ---
-[enter link description here](https://ko.wikipedia.org/wiki/19%EB%8B%A8)
+[수학자 존 레슬리(John Leslie)는 학생들에게 25×25단을 외울 것을 권했다](https://ko.wikipedia.org/wiki/19%EB%8B%A8)
 ```js
 19단의 계산
 
@@ -46,5 +46,5 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTM5NzM3LDExMTc1NTUzOTFdfQ==
+eyJoaXN0b3J5IjpbNzY1NjM5NTY4LDExMTc1NTUzOTFdfQ==
 -->
