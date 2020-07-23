@@ -4,6 +4,16 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+
+[눈누 글꼴](https://noonnu.cc/)
+
+![](https://i.ibb.co/0VmXSx5/Screen-Shot-2020-07-19-at-8-25-14-PM.png =350x)
+
+
+인트로 샘플 프리미어](https://www.motionelements.com/ko/search/mg-template?sort=popular)
+
+![](https://i.ibb.co/QCccymF/image.png =300x)
+
 [무료 디자인](https://www.flaticon.com/)
 왕관표시 없는것에 한하여 무료임
 ![](https://i.ibb.co/SKrtM5t/image.png =300x)
@@ -18,5 +28,5 @@ draft: false
 
 ![](https://i.ibb.co/h7fmMg6/image.png =300x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzczMTM3MiwxMzEyNTc1ODkzXX0=
+eyJoaXN0b3J5IjpbNDk3NjY2MjU0LDEzMTI1NzU4OTNdfQ==
 -->
