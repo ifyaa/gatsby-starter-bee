@@ -5,7 +5,7 @@ category: "그외"
 draft: false
 ---
 [포토샾에서 3d 참고사이트 검색](https://www.google.com/search?q=photoshop%202020%20cc%203d&oq=photoshop%202020%20cc%203d&aqs=chrome..69i57j0l3.11374j0j4&sourceid=chrome&ie=UTF-8)
-[열공중](https://blogs.adobe.com/creativedialogue/design-ko/how-to-create-3d-models-in-photoshop/)
+[열공중  3d](https://blogs.adobe.com/creativedialogue/design-ko/how-to-create-3d-models-in-photoshop/)
 
 [3d라고 하는데 ..일단 만들어보고](https://www.youtube.com/watch?v=rrYBB5oyHyg)
 ![](https://i.ibb.co/1QX4ZpX/image.png)
@@ -27,7 +27,7 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjg0NTAwNSw3ODkwNzcyNzcsLTU3OD
-EwOTk4NywxODg0ODYwNzQ5LDg2Njc2Mzg0OCwxMzk5ODQ4MzM2
-LC0xODk3MTU4Nzg3LDIxMTk3Mzc4MzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA3MjQyODYsNzg5MDc3Mjc3LC01Nz
+gxMDk5ODcsMTg4NDg2MDc0OSw4NjY3NjM4NDgsMTM5OTg0ODMz
+NiwtMTg5NzE1ODc4NywyMTE5NzM3ODM1XX0=
 -->
