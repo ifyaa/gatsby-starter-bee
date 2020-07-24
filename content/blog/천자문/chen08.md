@@ -29,8 +29,8 @@ draft: false
 ```js
 81比견줄 비  性(성품 성) 성질이 착하다
 82毛털 모    心(마음 심)   털모자는 심성이 고약하다
-83氏성씨 씨   守(지킬 수)  모씨아저씨는 수시로 이긴다
-84气기운 기  逐(쫓을 축)   모씨는 기운이 남아서 돼지를 쫒아가던 사람이다
+83氏성씨 씨   守(지킬 수)  성씨아저씨는 수시로 이긴다
+84气기운 기  逐(쫓을 축)   성씨는 기운이 남아서 돼지를 쫒아가던 사람이다
 ```
 
 049 性靜情逸 心動神疲 성징정일 심동신피
@@ -117,11 +117,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzIxMzUzMiw2MjQxOTM2MjMsMTI0OT
-Y0MzA4LDcyMjE1ODI1NywtMzc2Mzg4OTQ1LDEzODE1NTA3Miwt
-MjAzMjE4NDY0NywtMzU4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NT
-U2NjkxOCwxNzA2NDMyMDI3LC01NDc2NTIzMDcsLTM3NDMxMTIx
-OSwyMDQ2NzQ2NjkwLC0xOTYyODE1NjU3LDE4OTUxMTU4NDksLT
-E3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQx
-MDMxOV19
+eyJoaXN0b3J5IjpbLTE4NzUyNTgzNjQsLTk3MzIxMzUzMiw2Mj
+QxOTM2MjMsMTI0OTY0MzA4LDcyMjE1ODI1NywtMzc2Mzg4OTQ1
+LDEzODE1NTA3MiwtMjAzMjE4NDY0NywtMzU4NDEyMTA5LDE3Nj
+IzMzE5NDYsMTk4NTU2NjkxOCwxNzA2NDMyMDI3LC01NDc2NTIz
+MDcsLTM3NDMxMTIxOSwyMDQ2NzQ2NjkwLC0xOTYyODE1NjU3LD
+E4OTUxMTU4NDksLTE3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUx
+NTE4Mzg0XX0=
 -->
