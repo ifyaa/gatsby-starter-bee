@@ -44,6 +44,7 @@ draft: false
 
 畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
 彩자는 采(캘 채)자와 彡(터럭 삼)자가 결합
+靈자를 보면 雨자와 口(입 구)자, 示(보일 시)자가
 
 丙(남녘 병) 舍(집 사) 傍(곁 방) 啓(열 계)
 
@@ -92,10 +93,10 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc4NTU1MzYsMTAxOTc2ODczOSw3ND
-M1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQy
-ODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMxLDQyMT
-Q4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTks
-NDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03Mz
-EzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbLTk3NzUxNjMzNiwxMDE5NzY4NzM5LDc0Mz
+UwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4
+NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxND
+g3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0
+MTc5NTM1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMT
+MxMjk0NF19
 -->
