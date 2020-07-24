@@ -4,6 +4,7 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+
 [3dace](https://cvl-demos.cs.nott.ac.uk/vrn/view.php?name=../59b415560b915)
 ![](https://i.ibb.co/FJ96CtP/image.png =500x)
 [포토샾에서 3d 참고사이트 검색](https://www.google.com/search?q=photoshop%202020%20cc%203d&oq=photoshop%202020%20cc%203d&aqs=chrome..69i57j0l3.11374j0j4&sourceid=chrome&ie=UTF-8)
@@ -29,7 +30,8 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NDMxMTM5LC0xODAwNzI0Mjg2LDc4OT
-A3NzI3NywtNTc4MTA5OTg3LDE4ODQ4NjA3NDksODY2NzYzODQ4
-LDEzOTk4NDgzMzYsLTE4OTcxNTg3ODcsMjExOTczNzgzNV19
+eyJoaXN0b3J5IjpbMTUzNTUzNjMzNyw1NTg0MzExMzksLTE4MD
+A3MjQyODYsNzg5MDc3Mjc3LC01NzgxMDk5ODcsMTg4NDg2MDc0
+OSw4NjY3NjM4NDgsMTM5OTg0ODMzNiwtMTg5NzE1ODc4NywyMT
+E5NzM3ODM1XX0=
 -->
