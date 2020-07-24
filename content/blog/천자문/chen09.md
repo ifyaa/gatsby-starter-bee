@@ -36,6 +36,7 @@ draft: false
 ```
 ```js
 圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
+圖자는 囗(에운담 위)자와 鄙(더러울 비)자의 생략자가 결합한 모습이다. 鄙자는 중국의 변방 지역을 뜻하는 글자로 ‘더럽다’나 ‘변방 지역’이라는 뜻
 
 畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
 
@@ -86,9 +87,9 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
-c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
-LDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNT
-E0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4
-LC03MzEzMTI5NDRdfQ==
+eyJoaXN0b3J5IjpbMTU3NTQ1NTQ1NSwtMTYxNTY1NDgxLDE4MD
+k0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3
+LC0xNjk0NTI1MzEsNDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2ND
+A0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUs
+LTEwNjYzNDAwODgsLTczMTMxMjk0NF19
 -->
