@@ -49,6 +49,7 @@ draft: false
 
 丙(남녘 병) 舍(집 사) 傍(곁 방) 啓(열 계)
 舍자는 舌(혀 설)자와 人(사람 인)자가 결합
+傍자는 人(사람 인)자와 旁(곁 방)자가 결합한 모습이다. 旁자는 ‘두루’나 ‘곁’, ‘옆’이라는 뜻
 
 甲(갑옷 갑) 帳(장막 장) 對(마주할 대) 楹(기둥 영)
 
@@ -95,7 +96,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODkxNjU1NiwxMDE5NzY4NzM5LDc0Mz
+eyJoaXN0b3J5IjpbLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0Mz
 UwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4
 NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxND
 g3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0
