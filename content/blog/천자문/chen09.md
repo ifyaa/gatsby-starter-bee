@@ -29,7 +29,7 @@ draft: false
 
 27
 
-圖(그림 도) 寫(베낄 사) 禽(날짐승 금) 獸(짐승 수)
+圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
 
 궁전 내부에는 유명한 화가들이 그린 그림 조각 등으로 장식되어 있다.
 
@@ -41,7 +41,7 @@ draft: false
 
 병사 곁에 통고를 열어 궁전 내를 출입하는 사람들의 편리를 도모하였다.
 
-甲(갑옷 갑) 帳(휘장 장) 對(대답할 대) 楹(기둥 영)
+甲(갑옷 갑) 帳(장막 장) 對(마주할 대) 楹(기둥 영)
 
 아름다운 갑장이 기둥을 대하였으니 동방 삭이 갑장을 지어 임금이 잠시 정지하는 곳이다.
 
@@ -82,9 +82,9 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNj
-Q1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAs
-Nzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1Mz
-UzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4OCwtNzMxMzEyOTQ0
-XX0=
+eyJoaXN0b3J5IjpbLTEwNTY2Mzk1MzYsMTgwOTQ1NTc3MSwxMj
+M3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUz
+MSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
+UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
+OCwtNzMxMzEyOTQ0XX0=
 -->
