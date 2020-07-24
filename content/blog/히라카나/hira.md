@@ -1,5 +1,5 @@
 ---
-title: 'ありと きりぎりす'
+title: ’개미와 베짱이'
 date: 2020-07-13
 category: '히라카나'
 draft: false
@@ -32,8 +32,6 @@ draft: false
 
 ありたち　だけが
 
-  
-
 はたらいています
 
 あついのに　はたらくなんて。　たべ
@@ -45,26 +43,6 @@ draft: false
 たちを　ながめました
 ```
 07-16
-```
-れつから
-
-おくれて
-
-たべものを.
-
-おもそうに
-
-はこんでいる　 ありが います
-
-「きみ。ここで 　あそばないか？」
-
-「ありがとぅ。でも　 まだ 　しごとが
-
-のこつているから。
-
-ありは 　あせびつしよりです。
-```
-
 
 ![](https://i.ibb.co/XCjXJh3/ttt.png =250x)
 ```js
@@ -119,7 +97,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg2NjI0NjMsLTEwMTQ4ODY2MDUsMT
+eyJoaXN0b3J5IjpbLTExNDIwMTM4NjEsLTEwMTQ4ODY2MDUsMT
 g5MDE1ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMw
 NjIsMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MD
 A4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAx
