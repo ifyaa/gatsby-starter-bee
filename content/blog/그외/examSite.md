@@ -4,6 +4,7 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+[Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0)
 
 [눈누 글꼴](https://noonnu.cc/)
 
@@ -29,5 +30,5 @@ draft: false
 
 ![](https://i.ibb.co/h7fmMg6/image.png =300x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5MjgwOTYsMTMxMjU3NTg5M119
+eyJoaXN0b3J5IjpbMTA3NzQ5Mzc2NSwxMzEyNTc1ODkzXX0=
 -->
