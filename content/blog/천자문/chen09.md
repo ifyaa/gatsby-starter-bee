@@ -29,28 +29,21 @@ draft: false
 055 圖寫禽獸 畫彩仙靈 
 056 丙舍傍啟 甲帳對楹 
 ```js
-91片조각 편
-92牙어금니 아
-93牛소 우
-94犬개 견
+91片조각 편   圖(그림 도)
+92牙어금니 아 畵(그림 화)
+93牛소 우    丙(남녘 병)
+94犬개 견    甲(갑옷 갑)
 ```
-
 ```js
 圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
 
-궁전 내부에는 유명한 화가들이 그린 그림 조각 등으로 장식되어 있다.
-
 畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
-
-신선과 신령의 그림도 화려하게 채색되어 있다.
 
 丙(남녘 병) 舍(집 사) 傍(곁 방) 啓(열 계)
 
-병사 곁에 통고를 열어 궁전 내를 출입하는 사람들의 편리를 도모하였다.
-
 甲(갑옷 갑) 帳(장막 장) 對(마주할 대) 楹(기둥 영)
 
-아름다운 갑장이 기둥을 대하였으니 동방 삭이 갑장을 지어 임금이 잠시 정지하는 곳이다.
+
 ```
 057 肆筵設席 鼓瑟吹笙 058 升階納陛 弁轉疑星 
 
@@ -93,9 +86,9 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MTA0MTAwLDE4MDk0NTU3NzEsMTIzNz
-kxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEs
-NDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MT
-Q1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAwODgs
-LTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbLTE4MzI0NzMzNTksMTgwOTQ1NTc3MSwxMj
+M3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUz
+MSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
+UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
+OCwtNzMxMzEyOTQ0XX0=
 -->
