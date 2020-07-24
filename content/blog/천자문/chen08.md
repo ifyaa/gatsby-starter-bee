@@ -25,10 +25,6 @@ draft: false
 90爿조각 장
 ```
 
-鳴鳳在樹  
-白駒食場
-化被草木
-賴及萬方
 ![](https://i.ibb.co/HG896Z8/image.png)
 ```js
 81比견줄 비  性(성품 성) 성질이 착하다
@@ -121,7 +117,7 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk2NzA5ODYsNjI0MTkzNjIzLDEyND
+eyJoaXN0b3J5IjpbLTExMzk4NTU1NTUsNjI0MTkzNjIzLDEyND
 k2NDMwOCw3MjIxNTgyNTcsLTM3NjM4ODk0NSwxMzgxNTUwNzIs
 LTIwMzIxODQ2NDcsLTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5OD
 U1NjY5MTgsMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEy
