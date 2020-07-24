@@ -34,7 +34,7 @@ draft: false
 056 丙舍傍啟 甲帳對楹 병사방계 갑장대영
 ```js
 91片조각 편   圖(지도 도)  조각에  지도가
-92牙어금니 아 畵(그림 화)  어금니 그리미 그려져있고
+92牙어금니 아 畵(그림 화)  화를 내면 어금니가 아프다
 93牛소 우    丙(남녘 병)   소는 병들어 아프고
 94犬개 견    甲(갑옷 갑)   개는 갑옷을 입었다
 ```
@@ -101,7 +101,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDE1OTY4MywtODU4ODk4NDg3LC03ND
+eyJoaXN0b3J5IjpbLTE1NzM0NTE1NSwtODU4ODk4NDg3LC03ND
 c1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4
 MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3LDgxNz
 I5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMs
