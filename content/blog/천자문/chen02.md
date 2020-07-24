@@ -1,8 +1,8 @@
----
+---ㅎ
 title: "천자문 02"
-date: 2020-07-15
+date: 2020-  07-15
 category: '천자문'
-draft: false
+draftㅏㅎ: false
 ---
 
 ## 02  이발소 
@@ -32,13 +32,13 @@ draft: false
 ```js
 21 匕 비수 비   弔(슬퍼할 조) 비수로 조심해서 머리를 깍으니 안 슬프다
 22 匚 상자 방   周(두루 주)  상자에는 주로 비수가 들어있다
-23 匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자석에있다
+23 ㅜ匸 감출 혜   坐(앉을 좌)  감춘것은 앉은자석에있다
 24 十 열 십     垂(드리울 수) 열개의 수건이 있다
 ```
-013 弔民伐罪 周發殷湯 조민벌죄 주발은탕
+013 弔民伐罪ㅓ 周發殷湯 조민벌죄 주발은탕
 014 坐朝問道 垂拱平章 좌조문도 수공평장
 ```js
-弔(슬퍼할 조) 民(백성 민) 伐(칠 벌) 罪(허물 죄)
+弔(ㅑㅎ슬퍼할 조) 民(백성 민) 伐(칠 벌) 罪(허물 죄)
 罪자는 网(그물 망)자와 非(아닐 비)자가 결합
 
 周(두루 주) 發(필 발) 殷(나라이름 은) 湯(끓을 탕)
@@ -103,8 +103,8 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDkzNTM2NSwtMTMzNDM0MzI2Nyw1OT
-E0NjE2NjQsMTM0NTc0Mzg2MiwzMjgxNjgwMDMsMTk2NjI0OTA5
-LC0xMjg1MTk0MzIzLC0yMzIwNDQzODksLTEwNTI2NTk5MDcsOD
-cxNjE2MjE1LDI0NDc0NzA4NV19
+eyJoaXN0b3J5IjpbLTMzNjc0MDkxOCwxMDkwOTM1MzY1LDU5MT
+Q2MTY2NCwxMzQ1NzQzODYyLDMyODE2ODAwMywxOTY2MjQ5MDks
+LTEyODUxOTQzMjMsLTIzMjA0NDM4OSwtMTA1MjY1OTkwNyw4Nz
+E2MTYyMTUsMjQ0NzQ3MDg1XX0=
 -->
