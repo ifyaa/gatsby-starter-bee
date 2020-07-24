@@ -23,7 +23,7 @@ draft: false
 
 ```
 조각장 반대 편
-소와       어금니 아픈개를 끌고 
+소와       어금니 아픈개를 끌고 공항에간다
 개목걸이는 검은 옥이고 소는  오이를 먹고
 기와접시에 생감
 ![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
@@ -101,10 +101,10 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI4NjIyNjIsLTg1ODg5ODQ4NywtNz
-Q3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0
-ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MT
-cyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMz
-LC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNSwtMTYxMD
-E4NDAxNSwtMTA2NjM0MDA4OCwtNzMxMzEyOTQ0XX0=
+eyJoaXN0b3J5IjpbMTA5MDkwMzMxNCwtODU4ODk4NDg3LC03ND
+c1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4
+MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3LDgxNz
+I5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzMs
+LTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OTUzNTM1LC0xNjEwMT
+g0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5NDRdfQ==
 -->
