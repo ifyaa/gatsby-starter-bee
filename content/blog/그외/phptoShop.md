@@ -6,6 +6,9 @@ draft: false
 ---
 [# 3D Photoshop Tutorials](https://photoshoptrainingchannel.com/3d-photoshop-tutorials/)
 ![](https://i.ibb.co/xGr15h5/image.png =500x)
+![](https://i.ibb.co/nfW85Vy/image.png =500x)
+
+
 [3dace](https://cvl-demos.cs.nott.ac.uk/vrn/view.php?name=../59b415560b915)
 ![](https://i.ibb.co/FJ96CtP/image.png =500x)
 [포토샾에서 3d 참고사이트 검색](https://www.google.com/search?q=photoshop%202020%20cc%203d&oq=photoshop%202020%20cc%203d&aqs=chrome..69i57j0l3.11374j0j4&sourceid=chrome&ie=UTF-8)
@@ -31,8 +34,8 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3MDgzOTI1LDU1ODQzMTEzOSwtMTgwMD
-cyNDI4Niw3ODkwNzcyNzcsLTU3ODEwOTk4NywxODg0ODYwNzQ5
-LDg2Njc2Mzg0OCwxMzk5ODQ4MzM2LC0xODk3MTU4Nzg3LDIxMT
-k3Mzc4MzVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzI2NTQwOTcsNDA3MDgzOTI1LDU1OD
+QzMTEzOSwtMTgwMDcyNDI4Niw3ODkwNzcyNzcsLTU3ODEwOTk4
+NywxODg0ODYwNzQ5LDg2Njc2Mzg0OCwxMzk5ODQ4MzM2LC0xOD
+k3MTU4Nzg3LDIxMTk3Mzc4MzVdfQ==
 -->
