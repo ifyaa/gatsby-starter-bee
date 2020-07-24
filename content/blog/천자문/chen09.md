@@ -37,6 +37,7 @@ draft: false
 ```js
 圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
 圖자는 囗(에운담 위)자와 鄙(더러울 비)자의 생략자가 결합한 모습이다. 鄙자는 중국의 변방 지역을 뜻하는 글자로 ‘더럽다’나 ‘변방 지역’이라는 뜻
+寫자는 宀(집 면)자와 舃(까치 석)자가 결합한 모습이다. 舃자는 ‘까치’라는 뜻이 있지만, 고대에는 나무로 만든 ‘신발’을 뜻
 
 畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
 
@@ -87,9 +88,9 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTQ1NTQ1NSwtMTYxNTY1NDgxLDE4MD
-k0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3
-LC0xNjk0NTI1MzEsNDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2ND
-A0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUs
-LTEwNjYzNDAwODgsLTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOT
+Q1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcs
+LTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MD
+Q5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwt
+MTA2NjM0MDA4OCwtNzMxMzEyOTQ0XX0=
 -->
