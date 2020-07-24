@@ -6,7 +6,7 @@ draft: false
 ---
 
 팔씨름
-털난 모씨성을  가진사람과 기운을 견준다
+털모자를 쓴 모씨아저씨와 기운을 견준다
 완이 손톱에 물과 불을 그렸다
 아빠는 팔시름하던 조각장 다리를 부셔서  x자 막대기를 만들었다
 ```js
@@ -122,11 +122,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTkzNjIzLDEyNDk2NDMwOCw3MjIxNT
-gyNTcsLTM3NjM4ODk0NSwxMzgxNTUwNzIsLTIwMzIxODQ2NDcs
-LTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5ODU1NjY5MTgsMTcwNj
-QzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEyMTksMjA0Njc0NjY5
-MCwtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC0xNzY2NTYzNTcwLD
-g1MTczODUzNiwtMTc1MTUxODM4NCw0NTg0MTAzMTksLTg4OTQ1
-MzYzOF19
+eyJoaXN0b3J5IjpbLTQzOTE3MTgwOCw2MjQxOTM2MjMsMTI0OT
+Y0MzA4LDcyMjE1ODI1NywtMzc2Mzg4OTQ1LDEzODE1NTA3Miwt
+MjAzMjE4NDY0NywtMzU4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NT
+U2NjkxOCwxNzA2NDMyMDI3LC01NDc2NTIzMDcsLTM3NDMxMTIx
+OSwyMDQ2NzQ2NjkwLC0xOTYyODE1NjU3LDE4OTUxMTU4NDksLT
+E3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQx
+MDMxOV19
 -->
