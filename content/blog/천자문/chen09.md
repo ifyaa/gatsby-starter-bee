@@ -33,10 +33,10 @@ draft: false
 055 圖寫禽獸 畫彩仙靈 도사금수 화채선령
 056 丙舍傍啟 甲帳對楹 병사방계 갑장대영
 ```js
-91片조각 편   圖(지도 도)  조각에  그림
-92牙어금니 아 畵(그림 화)  어금니 그리미 그려
-93牛소 우    丙(남녘 병)
-94犬개 견    甲(갑옷 갑)
+91片조각 편   圖(지도 도)  조각에  도사가 버린것
+92牙어금니 아 畵(그림 화)  어금니 그리미 그려져있고
+93牛소 우    丙(남녘 병)   소는 병들어 아프고
+94犬개 견    甲(갑옷 갑)   개는 갑옷을 입었다
 ```
 ```js
 圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
@@ -101,10 +101,10 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NTM3NjUzLC04NTg4OTg0ODcsLTc0Nz
-UwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNTY1NDgx
-LDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTcsODE3Mj
-kyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIwLDc4NTU5OTczMywt
-MTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxOD
-QwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0NF19
+eyJoaXN0b3J5IjpbLTE4MTMwNjA2NTAsLTg1ODg5ODQ4NywtNz
+Q3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0
+ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MT
+cyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMz
+LC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNSwtMTYxMD
+E4NDAxNSwtMTA2NjM0MDA4OCwtNzMxMzEyOTQ0XX0=
 -->
