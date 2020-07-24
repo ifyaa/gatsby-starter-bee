@@ -1,8 +1,8 @@
 ---
 title: "천자문 02"
-date: 2020-  07-15
+date: 2020-07-15
 category: '천자문'
-draftㅏㅎ: false
+draft: false
 ---
 
 ## 02  이발소 
@@ -103,8 +103,8 @@ draftㅏㅎ: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE2MTczNCwtMzM2NzQwOTE4LDEwOT
-A5MzUzNjUsNTkxNDYxNjY0LDEzNDU3NDM4NjIsMzI4MTY4MDAz
-LDE5NjYyNDkwOSwtMTI4NTE5NDMyMywtMjMyMDQ0Mzg5LC0xMD
-UyNjU5OTA3LDg3MTYxNjIxNSwyNDQ3NDcwODVdfQ==
+eyJoaXN0b3J5IjpbLTEyNTc3OTU5MTEsLTMzNjc0MDkxOCwxMD
+kwOTM1MzY1LDU5MTQ2MTY2NCwxMzQ1NzQzODYyLDMyODE2ODAw
+MywxOTY2MjQ5MDksLTEyODUxOTQzMjMsLTIzMjA0NDM4OSwtMT
+A1MjY1OTkwNyw4NzE2MTYyMTUsMjQ0NzQ3MDg1XX0=
 -->
