@@ -4,7 +4,8 @@ date: 2020-07-13
 category: '히라카나'
 draft: false
 ---
-[ocr](https://www.onlineocr.net/ko/)
+
+![](https://i.ibb.co/9pcTZXt/image.jpg =250x)
 ```js
 ありと きりぎりす
 
@@ -20,6 +21,8 @@ draft: false
 
 パーティーを しています。
 ```
+
+![](https://i.ibb.co/H7sWqhq/1.jpg =250x)
 ```js
 
 
@@ -116,9 +119,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzAzODIxOSwtMTAxNDg4NjYwNSwxOD
-kwMTU4NDM3LDE4NDU5NzIxNTUsMTE0MTE0MTUzLDYwNjMyMzA2
-MiwxNzE4MDY5MjM0LDY0NzY3NTI0MSwxMTE0ODA1MDQxLDUwMD
-gwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTg2NjI0NjMsLTEwMTQ4ODY2MDUsMT
+g5MDE1ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMw
+NjIsMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MD
+A4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAx
+OF19
 -->
