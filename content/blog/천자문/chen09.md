@@ -26,8 +26,8 @@ draft: false
 
 27
 
-055 圖寫禽獸 畫彩仙靈 
-056 丙舍傍啟 甲帳對楹 
+055 圖寫禽獸 畫彩仙靈 도사금수 화채선령
+056 丙舍傍啟 甲帳對楹 병사방계 갑장대영
 ```js
 91片조각 편   圖(그림 도)
 92牙어금니 아 畵(그림 화)
@@ -86,9 +86,9 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI0NzMzNTksMTgwOTQ1NTc3MSwxMj
-M3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUz
-MSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
-UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
-OCwtNzMxMzEyOTQ0XX0=
+eyJoaXN0b3J5IjpbLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
+c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
+LDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNT
+E0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4
+LC03MzEzMTI5NDRdfQ==
 -->
