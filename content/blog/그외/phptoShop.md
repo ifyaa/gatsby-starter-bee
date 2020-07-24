@@ -4,7 +4,7 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
-[참고사이트 검색](https://www.google.com/search?q=photoshop%202020%20cc%203d&oq=photoshop%202020%20cc%203d&aqs=chrome..69i57j0l3.11374j0j4&sourceid=chrome&ie=UTF-8)
+[포토샾에서 3d 참고사이트 검색](https://www.google.com/search?q=photoshop%202020%20cc%203d&oq=photoshop%202020%20cc%203d&aqs=chrome..69i57j0l3.11374j0j4&sourceid=chrome&ie=UTF-8)
 [3d](https://www.youtube.com/watch?v=rrYBB5oyHyg)
 ![](https://i.ibb.co/x2DRtzW/image.png)
 [기초강의동영상](https://www.youtube.com/watch?v=NqLK-OibL5A&list=PLF3xwVWbSafz2UUEFr8BVkjQw6V806kdd)
@@ -21,6 +21,6 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODM3MjQxOCw4NjY3NjM4NDgsMTM5OT
+eyJoaXN0b3J5IjpbMTg4NDg2MDc0OSw4NjY3NjM4NDgsMTM5OT
 g0ODMzNiwtMTg5NzE1ODc4NywyMTE5NzM3ODM1XX0=
 -->
