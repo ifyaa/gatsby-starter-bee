@@ -1,6 +1,6 @@
 ---
 title: "에프트이펙트"
-date: 2020-07-189
+date: 2020-07-18
 category: "그외"
 draft: false
 ---
@@ -27,7 +27,7 @@ draft: false
 [포토강의](https://www.youtube.com/watch?v=5-RmbfQ6zFY&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjYyMDQwNywxNTg4MTY4MjA1LDQ0OT
+eyJoaXN0b3J5IjpbMTIwODU3NTU1NiwxNTg4MTY4MjA1LDQ0OT
 A5NjY2NywtMTUwNDgxMjc3MCwtNjEwMjQyMjMyLDEwMTY5MjE0
 NTYsMTMxOTA1NDM3NCwtMzA1MTUzODkxLDE2NjM0NjE0NjcsNj
 E2MTM0NTcsLTIwNTI1MTQxMzUsMTAxNDQ0Mzc4MiwtOTA2Njg1
