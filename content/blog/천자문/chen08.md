@@ -60,7 +60,7 @@ draft: false
 移자는 禾(벼 화)자와 多(많을 다)자가 결합한 모습
 ```
 ```js
-85水물 수     堅(굳을 견)好(좋을 호) 굳어야 좋은 것이다
+85水물 수     堅(굳을 견)好(좋을 호) 물은 굳어서 견고애햐 좋은 것이다
 86火불 화     都(도읍 도)          불은 물을 돕지 않는다
 87爪손톱 조    東(동녘 동)          손톱그림은 동쪽에서 그린다
 ```
@@ -121,11 +121,11 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE0NDEwOTYsNjI0MTkzNjIzLDEyND
-k2NDMwOCw3MjIxNTgyNTcsLTM3NjM4ODk0NSwxMzgxNTUwNzIs
-LTIwMzIxODQ2NDcsLTM1ODQxMjEwOSwxNzYyMzMxOTQ2LDE5OD
-U1NjY5MTgsMTcwNjQzMjAyNywtNTQ3NjUyMzA3LC0zNzQzMTEy
-MTksMjA0Njc0NjY5MCwtMTk2MjgxNTY1NywxODk1MTE1ODQ5LC
-0xNzY2NTYzNTcwLDg1MTczODUzNiwtMTc1MTUxODM4NCw0NTg0
-MTAzMTldfQ==
+eyJoaXN0b3J5IjpbLTk2MDU5MDcwNiw2MjQxOTM2MjMsMTI0OT
+Y0MzA4LDcyMjE1ODI1NywtMzc2Mzg4OTQ1LDEzODE1NTA3Miwt
+MjAzMjE4NDY0NywtMzU4NDEyMTA5LDE3NjIzMzE5NDYsMTk4NT
+U2NjkxOCwxNzA2NDMyMDI3LC01NDc2NTIzMDcsLTM3NDMxMTIx
+OSwyMDQ2NzQ2NjkwLC0xOTYyODE1NjU3LDE4OTUxMTU4NDksLT
+E3NjY1NjM1NzAsODUxNzM4NTM2LC0xNzUxNTE4Mzg0LDQ1ODQx
+MDMxOV19
 -->
