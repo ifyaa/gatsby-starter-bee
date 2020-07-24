@@ -77,7 +77,8 @@ draft: false
 ![](https://i.ibb.co/bmGDk3P/aaa.png =250x)
 
 
-あつい  なつが すぎて、 あきに なりました。ありは 
+あつい  なつが すぎて、 
+あきに なりました。ありは 
 まい日 
 はたらいています。 
 「ああー、気もちいい 
@@ -86,7 +87,8 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTE0MTUzLDYwNjMyMzA2MiwxNzE4MD
-Y5MjM0LDY0NzY3NTI0MSwxMTE0ODA1MDQxLDUwMDgwNDExMiw4
-MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4XX0=
+eyJoaXN0b3J5IjpbMTg0NTk3MjE1NSwxMTQxMTQxNTMsNjA2Mz
+IzMDYyLDE3MTgwNjkyMzQsNjQ3Njc1MjQxLDExMTQ4MDUwNDEs
+NTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NT
+IwMThdfQ==
 -->
