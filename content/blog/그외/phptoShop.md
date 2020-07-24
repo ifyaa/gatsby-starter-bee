@@ -8,6 +8,7 @@ draft: false
 [3d라고 하는데 ..일단 만들어보고](https://www.youtube.com/watch?v=rrYBB5oyHyg)
 ![](https://i.ibb.co/1QX4ZpX/image.png)
 ![](https://i.ibb.co/QDDRcqM/image.png =500x)
+[smart object에 대한 설명영상](http://blog.naver.com/pungwun/220244881406)
 ![](https://i.ibb.co/x2DRtzW/image.png =500x)
 
 [기초강의동영상](https://www.youtube.com/watch?v=NqLK-OibL5A&list=PLF3xwVWbSafz2UUEFr8BVkjQw6V806kdd)
@@ -24,7 +25,7 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODEwOTk4NywxODg0ODYwNzQ5LDg2Nj
-c2Mzg0OCwxMzk5ODQ4MzM2LC0xODk3MTU4Nzg3LDIxMTk3Mzc4
-MzVdfQ==
+eyJoaXN0b3J5IjpbNzg5MDc3Mjc3LC01NzgxMDk5ODcsMTg4ND
+g2MDc0OSw4NjY3NjM4NDgsMTM5OTg0ODMzNiwtMTg5NzE1ODc4
+NywyMTE5NzM3ODM1XX0=
 -->
