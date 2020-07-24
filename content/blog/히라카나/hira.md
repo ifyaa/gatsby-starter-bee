@@ -84,13 +84,13 @@ draft: false
 「ああー、気もちいい 
 きりぎりすはありの 
 ことなど 　わすれて
-楽しくくらしていました
+楽（たの）しくくらしていました
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDE1ODQzNywxODQ1OTcyMTU1LDExND
-ExNDE1Myw2MDYzMjMwNjIsMTcxODA2OTIzNCw2NDc2NzUyNDEs
-MTExNDgwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOT
-U0MCwtMTI5OTc1MjAxOF19
+eyJoaXN0b3J5IjpbLTEwMTQ4ODY2MDUsMTg5MDE1ODQzNywxOD
+Q1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMwNjIsMTcxODA2OTIz
+NCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIsODI3Mj
+MzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
 -->
