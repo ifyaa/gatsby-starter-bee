@@ -1,6 +1,6 @@
 ---
 title: "천자문 01"
-date: 2020-6-14 16:21:13
+date: 2020-6-14 
 category: '천자문'
 draft: false
 ---
@@ -108,8 +108,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5ODcwNTQ3LC0yMTA1MDkwNjYzLC00Mj
-QxMjM0ODcsLTgxNzkzNDA3NCwtNzEwNjkzOTUzLC0yMDM3MTIw
-MzMzLDMxMTU1MjM0OCwtOTk2NjQyMjM2LC0yMDA5NzA4ODM2XX
-0=
+eyJoaXN0b3J5IjpbLTg0NDk0MDQyMSw5MDk4NzA1NDcsLTIxMD
+UwOTA2NjMsLTQyNDEyMzQ4NywtODE3OTM0MDc0LC03MTA2OTM5
+NTMsLTIwMzcxMjAzMzMsMzExNTUyMzQ4LC05OTY2NDIyMzYsLT
+IwMDk3MDg4MzZdfQ==
 -->
