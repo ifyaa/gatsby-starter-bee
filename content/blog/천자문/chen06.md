@@ -99,14 +99,12 @@ draft: false
 
 禮(예도 례) 別(다를 별) 尊(높을 존) 卑(낮을 비)
 
-上(위 상) 和(화할 화) 下(아래 하) 睦(화목할 목)
-
-夫(지아비 부) 唱(부를 창) 婦(며느리 부) 隨(따를 수)
+禮(예도 례) 別(다를 별) 尊(높을 존) 卑(낮을 비)上(위 상) 和(화할 화) 下(아래 하) 睦(화목할夫(지아비 부) 唱(부를 창) 婦(며느리 부) 隨(따를 수)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIxODE0MTYsLTE2MjcyNDA2OTEsMT
-g1OTU4OTc3OSwtOTMwNTAxMTQ5LC0xODQxODQ0ODI1LDI1NDM0
-NjgxOV19
+eyJoaXN0b3J5IjpbMTI3NTkwMDM3MCwtMTIxMjE4MTQxNiwtMT
+YyNzI0MDY5MSwxODU5NTg5Nzc5LC05MzA1MDExNDksLTE4NDE4
+NDQ4MjUsMjU0MzQ2ODE5XX0=
 -->
