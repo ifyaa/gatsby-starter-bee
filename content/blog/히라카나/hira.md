@@ -86,7 +86,7 @@ draft: false
 ことなど 　わすれて
 楽（たの）しくくらしていました
 
-
+04
 ![](https://i.ibb.co/z6Fx8Q8/4.jpg =500x)
 ひゅ ヒュー。
 
@@ -96,13 +96,16 @@ draft: false
 
 でも のはらにも 森にも、どこに も たべものは見つかりません。
 
-![](
+05
+![](https://i.ibb.co/k1Q0D2V/5.jpg =500x)
+
+![](https://i.ibb.co/dPLH3jg/6.jpg =500x)
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzMDE4NTIsLTEwMTQ4ODY2MDUsMT
-g5MDE1ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMw
-NjIsMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MD
-A4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAx
-OF19
+eyJoaXN0b3J5IjpbMTE3Mzc0MjYxNiwtMTAxNDg4NjYwNSwxOD
+kwMTU4NDM3LDE4NDU5NzIxNTUsMTE0MTE0MTUzLDYwNjMyMzA2
+MiwxNzE4MDY5MjM0LDY0NzY3NTI0MSwxMTE0ODA1MDQxLDUwMD
+gwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4
+XX0=
 -->
