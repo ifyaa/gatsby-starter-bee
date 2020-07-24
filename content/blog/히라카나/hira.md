@@ -87,7 +87,7 @@ draft: false
 楽（たの）しくくらしていました
 
 04
-![](https://i.ibb.co/z6Fx8Q8/4.jpg =500x)
+![](https://i.ibb.co/z6Fx8Q8/4.jpg =250x)
 ひゅ ヒュー。
 
 つめたい かぜが、 きりぎりすの はっぱの - いえをふきとばしました。
@@ -97,13 +97,26 @@ draft: false
 でも のはらにも 森にも、どこに も たべものは見つかりません。
 
 05
-![](https://i.ibb.co/k1Q0D2V/5.jpg =500x)
+![](https://i.ibb.co/k1Q0D2V/5.jpg =250x)
+ちらちら...。 ゆきが ふり出しました。
 
-![](https://i.ibb.co/dPLH3jg/6.jpg =500x)
+きりぎりすはさむさに ふるえながらあるきました。 「ああ...おなかがすいたなあ...。」
+
+そのとき、木の下に あかりが 見えました。それは、はたらきつづけ ,ていた、あの ありの いえでした。
+
+した。
+![](https://i.ibb.co/dPLH3jg/6.jpg =250x)
+きりぎりすに
+
+たべものを一 あげて、 ありは そっといいました。 「よく はたらけば、本とうにたの しい くらしができるんですよ。」
+
+きりぎりすは はずかしくて かお が まっかになりました。
+
+まん
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mzc0MjYxNiwtMTAxNDg4NjYwNSwxOD
+eyJoaXN0b3J5IjpbLTQyMzAzODIxOSwtMTAxNDg4NjYwNSwxOD
 kwMTU4NDM3LDE4NDU5NzIxNTUsMTE0MTE0MTUzLDYwNjMyMzA2
 MiwxNzE4MDY5MjM0LDY0NzY3NTI0MSwxMTE0ODA1MDQxLDUwMD
 gwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQwLC0xMjk5NzUyMDE4
