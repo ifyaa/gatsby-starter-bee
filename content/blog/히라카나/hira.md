@@ -86,11 +86,23 @@ draft: false
 ことなど 　わすれて
 楽（たの）しくくらしていました
 
+
+![](https://i.ibb.co/z6Fx8Q8/4.jpg =500x)
+ひゅ ヒュー。
+
+つめたい かぜが、 きりぎりすの はっぱの - いえをふきとばしました。
+
+ふゆがきたのです。 「たべものを さがさなきゃ...。」
+
+でも のはらにも 森にも、どこに も たべものは見つかりません。
+
+![](
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ4ODY2MDUsMTg5MDE1ODQzNywxOD
-Q1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMwNjIsMTcxODA2OTIz
-NCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIsODI3Mj
-MzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
+eyJoaXN0b3J5IjpbLTEwMzEzMDE4NTIsLTEwMTQ4ODY2MDUsMT
+g5MDE1ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMw
+NjIsMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MD
+A4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAx
+OF19
 -->
