@@ -83,12 +83,14 @@ draft: false
 はたらいています。 
 「ああー、気もちいい 
 きりぎりすはありの 
+ことなど 　わすれて
+楽しくくらしていました
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTk3MjE1NSwxMTQxMTQxNTMsNjA2Mz
-IzMDYyLDE3MTgwNjkyMzQsNjQ3Njc1MjQxLDExMTQ4MDUwNDEs
-NTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAsLTEyOTk3NT
-IwMThdfQ==
+eyJoaXN0b3J5IjpbMTg5MDE1ODQzNywxODQ1OTcyMTU1LDExND
+ExNDE1Myw2MDYzMjMwNjIsMTcxODA2OTIzNCw2NDc2NzUyNDEs
+MTExNDgwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOT
+U0MCwtMTI5OTc1MjAxOF19
 -->
