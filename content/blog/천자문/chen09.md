@@ -40,6 +40,7 @@ draft: false
 寫자는 宀(집 면)자와 舃(까치 석)자가 결합한 모습이다. 舃자는 ‘까치’라는 뜻이 있지만, 고대에는 나무로 만든 ‘신발’을 뜻
 禽자는 今(이제 금)자와 凶(흉할 흉)자, 禸(발자국 유)자가 결합한 모습이다. 禽자에 쓰인 凶자는 들짐승을 잡는 덫을 그린 것으로 ‘흉하다’라는 뜻
 
+獸자는 嘼(짐승 수)자와 犬(개 견)자가 결합한 모습이다. 嘼자는 사냥도구를 그린 것으로 ‘짐승’이라는 뜻
 
 畵(그림 화) 采(채색 채) 仙(신선 선) 靈(신령 령)
 
@@ -90,7 +91,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDQxNjQ0NSw3NDM1MDQ2NjYsLTE2MT
+eyJoaXN0b3J5IjpbMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MT
 U2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3
 LDgxNzI5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3ODU1OT
 k3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OTUzNTM1LC0x
