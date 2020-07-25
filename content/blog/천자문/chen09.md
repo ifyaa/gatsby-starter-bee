@@ -85,6 +85,7 @@ draft: false
 
 陞(오를 승) 階(섬돌 계) 納(들인 납) 陛(섬돌 폐)
 좌부변([阝](=[阜]언덕)[部]
+階자는 阜(阝:언덕 부)자와 皆(다 개)자가 결합한 모습이다. 皆자는 ‘모두’나 ‘다’라는 뜻
 
 弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
 
@@ -111,7 +112,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjA2ODQ3NCw4NDIxNzEyNjMsLTExNz
+eyJoaXN0b3J5IjpbMTkwNDQ1MTI4NSw4NDIxNzEyNjMsLTExNz
 IwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2OTg2
 LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LDEwMT
 k3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1NTc3
