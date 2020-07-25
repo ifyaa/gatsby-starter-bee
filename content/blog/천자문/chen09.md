@@ -34,8 +34,8 @@ draft: false
 055 圖寫禽獸 畫彩仙靈 도사금수 화채선령
 056 丙舍傍啟 甲帳對楹 병사방계 갑장대영
 ```js
-91片조각 편   圖(지도 도)  조각에  도사가 버린것
-92牙어금니 아 畵(그림 화)  화를 내면 어금니가 아프다
+91片조각 편   圖(지도 도)   조각에  도사가 버린것
+92牙어금니 아 畵(그림 화)   수박화채를 먹어서 어금니가 아프다
 93牛소 우    丙(남녘 병)   소는 병들어 아프고
 94犬개 견    甲(갑옷 갑)   개는 갑옷을 입었다
 ```
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxOTY0MjIsLTU4NDUzNjk4NiwxOD
-Q5NTQyMjM1LC04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4
-NzM5LDc0MzUwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMT
-IzNzkxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1
-MzEsNDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MD
-E1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAw
-ODhdfQ==
+eyJoaXN0b3J5IjpbNDM2MDQxOTU0LC01ODQ1MzY5ODYsMTg0OT
+U0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMTAxOTc2ODcz
+OSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
+c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
+LDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNT
+E0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4
+XX0=
 -->
