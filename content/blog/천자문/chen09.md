@@ -75,7 +75,7 @@ draft: false
 97瓜오이 과      弁(고깔 변) 
 ```
 ```js
-肆(베풀 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
+肆(펼 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
 
 자리를 베풀고 돗자리를 베푸니 연회하는 좌석이다.
 
@@ -83,14 +83,14 @@ draft: false
 
 비파를 치고 저를 부니 잔치하는 풍류이다.
 
-陞(오른쪽 승) 階(뜰 계) 納(바칠 납) 陛(섬돌 폐)
+陞(오를 승) 階(섬돌 계) 納(들인 납) 陛(섬돌 폐)
 
 문무백관이 계단을 올라 임금께 납폐하는 절차이니라.
 
 弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
 
 많은 사람들의 관에서 번쩍이는 구슬이 별안간 의심할 정도이다.
-````
+```
 
 059 右通廣內 左達承明 060 既集墳典 亦聚群英
 29
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzM2NjQ2NCwtNTg0NTM2OTg2LDE4ND
-k1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LDEwMTk3Njg3
-MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1NTc3MSwxMj
-M3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUz
-MSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUxLDUwMT
-UxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNSwtMTA2NjM0MDA4
-OF19
+eyJoaXN0b3J5IjpbMzQ0MTYyMzc5LC01ODQ1MzY5ODYsMTg0OT
+U0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMTAxOTc2ODcz
+OSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
+c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
+LDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNT
+E0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4
+XX0=
 -->
