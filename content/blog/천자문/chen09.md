@@ -89,7 +89,7 @@ draft: false
 
 弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
 轉자는 車(수레 거)자와 專(오로지 전)자가 결합한 모습이다. 專자는 실을 감는 용도인 방추(紡錘)를 돌리는 모습
-
+疑자는 匕(비수 비)자와 矢(화살 시)자, 疋(발 소)자가 결합
 ```
 
 059 右通廣內 左達承明 060 既集墳典 亦聚群英
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI3Njc2NDcsMTkwNDQ1MTI4NSw4ND
-IxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3
-OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNz
-Q3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0
-ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MT
-cyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMz
-XX0=
+eyJoaXN0b3J5IjpbLTg5MDcwMTg3MiwxOTA0NDUxMjg1LDg0Mj
+E3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MTYyMzc5
+LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3LC03ND
+c1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4
+MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3LDgxNz
+I5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzNd
+fQ==
 -->
