@@ -65,12 +65,12 @@ draft: false
 
 28
 
-057 肆筵設席 鼓瑟吹笙 
-058 陞階納陛 弁轉疑星 
+057 肆筵設席 鼓瑟吹笙 사연설석 고설취생
+058 陞階納陛 弁轉疑星  승계납폐 변전의성
 
 ```js
 개목걸이는 검은 옥이고 소는 오이를 과식했다
-955획 →玄검을 현  肆(베풀 사)鼓(북 고)
+955획 →玄검을 현  肆(베풀 사)鼓(북 고) 검은구슬을 ㅅ
 96玉구슬 옥      陞(오른쪽 승)
 97瓜오이 과      弁(고깔 변) 
 ```
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjAyNTU2NCwxOTA0NDUxMjg1LDg0Mj
-E3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MTYyMzc5
-LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3LC03ND
-c1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4
-MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3LDgxNz
-I5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAyMCw3ODU1OTk3MzNd
+eyJoaXN0b3J5IjpbNTg1MTgyNDQyLDE2MDYwMjU1NjQsMTkwND
+Q1MTI4NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2
+LDM0NDE2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1OD
+g5ODQ4NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2
+LC0xNjE1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNj
+Q1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjBd
 fQ==
 -->
