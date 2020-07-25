@@ -70,9 +70,9 @@ draft: false
 
 ```js
 개목걸이는 검은 옥이고 소는 오이를 과식했다
-955획 →玄검을 현  肆(베풀 사)鼓(북 고) 검은색ㅇ
+955획 →玄검을 현  肆(베풀 사)鼓(북 고) 검은색은 사고나는색
 96玉구슬 옥      陞(오를 승)      옥은 아빠한테 승계받은것
-97瓜오이 과      弁(고깔 변)   오이는 변하면 안된다
+97瓜오이 과      弁(고깔 변)      오이는 변하면 안된다
 ```
 ```js
 肆(펼 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTA1MTk3Niw3NTU3OTE1MTcsMTYwNj
-AyNTU2NCwxOTA0NDUxMjg1LDg0MjE3MTI2MywtMTE3MjA3OTAx
-Niw1ODcyNjk1MTYsMzQ0MTYyMzc5LC01ODQ1MzY5ODYsMTg0OT
-U0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMTAxOTc2ODcz
-OSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
-c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
-XX0=
+eyJoaXN0b3J5IjpbNDAyMDgyMzQwLDc1NTc5MTUxNywxNjA2MD
+I1NTY0LDE5MDQ0NTEyODUsODQyMTcxMjYzLC0xMTcyMDc5MDE2
+LDU4NzI2OTUxNiwzNDQxNjIzNzksLTU4NDUzNjk4NiwxODQ5NT
+QyMjM1LC04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5
+LDc0MzUwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNz
+kxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzFd
+fQ==
 -->
