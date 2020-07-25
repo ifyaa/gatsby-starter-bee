@@ -66,7 +66,7 @@ draft: false
 28
 
 057 肆筵設席 鼓瑟吹笙 
-058 升階納陛 弁轉疑星 
+058 陞階納陛 弁轉疑星 
 
 ```js
 개목걸이는 검은 옥이고 소는 오이를 과식했다
@@ -84,7 +84,7 @@ draft: false
 鼓자는 壴(악기이름 주)자와 支(가를 지)자가 결합한 모습이다. 壴자는 장식이 달린 북을 받침대에 올려놓은 모습
 
 陞(오를 승) 階(섬돌 계) 納(들인 납) 陛(섬돌 폐)
-
+좌부변([阝](https://hanja.dict.naver.com/hanja?q=%E9%98%9D)(=[阜](https://hanja.dict.naver.com/hanja?q=%E9%98%9C))☞언덕)[部](https://hanja.dict.naver.com/hanja?q=%E9%83%A8)
 문무백관이 계단을 올라 임금께 납폐하는 절차이니라.
 
 弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4Nz
-I2OTUxNiwzNDQxNjIzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1
-LC04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0Mz
-UwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4
-NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxND
-g3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OV19
-
+eyJoaXN0b3J5IjpbMTc3NjgzNzIwNiw4NDIxNzEyNjMsLTExNz
+IwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2OTg2
+LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LDEwMT
+k3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1NTc3
+MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcsLTE2OT
+Q1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MDQ5NTUx
+XX0=
 -->
