@@ -22,6 +22,7 @@ draft: false
 100生날 생
 
 ```
+
 조각장 반대 편
 소와       어금니 아픈개를 끌고 공항에간다
 개목걸이는 검은 옥이고 소는  오이를 먹고
@@ -38,6 +39,7 @@ draft: false
 93牛소 우    丙(남녘 병)   소는 병들어 아프고
 94犬개 견    甲(갑옷 갑)   개는 갑옷을 입었다
 ```
+![](https://i.ibb.co/ZSb3mxN/image.png =250)
 ```js
 圖(그림 도) 寫(베낄 사) 禽(새 금) 獸(짐승 수)
 圖자는 囗(에운담 위)자와 鄙(더러울 비)자의 생략자가 결합한 모습이다. 鄙자는 중국의 변방 지역을 뜻하는 글자로 ‘더럽다’나 ‘변방 지역’이라는 뜻
@@ -110,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NT
-g4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2
-NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MT
-Y0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIw
-LDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NT
-M1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0
-NF19
+eyJoaXN0b3J5IjpbLTEyMTgxOTY0MjIsLTU4NDUzNjk4NiwxOD
+Q5NTQyMjM1LC04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4
+NzM5LDc0MzUwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMT
+IzNzkxNDI4NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1
+MzEsNDIxNDg3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MD
+E1MTQ1OSw0MTc5NTM1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAw
+ODhdfQ==
 -->
