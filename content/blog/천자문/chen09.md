@@ -65,7 +65,7 @@ draft: false
 
 28
 
-057 肆筵設席 鼓瑟吹笙 사연설석 고설취생
+057 肆筵設席 鼓瑟吹笙  사연설석 고설취생
 058 陞階納陛 弁轉疑星  승계납폐 변전의성
 
 ```js
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODc4Njc0MywxNjA2MDI1NTY0LDE5MD
-Q0NTEyODUsODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUx
-NiwzNDQxNjIzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NT
-g4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2
-NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MT
-Y0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIw
-XX0=
+eyJoaXN0b3J5IjpbNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwND
+Q1MTI4NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2
+LDM0NDE2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1OD
+g5ODQ4NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2
+LC0xNjE1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNj
+Q1MzE5Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjBd
+fQ==
 -->
