@@ -78,6 +78,7 @@ draft: false
 肆(펼 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
 言(말씀 언)자과 殳(몽둥이 수)자가 결합
 席자는 广(집 엄)자와 廿(스물 입)자, 巾(수건 건)자가 결합
+[廿][스물 입]##### 甘**달 감**
 
 鼓(북 고) 瑟(비파 슬) 吹(불 취) 笙(생황 생)
 
@@ -110,11 +111,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDc3NTA1LDU4NzI2OTUxNiwzNDQxNj
-IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
-LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
-Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTcs
-ODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIwLDc4NTU5OT
-czMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NTM1MzVdfQ==
+eyJoaXN0b3J5IjpbLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
+E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
+NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
+E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
+Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NT
+k5NzMzLC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNV19
 
 -->
