@@ -60,11 +60,14 @@ draft: false
 
 
 ```
+
+28
+
 057 肆筵設席 鼓瑟吹笙 
 058 升階納陛 弁轉疑星 
 
 ```js
-개목걸이는 검은 옥이고 소는  오이를 먹고
+개목걸이는 검은 옥이고 소는  오이를 과식했다
 955획 →玄검을 현  肆(베풀 사)鼓(북 고)
 96玉구슬 옥      陞(오른쪽 승)
 97瓜오이 과      弁(고깔 변) 
@@ -107,11 +110,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzc4MjA2NDgsMTg0OTU0MjIzNSwtOD
-U4ODk4NDg3LC03NDc1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2
-NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNT
-E2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMxLDQyMTQ4NzAy
-MCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNTE0NTksNDE3OT
-UzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4LC03MzEzMTI5
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NT
+g4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2
+NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MT
+Y0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxNDg3MDIw
+LDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OSw0MTc5NT
+M1MzUsLTE2MTAxODQwMTUsLTEwNjYzNDAwODgsLTczMTMxMjk0
+NF19
 -->
