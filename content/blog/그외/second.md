@@ -28,7 +28,10 @@ netlify에 업데이터 에러가 발생했고 clone로 컴에 설치한후 thum
 ![](https://i.ibb.co/zZ1sTbz/image.png)
 
 또에러!!　netlify.com에 데이타가 올라가지 않는 불상사
-
+git를 clone하고 에러가 너무 많이나와서.. 재설치하려고 했고..그거도 아니다 싶어 애당초 
+처음 코딩했던 1004로 가려다가 혹시나 싶어
+date를 수정(삭제)했다 
+별ㅆ
 ```
 markdownRemark(fields: { slug: { eq: $slug } }) {
 
@@ -49,6 +52,6 @@ date
 Second Post
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDEyODE3MywtMTE4NTgyMzA1NiwtMT
-IxMjY5MTY3Ml19
+eyJoaXN0b3J5IjpbMTkyNTgxMjUzLC0xMTg1ODIzMDU2LC0xMj
+EyNjkxNjcyXX0=
 -->
