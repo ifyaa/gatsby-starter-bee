@@ -68,7 +68,7 @@ draft: false
 楽（たの）しくくらしていました
 
 04
-![](https://i.ibb.co/z6Fx8Q8/4.jpg =250x)
+![](https://i.ibb.co/z6Fx8Q8/4.jpg =400x)
 ひゅ ヒュー。
 
 つめたい かぜが、 きりぎりすの はっぱの - いえをふきとばしました。
@@ -97,9 +97,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIwMTM4NjEsLTEwMTQ4ODY2MDUsMT
-g5MDE1ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMw
-NjIsMTcxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MD
-A4MDQxMTIsODI3MjMzNzg2LDQ4NTcwOTU0MCwtMTI5OTc1MjAx
-OF19
+eyJoaXN0b3J5IjpbNjQ3MDUyMTYyLC0xMTQyMDEzODYxLC0xMD
+E0ODg2NjA1LDE4OTAxNTg0MzcsMTg0NTk3MjE1NSwxMTQxMTQx
+NTMsNjA2MzIzMDYyLDE3MTgwNjkyMzQsNjQ3Njc1MjQxLDExMT
+Q4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAs
+LTEyOTk3NTIwMThdfQ==
 -->
