@@ -89,7 +89,7 @@ draft: false
 
 弁(고깔 변) 轉(구를 전) 疑(의심할 의) 星(별 성)
 轉자는 車(수레 거)자와 專(오로지 전)자가 결합한 모습이다. 專자는 실을 감는 용도인 방추(紡錘)를 돌리는 모습
-疑자는 匕(비수 비)자와 矢(화살 시)자, 疋(발 소)자가 결합
+疑자는 匕(비수 비)자와 矢(화살 시)자, 疋(발 소)자가 결합  疋자는 ‘짝’이나 ‘배필’, ‘발’이라는 뜻
 ```
 
 059 右通廣內 左達承明 060 既集墳典 亦聚群英
@@ -112,7 +112,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDcwMTg3MiwxOTA0NDUxMjg1LDg0Mj
+eyJoaXN0b3J5IjpbMTYwNjAyNTU2NCwxOTA0NDUxMjg1LDg0Mj
 E3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MTYyMzc5
 LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3LC03ND
 c1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4
