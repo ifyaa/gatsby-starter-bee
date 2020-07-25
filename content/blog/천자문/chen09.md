@@ -81,6 +81,7 @@ draft: false
 [廿][스물 입]##### 甘**달 감**
 
 鼓(북 고) 瑟(비파 슬) 吹(불 취) 笙(생황 생)
+鼓자는 壴(악기이름 주)자와 支(가를 지)자가 결합한 모습이다. 壴자는 장식이 달린 북을 받침대에 올려놓은 모습
 
 陞(오를 승) 階(섬돌 계) 納(들인 납) 陛(섬돌 폐)
 
@@ -111,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
-E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
-NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
-E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
-Nyw4MTcyOTIyMTcsLTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NT
-k5NzMzLC0xNDY0MDQ5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNV19
+eyJoaXN0b3J5IjpbODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4Nz
+I2OTUxNiwzNDQxNjIzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1
+LC04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0Mz
+UwNDY2NiwtMTYxNTY1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4
+NSw1MTY0NTMxOTcsODE3MjkyMjE3LC0xNjk0NTI1MzEsNDIxND
+g3MDIwLDc4NTU5OTczMywtMTQ2NDA0OTU1MSw1MDE1MTQ1OV19
 
 -->
