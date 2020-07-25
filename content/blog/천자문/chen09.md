@@ -77,11 +77,7 @@ draft: false
 ```js
 肆(펼 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
 
-자리를 베풀고 돗자리를 베푸니 연회하는 좌석이다.
-
 鼓(북 고) 瑟(비파 슬) 吹(불 취) 笙(생황 생)
-
-비파를 치고 저를 부니 잔치하는 풍류이다.
 
 陞(오를 승) 階(섬돌 계) 納(들인 납) 陛(섬돌 폐)
 
@@ -112,11 +108,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MTYyMzc5LC01ODQ1MzY5ODYsMTg0OT
-U0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMTAxOTc2ODcz
-OSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1NzcxLDEyMz
-c5MTQyODUsNTE2NDUzMTk3LDgxNzI5MjIxNywtMTY5NDUyNTMx
-LDQyMTQ4NzAyMCw3ODU1OTk3MzMsLTE0NjQwNDk1NTEsNTAxNT
-E0NTksNDE3OTUzNTM1LC0xNjEwMTg0MDE1LC0xMDY2MzQwMDg4
-XX0=
+eyJoaXN0b3J5IjpbNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NT
+M2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0
+LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOT
+Q1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTcs
+LTE2OTQ1MjUzMSw0MjE0ODcwMjAsNzg1NTk5NzMzLC0xNDY0MD
+Q5NTUxLDUwMTUxNDU5LDQxNzk1MzUzNSwtMTYxMDE4NDAxNV19
+
 -->
