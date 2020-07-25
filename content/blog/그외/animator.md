@@ -6,7 +6,7 @@ draft: false
 ---
 [열공중](https://www.youtube.com/watch?v=bfgkNPFva74&t=6s)
 
-[동영상 강의 ](https://www.youtube.com/watch?v=ZJqNLtyTKJQ&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=27)
+[동영상 강의 (에프트와 프리미어)](https://www.youtube.com/watch?v=ZJqNLtyTKJQ&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=27)
 
 [# 3강. 움직이는 달팽이](https://www.youtube.com/watch?v=VsrOs4BNdvA)
 
@@ -99,5 +99,6 @@ draft: false
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk4NTU3ODEsMjExNzMwMjI3N119
+eyJoaXN0b3J5IjpbLTEzMDA4NjIyNjIsLTE0NTk4NTU3ODEsMj
+ExNzMwMjI3N119
 -->
