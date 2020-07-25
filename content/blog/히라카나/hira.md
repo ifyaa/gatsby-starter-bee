@@ -71,7 +71,8 @@ draft: false
 ![](https://i.ibb.co/z6Fx8Q8/4.jpg =400x)
 ひゅ ヒュー。
 
-つめたい かぜが、 きりぎりすの はっぱの - いえをふきとばしました。
+つめたい かぜが、 
+きりぎりすの はっぱの - いえをふきとばしました。
 
 ふゆがきたのです。 「たべものを さがさなきゃ...。」
 
@@ -97,9 +98,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MDUyMTYyLC0xMTQyMDEzODYxLC0xMD
-E0ODg2NjA1LDE4OTAxNTg0MzcsMTg0NTk3MjE1NSwxMTQxMTQx
-NTMsNjA2MzIzMDYyLDE3MTgwNjkyMzQsNjQ3Njc1MjQxLDExMT
-Q4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4Niw0ODU3MDk1NDAs
-LTEyOTk3NTIwMThdfQ==
+eyJoaXN0b3J5IjpbLTYwNDIxMDk2MCwtMTE0MjAxMzg2MSwtMT
+AxNDg4NjYwNSwxODkwMTU4NDM3LDE4NDU5NzIxNTUsMTE0MTE0
+MTUzLDYwNjMyMzA2MiwxNzE4MDY5MjM0LDY0NzY3NTI0MSwxMT
+E0ODA1MDQxLDUwMDgwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQw
+LC0xMjk5NzUyMDE4XX0=
 -->
