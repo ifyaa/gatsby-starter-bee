@@ -25,16 +25,30 @@ netlify에 업데이터 에러가 발생했고 clone로 컴에 설치한후 thum
   }
 ```
 
-![](https://i.ibb.co/zZ1sTbz/image.png)Second Post'
-date: 2019-2-3 16:21:13
-category: 'development'
-draft: false
+![](https://i.ibb.co/zZ1sTbz/image.png)
 
+또에러!!　netlify.com에 데이타가 올라가지 않는 불상사
+
+```
+markdownRemark(fields: { slug: { eq: $slug } }) {
+
+id
+
+excerpt(pruneLength: 280)
+
+html
+
+frontmatter {
+
+title
+
+date
+``
 ---
 
 Second Post
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU4MjMwNTYsLTEyMTI2OTE2NzJdfQ
-==
+eyJoaXN0b3J5IjpbLTI4NDEyODE3MywtMTE4NTgyMzA1NiwtMT
+IxMjY5MTY3Ml19
 -->
