@@ -102,6 +102,7 @@ draft: false
 060 既集墳典 亦聚群英 기집분전 역취군영
 ```js
 右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
+右자는 ‘손’을 뜻했던 又자에 口자를 더해 ‘오른손’으로 구분한 글자
 
 左(왼 좌) 達(이를 달) 承(이을 승) 明(밝을 명)
 
@@ -114,11 +115,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTY0NzU3LDE4MDQwOTA2NDYsNDAyMD
-gyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUs
-ODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNj
-IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
-LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
-Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTdd
-fQ==
+eyJoaXN0b3J5IjpbLTEzODA0MDQ5NjIsMTgwNDA5MDY0Niw0MD
+IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
+NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
+E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
+NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
+E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
+N119
 -->
