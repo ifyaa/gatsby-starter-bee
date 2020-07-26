@@ -103,27 +103,22 @@ draft: false
 ```js
 右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
 
-오른편에 광내가 통하니 광내는 나라 비서를 두는 집이다.
-
 左(왼 좌) 達(이를 달) 承(이을 승) 明(밝을 명)
 
-왼편에 승명이 사무치니 승명은 사기를 교열하는 집이다.
 
 旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
 
-이미 분과 전을 모았으니 삼황의 글은 삼분이요 오제의 글은 오전이다.
 
 亦(또 역) 聚(모을 취) 群(무리 군) 英(꽃부리 영)
 
-또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzY3MTk3MiwxODA0MDkwNjQ2LDQwMj
-A4MjM0MCw3NTU3OTE1MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1
-LDg0MjE3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MT
-YyMzc5LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3
-LC03NDc1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MT
-U2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3
-XX0=
+eyJoaXN0b3J5IjpbNTg3OTc4MDAzLDE4MDQwOTA2NDYsNDAyMD
+gyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUs
+ODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNj
+IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
+LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
+Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTdd
+fQ==
 -->
