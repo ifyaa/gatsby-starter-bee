@@ -103,6 +103,7 @@ draft: false
 ```js
 右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
 右자는 ‘손’을 뜻했던 又자에 口자를 더해 ‘오른손’으로 구분한 글자
+通자는 辶(쉬엄쉬엄 갈 착)자와 甬(길 용)자가 결합한 모습이다. 甬자는 고리가 있는 종
 
 左(왼 좌) 達(이를 달) 承(이을 승) 明(밝을 명)
 
@@ -115,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA0MDQ5NjIsMTgwNDA5MDY0Niw0MD
-IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
-NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
-E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
-NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
-E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
-N119
+eyJoaXN0b3J5IjpbLTE2NDg1NjMzMDksLTEzODA0MDQ5NjIsMT
+gwNDA5MDY0Niw0MDIwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1
+NjQsMTkwNDQ1MTI4NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNT
+g3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIy
+MzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNz
+QzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0
+Mjg1XX0=
 -->
