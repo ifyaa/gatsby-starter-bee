@@ -111,17 +111,18 @@ draft: false
 
 旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
 墳자는 土(흙 토)자와 賁(클 분)자가 결합한 모습이다. 賁자는 큰 북을 그린 것으로 ‘크다’라는 뜻
+典자는 冊(책 책)자와 廾(받들 공)자가 결합
 
 亦(또 역) 聚(모을 취) 群(무리 군) 英(꽃부리 영)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTExNjQ1NywtOTg5ODkyNTYyLC0xNj
-Q4NTYzMzA5LC0xMzgwNDA0OTYyLDE4MDQwOTA2NDYsNDAyMDgy
-MzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUsOD
-QyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNjIz
-NzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcsLT
-c0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNTY1
-NDgxXX0=
+eyJoaXN0b3J5IjpbLTEyMjc3ODI4NTQsMTE4NTExNjQ1NywtOT
+g5ODkyNTYyLC0xNjQ4NTYzMzA5LC0xMzgwNDA0OTYyLDE4MDQw
+OTA2NDYsNDAyMDgyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LD
+E5MDQ0NTEyODUsODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2
+OTUxNiwzNDQxNjIzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC
+04NTg4OTg0ODcsLTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUw
+NDY2Nl19
 -->
