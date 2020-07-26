@@ -27,7 +27,7 @@ draft: false
 소와       어금니 아픈개를 끌고 공항에간다
 개목걸이는 검은 옥이고 소는  오이를 먹고
 개는 기와접시에 생감을 먹는다
-![](https://i.ibb.co/9b9x94j/2020-07-03-12-17-00.png)
+![](https://i.ibb.co/hfN1K9X/image.png =400x)
 
 27
 
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDA5MDY0Niw0MDIwODIzNDAsNzU1Nz
-kxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4NSw4NDIxNzEyNjMs
-LTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NT
-M2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0
-LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOT
-Q1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5Nyw4MTcyOTIyMTdd
-fQ==
+eyJoaXN0b3J5IjpbLTEzNjA5Nzc4MTYsMTgwNDA5MDY0Niw0MD
+IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
+NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
+E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
+NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
+E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
+N119
 -->
