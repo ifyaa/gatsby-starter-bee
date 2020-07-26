@@ -35,7 +35,7 @@ draft: false
 056 丙舍傍啟 甲帳對楹 병사방계 갑장대영
 ```js
 91片조각 편   圖(지도 도)   조각에  도사가 버린것
-92牙어금니 아 畵(그림 화)   수박화채를 먹어서 어금니가 아프다
+92牙어금니 아 畵(그림 화)   오이화채를 먹어서 어금니가 아프다
 93牛소 우    丙(남녘 병)   소는 병들어 아프고
 94犬개 견    甲(갑옷 갑)   개는 갑옷을 입었다
 ```
@@ -112,7 +112,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA5Nzc4MTYsMTgwNDA5MDY0Niw0MD
+eyJoaXN0b3J5IjpbLTIwNTI5MzQ3ODksMTgwNDA5MDY0Niw0MD
 IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
 NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
 E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
