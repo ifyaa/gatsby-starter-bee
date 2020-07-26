@@ -107,6 +107,7 @@ draft: false
 
 左(왼 좌) 達(이를 달) 承(이을 승) 明(밝을 명)
 達자는 辶(쉬엄쉬엄 갈 착)자와 羍(어린 양 달)자가 결합한 모습이다. 羍자는 大(큰 대)자와 羊(양 양)자가 결합한 것으로 양을 모는 사람을 그린 것
+承자의 갑골문을 보면 양손을 뜻하는 廾(받들 공)자가 㔾(병부 절)자를 떠받드는
 
 旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
 
@@ -116,11 +117,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkxOTI4ODIsLTE2NDg1NjMzMDksLT
-EzODA0MDQ5NjIsMTgwNDA5MDY0Niw0MDIwODIzNDAsNzU1Nzkx
-NTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4NSw4NDIxNzEyNjMsLT
-ExNzIwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2
-OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LD
-EwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1
-NTc3MV19
+eyJoaXN0b3J5IjpbLTk4OTg5MjU2MiwtMTY0ODU2MzMwOSwtMT
+M4MDQwNDk2MiwxODA0MDkwNjQ2LDQwMjA4MjM0MCw3NTU3OTE1
+MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1LDg0MjE3MTI2MywtMT
+E3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MTYyMzc5LC01ODQ1MzY5
+ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMT
+AxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1
+NzcxXX0=
 -->
