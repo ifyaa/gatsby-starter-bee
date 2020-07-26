@@ -62,9 +62,12 @@ draft: false
 
 
 ```
-
 28
-
+```js
+98瓦기와 와
+99甘달 감
+100生날 생
+```
 057 肆筵設席 鼓瑟吹笙  사연설석 고설취생
 058 陞階納陛 弁轉疑星  승계납폐 변전의성
 
@@ -72,7 +75,7 @@ draft: false
 개목걸이는 검은 옥이고 소는 오이를 과식했다
 955획 →玄검을 현  肆(베풀 사)鼓(북 고) 검은개가 사고가 났고
 96玉구슬 옥      陞(오를 승)      옥은 아빠한테 승계받은것
-97瓜오이 과      弁(고깔 변)      변한 오
+97瓜오이 과      弁(고깔 변)      소는 변한 오이를 먹었다
 ```
 ```js
 肆(펼 사) 筵(자리 연) 設(베풀 설) 席(자리 석)
@@ -112,7 +115,7 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjQ0NzMwNCwxODA0MDkwNjQ2LDQwMj
+eyJoaXN0b3J5IjpbLTk1OTExNjEzOCwxODA0MDkwNjQ2LDQwMj
 A4MjM0MCw3NTU3OTE1MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1
 LDg0MjE3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MT
 YyMzc5LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3
