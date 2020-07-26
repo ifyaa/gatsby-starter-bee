@@ -63,11 +63,7 @@ draft: false
 
 ```
 28
-```js
-98瓦기와 와
-99甘달 감
-100生날 생
-```
+
 057 肆筵設席 鼓瑟吹笙  사연설석 고설취생
 058 陞階納陛 弁轉疑星  승계납폐 변전의성
 
@@ -95,14 +91,21 @@ draft: false
 疑자는 匕(비수 비)자와 矢(화살 시)자, 疋(발 소)자가 결합  疋자는 ‘짝’이나 ‘배필’, ‘발’이라는 뜻
 ```
 
-059 右通廣內 左達承明 060 既集墳典 亦聚群英
 29
 
+```js
+98瓦기와 와
+99甘달 감
+100生날 생
+```
+059 右通廣內 左達承明 
+060 既集墳典 亦聚群英
+```js
 右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
 
 오른편에 광내가 통하니 광내는 나라 비서를 두는 집이다.
 
-左(왼 좌) 達(통달할 달) 承(이을 승) 明(밝을 명)
+左(왼 좌) 達( 달) 承(이을 승) 明(밝을 명)
 
 왼편에 승명이 사무치니 승명은 사기를 교열하는 집이다.
 
@@ -113,13 +116,14 @@ draft: false
 亦(또 역) 聚(모을 취) 群(무리 군) 英(꽃부리 영)
 
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTExNjEzOCwxODA0MDkwNjQ2LDQwMj
-A4MjM0MCw3NTU3OTE1MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1
-LDg0MjE3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MT
-YyMzc5LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3
-LC03NDc1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MT
-U2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3
-XX0=
+eyJoaXN0b3J5IjpbLTE3MzA2ODQxMzIsMTgwNDA5MDY0Niw0MD
+IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
+NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
+E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
+NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
+E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
+N119
 -->
