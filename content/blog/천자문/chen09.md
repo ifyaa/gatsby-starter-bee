@@ -106,7 +106,7 @@ draft: false
 通자는 辶(쉬엄쉬엄 갈 착)자와 甬(길 용)자가 결합한 모습이다. 甬자는 고리가 있는 종
 
 左(왼 좌) 達(이를 달) 承(이을 승) 明(밝을 명)
-
+達자는 辶(쉬엄쉬엄 갈 착)자와 羍(어린 양 달)자가 결합한 모습이다. 羍자는 大(큰 대)자와 羊(양 양)자가 결합한 것으로 양을 모는 사람을 그린 것
 
 旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
 
@@ -116,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1NjMzMDksLTEzODA0MDQ5NjIsMT
-gwNDA5MDY0Niw0MDIwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1
-NjQsMTkwNDQ1MTI4NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNT
-g3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIy
-MzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNz
-QzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0
-Mjg1XX0=
+eyJoaXN0b3J5IjpbLTE5NDkxOTI4ODIsLTE2NDg1NjMzMDksLT
+EzODA0MDQ5NjIsMTgwNDA5MDY0Niw0MDIwODIzNDAsNzU1Nzkx
+NTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4NSw4NDIxNzEyNjMsLT
+ExNzIwNzkwMTYsNTg3MjY5NTE2LDM0NDE2MjM3OSwtNTg0NTM2
+OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4NywtNzQ3NTAzMTQ0LD
+EwMTk3Njg3MzksNzQzNTA0NjY2LC0xNjE1NjU0ODEsMTgwOTQ1
+NTc3MV19
 -->
