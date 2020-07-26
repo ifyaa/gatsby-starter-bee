@@ -23,9 +23,9 @@ draft: false
 
 ```
 
-조각장 반대 편
-소와       어금니 아픈개를 끌고 공항에간다
-개목걸이는 검은 옥이고 소는  오이를 먹고
+도사가 버린 회초리를 완이가 들고
+어금니 아픈소와 검은개를 끌고 공항에간다
+검은갑옷입은 개 목걸이는 옥이고 소는  오이를 먹고
 개는 기와접시에 생감을 먹는다
 ![](https://i.ibb.co/hfN1K9X/image.png =400x)
 
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI5MzQ3ODksMTgwNDA5MDY0Niw0MD
-IwODIzNDAsNzU1NzkxNTE3LDE2MDYwMjU1NjQsMTkwNDQ1MTI4
-NSw4NDIxNzEyNjMsLTExNzIwNzkwMTYsNTg3MjY5NTE2LDM0ND
-E2MjM3OSwtNTg0NTM2OTg2LDE4NDk1NDIyMzUsLTg1ODg5ODQ4
-NywtNzQ3NTAzMTQ0LDEwMTk3Njg3MzksNzQzNTA0NjY2LC0xNj
-E1NjU0ODEsMTgwOTQ1NTc3MSwxMjM3OTE0Mjg1LDUxNjQ1MzE5
-N119
+eyJoaXN0b3J5IjpbMTE2Mjk5MDk2LDE4MDQwOTA2NDYsNDAyMD
+gyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUs
+ODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNj
+IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
+LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
+Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTdd
+fQ==
 -->
