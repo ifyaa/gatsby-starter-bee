@@ -94,12 +94,12 @@ draft: false
 29
 
 ```js
-98瓦기와 와
+98瓦기와 와  右(오를 우)左(왼 좌) 오른쪽외쪽이 부서진기와
 99甘달 감
 100生날 생
 ```
-059 右通廣內 左達承明 
-060 既集墳典 亦聚群英
+059 右通廣內 左達承明 우통광내 좌달승명
+060 既集墳典 亦聚群英 기집분전 역취군영
 ```js
 右(오를 우) 通(통할 통) 廣(넓을 광) 內(안 내)
 
@@ -114,11 +114,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTc4MDAzLDE4MDQwOTA2NDYsNDAyMD
-gyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUs
-ODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNj
-IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
-LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
-Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTdd
-fQ==
+eyJoaXN0b3J5IjpbLTU0NTM5NjI3MywxODA0MDkwNjQ2LDQwMj
+A4MjM0MCw3NTU3OTE1MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1
+LDg0MjE3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MT
+YyMzc5LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3
+LC03NDc1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MT
+U2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3
+XX0=
 -->
