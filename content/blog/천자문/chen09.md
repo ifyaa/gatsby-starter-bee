@@ -110,18 +110,18 @@ draft: false
 承자의 갑골문을 보면 양손을 뜻하는 廾(받들 공)자가 㔾(병부 절)자를 떠받드는
 
 旣(이미 기) 集(모을 집) 墳(무덤 분) 典(법 전)
-
+墳자는 土(흙 토)자와 賁(클 분)자가 결합한 모습이다. 賁자는 큰 북을 그린 것으로 ‘크다’라는 뜻
 
 亦(또 역) 聚(모을 취) 群(무리 군) 英(꽃부리 영)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTg5MjU2MiwtMTY0ODU2MzMwOSwtMT
-M4MDQwNDk2MiwxODA0MDkwNjQ2LDQwMjA4MjM0MCw3NTU3OTE1
-MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1LDg0MjE3MTI2MywtMT
-E3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MTYyMzc5LC01ODQ1MzY5
-ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3LC03NDc1MDMxNDQsMT
-AxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MTU2NTQ4MSwxODA5NDU1
-NzcxXX0=
+eyJoaXN0b3J5IjpbMTE4NTExNjQ1NywtOTg5ODkyNTYyLC0xNj
+Q4NTYzMzA5LC0xMzgwNDA0OTYyLDE4MDQwOTA2NDYsNDAyMDgy
+MzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUsOD
+QyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNjIz
+NzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcsLT
+c0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNTY1
+NDgxXX0=
 -->
