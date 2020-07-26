@@ -25,7 +25,7 @@ draft: false
 
 도사가 버린 회초리를 완이가 들고
 어금니 아픈소와 검은개를 끌고 공항에간다
-검은갑옷입은 개 목걸이는 옥이고 소는  오이를 먹고
+갑옷입은 개 목걸이는 옥이고 소는  오이를 먹고
 개는 기와접시에 생감을 먹는다
 ![](https://i.ibb.co/hfN1K9X/image.png =400x)
 
@@ -112,11 +112,11 @@ draft: false
 또한  여러  영웅을  모으니  분전을  강론하여  치국하는  도를  밝힘이라.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Mjk5MDk2LDE4MDQwOTA2NDYsNDAyMD
-gyMzQwLDc1NTc5MTUxNywxNjA2MDI1NTY0LDE5MDQ0NTEyODUs
-ODQyMTcxMjYzLC0xMTcyMDc5MDE2LDU4NzI2OTUxNiwzNDQxNj
-IzNzksLTU4NDUzNjk4NiwxODQ5NTQyMjM1LC04NTg4OTg0ODcs
-LTc0NzUwMzE0NCwxMDE5NzY4NzM5LDc0MzUwNDY2NiwtMTYxNT
-Y1NDgxLDE4MDk0NTU3NzEsMTIzNzkxNDI4NSw1MTY0NTMxOTdd
-fQ==
+eyJoaXN0b3J5IjpbMTc1OTcyMjI2NCwxODA0MDkwNjQ2LDQwMj
+A4MjM0MCw3NTU3OTE1MTcsMTYwNjAyNTU2NCwxOTA0NDUxMjg1
+LDg0MjE3MTI2MywtMTE3MjA3OTAxNiw1ODcyNjk1MTYsMzQ0MT
+YyMzc5LC01ODQ1MzY5ODYsMTg0OTU0MjIzNSwtODU4ODk4NDg3
+LC03NDc1MDMxNDQsMTAxOTc2ODczOSw3NDM1MDQ2NjYsLTE2MT
+U2NTQ4MSwxODA5NDU1NzcxLDEyMzc5MTQyODUsNTE2NDUzMTk3
+XX0=
 -->
