@@ -41,8 +41,7 @@ draft: false
 鐘자는 金(쇠 금)자와 童(아이 동)자가 결합
 ##### 隶**미칠 이,**隶자는 ‘미치다’나 ‘닿다’라는 뜻 
 漆(옻 칠) 書(글 서) 壁(바람 벽) 經(글 경)
-
-하나라 영제가 돌벽에서 발견한 서골과 공자가 발견한 육경도 비치되어 있다.
+漆자는 水(물 수)자와 桼(옻 칠)자가 결합한 모습이다. 桼자는 가지가 뻗어있는 옻나무를 그린 것
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
 
@@ -91,10 +90,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTExNTkzMywtMzkzMTY0ODYwLDE4OD
-kxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2
-MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLT
-E2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0
-OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NT
-k3LC05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbMTUzNTIwNDg4LC0zOTMxNjQ4NjAsMTg4OT
+E3MzI2OCwtMTIzOTY5Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYw
+NTYsLTYwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMT
+Y5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0MCwtMTg0MzQ5
+NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OT
+csLTk2OTg3ODYwM119
 -->
