@@ -28,7 +28,7 @@ draft: false
 ![](https://i.ibb.co/Zfcymb4/2020-07-05-3-28-16.png)
 
 30
-061 杜稾鐘隸 漆書壁經 두고종례 칠서벽경
+061 杜稾鍾隸 漆書壁經 두고종례 칠서벽경
 062 府羅將相 路俠槐卿 부랄장상  로협괴경
 ```js
 101 用쓸 용   杜(막을 두)
@@ -38,6 +38,7 @@ draft: false
 ```
 ```js
 杜(막을 두) 稾(마를 고) 鍾(쇠북 종) 隸(글씨 례)
+鐘자는 金(쇠 금)자와 童(아이 동)자가 결합
 
 漆(옻 칠) 書(글 서) 壁(바람 벽) 經(글 경)
 
@@ -90,9 +91,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OCwxOD
-A4NDQ3NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Miw3MTA4MDYw
-NjUsMTUyOTk0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3Nzc1NzA3LC
-05NjE4NjE0MCwtMTg0MzQ5NDEwNSwxMzE2NDc5NTYzLC0xNjcx
-NjI4MzY0LDIxMDQxMTk1OTcsLTk2OTg3ODYwM119
+eyJoaXN0b3J5IjpbLTM5MzE2NDg2MCwxODg5MTczMjY4LC0xMj
+M5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0
+ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLT
+E3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMTY0
+Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4Nj
+AzXX0=
 -->
