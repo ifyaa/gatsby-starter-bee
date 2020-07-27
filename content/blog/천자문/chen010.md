@@ -46,6 +46,7 @@ draft: false
 書자는 聿(붓 율)자와 曰(가로 왈)자가 결합한 모습이다. 聿자는 손에 붓을 쥐고 있는 모습
 壁자는 土(흙 토)자 辟(피할 피)자가 결합한 모습이다. 辟자는 죄수나 하인을 그린 것으로 ‘피하다’나 ‘벗어나다’라는 뜻
 ##### 辟**피할 피**
+經자는 糸(가는 실 사)자와 巠(물줄기 경)자가 결합한 모습이다. 巠자는 ‘물줄기’라는 뜻이 있지만, 본래는 베틀 사이로 날실이 지나가는 모습을 그린 것
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
 
@@ -94,10 +95,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1MDQ2ODUsLTM5MzE2NDg2MCwxOD
-g5MTczMjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUw
-NjA1NiwtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC
-0xNjkxNjE0NDAsLTE3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQz
-NDk0MTA1LDEzMTY0Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOT
-U5NywtOTY5ODc4NjAzXX0=
+eyJoaXN0b3J5IjpbLTk2Nzk2NDU0MSwtMzkzMTY0ODYwLDE4OD
+kxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2
+MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLT
+E2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0
+OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NT
+k3LC05Njk4Nzg2MDNdfQ==
 -->
