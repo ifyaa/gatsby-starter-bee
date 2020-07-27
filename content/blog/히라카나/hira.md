@@ -93,7 +93,8 @@ draft: false
 たべものを一 あげて、 
 ありは そっといいました。 
 「よく はたらけば、
-本とうにたの しい くらしができるんですよ。」
+本とうにたの しい 
+くらしができるんですよ。」
 
 きりぎりすは はずかしくて かお が まっかになりました。
 
@@ -101,9 +102,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTg5ODUwMiwtNjA0MjEwOTYwLC0xMT
-QyMDEzODYxLC0xMDE0ODg2NjA1LDE4OTAxNTg0MzcsMTg0NTk3
-MjE1NSwxMTQxMTQxNTMsNjA2MzIzMDYyLDE3MTgwNjkyMzQsNj
-Q3Njc1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4
-Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
+eyJoaXN0b3J5IjpbMjAxNjIxMTYwLC02MDQyMTA5NjAsLTExND
+IwMTM4NjEsLTEwMTQ4ODY2MDUsMTg5MDE1ODQzNywxODQ1OTcy
+MTU1LDExNDExNDE1Myw2MDYzMjMwNjIsMTcxODA2OTIzNCw2ND
+c2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQxMTIsODI3MjMzNzg2
+LDQ4NTcwOTU0MCwtMTI5OTc1MjAxOF19
 -->
