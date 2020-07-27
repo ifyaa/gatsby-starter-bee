@@ -28,8 +28,8 @@ draft: false
 ![](https://i.ibb.co/Zfcymb4/2020-07-05-3-28-16.png)
 
 30
-061 杜稿鐘隸 漆書壁經 
-062 府羅將相 路俠槐卿 
+061 杜稿鐘隸 漆書壁經 두고종례 칠서벽경
+062 府羅將相 路俠槐卿 부랄장상  로협괴경
 ```js
 101 用쓸 용   杜(막을 두)
 102 田밭 전   漆(옻칠할 칠)
@@ -90,9 +90,9 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MD
-AzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0
-MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMT
-MxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4
-Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMT
+gyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIz
+OTUsLTE2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLT
+E4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0
+MTE5NTk3LC05Njk4Nzg2MDNdfQ==
 -->
