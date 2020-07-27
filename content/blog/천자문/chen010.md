@@ -31,8 +31,8 @@ draft: false
 061 杜稾鍾隸 漆書壁經 두고종례 칠서벽경
 062 府羅將相 路俠槐卿 부랄장상  로협괴경
 ```js
-101 用쓸 용   杜(막을 두)
-102 田밭 전   漆(옻칠할 칠)
+101 用쓸 용   杜(막을 두)  용그림은 나쁜일을 두고두고 막는다
+102 田밭 전   漆(옻칠할 칠) 
 103 疋필 필   府(마을 부)
 104 疒병 역   路(길 로)
 ```
@@ -96,10 +96,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4OT
-E3MzI2OCwtMTIzOTY5Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYw
-NTYsLTYwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMT
-Y5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0MCwtMTg0MzQ5
-NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OT
-csLTk2OTg3ODYwM119
+eyJoaXN0b3J5IjpbLTE3Nzk5NzAzMzQsNjg3NTMyOTkyLC0zOT
+MxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OCwxODA4NDQ3
+NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Miw3MTA4MDYwNjUsMT
+UyOTk0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4
+NjE0MCwtMTg0MzQ5NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4Mz
+Y0LDIxMDQxMTk1OTcsLTk2OTg3ODYwM119
 -->
