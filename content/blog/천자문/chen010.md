@@ -37,17 +37,13 @@ draft: false
 104 疒병 역   路(길 로)
 ```
 ```js
-杜(막을 두) 稿(볏짚 고) 鍾(쇠북 종) 隸(글씨 례)
+杜(막을 두) 稿(마를 고) 鍾(쇠북 종) 隸(글씨 례)
 
-초서를 처음으로 쓴 두고와 예서를 쓴 종례의 글로 비치되었다.
-
-漆(옻칠할 칠) 書(글씨 서) 壁(벽 벽) 經(날 경)
+漆(옻 칠) 書(글 서) 壁(바람 벽) 經(글 경)
 
 하나라 영제가 돌벽에서 발견한 서골과 공자가 발견한 육경도 비치되어 있다.
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
-
-마을 좌우에 장수와 정승이 벌려 있었다.
 
 路(길 로) 夾(낄 협) 槐(괴화나무 괴) 卿(벼슬 경)
 
@@ -94,7 +90,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzU0MzM1NSwxMTgyNTA2MDU2LC02MD
+eyJoaXN0b3J5IjpbMTk1MzU2NDIzOSwxMTgyNTA2MDU2LC02MD
 AzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0
 MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMT
 MxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4
