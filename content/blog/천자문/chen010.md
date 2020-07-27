@@ -31,6 +31,12 @@ draft: false
 061 杜稿鐘隸 漆書壁經 
 062 府羅將相 路俠槐卿 
 ```js
+101 用쓸 용   杜(막을 두)
+102 田밭 전   漆(옻칠할 칠)
+103 疋필 필   府(마을 부)
+104 疒병 역   路(길 로)
+```
+```js
 杜(막을 두) 稿(볏짚 고) 鍾(쇠북 종) 隸(글씨 례)
 
 초서를 처음으로 쓴 두고와 예서를 쓴 종례의 글로 비치되었다.
@@ -88,8 +94,9 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLDcxMD
-gwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLTE3NDc3NzU3
-MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMTY0Nzk1NjMsLT
-E2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4NjAzXX0=
+eyJoaXN0b3J5IjpbMTQ2NzU0MzM1NSwxMTgyNTA2MDU2LC02MD
+AzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0
+MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMT
+MxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4
+Nzg2MDNdfQ==
 -->
