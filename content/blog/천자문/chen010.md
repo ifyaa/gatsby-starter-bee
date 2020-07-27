@@ -51,8 +51,8 @@ draft: false
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
 
 路(길 로) 夾(낄 협) 槐(느티나무 괴) 卿(벼슬 경)
+路자는 足(발 족)자와 各(각각 각)자가 결합한 모습이다. 各자는 발이 입구에 도달하는 모습을 표현한 것
 
-길에 고위 고관인 삼공구경의 마차가 열지어 궁전으로 들어가는 모습이다.
 ```
 
 
@@ -95,7 +95,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzk2NDU0MSwtMzkzMTY0ODYwLDE4OD
+eyJoaXN0b3J5IjpbLTgyMjE5Mjc4NiwtMzkzMTY0ODYwLDE4OD
 kxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2
 MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLT
 E2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0
