@@ -45,7 +45,7 @@ draft: false
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
 
-路(길 로) 夾(낄 협) 槐(괴화나무 괴) 卿(벼슬 경)
+路(길 로) 夾(낄 협) 槐(느티나무 괴) 卿(벼슬 경)
 
 길에 고위 고관인 삼공구경의 마차가 열지어 궁전으로 들어가는 모습이다.
 ```
@@ -90,7 +90,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzU2NDIzOSwxMTgyNTA2MDU2LC02MD
+eyJoaXN0b3J5IjpbMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MD
 AzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0
 MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMT
 MxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4
