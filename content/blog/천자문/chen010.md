@@ -7,7 +7,7 @@ draft: false
 
 ## 10 하늘의 용
 
-용이 밭에가서 비다
+용이 밭에가서 비단1필주고 병을고칠려고
 흰가죽을 등에지고 가는중에
 꼬리에 달린 창에 그릇이 부서지는걸 눈으로 보았다
 
@@ -88,8 +88,8 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA1NDM2MjgsNzEwODA2MDY1LDE1Mj
-k5NDIzOTUsLTE2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYx
-NDAsLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NC
-wyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTYwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOT
+k0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0
+MCwtMTg0MzQ5NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LD
+IxMDQxMTk1OTcsLTk2OTg3ODYwM119
 -->
