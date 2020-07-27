@@ -10,9 +10,9 @@ draft: false
 101 用쓸 용   杜(막을 두)  용은 나쁜일을 두고두고 막는다
 102 田밭 전   漆(옻칠할 칠) 밭담장은 옻나무로 칠했다
 103 疋필 필   府(마을 부)   비단은 마을 부잣집에서 준것
-104 疒병 역   路(길 로)    병은 담장길 노상에 있다
+104 疒병 역   路(길 로)    병은 밭두렁길 노상에 있다
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTIxMDAzNF19
+eyJoaXN0b3J5IjpbMTAxMzY5NDA1OV19
 -->
