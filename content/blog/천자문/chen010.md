@@ -39,7 +39,7 @@ draft: false
 ```js
 杜(막을 두) 稾(마를 고) 鍾(쇠북 종) 隸(글씨 례)
 鐘자는 金(쇠 금)자와 童(아이 동)자가 결합
-
+[隷](미)의 의 합자
 漆(옻 칠) 書(글 서) 壁(바람 벽) 經(글 경)
 
 하나라 영제가 돌벽에서 발견한 서골과 공자가 발견한 육경도 비치되어 있다.
@@ -91,10 +91,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzE2NDg2MCwxODg5MTczMjY4LC0xMj
-M5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0
-ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLT
-E3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMTY0
-Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4Nj
-AzXX0=
+eyJoaXN0b3J5IjpbODI3MTYzODkxLC0zOTMxNjQ4NjAsMTg4OT
+E3MzI2OCwtMTIzOTY5Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYw
+NTYsLTYwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMT
+Y5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0MCwtMTg0MzQ5
+NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OT
+csLTk2OTg3ODYwM119
 -->
