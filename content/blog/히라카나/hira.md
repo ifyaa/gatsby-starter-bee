@@ -99,11 +99,11 @@ draft: false
 きりぎりすは はずかしくて 
 かお が まっかになりました。
 
-まん
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk1OTcwNjIsMjAxNjIxMTYwLC02MD
+eyJoaXN0b3J5IjpbLTEyODcyMTk0MDksMjAxNjIxMTYwLC02MD
 QyMTA5NjAsLTExNDIwMTM4NjEsLTEwMTQ4ODY2MDUsMTg5MDE1
 ODQzNywxODQ1OTcyMTU1LDExNDExNDE1Myw2MDYzMjMwNjIsMT
 cxODA2OTIzNCw2NDc2NzUyNDEsMTExNDgwNTA0MSw1MDA4MDQx
