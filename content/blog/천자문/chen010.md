@@ -26,13 +26,11 @@ draft: false
 110 矛창 모 전차에 달린 창
 ```
 ![](https://i.ibb.co/Zfcymb4/2020-07-05-3-28-16.png)
-061 杜稿鐘隸 漆書壁經 062 府羅將相 路俠槐卿 
-063 戶封八縣 家給千兵 064 高冠陪輦 驅轂振纓 
-065 世祿侈富 車駕肥輕 066 策功茂實 勒碑刻銘
-
 
 30
-
+061 杜稿鐘隸 漆書壁經 
+062 府羅將相 路俠槐卿 
+```js
 杜(막을 두) 稿(볏짚 고) 鍾(쇠북 종) 隸(글씨 례)
 
 초서를 처음으로 쓴 두고와 예서를 쓴 종례의 글로 비치되었다.
@@ -48,8 +46,11 @@ draft: false
 路(길 로) 夾(낄 협) 槐(괴화나무 괴) 卿(벼슬 경)
 
 길에 고위 고관인 삼공구경의 마차가 열지어 궁전으로 들어가는 모습이다.
+```
+
 
 31
+063 戶封八縣 家給千兵 064 高冠陪輦 驅轂振纓 
 
 戶(지게 호) 封(봉할 봉) 八(여덟 팔) 縣(고을 현)
 
@@ -68,6 +69,7 @@ draft: false
 수레를 몰며 갓끈이 떨치니 임금출행에 제후의 위엄이 있다.
 
 32
+065 世祿侈富 車駕肥輕 066 策功茂實 勒碑刻銘
 
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
 
@@ -86,8 +88,8 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OT
-E2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQx
-MDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC
-05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTExNTQ5NTUxODgsNzEwODA2MDY1LDE1Mj
+k5NDIzOTUsLTE2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYx
+NDAsLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NC
+wyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
 -->
