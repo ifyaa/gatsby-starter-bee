@@ -44,6 +44,7 @@ draft: false
 漆(옻 칠) 書(글 서) 壁(바람 벽) 經(글 경)
 漆자는 水(물 수)자와 桼(옻 칠)자가 결합한 모습이다. 桼자는 가지가 뻗어있는 옻나무를 그린 것
 書자는 聿(붓 율)자와 曰(가로 왈)자가 결합한 모습이다. 聿자는 손에 붓을 쥐고 있는 모습
+壁자는 土(흙 토)자 辟(피할 피)자가 결합한 모습이다. 辟자는 죄수나 하인을 그린 것으로 ‘피하다’나 ‘벗어나다’라는 뜻
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
 
@@ -92,10 +93,10 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjQzOTExOSwtMzkzMTY0ODYwLDE4OD
-kxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2
-MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLT
-E2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0
-OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwyMTA0MTE5NT
-k3LC05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbNzM5MTU5OTUzLC0zOTMxNjQ4NjAsMTg4OT
+E3MzI2OCwtMTIzOTY5Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYw
+NTYsLTYwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMT
+Y5MTYxNDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0MCwtMTg0MzQ5
+NDEwNSwxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OT
+csLTk2OTg3ODYwM119
 -->
