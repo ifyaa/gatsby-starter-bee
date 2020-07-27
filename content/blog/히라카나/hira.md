@@ -90,7 +90,10 @@ draft: false
 ![](https://i.ibb.co/dPLH3jg/6.jpg =250x)
 きりぎりすに
 
-たべものを一 あげて、 ありは そっといいました。 「よく はたらけば、本とうにたの しい くらしができるんですよ。」
+たべものを一 あげて、 
+ありは そっといいました。 
+「よく はたらけば、
+本とうにたの しい くらしができるんですよ。」
 
 きりぎりすは はずかしくて かお が まっかになりました。
 
@@ -98,9 +101,9 @@ draft: false
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDIxMDk2MCwtMTE0MjAxMzg2MSwtMT
-AxNDg4NjYwNSwxODkwMTU4NDM3LDE4NDU5NzIxNTUsMTE0MTE0
-MTUzLDYwNjMyMzA2MiwxNzE4MDY5MjM0LDY0NzY3NTI0MSwxMT
-E0ODA1MDQxLDUwMDgwNDExMiw4MjcyMzM3ODYsNDg1NzA5NTQw
-LC0xMjk5NzUyMDE4XX0=
+eyJoaXN0b3J5IjpbLTUzMTg5ODUwMiwtNjA0MjEwOTYwLC0xMT
+QyMDEzODYxLC0xMDE0ODg2NjA1LDE4OTAxNTg0MzcsMTg0NTk3
+MjE1NSwxMTQxMTQxNTMsNjA2MzIzMDYyLDE3MTgwNjkyMzQsNj
+Q3Njc1MjQxLDExMTQ4MDUwNDEsNTAwODA0MTEyLDgyNzIzMzc4
+Niw0ODU3MDk1NDAsLTEyOTk3NTIwMThdfQ==
 -->
