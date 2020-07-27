@@ -49,6 +49,7 @@ draft: false
 經자는 糸(가는 실 사)자와 巠(물줄기 경)자가 결합한 모습이다. 巠자는 ‘물줄기’라는 뜻이 있지만, 본래는 베틀 사이로 날실이 지나가는 모습을 그린 것
 
 府(마을 부) 羅(벌릴 라) 將(장수 장) 相(서로 상)
+府자는 广(집 엄)자와 付(줄 부)자가 결합
 將자는 爿(나뭇조각 장)자와 肉(고기 육)자, 寸(마디 촌)자가 결합
 羅자는 网(그물 망)자와 維(밧줄 유)자가 결합한 모습이다. 維자는 새의 다리에 밧줄이 걸려있는 모습
 
@@ -98,11 +99,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NzMxNDg0LC0xODY2NjI2MjU1LDY4Nz
-UzMjk5MiwtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3
-NDgsMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNz
-EwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0MCwtMTc0Nzc3
-NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMTMxNjQ3OTU2My
-wtMTY3MTYyODM2NCwyMTA0MTE5NTk3LC05Njk4Nzg2MDNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2OD
+c1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTczMjY4LC0xMjM5Njky
+NzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLD
+cxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLTE3NDc3
+NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMTY0Nzk1Nj
+MsLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4NjAzXX0=
 
 -->
