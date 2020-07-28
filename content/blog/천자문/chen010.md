@@ -64,8 +64,8 @@ draft: false
 106 白흰 백                            高(높을 고)        흰색은 하늘처럼 높은색
 107 皮가죽 피                          驅(몰 구)          가죽은  구멍났다
 ```
-063 戶封八縣 家給千兵 
-064 高冠陪輦 驅轂振纓 
+063 戶封八縣 家給千兵  호봉팔현 가급천병
+064 高冠陪輦 驅轂振纓  고관배련 구곡진영
 ```js
 戶(지게 호) 封(봉할 봉) 八(여덟 팔) 縣(고을 현)
 
@@ -98,7 +98,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjA4OTk5MCwtMTY2MTk1NDM1NiwtMT
+eyJoaXN0b3J5IjpbMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMT
 g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
 ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
 wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
