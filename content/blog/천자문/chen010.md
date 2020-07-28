@@ -73,7 +73,7 @@ draft: false
 
 高(높을 고) 冠(갓 관) 陪(모실 배) 輦(손수레 련)
 
-驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(끈 영)
+驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(갓끈 영)
 
 ```
 
@@ -98,7 +98,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzQ4Nzc1OSwtMTY2MTk1NDM1NiwtMT
+eyJoaXN0b3J5IjpbLTcwNjA4OTk5MCwtMTY2MTk1NDM1NiwtMT
 g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
 ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
 wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
