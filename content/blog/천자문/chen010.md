@@ -59,8 +59,8 @@ draft: false
 
 31
 ```js
-105 癶등질 발  발두개를 그린것  걷다라는 의미
-106 白흰 백
+105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 
+106 白흰 백   
 107 皮가죽 피
 ```
 063 戶封八縣 家給千兵 
@@ -84,7 +84,8 @@ draft: false
 ```
 
 32
-065 世祿侈富 車駕肥輕 066 策功茂實 勒碑刻銘
+065 世祿侈富 車駕肥輕 
+066 策功茂實 勒碑刻銘
 
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
 
@@ -103,11 +104,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE4MzI3ODQsLTE4NDI2NTk3NSwtMT
-g2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTcz
-MjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1Ni
-wtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkx
-NjE0NDAsLTE3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MT
-A1LDEzMTY0Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOTU5Nywt
-OTY5ODc4NjAzXX0=
+eyJoaXN0b3J5IjpbMjg1MTM3MjE5LC0xODQyNjU5NzUsLTE4Nj
+Y2MjYyNTUsNjg3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2
+OCwtMTIzOTY5Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYwNTYsLT
+YwMDM0NDg0Miw3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMTY5MTYx
+NDQwLC0xNzQ3Nzc1NzA3LC05NjE4NjE0MCwtMTg0MzQ5NDEwNS
+wxMzE2NDc5NTYzLC0xNjcxNjI4MzY0LDIxMDQxMTk1OTcsLTk2
+OTg3ODYwM119
 -->
