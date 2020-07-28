@@ -55,14 +55,17 @@ draft: false
 
 路(길 로) 夾(낄 협) 槐(느티나무 괴) 卿(벼슬 경)
 路자는 足(발 족)자와 各(각각 각)자가 결합한 모습이다. 各자는 발이 입구에 도달하는 모습을 표현한 것
-
-
 ```
 
-
 31
-063 戶封八縣 家給千兵 064 高冠陪輦 驅轂振纓 
-
+```js
+105 癶등질 발  발두개를 그린것  걷다라는 의미
+106 白흰 백
+107 皮가죽 피
+```
+063 戶封八縣 家給千兵 
+064 高冠陪輦 驅轂振纓 
+```js
 戶(지게 호) 封(봉할 봉) 八(여덟 팔) 縣(고을 현)
 
 한나라가 천하를 통일하고 여덟 고을 민호를 주어 공신을 봉하였다.
@@ -78,6 +81,7 @@ draft: false
 驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(끈 영)
 
 수레를 몰며 갓끈이 떨치니 임금출행에 제후의 위엄이 있다.
+```
 
 32
 065 世祿侈富 車駕肥輕 066 策功茂實 勒碑刻銘
@@ -99,11 +103,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2OD
-c1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTczMjY4LC0xMjM5Njky
-NzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLD
-cxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLTE3NDc3
-NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEzMTY0Nzk1Nj
-MsLTE2NzE2MjgzNjQsMjEwNDExOTU5NywtOTY5ODc4NjAzXX0=
-
+eyJoaXN0b3J5IjpbLTEzODE4MzI3ODQsLTE4NDI2NTk3NSwtMT
+g2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTcz
+MjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1Ni
+wtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkx
+NjE0NDAsLTE3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MT
+A1LDEzMTY0Nzk1NjMsLTE2NzE2MjgzNjQsMjEwNDExOTU5Nywt
+OTY5ODc4NjAzXX0=
 -->
