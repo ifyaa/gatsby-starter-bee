@@ -68,6 +68,8 @@ draft: false
 064 高冠陪輦 驅轂振纓  고관배련 구곡진영
 ```js
 戶(지게 호) 封(봉할 봉) 八(여덟 팔) 縣(고을 현)
+縣자는 糸(가는 실 사)자와 目(눈 목)자, 木(나무 목)자가 결합
+系자는 ‘매다’나 ‘잇다’, ‘묶다’라는 뜻을 가진 글자이다. 系자는 糸(가는 실 사)자와 丿(삐침 별)자가 결합한 모습이
 
 家(집 가) 給(줄 급) 千(일천 천) 兵(군사 병)
 
@@ -98,11 +100,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMT
-g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
-ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
-wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
-NDIzOTUsLTE2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxND
-AsLTE4NDM0OTQxMDUsMTMxNjQ3OTU2MywtMTY3MTYyODM2NCwy
-MTA0MTE5NTk3XX0=
+eyJoaXN0b3J5IjpbLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNj
+YxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMy
+OTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OC
+wxODA4NDQ3NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Miw3MTA4
+MDYwNjUsMTUyOTk0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3Nzc1Nz
+A3LC05NjE4NjE0MCwtMTg0MzQ5NDEwNSwxMzE2NDc5NTYzLC0x
+NjcxNjI4MzY0XX0=
 -->
