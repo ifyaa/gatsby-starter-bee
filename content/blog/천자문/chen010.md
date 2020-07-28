@@ -62,26 +62,19 @@ draft: false
 ```js
 105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에간다
 106 白흰 백                            高(높을 고)        흰색은 하늘처럼 높은색
-107 皮가죽 피                          驅(몰 구)          가죽은  등에 몰려있다
+107 皮가죽 피                          驅(몰 구)          가죽은  구멍났다
 ```
 063 戶封八縣 家給千兵 
 064 高冠陪輦 驅轂振纓 
 ```js
 戶(지게 호) 封(봉할 봉) 八(여덟 팔) 縣(고을 현)
 
-한나라가 천하를 통일하고 여덟 고을 민호를 주어 공신을 봉하였다.
-
 家(집 가) 給(줄 급) 千(일천 천) 兵(군사 병)
 
-제후 나라에 일천 군사를 주어 그의 집을 호위시켰다.
-
-高(높을 고) 冠(갓 관) 陪(더할 배) 輦(손수레 련)
-
-높은 관을 쓰고 연을 모시니 제후의 예로 대접했다.
+高(높을 고) 冠(갓 관) 陪(모실 배) 輦(손수레 련)
 
 驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(끈 영)
 
-수레를 몰며 갓끈이 떨치니 임금출행에 제후의 위엄이 있다.
 ```
 
 32
@@ -105,7 +98,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTAwOTU1MywtMTY2MTk1NDM1NiwtMT
+eyJoaXN0b3J5IjpbLTgxNzQ4Nzc1OSwtMTY2MTk1NDM1NiwtMT
 g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
 ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
 wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
