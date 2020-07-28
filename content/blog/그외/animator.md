@@ -4,6 +4,7 @@ date: 2020-07-23
 category: "그외"
 draft: false
 ---
+
 [열공중](https://www.youtube.com/watch?v=bfgkNPFva74&t=6s)
 
 [동영상 강의 (에프트와 프리미어)](https://www.youtube.com/watch?v=ZJqNLtyTKJQ&list=PL25y0vNai5l8pJCo6ZVsSp3AqLwx33EnQ&index=27)
@@ -14,7 +15,8 @@ draft: false
 
 ![](https://i.ibb.co/BwJbs9c/image.png =500x)
 
-  
+  포토샾으로 애니메이션 가져가기
+  ![](https://i.ibb.co/Yyr52z8/image.png =500x)
 
 ![](https://i.ibb.co/dGLv8C2/image.png =500x)
 
@@ -99,6 +101,6 @@ draft: false
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA4NjIyNjIsLTE0NTk4NTU3ODEsMj
-ExNzMwMjI3N119
+eyJoaXN0b3J5IjpbMTExNDc3MjczNiwtMTMwMDg2MjI2MiwtMT
+Q1OTg1NTc4MSwyMTE3MzAyMjc3XX0=
 -->
