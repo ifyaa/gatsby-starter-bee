@@ -80,7 +80,7 @@ draft: false
 冠자는 冖(덮을 멱)자와 元(으뜸 원)자, 寸(마디 촌)자가 결합
 
 驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(갓끈 영)
-
+驅자는 馬(말 마)자와 區(지경 구)자가 결합한 모습이다. 區자는 선반 위에 그릇을 올려놓은 모습
 ```
 
 32
@@ -104,11 +104,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOT
-U2NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQz
-NTYsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLT
-M5MzE2NDg2MCwxODg5MTczMjY4LC0xMjM5NjkyNzQ4LDE4MDg0
-NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLDcxMDgwNjA2NS
-wxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLTE3NDc3NzU3MDcsLTk2
-MTg2MTQwXX0=
+eyJoaXN0b3J5IjpbNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNT
+I5OTczMCw0MTk1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1
+LC0xNjYxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNj
+g3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5
+Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Mi
+w3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3
+Nzc1NzA3XX0=
 -->
