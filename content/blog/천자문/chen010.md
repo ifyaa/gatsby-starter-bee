@@ -60,9 +60,9 @@ draft: false
 ![](https://i.ibb.co/qg0nCDk/image.png =400x)
 31
 ```js
-105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 
-106 白흰 백                            高(높을 고)
-107 皮가죽 피                          驅(몰 구)
+105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에간다
+106 白흰 백                            高(높을 고)        흰백은 높고
+107 皮가죽 피                          驅(몰 구)          가죽을  
 ```
 063 戶封八縣 家給千兵 
 064 高冠陪輦 驅轂振纓 
@@ -105,7 +105,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5OTc2NjYsLTE2NjE5NTQzNTYsLT
+eyJoaXN0b3J5IjpbLTE4NzQ2OTA5NzEsLTE2NjE5NTQzNTYsLT
 E4NDI2NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2
 NDg2MCwxODg5MTczMjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NT
 ksMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5
