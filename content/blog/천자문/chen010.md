@@ -73,6 +73,7 @@ draft: false
 
 家(집 가) 給(줄 급) 千(일천 천) 兵(군사 병)
 給자는 糸(가는 실 사)자와 合(합할 합)자가 결합한 모습
+合자는 亼(삼합 집)자와 口(입 구)자가 결합
 
 高(높을 고) 冠(갓 관) 陪(모실 배) 輦(손수레 련)
 
@@ -101,11 +102,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODk4NjkxNiwtMzI2NzM2NjAwLDEzOD
-kwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMTg2NjYy
-NjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTczMjY4LC
-0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAw
-MzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkxNjE0ND
-AsLTE3NDc3NzU3MDcsLTk2MTg2MTQwLC0xODQzNDk0MTA1LDEz
-MTY0Nzk1NjNdfQ==
+eyJoaXN0b3J5IjpbNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OT
+AxMjE5NSwtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2
+MjU1LDY4NzUzMjk5MiwtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLT
+EyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MDAz
+NDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOTUsLTE2OTE2MTQ0MC
+wtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4NDM0OTQxMDUsMTMx
+NjQ3OTU2M119
 -->
