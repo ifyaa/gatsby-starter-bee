@@ -77,6 +77,7 @@ draft: false
 兵자는 斤(도끼 근)자와 廾(받들 공)자가 결합한 모습
 
 高(높을 고) 冠(갓 관) 陪(모실 배) 輦(손수레 련)
+冠자는 冖(덮을 멱)자와 元(으뜸 원)자, 寸(마디 촌)자가 결합
 
 驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(갓끈 영)
 
@@ -103,11 +104,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUyOTk3MzAsNDE5NTY3MjI5LC0zMj
-Y3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMTg0MjY1
-OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0ODYwLD
-E4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgy
-NTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5NDIzOT
-UsLTE2OTE2MTQ0MCwtMTc0Nzc3NTcwNywtOTYxODYxNDAsLTE4
-NDM0OTQxMDVdfQ==
+eyJoaXN0b3J5IjpbMTQ3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOT
+U2NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQz
+NTYsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLT
+M5MzE2NDg2MCwxODg5MTczMjY4LC0xMjM5NjkyNzQ4LDE4MDg0
+NDc3NTksMTE4MjUwNjA1NiwtNjAwMzQ0ODQyLDcxMDgwNjA2NS
+wxNTI5OTQyMzk1LC0xNjkxNjE0NDAsLTE3NDc3NzU3MDcsLTk2
+MTg2MTQwXX0=
 -->
