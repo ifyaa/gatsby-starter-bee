@@ -81,6 +81,7 @@ draft: false
 
 驅(몰 구) 嘪(바퀴 곡) 振(떨친 진) 纓(갓끈 영)
 驅자는 馬(말 마)자와 區(지경 구)자가 결합한 모습이다. 區자는 선반 위에 그릇을 올려놓은 모습
+振자는 手(손 수)자와 辰(지지 진)자가 결합한 모습이다. 辰자는 조개 모양의 낫을 그린 것
 ```
 
 32
@@ -104,11 +105,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNT
-I5OTczMCw0MTk1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1
-LC0xNjYxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNj
-g3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5
-Mjc0OCwxODA4NDQ3NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Mi
-w3MTA4MDYwNjUsMTUyOTk0MjM5NSwtMTY5MTYxNDQwLC0xNzQ3
-Nzc1NzA3XX0=
+eyJoaXN0b3J5IjpbLTkxMDM4NTM5Miw2NzU2NTk0NjMsMTQ3MT
+gzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2NjAw
+LDEzODkwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMT
+g2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTcz
+MjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1Ni
+wtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkx
+NjE0NDBdfQ==
 -->
