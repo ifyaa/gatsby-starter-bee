@@ -60,7 +60,7 @@ draft: false
 ![](https://i.ibb.co/qg0nCDk/image.png =400x)
 31
 ```js
-105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에간다
+105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에가
 106 白흰 백                            高(높을 고)        흰색은 하늘처럼 높은색
 107 皮가죽 피                          驅(몰 구)          가죽은  구멍났다
 ```
@@ -105,11 +105,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDM4NTM5Miw2NzU2NTk0NjMsMTQ3MT
-gzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2NjAw
-LDEzODkwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMT
-g2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTcz
-MjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1Ni
-wtNjAwMzQ0ODQyLDcxMDgwNjA2NSwxNTI5OTQyMzk1LC0xNjkx
-NjE0NDBdfQ==
+eyJoaXN0b3J5IjpbMTE0NjE5MzYxNiwtOTEwMzg1MzkyLDY3NT
+Y1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3MjI5
+LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMT
+g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
+ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
+wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
+NDIzOTVdfQ==
 -->
