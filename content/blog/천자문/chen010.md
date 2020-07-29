@@ -110,14 +110,15 @@ draft: false
 
 勒(굴레 륵) 碑(비석 비) 刻(새길 각) 銘(새길 명)
 革자는 필요에 맞게 사용하기 위해 가죽을 펴고 무두질을 하는 모습을 그린 것이라 할 수 있다. 革자가 皮(가죽 피)자와 구별
+碑자는 石(돌 석)자와 卑(낮을 비)자가 결합한 모습이다. 卑자는 ‘비천하다’라는 뜻
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTEzNDgxMiwtMTY0NTIwNTI5NiwtMT
-g4MTYzMzczNyw2NTU1NjExMjUsLTExMzkyNTU4NDYsMTYzOTY1
-MjkwOSwxNDkyMjE3MjM2LDExNDYxOTM2MTYsLTkxMDM4NTM5Mi
-w2NzU2NTk0NjMsMTQ3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2
-NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQzNT
-YsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLTM5
-MzE2NDg2MF19
+eyJoaXN0b3J5IjpbNDY1MTk0MzA3LC0xNjQ1MjA1Mjk2LC0xOD
+gxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1NTg0NiwxNjM5NjUy
+OTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNiwtOTEwMzg1MzkyLD
+Y3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3
+MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1NDM1Ni
+wtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkz
+MTY0ODYwXX0=
 -->
