@@ -111,10 +111,11 @@ draft: false
 勒(굴레 륵) 碑(비석 비) 刻(새길 각) 銘(새길 명)
 革자는 필요에 맞게 사용하기 위해 가죽을 펴고 무두질을 하는 모습을 그린 것이라 할 수 있다. 革자가 皮(가죽 피)자와 구별
 碑자는 石(돌 석)자와 卑(낮을 비)자가 결합한 모습이다. 卑자는 ‘비천하다’라는 뜻
+刻자는 亥(돼지 해)자와 刀(칼 도)자가 결합한 모습이다. 亥자는 돼지를 그린 것이다. 그런데 亥자는 살아있는 돼지가 아닌 가공한 돼지를 그린 것
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MTk0MzA3LC0xNjQ1MjA1Mjk2LC0xOD
+eyJoaXN0b3J5IjpbODYzMjIwMzQ4LC0xNjQ1MjA1Mjk2LC0xOD
 gxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1NTg0NiwxNjM5NjUy
 OTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNiwtOTEwMzg1MzkyLD
 Y3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3
