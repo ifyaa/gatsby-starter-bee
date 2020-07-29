@@ -100,7 +100,7 @@ draft: false
 ##### 畐**가득할 복**
 
 車(수레 거) 駕(멍에 가) 肥(살찔 비) 輕(가벼울 경)
-수레의 말은 살찌고 몸의 의복은 가볍게 차려져 있다.
+肥자는 ⺼(육달 월)자와 巴(꼬리 파)자가 결합
 
 策(꾀 책) 功(공 공) 茂(무성할 무) 實(열매 실)
 
@@ -111,11 +111,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NTYxMTI1LC0xMTM5MjU1ODQ2LDE2Mz
-k2NTI5MDksMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MTAzODUz
-OTIsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTczMCw0MT
-k1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNjYxOTU0
-MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMyOTkyLC
-0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OCwxODA4
-NDQ3NzU5XX0=
+eyJoaXN0b3J5IjpbMTYyOTM0NDYyNCw2NTU1NjExMjUsLTExMz
+kyNTU4NDYsMTYzOTY1MjkwOSwxNDkyMjE3MjM2LDExNDYxOTM2
+MTYsLTkxMDM4NTM5Miw2NzU2NTk0NjMsMTQ3MTgzNjI4LC0xNj
+E1Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIx
+OTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NS
+w2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTczMjY4LC0xMjM5
+NjkyNzQ4XX0=
 -->
