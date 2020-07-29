@@ -90,7 +90,7 @@ draft: false
 109 目눈 목.              策(꾀 책)
 110 矛창 모 전차에 달린 창.  勒(굴레 륵)
 ```
-065 世祿侈富 車駕肥輕 
+065 世祿侈富 車駕肥輕 ㅅ
 066 策功茂實 勒碑刻銘
 ```js
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
@@ -108,11 +108,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MT
-AzODUzOTIsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTcz
-MCw0MTk1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNj
-YxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMy
-OTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OC
-wxODA4NDQ3NzU5LDExODI1MDYwNTYsLTYwMDM0NDg0Miw3MTA4
-MDYwNjVdfQ==
+eyJoaXN0b3J5IjpbMTM1NjEzNzI5LDE0OTIyMTcyMzYsMTE0Nj
+E5MzYxNiwtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2Mjgs
+LTE2MTUyOTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OT
+AxMjE5NSwtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2
+MjU1LDY4NzUzMjk5MiwtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLT
+EyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MDAz
+NDQ4NDJdfQ==
 -->
