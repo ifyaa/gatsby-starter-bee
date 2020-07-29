@@ -90,8 +90,8 @@ draft: false
 109 目눈 목.              策(꾀 책)
 110 矛창 모 전차에 달린 창.  勒(굴레 륵)
 ```
-065 世祿侈富 車駕肥輕 ㅅ
-066 策功茂實 勒碑刻銘
+065 世祿侈富 車駕肥輕 세록치부 거마비경
+066 策功茂實 勒碑刻銘 책공무실 륵비각명
 ```js
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
 대대로 녹이 사치하고 부하니 제후 자손이 세세 관록이 무성하여라.
@@ -108,11 +108,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjEzNzI5LDE0OTIyMTcyMzYsMTE0Nj
-E5MzYxNiwtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2Mjgs
-LTE2MTUyOTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OT
-AxMjE5NSwtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2
-MjU1LDY4NzUzMjk5MiwtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLT
-EyMzk2OTI3NDgsMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MDAz
-NDQ4NDJdfQ==
+eyJoaXN0b3J5IjpbMTYzOTY1MjkwOSwxNDkyMjE3MjM2LDExND
+YxOTM2MTYsLTkxMDM4NTM5Miw2NzU2NTk0NjMsMTQ3MTgzNjI4
+LC0xNjE1Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2NjAwLDEzOD
+kwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMTg2NjYy
+NjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5MTczMjY4LC
+0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4MjUwNjA1NiwtNjAw
+MzQ0ODQyXX0=
 -->
