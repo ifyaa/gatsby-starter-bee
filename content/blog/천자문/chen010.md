@@ -105,17 +105,18 @@ draft: false
 策(꾀 책) 功(공 공) 茂(무성할 무) 實(열매 실)
 策자는 가시를 뜻하는 朿자에 竹자를 결합한 것으로 ‘대나무로 만든 채찍’을 뜻
 朿 가지자 약속할 속
+茂자는 艹(풀 초)자와 戊(천간 무)자가 결합한 모습이다. 戊자는 초승달 모양의 도끼 창을 그린 것으로 ‘무성하다’나 ‘창’이라는 뜻
 
 勒(굴레 륵) 碑(비석 비) 刻(새길 각) 銘(새길 명)
 
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE2MzM3MzcsNjU1NTYxMTI1LC0xMT
-M5MjU1ODQ2LDE2Mzk2NTI5MDksMTQ5MjIxNzIzNiwxMTQ2MTkz
-NjE2LC05MTAzODUzOTIsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMT
-YxNTI5OTczMCw0MTk1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEy
-MTk1LC0xNjYxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNT
-UsNjg3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIz
-OTY5Mjc0OF19
+eyJoaXN0b3J5IjpbMTc5NzA1MDU0OSwtMTg4MTYzMzczNyw2NT
+U1NjExMjUsLTExMzkyNTU4NDYsMTYzOTY1MjkwOSwxNDkyMjE3
+MjM2LDExNDYxOTM2MTYsLTkxMDM4NTM5Miw2NzU2NTk0NjMsMT
+Q3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2
+NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NS
+wtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MCwxODg5
+MTczMjY4XX0=
 -->
