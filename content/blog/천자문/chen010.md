@@ -95,6 +95,7 @@ draft: false
 ```js
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
 祿자는 ‘행복’이나 ‘봉급’이라는 뜻을 가진 글자이다. 祿자는 示(보일 시)자와 彔(새길 록)자가 결합한 모습이다. 彔자는 보자기에 염료를 넣어 짜는 모습
+多자는 夕(저녁 석)자가 부수로 지정되어 있지만, 사실은 肉(고기 육)자를 겹쳐 그린 것
 
 車(수레 거) 駕(멍에 가) 肥(살찔 비) 輕(가벼울 경)
 수레의 말은 살찌고 몸의 의복은 가볍게 차려져 있다.
@@ -108,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzkyNTU4NDYsMTYzOTY1MjkwOSwxND
-kyMjE3MjM2LDExNDYxOTM2MTYsLTkxMDM4NTM5Miw2NzU2NTk0
-NjMsMTQ3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2NzIyOSwtMz
-I2NzM2NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQzNTYsLTE4NDI2
-NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLTM5MzE2NDg2MC
-wxODg5MTczMjY4LC0xMjM5NjkyNzQ4LDE4MDg0NDc3NTksMTE4
-MjUwNjA1Nl19
+eyJoaXN0b3J5IjpbMTQwNzQ1Mjc2OCwtMTEzOTI1NTg0NiwxNj
+M5NjUyOTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNiwtOTEwMzg1
+MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsND
+E5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1
+NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5Mi
+wtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgw
+ODQ0Nzc1OV19
 -->
