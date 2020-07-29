@@ -98,6 +98,7 @@ draft: false
 多자는 夕(저녁 석)자가 부수로 지정되어 있지만, 사실은 肉(고기 육)자를 겹쳐 그린 것
 富자는 宀(집 면)자와 畐(가득할 복)자가 결합한 모습이다. 畐자는 항아리에 술이나 물건이 가득 차 있는 모습
 ##### 畐**가득할 복**
+
 車(수레 거) 駕(멍에 가) 肥(살찔 비) 輕(가벼울 경)
 수레의 말은 살찌고 몸의 의복은 가볍게 차려져 있다.
 
@@ -110,11 +111,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjA4NjY2NSwtMTEzOTI1NTg0NiwxNj
-M5NjUyOTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNiwtOTEwMzg1
-MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsND
-E5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1
-NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5Mi
-wtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgw
-ODQ0Nzc1OV19
+eyJoaXN0b3J5IjpbNjU1NTYxMTI1LC0xMTM5MjU1ODQ2LDE2Mz
+k2NTI5MDksMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MTAzODUz
+OTIsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTczMCw0MT
+k1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNjYxOTU0
+MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMyOTkyLC
+0zOTMxNjQ4NjAsMTg4OTE3MzI2OCwtMTIzOTY5Mjc0OCwxODA4
+NDQ3NzU5XX0=
 -->
