@@ -57,7 +57,7 @@ draft: false
 路자는 足(발 족)자와 各(각각 각)자가 결합한 모습이다. 各자는 발이 입구에 도달하는 모습을 표현한 것
 ```
 
-![](https://i.ibb.co/qg0nCDk/image.png =400x)
+![](https://i.ibb.co/qg0nCDk/image.png =300x)
 31
 ```js
 105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에가
@@ -105,11 +105,11 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE5MzYxNiwtOTEwMzg1MzkyLDY3NT
-Y1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3MjI5
-LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMT
-g0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkzMTY0
-ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3NDgsMTgwODQ0Nzc1OS
-wxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEwODA2MDY1LDE1Mjk5
-NDIzOTVdfQ==
+eyJoaXN0b3J5IjpbLTExOTA0NzcyOTcsMTE0NjE5MzYxNiwtOT
+EwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3
+MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMT
+Y2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUz
+Mjk5MiwtMzkzMTY0ODYwLDE4ODkxNzMyNjgsLTEyMzk2OTI3ND
+gsMTgwODQ0Nzc1OSwxMTgyNTA2MDU2LC02MDAzNDQ4NDIsNzEw
+ODA2MDY1XX0=
 -->
