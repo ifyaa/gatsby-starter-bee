@@ -109,15 +109,15 @@ draft: false
 實자는 ‘열매’나 ‘재물’이라는 뜻을 가진 글자이다. 實자는 宀(집 면)자와 貫(꿸 관)자가 결합한 모습
 
 勒(굴레 륵) 碑(비석 비) 刻(새길 각) 銘(새길 명)
-
+革자는 필요에 맞게 사용하기 위해 가죽을 펴고 무두질을 하는 모습을 그린 것이라 할 수 있다. 革자가 皮(가죽 피)자와 구별
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUyMDUyOTYsLTE4ODE2MzM3MzcsNj
-U1NTYxMTI1LC0xMTM5MjU1ODQ2LDE2Mzk2NTI5MDksMTQ5MjIx
-NzIzNiwxMTQ2MTkzNjE2LC05MTAzODUzOTIsNjc1NjU5NDYzLD
-E0NzE4MzYyOCwtMTYxNTI5OTczMCw0MTk1NjcyMjksLTMyNjcz
-NjYwMCwxMzg5MDEyMTk1LC0xNjYxOTU0MzU2LC0xODQyNjU5Nz
-UsLTE4NjY2MjYyNTUsNjg3NTMyOTkyLC0zOTMxNjQ4NjAsMTg4
-OTE3MzI2OF19
+eyJoaXN0b3J5IjpbMTk2OTEzNDgxMiwtMTY0NTIwNTI5NiwtMT
+g4MTYzMzczNyw2NTU1NjExMjUsLTExMzkyNTU4NDYsMTYzOTY1
+MjkwOSwxNDkyMjE3MjM2LDExNDYxOTM2MTYsLTkxMDM4NTM5Mi
+w2NzU2NTk0NjMsMTQ3MTgzNjI4LC0xNjE1Mjk5NzMwLDQxOTU2
+NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIxOTUsLTE2NjE5NTQzNT
+YsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2ODc1MzI5OTIsLTM5
+MzE2NDg2MF19
 -->
