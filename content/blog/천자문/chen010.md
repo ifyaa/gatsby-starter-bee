@@ -94,11 +94,9 @@ draft: false
 066 策功茂實 勒碑刻銘
 ```js
 世(세상 세) 祿(녹 록) 侈(사치할 치) 富(부자 부)
-
 대대로 녹이 사치하고 부하니 제후 자손이 세세 관록이 무성하여라.
 
 車(수레 거) 駕(멍에 가) 肥(살찔 비) 輕(가벼울 경)
-
 수레의 말은 살찌고 몸의 의복은 가볍게 차려져 있다.
 
 策(꾀 책) 功(공 공) 茂(무성할 무) 實(열매 실)
@@ -110,7 +108,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODQ4NTI2NCwxMTQ2MTkzNjE2LC05MT
+eyJoaXN0b3J5IjpbMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MT
 AzODUzOTIsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTcz
 MCw0MTk1NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNj
 YxOTU0MzU2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMy
