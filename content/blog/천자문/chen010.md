@@ -86,9 +86,9 @@ draft: false
 
 32
 ```js
-108 皿그릇 명             世(세상 세)車(수레 거)
-109 目눈 목.              策(꾀 책)  눈으로 책을본다
-110 矛창 모 전차에 달린 창.  勒(굴레 륵) 창은 용꼬리에 굴레를 했ㄷ
+108 皿그릇 명      世(세상 세)車(수레 거)그릇세개
+109 目눈 목.       策(꾀 책)  눈으로 책을본다
+110 矛창 모 전차에  勒(굴레 륵) 창은 용꼬리에 굴레를 했다
 ```
 065 世祿侈富 車駕肥輕 세록치부 거마비경
 066 策功茂實 勒碑刻銘 책공무실 륵비각명
@@ -115,11 +115,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMzc2NTk2LC0xNjQ1MjA1Mjk2LC0xOD
-gxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1NTg0NiwxNjM5NjUy
-OTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNiwtOTEwMzg1MzkyLD
-Y3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3
-MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NSwtMTY2MTk1NDM1Ni
-wtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4NzUzMjk5MiwtMzkz
-MTY0ODYwXX0=
+eyJoaXN0b3J5IjpbLTIxMTA0MjkwOTMsLTE2NDUyMDUyOTYsLT
+E4ODE2MzM3MzcsNjU1NTYxMTI1LC0xMTM5MjU1ODQ2LDE2Mzk2
+NTI5MDksMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MTAzODUzOT
+IsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTczMCw0MTk1
+NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNjYxOTU0Mz
+U2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMyOTkyLC0z
+OTMxNjQ4NjBdfQ==
 -->
