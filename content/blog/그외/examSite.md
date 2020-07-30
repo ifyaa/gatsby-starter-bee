@@ -4,6 +4,8 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+[색종이 접기로 글씨체 무료다운](https://www.shutterstock.com/ko/image-vector/vector-modern-paper-font-alphabet-642901864)
+![](
 [Material Design Icons](https://github.com/google/material-design-icons/releases/tag/1.0.0)
 ![](https://i.ibb.co/25FsMSq/image.png)
 
@@ -31,5 +33,6 @@ draft: false
 
 ![](https://i.ibb.co/h7fmMg6/image.png =300x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTI4ODY5MywxMzEyNTc1ODkzXX0=
+eyJoaXN0b3J5IjpbLTI4NjI5OTE3MSwtNzY5Mjg4NjkzLDEzMT
+I1NzU4OTNdfQ==
 -->
