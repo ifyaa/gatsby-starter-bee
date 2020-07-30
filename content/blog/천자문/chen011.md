@@ -38,6 +38,8 @@ draft: false
 番자는 田(밭 전)자와 釆(분별할 변)자가 결합한 모습이다. 釆자는 동물의 발바닥이나 발자국을 그린 것으로 ‘분별하다’라는 뜻
 釆자를 보면 十(열 십)자 사이에 점
 溪자는 水(물 수)자와 奚(어찌 해)자가 결합한 모습이다. 奚자는 머리채를 잡힌 여자 노비를 그린 것
+奚자는 ‘어찌’나 ‘무슨’이라는 뜻을 가진 글자이다. 奚자는 大(클 대)자와 幺(작을 요)자, 爫(손톱 조)자가 결합한 모습
+
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
@@ -84,8 +86,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU1Mzc0NjUsNzk5OTA2Njc0LDE5MD
-I3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUy
-NjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMj
-kxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
+eyJoaXN0b3J5IjpbMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMj
+c0NTg3OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2
+MTIsMzE2NjE5OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOT
+EwODUwNjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
 -->
