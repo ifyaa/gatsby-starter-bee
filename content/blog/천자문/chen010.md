@@ -86,7 +86,7 @@ draft: false
 
 32
 ```js
-108 皿그릇 명      世(세상 세)車(수레 거)그릇세개
+108 皿그릇 명      世(세상 세)車(수레 거)세개의 그릇
 109 目눈 목.       策(꾀 책)  눈으로 책을본다
 110 矛창 모 전차에  勒(굴레 륵) 창에 굴레를 씌워
 ```
@@ -115,11 +115,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1NzIwNjAsLTE2NDUyMDUyOTYsLT
-E4ODE2MzM3MzcsNjU1NTYxMTI1LC0xMTM5MjU1ODQ2LDE2Mzk2
-NTI5MDksMTQ5MjIxNzIzNiwxMTQ2MTkzNjE2LC05MTAzODUzOT
-IsNjc1NjU5NDYzLDE0NzE4MzYyOCwtMTYxNTI5OTczMCw0MTk1
-NjcyMjksLTMyNjczNjYwMCwxMzg5MDEyMTk1LC0xNjYxOTU0Mz
-U2LC0xODQyNjU5NzUsLTE4NjY2MjYyNTUsNjg3NTMyOTkyLC0z
-OTMxNjQ4NjBdfQ==
+eyJoaXN0b3J5IjpbODAxNjY2NDYwLC0xODQ0NTcyMDYwLC0xNj
+Q1MjA1Mjk2LC0xODgxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1
+NTg0NiwxNjM5NjUyOTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNi
+wtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUy
+OTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NS
+wtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4
+NzUzMjk5Ml19
 -->
