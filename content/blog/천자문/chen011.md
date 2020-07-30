@@ -39,6 +39,7 @@ draft: false
 釆자를 보면 十(열 십)자 사이에 점
 溪자는 水(물 수)자와 奚(어찌 해)자가 결합한 모습이다. 奚자는 머리채를 잡힌 여자 노비를 그린 것
 奚자는 ‘어찌’나 ‘무슨’이라는 뜻을 가진 글자이다. 奚자는 大(클 대)자와 幺(작을 요)자, 爫(손톱 조)자가 결합한 모습
+[尹](윤)은 오른 손과 뚫을곤
 
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
 
@@ -86,8 +87,9 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMj
-c0NTg3OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2
-MTIsMzE2NjE5OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOT
-EwODUwNjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OT
+A2Njc0LDE5MDI3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUx
+NywxNDgwMTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMT
+QzMzg3LC0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3
+MjJdfQ==
 -->
