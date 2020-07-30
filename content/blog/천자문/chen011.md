@@ -33,11 +33,10 @@ draft: false
 
 
 33
-```j
+```js
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
 
 문왕은 반계에서 강태공을 맞고 은왕은 신야에서 이윤을 맞이하였다.
-
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
 
 때를 돕는 아형이니 아형은 상나라 재상의 칭호이다.
@@ -49,7 +48,7 @@ draft: false
 微(작을 미) 旦(아침 단) 孰(누구 숙) 營(경영 영)
 
 주공의 단이 아니면 어찌 큰 궁전을 세웠으리요.
-
+```
 34
 069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
 
@@ -89,8 +88,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM1NjQ2NTcsMTkwMjc0NTg3OSwxNj
-Q1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5
-OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOTEwODUwNjUsLT
-E3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbNzk5OTA2Njc0LDE5MDI3NDU4NzksMTY0NT
+U0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMxNjYxOTk4
+OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC0xNz
+kwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
