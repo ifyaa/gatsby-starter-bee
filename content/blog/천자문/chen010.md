@@ -90,6 +90,7 @@ draft: false
 109 目눈 목.       策(꾀 책)  눈으로 책을본다
 110 矛창 모 전차에  勒(굴레 륵) 창으로 럭비공을 찔렀다
 ```
+![](https://i.ibb.co/vhnKbQg/image.png =50x)
 065 世祿侈富 車駕肥輕 세록치부 거마비경
 066 策功茂實 勒碑刻銘 책공무실 륵비각명
 ```js
@@ -115,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTc3NzU4OCwtMTg0NDU3MjA2MCwtMT
-Y0NTIwNTI5NiwtMTg4MTYzMzczNyw2NTU1NjExMjUsLTExMzky
-NTU4NDYsMTYzOTY1MjkwOSwxNDkyMjE3MjM2LDExNDYxOTM2MT
-YsLTkxMDM4NTM5Miw2NzU2NTk0NjMsMTQ3MTgzNjI4LC0xNjE1
-Mjk5NzMwLDQxOTU2NzIyOSwtMzI2NzM2NjAwLDEzODkwMTIxOT
-UsLTE2NjE5NTQzNTYsLTE4NDI2NTk3NSwtMTg2NjYyNjI1NSw2
-ODc1MzI5OTJdfQ==
+eyJoaXN0b3J5IjpbMzIwNjY5OTAyLC0xODQ0NTcyMDYwLC0xNj
+Q1MjA1Mjk2LC0xODgxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1
+NTg0NiwxNjM5NjUyOTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNi
+wtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUy
+OTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NS
+wtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4
+NzUzMjk5Ml19
 -->
