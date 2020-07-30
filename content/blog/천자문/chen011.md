@@ -28,18 +28,15 @@ draft: false
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
       
       
-067 磻溪伊尹 佐時阿衡 
-068 奄宅曲阜 微旦孰營 
+067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
+068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
 
 
 33
 ```js
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
 
-문왕은 반계에서 강태공을 맞고 은왕은 신야에서 이윤을 맞이하였다.
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
-
-때를 돕는 아형이니 아형은 상나라 재상의 칭호이다.
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
@@ -88,8 +85,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5OTA2Njc0LDE5MDI3NDU4NzksMTY0NT
-U0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMxNjYxOTk4
-OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC0xNz
-kwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
+eyJoaXN0b3J5IjpbODY1MjQ5MzQ5LDc5OTkwNjY3NCwxOTAyNz
+Q1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1MjYx
+MiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MT
+A4NTA2NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
