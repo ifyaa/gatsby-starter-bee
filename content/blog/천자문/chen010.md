@@ -61,8 +61,8 @@ draft: false
 31
 ```js
 105 癶등질 발  발두개를 그린것  걷다라는 의미 戶(지게 호)家(집 가) 용은 지게에 호랑이를 지고 집에가
-106 白흰 백                            高(높을 고)        흰색은 하늘처럼 높은색
-107 皮가죽 피                          驅(몰 구)          가죽은  구멍났다
+106 白흰 백                            高(높을 고)        고상하다
+107 皮가죽 피                           驅(몰 구)         가죽은  구멍났다
 ```
 063 戶封八縣 家給千兵  호봉팔현 가급천병
 064 高冠陪輦 驅轂振纓  고관배련 구곡진영
@@ -116,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjY5OTAyLC0xODQ0NTcyMDYwLC0xNj
-Q1MjA1Mjk2LC0xODgxNjMzNzM3LDY1NTU2MTEyNSwtMTEzOTI1
-NTg0NiwxNjM5NjUyOTA5LDE0OTIyMTcyMzYsMTE0NjE5MzYxNi
-wtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcxODM2MjgsLTE2MTUy
-OTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MDAsMTM4OTAxMjE5NS
-wtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0xODY2NjI2MjU1LDY4
-NzUzMjk5Ml19
+eyJoaXN0b3J5IjpbLTE4MDI5OTUwMTUsMzIwNjY5OTAyLC0xOD
+Q0NTcyMDYwLC0xNjQ1MjA1Mjk2LC0xODgxNjMzNzM3LDY1NTU2
+MTEyNSwtMTEzOTI1NTg0NiwxNjM5NjUyOTA5LDE0OTIyMTcyMz
+YsMTE0NjE5MzYxNiwtOTEwMzg1MzkyLDY3NTY1OTQ2MywxNDcx
+ODM2MjgsLTE2MTUyOTk3MzAsNDE5NTY3MjI5LC0zMjY3MzY2MD
+AsMTM4OTAxMjE5NSwtMTY2MTk1NDM1NiwtMTg0MjY1OTc1LC0x
+ODY2NjI2MjU1XX0=
 -->
