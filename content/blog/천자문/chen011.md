@@ -40,11 +40,8 @@ draft: false
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
-주공이 큰 공이 있는 고로 노국을 봉한 후 곡부에다 궁전을 세웠다.
-
 微(작을 미) 旦(아침 단) 孰(누구 숙) 營(경영 영)
 
-주공의 단이 아니면 어찌 큰 궁전을 세웠으리요.
 ```
 34
 069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
@@ -85,7 +82,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MjQ5MzQ5LDc5OTkwNjY3NCwxOTAyNz
+eyJoaXN0b3J5IjpbOTg4NjYyMzM1LDc5OTkwNjY3NCwxOTAyNz
 Q1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1MjYx
 MiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MT
 A4NTA2NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
