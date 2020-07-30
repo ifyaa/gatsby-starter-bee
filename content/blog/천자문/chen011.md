@@ -28,12 +28,12 @@ draft: false
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
       
       
-      067 磻溪伊尹 佐時阿衡 068 奄宅曲阜 微旦孰營 
-069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
-071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
+067 磻溪伊尹 佐時阿衡 
+068 奄宅曲阜 微旦孰營 
+
 
 33
-
+```j
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
 
 문왕은 반계에서 강태공을 맞고 은왕은 신야에서 이윤을 맞이하였다.
@@ -51,6 +51,7 @@ draft: false
 주공의 단이 아니면 어찌 큰 궁전을 세웠으리요.
 
 34
+069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
 
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 
@@ -69,7 +70,7 @@ draft: false
 부열이 들에서 역사하매 무정의 꿈에 감동되어 곧 정승에 되었다.
 
 35
-
+071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 
 준걸과 재사가 조정에 모여 빽빽하더라.
@@ -88,8 +89,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjc0NTg3OSwxNjQ1NTQwNDc5LC0xNT
-cyMjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5OTg4LDk3MzA0MjI0
-Miw3MjMxNDMzODcsLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLT
-c0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbLTE1NzM1NjQ2NTcsMTkwMjc0NTg3OSwxNj
+Q1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5
+OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOTEwODUwNjUsLT
+E3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
 -->
