@@ -35,6 +35,7 @@ draft: false
 33
 ```js
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
+番자는 田(밭 전)자와 釆(분별할 변)자가 결합한 모습이다. 釆자는 동물의 발바닥이나 발자국을 그린 것으로 ‘분별하다’라는 뜻
 
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
 
@@ -82,8 +83,8 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NjYyMzM1LDc5OTkwNjY3NCwxOTAyNz
-Q1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1MjYx
-MiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MT
-A4NTA2NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
+eyJoaXN0b3J5IjpbLTE5NzcxNDg1MTAsNzk5OTA2Njc0LDE5MD
+I3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUy
+NjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMj
+kxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
