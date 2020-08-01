@@ -52,6 +52,7 @@ draft: false
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
 佐자는 人(사람 인)자와 左(왼 좌)자가 결합한 모습이다. 左자는 손에 도구를 쥐고 있는 모습을 그린 것
 左자는 又(또 우)자와 工(장인 공)자가 결합
+時자는 日(해 일)자와 寺(절 사)자가 결합
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
@@ -97,7 +98,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDUzODkxNSwtMjY2NDI4OTk3LC0xNz
+eyJoaXN0b3J5IjpbLTE0NDcwNTc2NSwtMjY2NDI4OTk3LC0xNz
 UxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3
 NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMT
 Q4MDE1MjYxMiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4
