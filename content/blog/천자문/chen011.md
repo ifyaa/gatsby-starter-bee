@@ -58,6 +58,7 @@ draft: false
  衡자는 行(다닐 행)자와 角(뿔 각)자, 大(큰 대)자가 결합한 모습이다. 여기서 角자와 大자는 뿔이 달린 소를 표현
  
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
+##### 电**번개 전, 끌 예**
 
 微(작을 미) 旦(아침 단) 孰(누구 숙) 營(경영 영)
 
@@ -101,10 +102,11 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNj
-A3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0MjY3
-MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4NzksMT
-Y0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMxNjYx
-OTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC
-0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMT
+U4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEy
+ODEzNjIsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LD
+E5MDI3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgw
+MTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC
+0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
+
 -->
