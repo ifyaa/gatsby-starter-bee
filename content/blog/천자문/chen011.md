@@ -61,7 +61,7 @@ draft: false
 ##### 电**번개 전, 끌 예**
 
 微(작을 미) 旦(아침 단) 孰(누구 숙) 營(경영 영)
-
+攴(복)과 동자  攵칠 복, 글월 문
 ```
 34
 069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
@@ -102,11 +102,11 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMT
-U4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEy
-ODEzNjIsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LD
-E5MDI3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgw
-MTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC
-0xMjkxMDg1MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
-
+eyJoaXN0b3J5IjpbLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMT
+QzMTQyODg3LC0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQy
+ODk5NywtMTc1MTI4MTM2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OS
+w3OTk5MDY2NzQsMTkwMjc0NTg3OSwxNjQ1NTQwNDc5LC0xNTcy
+MjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5OTg4LDk3MzA0MjI0Mi
+w3MjMxNDMzODcsLTEyOTEwODUwNjUsLTE3OTAxNjU3MTMsLTc0
+Mjk1NDcyMl19
 -->
