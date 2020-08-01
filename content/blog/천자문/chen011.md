@@ -35,9 +35,9 @@ draft: false
 33
 ```js
 111 矢화살 시      磻(강이름 반) 화살쏘는 반대편에 공룡이 보이고
-112 石돌 석       佐(도울 좌)  돌도끼는 좌측에서 도우고
+112 石돌 석       佐(도울 좌)  돌도끼쥐고 좌측에서 도우고
 113 示보일 시      奄(문득 엄)  엄마도 보인다
-114 禸짐승발자국 유 微(작을 미)  작은 미세한 발자욱
+114 禸짐승발자국 유 微(작을 미)  엄마는 작은 미세한 발자욱을 찾았다
 ```
 067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
 068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
@@ -103,11 +103,11 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTI1MTg3MywyMDY4NjEwMDM4LC0xOD
-U3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4
-NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNj
-IsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3
-NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNj
-EyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkx
-MDg1MDY1XX0=
+eyJoaXN0b3J5IjpbLTIxMzEyODQ3OTMsMjA2ODYxMDAzOCwtMT
+g1NzE1NTYwLC0xODQ4MjY4MzU3LC0xNDMxNDI4ODcsLTE1ODY0
+ODU4MDcsLTYwNzMzNDk3MSwtMjY2NDI4OTk3LC0xNzUxMjgxMz
+YyLDI4NDI2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3NCwxOTAy
+NzQ1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1Mj
+YxMiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5
+MTA4NTA2NV19
 -->
