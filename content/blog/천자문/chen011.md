@@ -31,11 +31,15 @@ draft: false
 ![](https://i.ibb.co/XC6ZkDY/image.png =200x)
 ![](https://i.ibb.co/FBY35HG/image.png =200x)
 
+33
+```js
+111 矢화살 시
+112 石돌 석
+113 示보일 시
+114 禸짐승발자국 유
+```
 067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
 068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
-
-
-33
 ```js
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
 番자는 田(밭 전)자와 釆(분별할 변)자가 결합한 모습이다. 釆자는 동물의 발바닥이나 발자국을 그린 것으로 ‘분별하다’라는 뜻
@@ -90,9 +94,9 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQwMjE1MCwtMTc1MTI4MTM2MiwyOD
-QyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3
-OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMz
-E2NjE5OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOTEwODUw
-NjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbMTIxMDQ1MzIxLC0xNzUxMjgxMzYyLDI4ND
+I2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5
+LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMT
+Y2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2
+NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX0=
 -->
