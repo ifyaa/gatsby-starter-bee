@@ -55,6 +55,7 @@ draft: false
 時자는 日(해 일)자와 寺(절 사)자가 결합
 寺자는 土(흙 토)자와 寸(마디 촌)자가 결합한 모습이다. 그런데 금문에 나온 寺자를 보면 止(발 지)자와 又(또 우)자가 그려져 있었다
  可자는 곡괭이와 口(입 구)자가 결합한 모습
+ 衡자는 行(다닐 행)자와 角(뿔 각)자, 大(큰 대)자가 결합한 모습이다. 여기서 角자와 大자는 뿔이 달린 소를 표현
  
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
@@ -100,10 +101,10 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0ODU4MDcsLTYwNzMzNDk3MSwtMj
-Y2NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0
-NDk5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLT
-E1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMTY2MTk5ODgsOTczMDQy
-MjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2NSwtMTc5MDE2NTcxMy
-wtNzQyOTU0NzIyXX0=
+eyJoaXN0b3J5IjpbLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNj
+A3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0MjY3
+MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4NzksMT
+Y0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMxNjYx
+OTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC
+0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
