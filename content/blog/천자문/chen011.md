@@ -27,7 +27,9 @@ draft: false
 矢 石 示(礻) 禸 禾 穴 立 竹 米 糸 
 ![](https://i.ibb.co/1QZf3Qd/2020-07-06-10-33-53.png)
       
- ![](https://i.ibb.co/B2QzfzR/image.png)     
+ ![](https://i.ibb.co/B2QzfzR/image.png =300x)     
+![](https://i.ibb.co/XC6ZkDY/image.png =300x)
+![](https://i.ibb.co/FBY35HG/image.png =300x)
 067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
 068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
 
@@ -87,9 +89,9 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEyODEzNjIsMjg0MjY3MjI4LDExMz
-c1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4NzksMTY0NTU0MDQ3
-OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMxNjYxOTk4OCw5Nz
-MwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1MDY1LC0xNzkwMTY1
-NzEzLC03NDI5NTQ3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjMwNDgwMzksLTE3NTEyODEzNjIsMj
+g0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4
+NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLD
+MxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkxMDg1
+MDY1LC0xNzkwMTY1NzEzLC03NDI5NTQ3MjJdfQ==
 -->
