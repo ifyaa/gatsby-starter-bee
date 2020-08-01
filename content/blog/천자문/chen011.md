@@ -50,6 +50,7 @@ draft: false
 [尹](윤)은 오른 손과 뚫을곤
 
 佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
+佐자는 人(사람 인)자와 左(왼 좌)자가 결합한 모습이다. 左자는 손에 도구를 쥐고 있는 모습을 그린 것
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
@@ -95,9 +96,10 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyOD
-QyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3
-OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMz
-E2NjE5OTg4LDk3MzA0MjI0Miw3MjMxNDMzODcsLTEyOTEwODUw
-NjUsLTE3OTAxNjU3MTMsLTc0Mjk1NDcyMl19
+eyJoaXN0b3J5IjpbMTE2MDUzOTkxNSwtMjY2NDI4OTk3LC0xNz
+UxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3
+NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMT
+Q4MDE1MjYxMiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4
+NywtMTI5MTA4NTA2NSwtMTc5MDE2NTcxMywtNzQyOTU0NzIyXX
+0=
 -->
