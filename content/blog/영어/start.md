@@ -11,14 +11,13 @@ Everyone~
 **Everyone~**  
 
 The Ant and the Grasshopper
-
 "Chirp chirp ~  
-love summer!Chirp chirp~ I love singing.Chirp :
-
-  
-Sang Grsshopper, resting on tree on a hot summer day.  
-While under the tree, Ant was sweating and slaving away.  
-
+love summer!Chirp chirp~ 
+I love singing.Chirp :
+Sang Grsshopper, 
+resting on tree on a hot summer day.  
+While under the tree, 
+Ant was sweating and slaving away.  
 "Heave ho~ heave ho~!"
 
 Hey Ant!"Life is too short to work so hard!"  
@@ -66,6 +65,7 @@ He mustered up enough energy to knock on the door.**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjYzNjYxMCwxNDUzNjI1MDMxLC0xOT
-Y3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
+eyJoaXN0b3J5IjpbLTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NT
+M2MjUwMzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2
+MTEwXX0=
 -->
