@@ -34,10 +34,10 @@ draft: false
 
 33
 ```js
-111 矢화살 시
-112 石돌 석
-113 示보일 시
-114 禸짐승발자국 유
+111 矢화살 시      磻(강이름 반)
+112 石돌 석       佐(도울 좌)
+113 示보일 시      奄(문득 엄)
+114 禸짐승발자국 유 微(작을 미)
 ```
 067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
 068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
@@ -103,11 +103,11 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xOD
-Q4MjY4MzU3LC0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMz
-NDk3MSwtMjY2NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOC
-wxMTM3NTA0NDk5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1
-NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMTY2MTk5OD
-gsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5MTA4NTA2NSwtMTc5
-MDE2NTcxM119
+eyJoaXN0b3J5IjpbMTM0NTkyMDQwNiwyMDY4NjEwMDM4LC0xOD
+U3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4
+NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNj
+IsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3
+NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNj
+EyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIzMTQzMzg3LC0xMjkx
+MDg1MDY1XX0=
 -->
