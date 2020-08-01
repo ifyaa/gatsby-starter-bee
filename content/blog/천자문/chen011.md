@@ -53,6 +53,7 @@ draft: false
 佐자는 人(사람 인)자와 左(왼 좌)자가 결합한 모습이다. 左자는 손에 도구를 쥐고 있는 모습을 그린 것
 左자는 又(또 우)자와 工(장인 공)자가 결합
 時자는 日(해 일)자와 寺(절 사)자가 결합
+寺자는 土(흙 토)자와 寸(마디 촌)자가 결합한 모습이다. 그런데 금문에 나온 寺자를 보면 止(발 지)자와 又(또 우)자가 그려져 있었다
 
 奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
 
@@ -98,7 +99,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcwNTc2NSwtMjY2NDI4OTk3LC0xNz
+eyJoaXN0b3J5IjpbLTYwNzMzNDk3MSwtMjY2NDI4OTk3LC0xNz
 UxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3
 NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMT
 Q4MDE1MjYxMiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4
