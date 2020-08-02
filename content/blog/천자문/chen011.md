@@ -65,6 +65,12 @@ draft: false
 [_孤_  외로울 고]##### 孑**외로울 혈**
 ```
 34
+```js
+115 禾벼 화
+116 穴구멍 혈
+117 立설 립
+```
+```js
 069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
 
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
@@ -82,8 +88,15 @@ draft: false
 設(말씀 설/달랠 세/기뻐할 열) 感(느낄 감) 武(호반 무) 丁(고무래 정)
 
 부열이 들에서 역사하매 무정의 꿈에 감동되어 곧 정승에 되었다.
+```
 
 35
+```js
+118  竹대나무 죽
+119  米쌀 미
+120  糸실 사
+```
+```js
 071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 
@@ -100,14 +113,14 @@ draft: false
 趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
 
 조와  위는  횡에  곤하니  육군때에  진나라를  섬기자  함을  횡이라  하니라.
-
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEyODQ3OTMsMjA2ODYxMDAzOCwtMT
-g1NzE1NTYwLC0xODQ4MjY4MzU3LC0xNDMxNDI4ODcsLTE1ODY0
-ODU4MDcsLTYwNzMzNDk3MSwtMjY2NDI4OTk3LC0xNzUxMjgxMz
-YyLDI4NDI2NzIyOCwxMTM3NTA0NDk5LDc5OTkwNjY3NCwxOTAy
-NzQ1ODc5LDE2NDU1NDA0NzksLTE1NzIyMjc1MTcsMTQ4MDE1Mj
-YxMiwzMTY2MTk5ODgsOTczMDQyMjQyLDcyMzE0MzM4NywtMTI5
-MTA4NTA2NV19
+eyJoaXN0b3J5IjpbLTU5NjM4Mjc4NSwtMjEzMTI4NDc5MywyMD
+Y4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0
+Mjg4NywtMTU4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OT
+csLTE3NTEyODEzNjIsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5
+OTA2Njc0LDE5MDI3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNz
+UxNywxNDgwMTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIz
+MTQzMzg3XX0=
 -->
