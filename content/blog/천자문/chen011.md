@@ -75,6 +75,8 @@ draft: false
 070 綺回漢惠 說感武丁 기회한혜 설감무정
 ```js
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
+##### 亘**뻗칠 긍, 베풀 선**
+公자는 八(여덟 팔)자와 厶(사사 사)자가 결합한 모습이다. 厶자는 팔을 안으로 굽힌 모습을 그린 것으로 ‘사사롭다’라는 뜻
 
 濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
 
@@ -112,11 +114,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OT
-U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
-MzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC
-0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1
-MTI4MTM2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2Nz
-QsMTkwMjc0NTg3OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0
-ODAxNTI2MTJdfQ==
+eyJoaXN0b3J5IjpbMTkzNzk2MzQ4MSwyMDA3MzU4Njg4LDE0Mj
+QxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMzEyODQ3
+OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4MzU3LC
+0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMzNDk3MSwtMjY2
+NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0ND
+k5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLTE1
+NzIyMjc1MTddfQ==
 -->
