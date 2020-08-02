@@ -77,6 +77,7 @@ draft: false
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 ##### 亘**뻗칠 긍, 베풀 선**
 公자는 八(여덟 팔)자와 厶(사사 사)자가 결합한 모습이다. 厶자는 팔을 안으로 굽힌 모습을 그린 것으로 ‘사사롭다’라는 뜻
+合자는 亼(삼합 집)자와 口(입 구)자가 결합
 
 濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
 
@@ -114,11 +115,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzk2MzQ4MSwyMDA3MzU4Njg4LDE0Mj
-QxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMzEyODQ3
-OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4MzU3LC
-0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMzNDk3MSwtMjY2
-NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3NTA0ND
-k5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1NDA0NzksLTE1
-NzIyMjc1MTddfQ==
+eyJoaXN0b3J5IjpbLTQyMTkxOTYzNCwxOTM3OTYzNDgxLDIwMD
+czNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3
+NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1NjAsLT
+E4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNjA3
+MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0MjY3Mj
+I4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4NzksMTY0
+NTU0MDQ3OV19
 -->
