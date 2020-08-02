@@ -4,6 +4,9 @@ date: 2020-07-22
 category: "그외"
 draft: false
 ---
+자막만들기
+[enter link description here](https://www.youtube.com/watch?v=RIJWaypZ6Ik&list=PLZsH-OAmdm0Zt1gHSFshTJLJE4Es31pzT&index=206)
+![](https://i.ibb.co/4fqRVXr/image.png =300x)
 [# 3D Photoshop Tutorials](https://photoshoptrainingchannel.com/3d-photoshop-tutorials/)
 ![](https://i.ibb.co/xGr15h5/image.png =500x)
 ![](https://i.ibb.co/nfW85Vy/image.png =500x)
@@ -34,8 +37,8 @@ draft: false
 [기본학습](https://www.youtube.com/watch?v=CXE3x5opeC8&list=PLLtzrE3hP5SS6pPcZ43797J5tcvdBRMde&index=14)
 ![](https://i.ibb.co/1m3xZ1N/image.png =700x)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI2NTQwOTcsNDA3MDgzOTI1LDU1OD
-QzMTEzOSwtMTgwMDcyNDI4Niw3ODkwNzcyNzcsLTU3ODEwOTk4
-NywxODg0ODYwNzQ5LDg2Njc2Mzg0OCwxMzk5ODQ4MzM2LC0xOD
-k3MTU4Nzg3LDIxMTk3Mzc4MzVdfQ==
+eyJoaXN0b3J5IjpbMTQ4NTUyNzgxNCwtMTAzMjY1NDA5Nyw0MD
+cwODM5MjUsNTU4NDMxMTM5LC0xODAwNzI0Mjg2LDc4OTA3NzI3
+NywtNTc4MTA5OTg3LDE4ODQ4NjA3NDksODY2NzYzODQ4LDEzOT
+k4NDgzMzYsLTE4OTcxNTg3ODcsMjExOTczNzgzNV19
 -->
