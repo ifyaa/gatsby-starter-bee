@@ -70,9 +70,9 @@ draft: false
 116 穴구멍 혈
 117 立설 립
 ```
+069 桓公匡合 濟弱扶傾 
+070 綺回漢惠 說感武丁 
 ```js
-069 桓公匡合 濟弱扶傾 070 綺回漢惠 說感武丁 
-
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 
 제나라 환공은 바르게 하고 모두었으니 초를 물리치고 난을 바로잡았다.
@@ -96,8 +96,9 @@ draft: false
 119  米쌀 미
 120  糸실 사
 ```
+071 俊乂密勿 多士寔寧 
+072 晉楚更霸 趙魏困橫 
 ```js
-071 俊乂密勿 多士寔寧 072 晉楚更霸 趙魏困橫 
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 
 준걸과 재사가 조정에 모여 빽빽하더라.
@@ -116,7 +117,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjM4Mjc4NSwtMjEzMTI4NDc5MywyMD
+eyJoaXN0b3J5IjpbMTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMD
 Y4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0
 Mjg4NywtMTU4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OT
 csLTE3NTEyODEzNjIsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5
