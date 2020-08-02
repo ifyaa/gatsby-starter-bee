@@ -84,6 +84,7 @@ draft: false
 弱자는 두 개의 弓(활 궁)자에 획을 그은 모습이다. 활시위에 획을 그은 것은 활시위가 약하다는 뜻을 표현
 扶자는 手(손 수)자와 夫(지아비 부)자가 결합한 모습
 傾자는 人(사람 인)자와 頃(잠깐 경)자가 결합한 모습이다. 頃자는 匕(비수 비)자와 頁(머리 혈)자가 결합한 것으로 마치 수저로 얼굴을 내리치는 듯한 모습
+頃자는 ‘잠깐’이라는 뜻을 가진 글자이다. 頃자는 頁(머리 혈)자와 匕(비수 비)자가 결합한 모습이다. 頃자는 본래 ‘기울다’라는 뜻으로 만들어진 글자였다. 금문에 나온 頃자를 보면 마치 수저로 머리를 맞아 고개가 돌아간 듯한 모습으로 그려졌었다. 그래서 금문에서의 頃자는 ‘기울다’라는 뜻
 
 綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
 
@@ -119,11 +120,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4NDQyOTgsNDcwNDUwMjQ3LDE5Mz
-c5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2
-MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLT
-E4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2
-NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1MTI4MT
-M2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkw
-Mjc0NTg3OV19
+eyJoaXN0b3J5IjpbMjk4NzUzMTIxLDQ3MDQ1MDI0NywxOTM3OT
+YzNDgxLDIwMDczNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMs
+MTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xOD
+U3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4
+NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNj
+IsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3
+NDU4NzldfQ==
 -->
