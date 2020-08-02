@@ -68,8 +68,8 @@ draft: false
 ![](https://i.ibb.co/HDQGQFH/image.png =250x)
 ```js
 115 禾벼 화   桓(굳셀 환)濟(건널 제)벼는 바다건너 환공이 가져왔다
-116 穴구멍 혈  綺(비단 기)         
-117 立설 립   設(말씀 설/달랠 세/기뻐할 열)
+116 穴구멍 혈  綺(비단 기)         벼심는 구멍에 비단이 있었다
+117 立설 립   設(말씀 설/달랠 세/기뻐할 열) 세우는데 설명하는 말이 많았다
 ```
 069 桓公匡合 濟弱扶傾  환공광합 제약부경
 070 綺回漢惠 說感武丁 기회한혜 설감무정
@@ -124,11 +124,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MTU2NTU0LC00ODczMDIxNTEsLTE1ND
-IwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEs
-MjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMj
-M0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2
-MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC
-02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyODQy
-NjcyMjhdfQ==
+eyJoaXN0b3J5IjpbMjE0MDEyNDE1MiwtNDg3MzAyMTUxLC0xNT
+QyMDkzOTksMjk4NzUzMTIxLDQ3MDQ1MDI0NywxOTM3OTYzNDgx
+LDIwMDczNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MD
+IzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1
+NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNy
+wtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0
+MjY3MjI4XX0=
 -->
