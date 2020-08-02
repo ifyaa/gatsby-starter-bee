@@ -72,7 +72,7 @@ draft: false
 117 立설 립   設(말씀 설/달랠 세/기뻐할 열)
 ```
 069 桓公匡合 濟弱扶傾  환공광합 제약부경
-070 綺回漢惠 說感武丁 기회한혜 
+070 綺回漢惠 說感武丁 기회한혜 설감무정
 ```js
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 
@@ -112,7 +112,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjcwOTkzOSwxNDI0MTg0Mzk4LC00OT
+eyJoaXN0b3J5IjpbMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OT
 U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
 MzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC
 0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1
