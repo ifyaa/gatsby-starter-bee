@@ -94,6 +94,7 @@ draft: false
 咸자는 ‘모두’나 ‘남김없이’라는 뜻
 咸자는 戌(개 술)자와 口(입 구)자가 결합한 모습이다. 戌자는 날이 달린 창을 그린 것
 口자가 더하면 ‘고함’이라는 뜻의 喊(소리 함)자
+武자는 戈(창 과)자와 止(발 지)자가 결합한 모습이다. 여기서 戈자는 낫과 같은 모양의 고대 무기를 그린 것
 ```
 
 35
@@ -123,7 +124,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODU1Mzc4MiwtMTU0MjA5Mzk5LDI5OD
+eyJoaXN0b3J5IjpbLTQ4NzMwMjE1MSwtMTU0MjA5Mzk5LDI5OD
 c1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4MSwyMDA3MzU4Njg4
 LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMz
 EyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4
