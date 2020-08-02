@@ -87,6 +87,7 @@ draft: false
 頃자는 ‘잠깐’이라는 뜻을 가진 글자이다. 頃자는 頁(머리 혈)자와 匕(비수 비)자가 결합한 모습이다. 頃자는 본래 ‘기울다’라는 뜻으로 만들어진 글자였다. 금문에 나온 頃자를 보면 마치 수저로 머리를 맞아 고개가 돌아간 듯한 모습으로 그려졌었다. 그래서 금문에서의 頃자는 ‘기울다’라는 뜻
 
 綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
+惠자는 心(마음 심)자와 專(오로지 전)자가 결합한 모습이다. 專자는 실을 감아두던 ‘방추(紡錘)’를 돌리는 모습
 
 設(말씀 설) 感(느낄 감) 武(호반 무) 丁(고무래 정)
 
@@ -120,11 +121,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NzUzMTIxLDQ3MDQ1MDI0NywxOTM3OT
-YzNDgxLDIwMDczNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMs
-MTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xOD
-U3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4
-NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNj
-IsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3
-NDU4NzldfQ==
+eyJoaXN0b3J5IjpbLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwND
+UwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4
+LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNj
+g2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQy
+ODg3LC0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5Ny
+wtMTc1MTI4MTM2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5
+MDY2NzRdfQ==
 -->
