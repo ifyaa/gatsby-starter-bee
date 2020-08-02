@@ -92,6 +92,8 @@ draft: false
 設(말씀 설) 感(느낄 감) 武(호반 무) 丁(고무래 정)
 說자는 言자와 兌(기쁠 태)자가 결합
 咸자는 ‘모두’나 ‘남김없이’라는 뜻
+咸자는 戌(개 술)자와 口(입 구)자가 결합한 모습이다. 戌자는 날이 달린 창을 그린 것
+口자가 더하면 ‘고함’이라는 뜻의 喊(소리 함)자
 ```
 
 35
@@ -121,7 +123,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzU0NTI1NiwtMTU0MjA5Mzk5LDI5OD
+eyJoaXN0b3J5IjpbMTYyODU1Mzc4MiwtMTU0MjA5Mzk5LDI5OD
 c1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4MSwyMDA3MzU4Njg4
 LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMz
 EyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4
