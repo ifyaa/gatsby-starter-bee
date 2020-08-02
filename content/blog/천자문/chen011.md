@@ -81,6 +81,7 @@ draft: false
 
 濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
 齊자는 亠(돼지해머리 두)자와 刀(칼 도)자와 같은 다양한 글자가 결합한 모습이다. 그러나 갑골문에서의 齊자는 매우 단순했었다. 齊자의 갑골문을 보면 곡식의 이삭이 나란히
+弱자는 두 개의 弓(활 궁)자에 획을 그은 모습이다. 활시위에 획을 그은 것은 활시위가 약하다는 뜻을 표현
 
 綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
 
@@ -116,11 +117,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNz
-M1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3
-LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMT
-g0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC02MDcz
-MzQ5NzEsLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyODQyNjcyMj
-gsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3OSwxNjQ1
-NTQwNDc5XX0=
+eyJoaXN0b3J5IjpbLTIxNDY3MDkxNzUsNDcwNDUwMjQ3LDE5Mz
+c5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2
+MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLT
+E4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2
+NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1MTI4MT
+M2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkw
+Mjc0NTg3OV19
 -->
