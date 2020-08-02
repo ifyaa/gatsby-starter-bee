@@ -67,9 +67,9 @@ draft: false
 34
 ![](https://i.ibb.co/HDQGQFH/image.png =250x)
 ```js
-115 禾벼 화   桓(굳셀 환)濟(건널 제)벼는 바다건너 환공이 가져왔다
-116 穴구멍 혈  綺(비단 기)         벼심는 구멍에 비단이 있었다
-117 立설 립   設(말씀 설/달랠 세/기뻐할 열) 세우는데 설명하는 말이 많았다
+115 禾벼 화   桓(굳셀 환)濟(건널 제)벼는 대한항공타고 제나라에서 약을 가져왔다
+116 穴구멍 혈  綺(비단 기)         구멍에 기회가 있따
+117 立설 립   設(말씀 설/달랠 세/기뻐할 열) 설익은 감
 ```
 069 桓公匡合 濟弱扶傾  환공광합 제약부경
 070 綺回漢惠 說感武丁 기회한혜 설감무정
@@ -124,11 +124,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDEyNDE1MiwtNDg3MzAyMTUxLC0xNT
-QyMDkzOTksMjk4NzUzMTIxLDQ3MDQ1MDI0NywxOTM3OTYzNDgx
-LDIwMDczNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MD
-IzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1
-NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNy
-wtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0
-MjY3MjI4XX0=
+eyJoaXN0b3J5IjpbLTI1NzYyMTMzNiwyMTQwMTI0MTUyLC00OD
+czMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3
+LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OT
+U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
+MzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC
+0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1
+MTI4MTM2Ml19
 -->
