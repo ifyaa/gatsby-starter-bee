@@ -76,17 +76,11 @@ draft: false
 ```js
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 
-제나라 환공은 바르게 하고 모두었으니 초를 물리치고 난을 바로잡았다.
-
 濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
-
-약한 나라를 구제하고 기울어지는 제신을 도와서 붙들어 주었다.
 
 綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
 
-하나라 네 현인의 한 사람인 기가 한나라 혜제를 회복시켰다.
-
-設(말씀 설/달랠 세/기뻐할 열) 感(느낄 감) 武(호반 무) 丁(고무래 정)
+設(말씀 설) 感(느낄 감) 武(호반 무) 丁(고무래 정)
 
 부열이 들에서 역사하매 무정의 꿈에 감동되어 곧 정승에 되었다.
 ```
@@ -118,11 +112,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMz
-EyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4
-MzU3LC0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMzNDk3MS
-wtMjY2NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3
-NTA0NDk5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1NDA0Nz
-ksLTE1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMTY2MTk5ODgsOTcz
-MDQyMjQyXX0=
+eyJoaXN0b3J5IjpbMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MD
+IzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1
+NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNy
+wtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0
+MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4Nz
+ksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMx
+NjYxOTk4OF19
 -->
