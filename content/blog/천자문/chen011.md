@@ -71,8 +71,8 @@ draft: false
 116 穴구멍 혈  綺(비단 기)
 117 立설 립   設(말씀 설/달랠 세/기뻐할 열)
 ```
-069 桓公匡合 濟弱扶傾 
-070 綺回漢惠 說感武丁 
+069 桓公匡合 濟弱扶傾  환공광합 제약부경
+070 綺回漢惠 說感武丁 기회한혜 
 ```js
 桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
 
@@ -112,11 +112,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MD
-IzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1
-NjAsLTE4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNy
-wtNjA3MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0
-MjY3MjI4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4Nz
-ksMTY0NTU0MDQ3OSwtMTU3MjIyNzUxNywxNDgwMTUyNjEyLDMx
-NjYxOTk4OF19
+eyJoaXN0b3J5IjpbLTM4NjcwOTkzOSwxNDI0MTg0Mzk4LC00OT
+U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
+MzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC
+0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1
+MTI4MTM2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5MDY2Nz
+QsMTkwMjc0NTg3OSwxNjQ1NTQwNDc5LC0xNTcyMjI3NTE3LDE0
+ODAxNTI2MTJdfQ==
 -->
