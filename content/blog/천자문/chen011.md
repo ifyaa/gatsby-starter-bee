@@ -90,8 +90,8 @@ draft: false
 惠자는 心(마음 심)자와 專(오로지 전)자가 결합한 모습이다. 專자는 실을 감아두던 ‘방추(紡錘)’를 돌리는 모습
 
 設(말씀 설) 感(느낄 감) 武(호반 무) 丁(고무래 정)
-
-부열이 들에서 역사하매 무정의 꿈에 감동되어 곧 정승에 되었다.
+說자는 言자와 兌(기쁠 태)자가 결합
+咸자는 ‘모두’나 ‘남김없이’라는 뜻
 ```
 
 35
@@ -121,11 +121,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwND
-UwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4
-LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNj
-g2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQy
-ODg3LC0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5Ny
-wtMTc1MTI4MTM2MiwyODQyNjcyMjgsMTEzNzUwNDQ5OSw3OTk5
-MDY2NzRdfQ==
+eyJoaXN0b3J5IjpbMTA5NzU0NTI1NiwtMTU0MjA5Mzk5LDI5OD
+c1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4MSwyMDA3MzU4Njg4
+LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMz
+EyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4
+MzU3LC0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMzNDk3MS
+wtMjY2NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3
+NTA0NDk5XX0=
 -->
