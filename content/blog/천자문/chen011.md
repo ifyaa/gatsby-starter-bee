@@ -34,8 +34,8 @@ draft: false
 
 33
 ```js
-111 矢화살 시      磻(강이름 반) 화살쏘는 반대편에 공룡이 보이고
-112 石돌 석       佐(도울 좌)  돌도끼쥐고 좌측에서 도우고
+111 矢화살 시      磻(강이름 반) 화살쏘는 반대편에 개를쏘고
+112 石돌 석       佐(도울 좌)  돌도끼쥐고 좌측에서 좌시하지않고
 113 示보일 시      奄(문득 엄)  엄마도 보인다
 114 禸짐승발자국 유 微(작을 미)  엄마는 작은 미세한 발자욱을 찾았다
 ```
@@ -67,9 +67,9 @@ draft: false
 34
 ![](https://i.ibb.co/HDQGQFH/image.png =250x)
 ```js
-115 禾벼 화   桓(굳셀 환)
-116 穴구멍 혈
-117 立설 립
+115 禾벼 화   桓(굳셀 환)濟(건널 제)
+116 穴구멍 혈  綺(비단 기)
+117 立설 립   設(말씀 설/달랠 세/기뻐할 열)
 ```
 069 桓公匡合 濟弱扶傾 
 070 綺回漢惠 說感武丁 
@@ -118,11 +118,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzU1MzU3NiwxMDcwMjM0NDc3LC0yMT
-MxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2
-ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC02MDczMzQ5Nz
-EsLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyODQyNjcyMjgsMTEz
-NzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3OSwxNjQ1NTQwND
-c5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5OTg4LDk3
-MzA0MjI0Ml19
+eyJoaXN0b3J5IjpbLTQ5NTc4NDYzLDEwNzAyMzQ0NzcsLTIxMz
+EyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1NTYwLC0xODQ4MjY4
+MzU3LC0xNDMxNDI4ODcsLTE1ODY0ODU4MDcsLTYwNzMzNDk3MS
+wtMjY2NDI4OTk3LC0xNzUxMjgxMzYyLDI4NDI2NzIyOCwxMTM3
+NTA0NDk5LDc5OTkwNjY3NCwxOTAyNzQ1ODc5LDE2NDU1NDA0Nz
+ksLTE1NzIyMjc1MTcsMTQ4MDE1MjYxMiwzMTY2MTk5ODgsOTcz
+MDQyMjQyXX0=
 -->
