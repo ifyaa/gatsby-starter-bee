@@ -65,8 +65,9 @@ draft: false
 [_孤_  외로울 고]##### 孑**외로울 혈**
 ```
 34
+![](https://i.ibb.co/HDQGQFH/image.png =250x)
 ```js
-115 禾벼 화
+115 禾벼 화   桓(굳셀 환)
 116 穴구멍 혈
 117 立설 립
 ```
@@ -117,11 +118,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMD
-Y4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0
-Mjg4NywtMTU4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0Mjg5OT
-csLTE3NTEyODEzNjIsMjg0MjY3MjI4LDExMzc1MDQ0OTksNzk5
-OTA2Njc0LDE5MDI3NDU4NzksMTY0NTU0MDQ3OSwtMTU3MjIyNz
-UxNywxNDgwMTUyNjEyLDMxNjYxOTk4OCw5NzMwNDIyNDIsNzIz
-MTQzMzg3XX0=
+eyJoaXN0b3J5IjpbMTU5MzU1MzU3NiwxMDcwMjM0NDc3LC0yMT
+MxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2
+ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC02MDczMzQ5Nz
+EsLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyODQyNjcyMjgsMTEz
+NzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3OSwxNjQ1NTQwND
+c5LC0xNTcyMjI3NTE3LDE0ODAxNTI2MTIsMzE2NjE5OTg4LDk3
+MzA0MjI0Ml19
 -->
