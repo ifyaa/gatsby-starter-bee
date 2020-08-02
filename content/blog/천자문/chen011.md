@@ -80,6 +80,7 @@ draft: false
 合자는 亼(삼합 집)자와 口(입 구)자가 결합
 
 濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
+齊자는 亠(돼지해머리 두)자와 刀(칼 도)자와 같은 다양한 글자가 결합한 모습이다. 그러나 갑골문에서의 齊자는 매우 단순했었다. 齊자의 갑골문을 보면 곡식의 이삭이 나란히
 
 綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
 
@@ -115,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTkxOTYzNCwxOTM3OTYzNDgxLDIwMD
-czNTg2ODgsMTQyNDE4NDM5OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3
-NywtMjEzMTI4NDc5MywyMDY4NjEwMDM4LC0xODU3MTU1NjAsLT
-E4NDgyNjgzNTcsLTE0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNjA3
-MzM0OTcxLC0yNjY0Mjg5OTcsLTE3NTEyODEzNjIsMjg0MjY3Mj
-I4LDExMzc1MDQ0OTksNzk5OTA2Njc0LDE5MDI3NDU4NzksMTY0
-NTU0MDQ3OV19
+eyJoaXN0b3J5IjpbNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNz
+M1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3
+LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMT
+g0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC02MDcz
+MzQ5NzEsLTI2NjQyODk5NywtMTc1MTI4MTM2MiwyODQyNjcyMj
+gsMTEzNzUwNDQ5OSw3OTk5MDY2NzQsMTkwMjc0NTg3OSwxNjQ1
+NTQwNDc5XX0=
 -->
