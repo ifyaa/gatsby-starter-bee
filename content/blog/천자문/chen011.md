@@ -104,7 +104,7 @@ draft: false
 120  糸실 사    趙(나라 조)
 ```
 071 俊乂密勿 多士寔寧 준예밀물  다사식영 
-072 晉楚更霸 趙魏困橫 진초갱패  조위곤횡
+072 晉楚更覇 趙魏困橫 진초갱패  조위곤횡
 ```js
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 俊자는 人(사람 인)자와 夋(천천히 걷는 모양 준)자가 결합한 모습이다. 夋자는 천천히 걷고 있는 사람을 표현
@@ -123,11 +123,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzEyMzYxOSwtMTcyODM2NjkyLDExOT
-ExOTcyMTIsLTYzNjE5MDM1MCwyMDQxMjA3MjI1LDI0Njk3ODYz
-OSwtMjU3NjIxMzM2LDIxNDAxMjQxNTIsLTQ4NzMwMjE1MSwtMT
-U0MjA5Mzk5LDI5ODc1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4
-MSwyMDA3MzU4Njg4LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNz
-AyMzQ0NzcsLTIxMzEyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1
-NTYwXX0=
+eyJoaXN0b3J5IjpbMzc0MjcwNzgzLC01MjcxMjM2MTksLTE3Mj
+gzNjY5MiwxMTkxMTk3MjEyLC02MzYxOTAzNTAsMjA0MTIwNzIy
+NSwyNDY5Nzg2MzksLTI1NzYyMTMzNiwyMTQwMTI0MTUyLC00OD
+czMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3
+LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OT
+U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
+MzhdfQ==
 -->
