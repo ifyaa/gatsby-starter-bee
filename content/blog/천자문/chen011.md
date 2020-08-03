@@ -116,6 +116,7 @@ draft: false
 是자는 日(해 일)자와 正(바를 정)자가 결합
 
 晋(나라 진) 楚(나라 초) 更(다시 갱/고칠 경) 覇(으뜸 패)
+날일(日☞해)部와 臸(진☞도달하다)의 합자(合字)
 
 趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
 
@@ -123,7 +124,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MjcwNzgzLC01MjcxMjM2MTksLTE3Mj
+eyJoaXN0b3J5IjpbNTMxNzE5OTYxLC01MjcxMjM2MTksLTE3Mj
 gzNjY5MiwxMTkxMTk3MjEyLC02MzYxOTAzNTAsMjA0MTIwNzIy
 NSwyNDY5Nzg2MzksLTI1NzYyMTMzNiwyMTQwMTI0MTUyLC00OD
 czMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3
