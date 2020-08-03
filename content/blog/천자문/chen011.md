@@ -99,9 +99,9 @@ draft: false
 
 35
 ```js
-118  竹대나무 죽 俊(준걸 준)多(많을 다)
-119  米쌀 미    晋(나라 진)
-120  糸실 사    趙(나라 조)
+118  竹대나무 죽 俊(준걸 준)多(많을 다)대나무는 다준다
+119  米쌀 미    晋(나라 진)  쌀은 진짜고
+120  糸실 사    趙(나라 조)  실은 조심해서 다룬다
 ```
 071 俊乂密勿 多士寔寧 준예밀물  다사식영 
 072 晉楚更覇 趙魏困橫 진초갱패  조위곤횡
@@ -125,11 +125,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzA0NjA4OCwxMzU0NTYwMzg4LC01Mj
-cxMjM2MTksLTE3MjgzNjY5MiwxMTkxMTk3MjEyLC02MzYxOTAz
-NTAsMjA0MTIwNzIyNSwyNDY5Nzg2MzksLTI1NzYyMTMzNiwyMT
-QwMTI0MTUyLC00ODczMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMx
-MjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxND
-I0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0
-NzkzXX0=
+eyJoaXN0b3J5IjpbLTg5MzU4OTcyMCwxNzUzMDQ2MDg4LDEzNT
+Q1NjAzODgsLTUyNzEyMzYxOSwtMTcyODM2NjkyLDExOTExOTcy
+MTIsLTYzNjE5MDM1MCwyMDQxMjA3MjI1LDI0Njk3ODYzOSwtMj
+U3NjIxMzM2LDIxNDAxMjQxNTIsLTQ4NzMwMjE1MSwtMTU0MjA5
+Mzk5LDI5ODc1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4MSwyMD
+A3MzU4Njg4LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNzAyMzQ0
+NzddfQ==
 -->
