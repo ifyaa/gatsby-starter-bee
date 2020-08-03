@@ -99,12 +99,12 @@ draft: false
 
 35
 ```js
-118  竹대나무 죽
-119  米쌀 미
-120  糸실 사
+118  竹대나무 죽 俊(준걸 준)多(많을 다)
+119  米쌀 미    晋(나라 진)
+120  糸실 사    趙(나라 조)
 ```
-071 俊乂密勿 多士寔寧 
-072 晉楚更霸 趙魏困橫 
+071 俊乂密勿 多士寔寧 준예밀물  다사식영 
+072 晉楚更霸 趙魏困橫 진초갱패  조위곤횡
 ```js
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 
@@ -118,11 +118,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2OTc4NjM5LC0yNTc2MjEzMzYsMjE0MD
-EyNDE1MiwtNDg3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIx
-LDQ3MDQ1MDI0NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyND
-E4NDM5OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3NywtMjEzMTI4NDc5
-MywyMDY4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLT
-E0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0
-Mjg5OTddfQ==
+eyJoaXN0b3J5IjpbMjA0MTIwNzIyNSwyNDY5Nzg2MzksLTI1Nz
+YyMTMzNiwyMTQwMTI0MTUyLC00ODczMDIxNTEsLTE1NDIwOTM5
+OSwyOTg3NTMxMjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNz
+M1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3
+LC0yMTMxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMT
+g0ODI2ODM1NywtMTQzMTQyODg3LC0xNTg2NDg1ODA3LC02MDcz
+MzQ5NzFdfQ==
 -->
