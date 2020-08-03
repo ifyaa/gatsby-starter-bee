@@ -108,15 +108,9 @@ draft: false
 ```js
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 
-준걸과 재사가 조정에 모여 빽빽하더라.
-
 多(많을 다) 士(선비 사) 寔(이 식) 寧(편안 녕)
 
-준걸과 재사가 조정에 많으니 국가가 태평함이라.
-
 晋(나라 진) 楚(나라 초) 更(다시 갱/고칠 경) 覇(으뜸 패)
-
-진과 초가 다시 으뜸이 되니 진문공 초장왕이 패왕이 되니라.
 
 趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
 
@@ -124,11 +118,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzYyMTMzNiwyMTQwMTI0MTUyLC00OD
-czMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3
-LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OT
-U3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0NzkzLDIwNjg2MTAw
-MzgsLTE4NTcxNTU2MCwtMTg0ODI2ODM1NywtMTQzMTQyODg3LC
-0xNTg2NDg1ODA3LC02MDczMzQ5NzEsLTI2NjQyODk5NywtMTc1
-MTI4MTM2Ml19
+eyJoaXN0b3J5IjpbMzE3NjcyMjQwLC0yNTc2MjEzMzYsMjE0MD
+EyNDE1MiwtNDg3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIx
+LDQ3MDQ1MDI0NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyND
+E4NDM5OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3NywtMjEzMTI4NDc5
+MywyMDY4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLT
+E0MzE0Mjg4NywtMTU4NjQ4NTgwNywtNjA3MzM0OTcxLC0yNjY0
+Mjg5OTddfQ==
 -->
