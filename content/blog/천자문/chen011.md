@@ -109,7 +109,7 @@ draft: false
 俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
 俊자는 人(사람 인)자와 夋(천천히 걷는 모양 준)자가 결합한 모습이다. 夋자는 천천히 걷고 있는 사람을 표현
 ##### 乀 **뼘**엄지손가락과 다른 한 손가락을 벌리고 있는 모양
-密자는 宓(잠잠할 밀)자와 山(뫼 산)자가 결합한 모습
+密자는 宓(잠잠할 밀)자와 山(뫼 산)자가 결합한 모습 ##### 宓**성씨 복, 잠잠할 밀**
 
 多(많을 다) 士(선비 사) 寔(이 식) 寧(편안 녕)
 
@@ -121,7 +121,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjc2NzA4MCwtNjM2MTkwMzUwLDIwND
+eyJoaXN0b3J5IjpbMTE5MTE5NzIxMiwtNjM2MTkwMzUwLDIwND
 EyMDcyMjUsMjQ2OTc4NjM5LC0yNTc2MjEzMzYsMjE0MDEyNDE1
 MiwtNDg3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIxLDQ3MD
 Q1MDI0NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyNDE4NDM5
