@@ -114,11 +114,11 @@ draft: false
 
 趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
 
-조와  위는  횡에  곤하니  육군때에  진나라를  섬기자  함을  횡이라  하니라.
+
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NjcyMjQwLC0yNTc2MjEzMzYsMjE0MD
+eyJoaXN0b3J5IjpbMjQ2OTc4NjM5LC0yNTc2MjEzMzYsMjE0MD
 EyNDE1MiwtNDg3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIx
 LDQ3MDQ1MDI0NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyND
 E4NDM5OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3NywtMjEzMTI4NDc5
