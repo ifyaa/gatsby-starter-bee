@@ -117,6 +117,7 @@ draft: false
 
 晋(나라 진) 楚(나라 초) 更(다시 갱/고칠 경) 覇(으뜸 패)
 날일(日☞해)部와 臸(진☞도달하다)의 합자(合字)  ##### 臸**이를 진**
+##### 䩗**으뜸 패/두목**
 
 趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
 
@@ -124,11 +125,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDU2MDM4OCwtNTI3MTIzNjE5LC0xNz
-I4MzY2OTIsMTE5MTE5NzIxMiwtNjM2MTkwMzUwLDIwNDEyMDcy
-MjUsMjQ2OTc4NjM5LC0yNTc2MjEzMzYsMjE0MDEyNDE1MiwtND
-g3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIxLDQ3MDQ1MDI0
-NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyNDE4NDM5OCwtND
-k1Nzg0NjMsMTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMDY4NjEw
-MDM4XX0=
+eyJoaXN0b3J5IjpbMTc1MzA0NjA4OCwxMzU0NTYwMzg4LC01Mj
+cxMjM2MTksLTE3MjgzNjY5MiwxMTkxMTk3MjEyLC02MzYxOTAz
+NTAsMjA0MTIwNzIyNSwyNDY5Nzg2MzksLTI1NzYyMTMzNiwyMT
+QwMTI0MTUyLC00ODczMDIxNTEsLTE1NDIwOTM5OSwyOTg3NTMx
+MjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4OCwxND
+I0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMTMxMjg0
+NzkzXX0=
 -->
