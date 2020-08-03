@@ -113,6 +113,7 @@ draft: false
 必자는 물을 퍼 담는 바가지를 그린 것
 
 多(많을 다) 士(선비 사) 寔(이 식) 寧(편안 녕)
+是자는 日(해 일)자와 正(바를 정)자가 결합
 
 晋(나라 진) 楚(나라 초) 更(다시 갱/고칠 경) 覇(으뜸 패)
 
@@ -122,11 +123,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgzNjY5MiwxMTkxMTk3MjEyLC02Mz
-YxOTAzNTAsMjA0MTIwNzIyNSwyNDY5Nzg2MzksLTI1NzYyMTMz
-NiwyMTQwMTI0MTUyLC00ODczMDIxNTEsLTE1NDIwOTM5OSwyOT
-g3NTMxMjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4
-OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMT
-MxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2
-ODM1N119
+eyJoaXN0b3J5IjpbLTUyNzEyMzYxOSwtMTcyODM2NjkyLDExOT
+ExOTcyMTIsLTYzNjE5MDM1MCwyMDQxMjA3MjI1LDI0Njk3ODYz
+OSwtMjU3NjIxMzM2LDIxNDAxMjQxNTIsLTQ4NzMwMjE1MSwtMT
+U0MjA5Mzk5LDI5ODc1MzEyMSw0NzA0NTAyNDcsMTkzNzk2MzQ4
+MSwyMDA3MzU4Njg4LDE0MjQxODQzOTgsLTQ5NTc4NDYzLDEwNz
+AyMzQ0NzcsLTIxMzEyODQ3OTMsMjA2ODYxMDAzOCwtMTg1NzE1
+NTYwXX0=
 -->
