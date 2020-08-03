@@ -110,6 +110,7 @@ draft: false
 俊자는 人(사람 인)자와 夋(천천히 걷는 모양 준)자가 결합한 모습이다. 夋자는 천천히 걷고 있는 사람을 표현
 ##### 乀 **뼘**엄지손가락과 다른 한 손가락을 벌리고 있는 모양
 密자는 宓(잠잠할 밀)자와 山(뫼 산)자가 결합한 모습 ##### 宓**성씨 복, 잠잠할 밀**
+必자는 물을 퍼 담는 바가지를 그린 것
 
 多(많을 다) 士(선비 사) 寔(이 식) 寧(편안 녕)
 
@@ -121,11 +122,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTE5NzIxMiwtNjM2MTkwMzUwLDIwND
-EyMDcyMjUsMjQ2OTc4NjM5LC0yNTc2MjEzMzYsMjE0MDEyNDE1
-MiwtNDg3MzAyMTUxLC0xNTQyMDkzOTksMjk4NzUzMTIxLDQ3MD
-Q1MDI0NywxOTM3OTYzNDgxLDIwMDczNTg2ODgsMTQyNDE4NDM5
-OCwtNDk1Nzg0NjMsMTA3MDIzNDQ3NywtMjEzMTI4NDc5MywyMD
-Y4NjEwMDM4LC0xODU3MTU1NjAsLTE4NDgyNjgzNTcsLTE0MzE0
-Mjg4N119
+eyJoaXN0b3J5IjpbLTE3MjgzNjY5MiwxMTkxMTk3MjEyLC02Mz
+YxOTAzNTAsMjA0MTIwNzIyNSwyNDY5Nzg2MzksLTI1NzYyMTMz
+NiwyMTQwMTI0MTUyLC00ODczMDIxNTEsLTE1NDIwOTM5OSwyOT
+g3NTMxMjEsNDcwNDUwMjQ3LDE5Mzc5NjM0ODEsMjAwNzM1ODY4
+OCwxNDI0MTg0Mzk4LC00OTU3ODQ2MywxMDcwMjM0NDc3LC0yMT
+MxMjg0NzkzLDIwNjg2MTAwMzgsLTE4NTcxNTU2MCwtMTg0ODI2
+ODM1N119
 -->
