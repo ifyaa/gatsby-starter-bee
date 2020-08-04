@@ -53,6 +53,7 @@ draft: false
 假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
 假자는 人(사람 인)자와 叚(빌 가)자가 결합
 ##### 叚 **빌릴 가, 성씨 하, 층계 단**층계([層]단([段]
+途자는 辶(쉬엄쉬엄 갈 착)자와 余(나 여)자가 결합한 모습이다. 余자는 나무 위에 지은 집을 그린 것으로 ‘나’나 ‘자신’이라는 뜻, 彳(조금 걸을 척)
 
 踐(밟을 천) 土(흙 토) 會(모일 회) 盟(맹세 맹)
 
@@ -103,11 +104,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMwNTAwNDIsLTM3MzM2MzY4NywyMT
-EyMTQ0ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQw
-NjMyLC0xNjcyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NC
-wtNTAyODY0MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIy
-NzU3MCw2MDg2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OS
-wxMTkxMzk4NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
-
+eyJoaXN0b3J5IjpbLTIwOTQ4OTMxNywtMTM3MzA1MDA0MiwtMz
+czMzYzNjg3LDIxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3ODQ5
+NzYsLTE5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OC
+wxNjY5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5
+MDY4MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC
+0yMTAwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0
+MDU3MDc4MjZdfQ==
 -->
