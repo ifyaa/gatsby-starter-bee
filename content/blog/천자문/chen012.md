@@ -9,8 +9,9 @@ draft: false
 새로산 트럭위에 장군항아리에 양이 들어잇고. 깃털로 만든그물로 덮여있다
 운전수 아저씨 수염이 늙을때 까지 쟁기일만 했다
 고사지내려고, 돼지고기 귀에붓을 걸었다 
+
+ 120 이사짐
  ```js
-120 이사짐
 121缶장군 부
 122网그물 망
 123羊양 양
@@ -83,8 +84,8 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0Mj
-YzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MDg2NTIzOTEs
-MTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4NDc3LC0xNT
-g0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbLTEyMDk0Njc3OTQsMTY2OTYwNzU4NCwtNT
+AyODY0MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3
+MCw2MDg2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMT
+kxMzk4NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
 -->
