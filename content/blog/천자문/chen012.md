@@ -43,7 +43,7 @@ draft: false
 ```js
 121缶장군 부  假(거짓 가) 돈가치가 없다
 122网그물 망 踐(밟을 천) 그물을 천으로 되어있고
-123羊양 양   何(어찌 하) 양을 어찌하나
+123羊양 양   何(어찌 하) 양은 하늘에서 내려왔다
 124羽깃 우   韓(나라 한) 한마리로 뽑았다
 ```
 #### 073 假途滅虢 踐土會盟 
@@ -101,10 +101,10 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjE0NDg2NSwxOTAwNTU4NjU1LDQ1Nj
-c4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1MTczMCwtMTgyMDg4
-Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5NDI2Mzc0MzMsNz
-UwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUyMzkxLDE2ODc5NTI3
-MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4Ny
-wtMTQwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbLTEyNDY1MzM1NDUsMjExMjE0NDg2NSwxOT
+AwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1
+MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LD
+E5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUy
+MzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3Ny
+wtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl19
 -->
