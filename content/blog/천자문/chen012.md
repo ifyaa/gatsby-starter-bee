@@ -41,11 +41,10 @@ draft: false
 36
 ![](https://i.ibb.co/8KFQ8qR/image.png =250x)
 ```js
-121缶장군 부  假(거짓 가) 부가가치세
+121缶장군 부  假(거짓 가) 가치가 없다
 122网그물 망 踐(밟을 천) 그물을 천으로 되어있고
-123羊양 양   何(어찌 하) 양을 어
-ㅈ
-124羽깃 우   韓(나라 한)
+123羊양 양   何(어찌 하) 양을 
+124羽깃 우   韓(나라 한) 우한이 든다
 ```
 #### 073 假途滅虢 踐土會盟 
 #### 074 何遵約法 韓弊煩刑
@@ -102,7 +101,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Nzg4MjQ5Niw0NTY3ODQ5NzYsLTE5MT
+eyJoaXN0b3J5IjpbMTM5MTYwNzE0Niw0NTY3ODQ5NzYsLTE5MT
 c2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3
 NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNj
 kzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3
