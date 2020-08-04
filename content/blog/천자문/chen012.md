@@ -10,6 +10,7 @@ draft: false
 운전수 아저씨 수염이 늙을때 까지 쟁기일만 했다
 고사지내려고, 돼지고기 귀에붓을 걸었다 
 
+
  120 이사짐
  ```js
 121缶장군 부
@@ -25,6 +26,7 @@ draft: false
 129聿붓 율
 130肉고기 육
 ```
+缶 网(罒䍏) 羊 羽 老 而 耒 耳 聿 肉 
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 073 假途滅虢 踐土會盟 074 何遵約法 韓弊煩刑
 075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
@@ -84,8 +86,8 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk0Njc3OTQsMTY2OTYwNzU4NCwtNT
-AyODY0MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3
-MCw2MDg2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMT
-kxMzk4NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbLTE4MjA4ODY5OCwxNjY5NjA3NTg0LC01MD
+I4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNjkzMjI3NTcw
+LDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3Nzk5LDExOT
+EzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ==
 -->
