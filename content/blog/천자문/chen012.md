@@ -25,6 +25,7 @@ draft: false
 125老늙을 노
 공경하다’나 ‘노련하다’와 같은 뜻
 126而말이을 이
+지금의 而자는 ‘자네’나 ‘그대’처럼 인칭대명사로 쓰이거나 ‘~로써’나 ‘~하면서’와 같은 접속사로 가차(假借)되어 있다. 하지만 而자가 부수 역할을 할 때는 여전히 ‘턱수염’과 관련된 의미
 127耒쟁기 뢰
 
 128耳귀 이
@@ -91,7 +92,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY4OTgwMjUsLTE4MjA4ODY5OCwxNj
+eyJoaXN0b3J5IjpbLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNj
 Y5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4
 MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMT
 AwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3
