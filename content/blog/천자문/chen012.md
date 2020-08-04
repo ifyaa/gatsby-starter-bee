@@ -16,6 +16,7 @@ draft: false
 121缶장군 부
 다른 글자와 결합할 때는 缸(항아리 항)자나 陶(질그릇 도)자처럼 토기와 관련된 의미를 전달
 122网그물 망
+网자가 부수로 쓰일 때는 罒, 罓, 㓁자와 같은 다양한 모양으로 바뀐다
 123羊양 양
 124羽깃 우
 
@@ -87,9 +88,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxNTg5NjIsLTE4MjA4ODY5OCwxNj
-Y5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4
-MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMT
-AwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3
-MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbLTMxMjI1MzY3MCwtMTgyMDg4Njk4LDE2Nj
+k2MDc1ODQsLTUwMjg2NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgz
+LDE2OTMyMjc1NzAsNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMD
+A2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcw
+NzgyNl19
 -->
