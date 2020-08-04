@@ -30,6 +30,8 @@ draft: false
 
 128耳귀 이
 129聿붓 율
+단순히 ‘붓’을 뜻할 때는 筆자가 쓰이고 聿자는 다른 글자와 결합할 때 ‘붓’이라는 뜻을 전달
+書(글 서)자나 畵(그림 화)자가 있기는 하지만 聿자가 부수로 지정된 것은 아니다.
 130肉고기 육
 ```
 缶 网(罒䍏) 羊 羽 老 而 耒 耳 聿 肉 
@@ -92,9 +94,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNj
-Y5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4
-MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMT
-AwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3
-MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbMTIxNzE3MDk0MCwtMTY3MjA1MTczMCwtMT
+gyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5NDI2Mzc0
+MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUyMzkxLDE2OD
+c5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1
+NjQ4NywtMTQwNTcwNzgyNl19
 -->
