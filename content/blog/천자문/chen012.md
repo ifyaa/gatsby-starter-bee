@@ -52,6 +52,7 @@ draft: false
 ```js
 假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
 假자는 人(사람 인)자와 叚(빌 가)자가 결합
+##### 叚 **빌릴 가, 성씨 하, 층계 단**층계([層]단([段]
 
 踐(밟을 천) 土(흙 토) 會(모일 회) 盟(맹세 맹)
 
@@ -102,7 +103,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE3NTc5MjEsLTM3MzM2MzY4NywyMT
+eyJoaXN0b3J5IjpbLTEzNzMwNTAwNDIsLTM3MzM2MzY4NywyMT
 EyMTQ0ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQw
 NjMyLC0xNjcyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NC
 wtNTAyODY0MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIy
