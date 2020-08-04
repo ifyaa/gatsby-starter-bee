@@ -43,7 +43,7 @@ draft: false
 ```js
 121缶장군 부  假(거짓 가) 
 
-122网그물 망 踐(밟을 천)
+122网그물 망 踐(밟을 천) 그물을 천으로 되어있고
 123羊양 양   何(어찌 하)
 124羽깃 우   韓(나라 한)
 ```
@@ -109,10 +109,10 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY3MTU4Miw0NTY3ODQ5NzYsLTE5MT
-c2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3
-NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNj
-kzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3
-Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4Mj
-ZdfQ==
+eyJoaXN0b3J5IjpbOTYwMjc1MDc4LDQ1Njc4NDk3NiwtMTkxNz
+Y0MDYzMiwtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1
+ODQsLTUwMjg2NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OT
+MyMjc1NzAsNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3
+OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl
+19
 -->
