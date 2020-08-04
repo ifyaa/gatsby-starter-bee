@@ -41,10 +41,10 @@ draft: false
 36
 ![](https://i.ibb.co/8KFQ8qR/image.png =250x)
 ```js
-121缶장군 부  假(거짓 가) 
-
+121缶장군 부  假(거짓 가) 부가가치세
 122网그물 망 踐(밟을 천) 그물을 천으로 되어있고
-123羊양 양   何(어찌 하)
+123羊양 양   何(어찌 하) 양을 어
+ㅈ
 124羽깃 우   韓(나라 한)
 ```
 #### 073 假途滅虢 踐土會盟 
@@ -53,19 +53,12 @@ draft: false
 ```js
 假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
 
-길을 빌려 괵국을 멸하니 진헌공이 우국길을 빌려 괵국을 멸하였다.
-
 踐(밟을 천) 土(흙 토) 會(모일 회) 盟(맹세 맹)
-
-진문공이 제후를 천토에 모아 맹세하고 협천자영 제후하니라.
 
 何(어찌 하) 遵(좇을 준) 約(약속할 약) 法(법 법)
 
-소하는 한고조로 더불어 약법삼장을 정하여 준행하리라.
-
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 
-한비는 진왕을 달래 형벌을 펴다가 그 형벌에 죽는다.
 
 ```
 075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
@@ -109,10 +102,10 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMjc1MDc4LDQ1Njc4NDk3NiwtMTkxNz
-Y0MDYzMiwtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1
-ODQsLTUwMjg2NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OT
-MyMjc1NzAsNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3
-OTksMTE5MTM5ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl
-19
+eyJoaXN0b3J5IjpbLTc0Nzg4MjQ5Niw0NTY3ODQ5NzYsLTE5MT
+c2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3
+NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNj
+kzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3
+Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4Mj
+ZdfQ==
 -->
