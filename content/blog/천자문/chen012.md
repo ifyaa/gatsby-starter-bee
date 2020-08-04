@@ -33,6 +33,7 @@ draft: false
 단순히 ‘붓’을 뜻할 때는 筆자가 쓰이고 聿자는 다른 글자와 결합할 때 ‘붓’이라는 뜻을 전달
 書(글 서)자나 畵(그림 화)자가 있기는 하지만 聿자가 부수로 지정된 것은 아니다.
 130肉고기 육
+肉자가 부수로 쓰일 때는 ‘달’을 뜻하는 月(달 월)자로 바뀌게 된다는 점이다. 본래 肉자의 부수자로는 ⺼(고기 육)자가 따로 있기는 하지만 편의상 月자를 사용하기 때문이다. 그래서 달을 뜻하는 月(달 월)자와 혼동이 생길 수 있지만 月(달 월)자가 부수로 쓰일 때는 期(기약할 기)자처럼 우측 변에 위치하고 ⺼(육달 월)자일 경우에는 肝(간 간)자처럼 좌측이나 하단, 상단에 위치하게 되니 구분할 수 있기는 하다. 이렇게 肉자가 月자로 쓰일 때는 ‘육달 월’이라고 읽는다.
 ```
 缶 网(罒䍏) 羊 羽 老 而 耒 耳 聿 肉 
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
@@ -94,9 +95,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzE3MDk0MCwtMTY3MjA1MTczMCwtMT
-gyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5NDI2Mzc0
-MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUyMzkxLDE2OD
-c5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMTU4NDU1
-NjQ4NywtMTQwNTcwNzgyNl19
+eyJoaXN0b3J5IjpbLTE5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLT
+E4MjA4ODY5OCwxNjY5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3
+NDMzLDc1MDQ5MDY4MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNj
+g3OTUyNzE3LC0yMTAwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1
+NTY0ODcsLTE0MDU3MDc4MjZdfQ==
 -->
