@@ -18,10 +18,12 @@ draft: false
 122网그물 망
 网자가 부수로 쓰일 때는 罒, 罓, 㓁자와 같은 다양한 모양으로 바뀐다
 123羊양 양
+양’이나 ‘양고기’, ‘상서로움’, ‘권력’이라는 뜻
 羊자가 다른 글자와 결합할 때는 하단의 획이 생략된 형태
 124羽깃 우
-
+羽자가 다른 글자와 결합할 때는 ‘깃털’이나 ‘날다’, ‘돕다’와 같은 뜻
 125老늙을 노
+공경하다’나 ‘노련하다’와 같은 뜻
 126而말이을 이
 127耒쟁기 뢰
 
@@ -89,9 +91,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxODY3NzksLTE4MjA4ODY5OCwxNjY5Nj
-A3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4Mywx
-NjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNj
-c3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjY4OTgwMjUsLTE4MjA4ODY5OCwxNj
+Y5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4
+MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMT
+AwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3
+MDc4MjZdfQ==
 -->
