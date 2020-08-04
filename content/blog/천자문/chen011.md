@@ -39,7 +39,7 @@ draft: false
 113 示보일 시      奄(문득 엄)  엄마도 보인다
 114 禸짐승발자국 유 微(작을 미)  엄마는 작은 미세한 발자욱을 찾았다
 ```
-067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
+ 067 磻溪伊尹 佐時阿衡 	반계이윤 좌시아형
 068 奄宅曲阜 微旦孰營    엄택곡부 미단숙영
 ```js
 磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
@@ -111,9 +111,54 @@ draft: false
 ##### 乀 **뼘**엄지손가락과 다른 한 손가락을 벌리고 있는 모양
 密자는 宓(잠잠할 밀)자와 山(뫼 산)자가 결합한 모습 ##### 宓**성씨 복, 잠잠할 밀**
 必자는 물을 퍼 담는 바가지를 그린 것
+      
+      
+
+33
+
+磻(강이름 반) 溪(시내 계) 伊(저 이) 尹(다스릴 윤)
+
+문왕은 반계에서 강태공을 맞고 은왕은 신야에서 이윤을 맞이하였다.
+
+佐(도울 좌) 時(때 시) 阿(언덕 아) 衡(저울대 형)
+
+때를 돕는 아형이니 아형은 상나라 재상의 칭호이다.
+
+奄(문득 엄) 宅(집 댁/택) 曲(굽을 곡) 阜(언덕 부)
+
+주공이 큰 공이 있는 고로 노국을 봉한 후 곡부에다 궁전을 세웠다.
+
+微(작을 미) 旦(아침 단) 孰(누구 숙) 營(경영 영)
+
+주공의 단이 아니면 어찌 큰 궁전을 세웠으리요.
+
+34
+
+桓(굳셀 환) 公(공변될 공) 匡(바를 광) 合(모을 합)
+
+제나라 환공은 바르게 하고 모두었으니 초를 물리치고 난을 바로잡았다.
+
+濟(건널 제) 弱(약할 약) 扶(도울 부) 傾(기울 경)
+
+약한 나라를 구제하고 기울어지는 제신을 도와서 붙들어 주었다.
+
+綺(비단 기) 回(돌아올 회) 漢(한수 한) 惠(은혜 혜)
+
+하나라 네 현인의 한 사람인 기가 한나라 혜제를 회복시켰다.
+
+設(말씀 설/달랠 세/기뻐할 열) 感(느낄 감) 武(호반 무) 丁(고무래 정)
+
+부열이 들에서 역사하매 무정의 꿈에 감동되어 곧 정승에 되었다.
+
+35
+
+俊(준걸 준) 乂(어질 예) 密(빽빽할 밀) 勿(말 물)
+
+준걸과 재사가 조정에 모여 빽빽하더라.
 
 多(많을 다) 士(선비 사) 寔(이 식) 寧(편안 녕)
 是자는 日(해 일)자와 正(바를 정)자가 결합
+준걸과 재사가 조정에 많으니 국가가 태평함이라.
 
 晋(나라 진) 楚(나라 초) 更(다시 갱/고칠 경) 覇(으뜸 패)
 날일(日☞해)部와 臸(진☞도달하다)의 합자(合字)  ##### 臸**이를 진**
@@ -123,13 +168,19 @@ draft: false
 
 
 ```
+진과 초가 다시 으뜸이 되니 진문공 초장왕이 패왕이 되니라.
+
+趙(나라 조) 魏(나라 위) 困(곤할 곤) 橫(비낄 횡)
+
+조와  위는  횡에  곤하니  육군때에  진나라를  섬기자  함을  횡이라  하니라.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzM4MjQyLC04OTM1ODk3MjAsMTc1Mz
-A0NjA4OCwxMzU0NTYwMzg4LC01MjcxMjM2MTksLTE3MjgzNjY5
-MiwxMTkxMTk3MjEyLC02MzYxOTAzNTAsMjA0MTIwNzIyNSwyND
-Y5Nzg2MzksLTI1NzYyMTMzNiwyMTQwMTI0MTUyLC00ODczMDIx
-NTEsLTE1NDIwOTM5OSwyOTg3NTMxMjEsNDcwNDUwMjQ3LDE5Mz
-c5NjM0ODEsMjAwNzM1ODY4OCwxNDI0MTg0Mzk4LC00OTU3ODQ2
-M119
+eyJoaXN0b3J5IjpbLTUwMTYyNTExNSwxMTgzMzgyNDIsLTg5Mz
+U4OTcyMCwxNzUzMDQ2MDg4LDEzNTQ1NjAzODgsLTUyNzEyMzYx
+OSwtMTcyODM2NjkyLDExOTExOTcyMTIsLTYzNjE5MDM1MCwyMD
+QxMjA3MjI1LDI0Njk3ODYzOSwtMjU3NjIxMzM2LDIxNDAxMjQx
+NTIsLTQ4NzMwMjE1MSwtMTU0MjA5Mzk5LDI5ODc1MzEyMSw0Nz
+A0NTAyNDcsMTkzNzk2MzQ4MSwyMDA3MzU4Njg4LDE0MjQxODQz
+OThdfQ==
 -->
