@@ -68,7 +68,7 @@ draft: false
 去자는 土(흙 토)자와 厶(사사 사)자가 함께 결합
 
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
-
+韓자는 倝(햇빛 간)자와 韋(가죽 위)자가 결합한 모습이다. 倝자는 햇빛이 찬란하게 대지를 비추는 모습을 그린 것으로 ‘햇빛’이라는 뜻을 갖고 있다. 韋자가 성(城)을 둘러싸고 있는 모습을 그린 것이니 韓자는 햇빛이 성을 비추는 모습으로 해석
 
 ```
 075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
@@ -112,7 +112,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTE5NzUzNSwtNzQ1OTIzNjQ3LC0yMD
+eyJoaXN0b3J5IjpbLTY1MTgwMTE0MywtNzQ1OTIzNjQ3LC0yMD
 k0ODkzMTcsLTEzNzMwNTAwNDIsLTM3MzM2MzY4NywyMTEyMTQ0
 ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC
 0xNjcyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAy
