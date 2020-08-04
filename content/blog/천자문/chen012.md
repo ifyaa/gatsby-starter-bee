@@ -63,6 +63,9 @@ draft: false
 尊자는 酋(묵은 술 추)자와 寸(마디 촌)자가 결합한 모습이다. 酋자는 잘 익은 술의 향기가 퍼져나가는 모습을 표현한 것으로 ‘좋은 술’이라는 뜻
 ##### 酋**우두머리 추**酉(유☞술 단지)를 바탕으로 하여 八(팔)은 물위로 나온 모양
 約자는 糸(가는 실 사)자와 勺(구기 작)자가 결합한 모습이다. 勺자는 술이나 물을 푸던 국자를 그린 것
+##### 勺**구기 작**
+法자는 水(물 수)와 去(갈 거)자가 결합
+去자는 土(흙 토)자와 厶(사사 사)자가 함께 결합
 
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 
@@ -109,11 +112,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc1MDA1ODYsLTc0NTkyMzY0NywtMj
-A5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0
-NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMi
-wtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUw
-Mjg2NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1Nz
-AsNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5
-MTM5ODQ3N119
+eyJoaXN0b3J5IjpbMTExMTE5NzUzNSwtNzQ1OTIzNjQ3LC0yMD
+k0ODkzMTcsLTEzNzMwNTAwNDIsLTM3MzM2MzY4NywyMTEyMTQ0
+ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC
+0xNjcyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAy
+ODY0MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3MC
+w2MDg2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMTkx
+Mzk4NDc3XX0=
 -->
