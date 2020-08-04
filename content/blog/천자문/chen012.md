@@ -12,7 +12,7 @@ draft: false
 
 
  120 이사짐
- ```js
+```js
 121缶장군 부
 다른 글자와 결합할 때는 缸(항아리 항)자나 陶(질그릇 도)자처럼 토기와 관련된 의미를 전달
 122网그물 망
@@ -38,12 +38,17 @@ draft: false
 缶 网(罒䍏) 羊 羽 老 而 耒 耳 聿 肉 
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 
+```js
+121缶장군 부
 
+122网그물 망
+123羊양 양
+124羽깃 우
+```
 073 假途滅虢 踐土會盟 074 何遵約法 韓弊煩刑
-075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
-077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
-36
 
+36
+```js
 假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
 
 길을 빌려 괵국을 멸하니 진헌공이 우국길을 빌려 괵국을 멸하였다.
@@ -59,6 +64,9 @@ draft: false
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 
 한비는 진왕을 달래 형벌을 펴다가 그 형벌에 죽는다.
+
+```
+075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
 
 37
 
@@ -78,7 +86,9 @@ draft: false
 
 그 이름은 생전뿐 아니라 죽은 후에도 전하기 위하여 초상을 기린각에 그렸다.
 
+
 38
+077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
 
 九(아홉 구) 州(고을 주) 禹(하우씨 우) 跡(자취 적)
 
@@ -97,9 +107,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI1NTY4OTIsLTE5MTc2NDA2MzIsLT
-E2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3NTg0LC01MDI4
-NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNjkzMjI3NTcwLD
-YwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3Nzk5LDExOTEz
-OTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbMTcwMTEwMDU4NSwtMTkxNzY0MDYzMiwtMT
+Y3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2
+NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNj
+A4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5
+ODQ3NywtMTU4NDU1NjQ4NywtMTQwNTcwNzgyNl19
 -->
