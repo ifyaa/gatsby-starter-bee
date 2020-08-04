@@ -61,7 +61,8 @@ draft: false
 何(어찌 하) 遵(좇을 준) 約(약속할 약) 法(법 법)
 여기에 艹(풀 초)자가 더해진 荷(멜 하)자가 ‘메다’라는 뜻
 尊자는 酋(묵은 술 추)자와 寸(마디 촌)자가 결합한 모습이다. 酋자는 잘 익은 술의 향기가 퍼져나가는 모습을 표현한 것으로 ‘좋은 술’이라는 뜻
-酉(유☞술 단지)를 바탕으로 하여 八(팔)은 물위로 나온 모양
+##### 酋**우두머리 추**酉(유☞술 단지)를 바탕으로 하여 八(팔)은 물위로 나온 모양
+約자는 糸(가는 실 사)자와 勺(구기 작)자가 결합한 모습이다. 勺자는 술이나 물을 푸던 국자를 그린 것
 
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 
@@ -108,7 +109,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk3ODM4OTUsLTc0NTkyMzY0NywtMj
+eyJoaXN0b3J5IjpbLTEzMzc1MDA1ODYsLTc0NTkyMzY0NywtMj
 A5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0
 NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMi
 wtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUw
