@@ -38,6 +38,7 @@ draft: false
 缶 网(罒䍏) 羊 羽 老 而 耒 耳 聿 肉 
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 
+36
 ```js
 121缶장군 부  假(거짓 가) 
 
@@ -48,7 +49,6 @@ draft: false
 #### 073 假途滅虢 踐土會盟 
 #### 074 何遵約法 韓弊煩刑
 
-36
 ```js
 假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
 
@@ -108,9 +108,9 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg0MTk0MzAsLTE5MTc2NDA2MzIsLT
-E2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3NTg0LC01MDI4
-NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNjkzMjI3NTcwLD
-YwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3Nzk5LDExOTEz
-OTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNj
+cyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0
+MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MD
+g2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4
+NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
 -->
