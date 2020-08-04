@@ -56,6 +56,7 @@ draft: false
 途자는 辶(쉬엄쉬엄 갈 착)자와 余(나 여)자가 결합한 모습이다. 余자는 나무 위에 지은 집을 그린 것으로 ‘나’나 ‘자신’이라는 뜻, 彳(조금 걸을 척)
 
 踐(밟을 천) 土(흙 토) 會(모일 회) 盟(맹세 맹)
+踐자는 足(발 족)자와 戔(해칠 잔)자가 결합한 모습이다. 戔자는 창을 두 개 겹쳐 그린 것으로 ‘해치다’
 
 何(어찌 하) 遵(좇을 준) 約(약속할 약) 法(법 법)
 
@@ -104,11 +105,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ4OTMxNywtMTM3MzA1MDA0MiwtMz
-czMzYzNjg3LDIxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3ODQ5
-NzYsLTE5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OC
-wxNjY5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5
-MDY4MywxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC
-0yMTAwNjc3Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0
-MDU3MDc4MjZdfQ==
+eyJoaXN0b3J5IjpbLTc0NTkyMzY0NywtMjA5NDg5MzE3LC0xMz
+czMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAwNTU4
+NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1MTczMC
+wtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5NDI2
+Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUyMzkxLD
+E2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMTU4
+NDU1NjQ4N119
 -->
