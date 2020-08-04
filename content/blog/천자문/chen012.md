@@ -70,6 +70,7 @@ draft: false
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 韓자는 倝(햇빛 간)자와 韋(가죽 위)자가 결합한 모습이다. 倝자는 햇빛이 찬란하게 대지를 비추는 모습을 그린 것으로 ‘햇빛’이라는 뜻을 갖고 있다. 韋자가 성(城)을 둘러싸고 있는 모습을 그린 것이니 韓자는 햇빛이 성을 비추는 모습으로 해석
 弊자는 廾(받들 공)자와 敝(해질 폐)자가 결합한 모습이다. 敝자는 막대기에 걸어놓은 천을 몽둥이로 두드리는 모습을 그린 것으로 ‘해지다’라는  ##### 㡀**해진 옷 폐**
+刑자는 幵(평평할 견)자와 刀(칼 도)자가 결합  ##### 开**열 개, 평평할 견**
 ```
 075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
 
@@ -112,11 +113,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzcwNjE2OCwtNjUxODAxMTQzLC03ND
-U5MjM2NDcsLTIwOTQ4OTMxNywtMTM3MzA1MDA0MiwtMzczMzYz
-Njg3LDIxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3ODQ5NzYsLT
-E5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5
-NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4My
-wxNjkzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAw
-Njc3Nzk5XX0=
+eyJoaXN0b3J5IjpbNjY3ODcwMzk0LC01MjM3MDYxNjgsLTY1MT
+gwMTE0MywtNzQ1OTIzNjQ3LC0yMDk0ODkzMTcsLTEzNzMwNTAw
+NDIsLTM3MzM2MzY4NywyMTEyMTQ0ODY1LDE5MDA1NTg2NTUsND
+U2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNjcyMDUxNzMwLC0xODIw
+ODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0MjYzNzQzMy
+w3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MDg2NTIzOTEsMTY4Nzk1
+MjcxN119
 -->
