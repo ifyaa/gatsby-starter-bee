@@ -39,6 +39,7 @@ draft: false
 ![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
 
 36
+![](https://i.ibb.co/8KFQ8qR/image.png =250x)
 ```js
 121缶장군 부  假(거짓 가) 
 
@@ -108,9 +109,10 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNj
-cyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0
-MDYsMTk0MjYzNzQzMyw3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MD
-g2NTIzOTEsMTY4Nzk1MjcxNywtMjEwMDY3Nzc5OSwxMTkxMzk4
-NDc3LC0xNTg0NTU2NDg3LC0xNDA1NzA3ODI2XX0=
+eyJoaXN0b3J5IjpbMTI5NjY3MTU4Miw0NTY3ODQ5NzYsLTE5MT
+c2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3
+NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNj
+kzMjI3NTcwLDYwODY1MjM5MSwxNjg3OTUyNzE3LC0yMTAwNjc3
+Nzk5LDExOTEzOTg0NzcsLTE1ODQ1NTY0ODcsLTE0MDU3MDc4Mj
+ZdfQ==
 -->
