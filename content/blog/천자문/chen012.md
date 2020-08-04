@@ -59,6 +59,7 @@ draft: false
 踐자는 足(발 족)자와 戔(해칠 잔)자가 결합한 모습이다. 戔자는 창을 두 개 겹쳐 그린 것으로 ‘해치다’
 
 何(어찌 하) 遵(좇을 준) 約(약속할 약) 法(법 법)
+여기에 艹(풀 초)자가 더해진 荷(멜 하)자가 ‘메다’라는 뜻
 
 韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
 
@@ -105,11 +106,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTkyMzY0NywtMjA5NDg5MzE3LC0xMz
-czMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAwNTU4
-NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1MTczMC
-wtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5NDI2
-Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUyMzkxLD
-E2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5MTM5ODQ3NywtMTU4
-NDU1NjQ4N119
+eyJoaXN0b3J5IjpbLTE2NDA2MTU4NzksLTc0NTkyMzY0NywtMj
+A5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0
+NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMi
+wtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUw
+Mjg2NDA2LDE5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1Nz
+AsNjA4NjUyMzkxLDE2ODc5NTI3MTcsLTIxMDA2Nzc3OTksMTE5
+MTM5ODQ3N119
 -->
