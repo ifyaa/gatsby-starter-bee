@@ -88,8 +88,6 @@ draft: false
 ```js
 起(일어날 기) 烳(자를 전) 頗(자못 파) 牧(칠 목)
 
-백기와 왕전은 진나라 장수요 염파와 이목은 조나라 장수였다.
-
 用(쓸 용) 軍(군사 군) 最(가장 최) 精(정할 정)
 
 군사 쓰기를 가장 정결히 하였다.
@@ -123,11 +121,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQzOTk1NzUsMTI1MTUzNzk1OCw2Nj
-c4NzAzOTQsLTUyMzcwNjE2OCwtNjUxODAxMTQzLC03NDU5MjM2
-NDcsLTIwOTQ4OTMxNywtMTM3MzA1MDA0MiwtMzczMzYzNjg3LD
-IxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3ODQ5NzYsLTE5MTc2
-NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3NT
-g0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNjkz
-MjI3NTcwXX0=
+eyJoaXN0b3J5IjpbLTE0NDM4MTQ1NzgsLTEyNzQzOTk1NzUsMT
+I1MTUzNzk1OCw2Njc4NzAzOTQsLTUyMzcwNjE2OCwtNjUxODAx
+MTQzLC03NDU5MjM2NDcsLTIwOTQ4OTMxNywtMTM3MzA1MDA0Mi
+wtMzczMzYzNjg3LDIxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3
+ODQ5NzYsLTE5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4OD
+Y5OCwxNjY5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1
+MDQ5MDY4M119
 -->
