@@ -85,7 +85,7 @@ draft: false
  075 起翦頗牧 用軍最精 기전파목 용군최정
  076 宣威沙漠 馳譽丹青  선위사막 치예단청
 ```js
-起(일어날 기) ##### 翦(자를 전) 頗(자못 파) 牧(칠 목)
+起(일어날 기) 翦(자를 전) 頗(자못 파) 牧(칠 목)
 起자는 走(달릴 주)자와 己(자기 기)자가 결합
 走자는 土(흙 토)자와 止(발 지)자가 결합
 前자는 月(달 월)자와 刀(칼 도)자, 그칠지가 변한것
@@ -117,7 +117,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODgyOTU1NywtMTc1OTM5NTE1MywtMT
+eyJoaXN0b3J5IjpbMjAwMzU2MTE2MCwtMTc1OTM5NTE1MywtMT
 Q0MzgxNDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3
 MDM5NCwtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0Ny
 wtMjA5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjEx
