@@ -87,6 +87,7 @@ draft: false
 ```js
 起(일어날 기) 烳(자를 전) 頗(자못 파) 牧(칠 목)
 起자는 走(달릴 주)자와 己(자기 기)자가 결합
+走자는 土(흙 토)자와 止(발 지)자가 결합
 
 用(쓸 용) 軍(군사 군) 最(가장 최) 精(정할 정)
 
@@ -115,11 +116,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjY5NDEzMCwtMTc1OTM5NTE1MywtMT
-Q0MzgxNDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3
-MDM5NCwtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0Ny
-wtMjA5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjEx
-MjE0NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MD
-YzMiwtMTY3MjA1MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQs
-LTUwMjg2NDA2XX0=
+eyJoaXN0b3J5IjpbMTI0MzYzMzEzLC0xNzU5Mzk1MTUzLC0xND
+QzODE0NTc4LC0xMjc0Mzk5NTc1LDEyNTE1Mzc5NTgsNjY3ODcw
+Mzk0LC01MjM3MDYxNjgsLTY1MTgwMTE0MywtNzQ1OTIzNjQ3LC
+0yMDk0ODkzMTcsLTEzNzMwNTAwNDIsLTM3MzM2MzY4NywyMTEy
+MTQ0ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQwNj
+MyLC0xNjcyMDUxNzMwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwt
+NTAyODY0MDZdfQ==
 -->
