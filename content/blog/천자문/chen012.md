@@ -78,8 +78,8 @@ draft: false
 
 37
 ```js
-125老늙을 노    起(일어날 기)用(쓸 용) 늙으면 용기가 없다
-126而말이을 이  宣(베풀 선)          수염은 선위했다      
+125老늙을 노    起(일어날 기)用(쓸 용) 늙으면 일어날 기운도 쓸 용기도 없다
+126而말이을 이  宣(베풀 선)          선위하고 사막에 있을 때 수염을 길렀다    
 127耒쟁기 뢰   馳(달릴 치)          쟁기들고 치사하게 달린다
 ```
  075 起翦頗牧 用軍最精 기전파목 용군최정
@@ -126,11 +126,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2ODg2OTQ2LDUzMTU1OTAyNiwxNTUzMj
-I4NDA5LC00NzAxMTYzOTUsLTE3NTkzOTUxNTMsLTE0NDM4MTQ1
-NzgsLTEyNzQzOTk1NzUsMTI1MTUzNzk1OCw2Njc4NzAzOTQsLT
-UyMzcwNjE2OCwtNjUxODAxMTQzLC03NDU5MjM2NDcsLTIwOTQ4
-OTMxNywtMTM3MzA1MDA0MiwtMzczMzYzNjg3LDIxMTIxNDQ4Nj
-UsMTkwMDU1ODY1NSw0NTY3ODQ5NzYsLTE5MTc2NDA2MzIsLTE2
-NzIwNTE3MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ0MTIwOSw1MTY4ODY5NDYsNTMxNT
+U5MDI2LDE1NTMyMjg0MDksLTQ3MDExNjM5NSwtMTc1OTM5NTE1
+MywtMTQ0MzgxNDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LD
+Y2Nzg3MDM5NCwtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTky
+MzY0NywtMjA5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2OD
+csMjExMjE0NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkx
+NzY0MDYzMl19
 -->
