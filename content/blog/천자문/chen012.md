@@ -102,6 +102,7 @@ draft: false
 漠자는 水(물 수)자와 莫(없을 막)자가 결합한 모습이다. 莫자는 풀숲 사이에 태양이 숨어버렸음을 표현한 글자로 ‘없다’라는 뜻   ‘없다’라는 뜻을 가진 莫자에 水자가 더해진 漠자는 ‘물(水)이 없다(莫)’라는 뜻
 馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
 也자는 ‘어조사’로 쓰이는 글자이다. 여기서 말하는 어조사란 ‘~이다’나 ‘~구나’, ‘또한’, ‘역시’와 같은 것을 뜻
+與자는 코끼리 상아를 나눠주고 있는 모습을 그린 것으로 ‘주다’라는 뜻
 ```
 
 38
@@ -124,11 +125,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjQ1NzgxLDUzMTU1OTAyNiwxNTUzMj
-I4NDA5LC00NzAxMTYzOTUsLTE3NTkzOTUxNTMsLTE0NDM4MTQ1
-NzgsLTEyNzQzOTk1NzUsMTI1MTUzNzk1OCw2Njc4NzAzOTQsLT
-UyMzcwNjE2OCwtNjUxODAxMTQzLC03NDU5MjM2NDcsLTIwOTQ4
-OTMxNywtMTM3MzA1MDA0MiwtMzczMzYzNjg3LDIxMTIxNDQ4Nj
-UsMTkwMDU1ODY1NSw0NTY3ODQ5NzYsLTE5MTc2NDA2MzIsLTE2
-NzIwNTE3MzBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIzNDI0ODEsNTMxNTU5MDI2LDE1NT
+MyMjg0MDksLTQ3MDExNjM5NSwtMTc1OTM5NTE1MywtMTQ0Mzgx
+NDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3MDM5NC
+wtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5
+NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0ND
+g2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwt
+MTY3MjA1MTczMF19
 -->
