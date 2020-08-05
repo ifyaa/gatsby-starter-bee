@@ -82,7 +82,8 @@ draft: false
 지금의 而자는 ‘자네’나 ‘그대’처럼 인칭대명사로 쓰이거나 ‘~로써’나 ‘~하면서’와 같은 접속사로 가차(假借)되어 있다. 하지만 而자가 부수 역할을 할 때는 여전히 ‘턱수염’과 관련된 의미
 127耒쟁기 뢰
 ```
-075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
+#### 075 起翦頗牧 用軍最精 
+#### 076 宣威沙漠 馳譽丹青 
 ```js
 起(일어날 기) 烳(자를 전) 頗(자못 파) 牧(칠 목)
 
@@ -121,11 +122,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MDczMTcyLDY2Nzg3MDM5NCwtNTIzNz
-A2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3
-LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOT
-AwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1
-MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LD
-E5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUy
-MzkxXX0=
+eyJoaXN0b3J5IjpbMTI1MTUzNzk1OCw2Njc4NzAzOTQsLTUyMz
+cwNjE2OCwtNjUxODAxMTQzLC03NDU5MjM2NDcsLTIwOTQ4OTMx
+NywtMTM3MzA1MDA0MiwtMzczMzYzNjg3LDIxMTIxNDQ4NjUsMT
+kwMDU1ODY1NSw0NTY3ODQ5NzYsLTE5MTc2NDA2MzIsLTE2NzIw
+NTE3MzAsLTE4MjA4ODY5OCwxNjY5NjA3NTg0LC01MDI4NjQwNi
+wxOTQyNjM3NDMzLDc1MDQ5MDY4MywxNjkzMjI3NTcwLDYwODY1
+MjM5MV19
 -->
