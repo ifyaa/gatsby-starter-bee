@@ -80,7 +80,7 @@ draft: false
 ```js
 125老늙을 노    起(일어날 기)用(쓸 용) 늙으면 용기가 없다
 126而말이을 이  宣(베풀 선)          수염은 선위했다      
-127耒쟁기 뢰   馳(달릴 치)           쟁기들고 치사학
+127耒쟁기 뢰   馳(달릴 치)          쟁기들고 치사하게 달린다
 ```
  075 起翦頗牧 用軍最精 기전파목 용군최정
  076 宣威沙漠 馳譽丹青  선위사막 치예단청
@@ -114,7 +114,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDUzOTY1NDgsLTE0NDM4MTQ1NzgsLT
+eyJoaXN0b3J5IjpbLTE3NTkzOTUxNTMsLTE0NDM4MTQ1NzgsLT
 EyNzQzOTk1NzUsMTI1MTUzNzk1OCw2Njc4NzAzOTQsLTUyMzcw
 NjE2OCwtNjUxODAxMTQzLC03NDU5MjM2NDcsLTIwOTQ4OTMxNy
 wtMTM3MzA1MDA0MiwtMzczMzYzNjg3LDIxMTIxNDQ4NjUsMTkw
