@@ -78,7 +78,7 @@ draft: false
 
 37
 ```js
-125老늙을 노    起(일어날 기)用(쓸 용) 
+125老늙을 노    起(일어날 기)用(쓸 용) 늙으면 일어날려 기를 
 126而말이을 이  宣(베풀 선) 
 127耒쟁기 뢰   馳(달릴 치)
 ```
@@ -89,15 +89,9 @@ draft: false
 
 用(쓸 용) 軍(군사 군) 最(가장 최) 精(정할 정)
 
-군사 쓰기를 가장 정결히 하였다.
-
 宣(베풀 선) 威(위엄 위) 沙(모래 사) 漠(아득할 막)
 
-장수로서 그 위엄은 멀리 사막에까지 퍼졌다.
-
 馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
-
-그 이름은 생전뿐 아니라 죽은 후에도 전하기 위하여 초상을 기린각에 그렸다.
 ```
 
 38
@@ -120,11 +114,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNTc1NDA4LC0xNDQzODE0NTc4LC0xMj
-c0Mzk5NTc1LDEyNTE1Mzc5NTgsNjY3ODcwMzk0LC01MjM3MDYx
-NjgsLTY1MTgwMTE0MywtNzQ1OTIzNjQ3LC0yMDk0ODkzMTcsLT
-EzNzMwNTAwNDIsLTM3MzM2MzY4NywyMTEyMTQ0ODY1LDE5MDA1
-NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNjcyMDUxNz
-MwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0
-MjYzNzQzM119
+eyJoaXN0b3J5IjpbLTc0MjcwMTI5NSwtMTQ0MzgxNDU3OCwtMT
+I3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3MDM5NCwtNTIzNzA2
+MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3LC
+0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAw
+NTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1MT
+czMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LDE5
+NDI2Mzc0MzNdfQ==
 -->
