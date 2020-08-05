@@ -33,7 +33,7 @@ draft: false
 ```js
 101 用쓸 용   杜(막을 두)  용은 여의주를 밭에두고 왔다
 102 田밭 전   漆(옻칠할 칠) 밭에 여의주는 옻칠을 했다
-103 疋필 필   府(마을 부)   비단은 마을 부잣집에서 준것
+103 疋필 필   府(마을 부)   마을 부잣집에서 준 비단으로 여의주를 쌋다
 104 疒병 역   路(길 로)    병은 길노변 에 있던것
 ```
 ```js
@@ -153,7 +153,7 @@ draft: false
 비를  세워  이름을  새겨서  그  공을  찬양하며  후세에  전하였다
 > Written with [StackEdit](https://stackedit.io/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTYzNDA4NCwtMzA4MTE1Mjg4LC0xOD
+eyJoaXN0b3J5IjpbMTI1NTA3OTMxMCwtMzA4MTE1Mjg4LC0xOD
 AyOTk1MDE1LDMyMDY2OTkwMiwtMTg0NDU3MjA2MCwtMTY0NTIw
 NTI5NiwtMTg4MTYzMzczNyw2NTU1NjExMjUsLTExMzkyNTU4ND
 YsMTYzOTY1MjkwOSwxNDkyMjE3MjM2LDExNDYxOTM2MTYsLTkx
