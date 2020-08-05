@@ -76,12 +76,9 @@ draft: false
 
 37
 ```js
-125老늙을 노
-공경하다’나 ‘노련하다’와 같은 뜻
-126而말이을 이
-지금의 而자는 ‘자네’나 ‘그대’처럼 인칭대명사로 쓰이거나 ‘~로써’나 ‘~하면서’와 같은 접속사로 가차(假借)되어 있다. 하지만 而자가 부수 역할을 할 때는 여전히 ‘턱수염’과 관련된 의미
-127耒쟁기 뢰
-##### 末**끝 말**未자는 ‘끝부분’을 뜻하는 末(끝 말)자와 매우 비슷한 모습을 하고 있다. 다만 末자는 끝부분의 획이 긴 반면 未자는 짧게 
+125老늙을 노   起(일어날 기)用(쓸 용) 
+126而말이을 이  宣(베풀 선) 
+127耒쟁기 뢰   馳(달릴 치)
 ```
 #### 075 起翦頗牧 用軍最精 
 #### 076 宣威沙漠 馳譽丹青 
@@ -121,11 +118,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM4MTQ1NzgsLTEyNzQzOTk1NzUsMT
-I1MTUzNzk1OCw2Njc4NzAzOTQsLTUyMzcwNjE2OCwtNjUxODAx
-MTQzLC03NDU5MjM2NDcsLTIwOTQ4OTMxNywtMTM3MzA1MDA0Mi
-wtMzczMzYzNjg3LDIxMTIxNDQ4NjUsMTkwMDU1ODY1NSw0NTY3
-ODQ5NzYsLTE5MTc2NDA2MzIsLTE2NzIwNTE3MzAsLTE4MjA4OD
-Y5OCwxNjY5NjA3NTg0LC01MDI4NjQwNiwxOTQyNjM3NDMzLDc1
-MDQ5MDY4M119
+eyJoaXN0b3J5IjpbNjEyNjI1ODY4LC0xNDQzODE0NTc4LC0xMj
+c0Mzk5NTc1LDEyNTE1Mzc5NTgsNjY3ODcwMzk0LC01MjM3MDYx
+NjgsLTY1MTgwMTE0MywtNzQ1OTIzNjQ3LC0yMDk0ODkzMTcsLT
+EzNzMwNTAwNDIsLTM3MzM2MzY4NywyMTEyMTQ0ODY1LDE5MDA1
+NTg2NTUsNDU2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNjcyMDUxNz
+MwLC0xODIwODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0
+MjYzNzQzM119
 -->
