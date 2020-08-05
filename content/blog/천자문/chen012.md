@@ -44,7 +44,7 @@ draft: false
 121缶장군 부  假(거짓 가) 돈가치가 없다
 122网그물 망 踐(밟을 천) 그물을 천으로 되어있고
 123羊양 양   何(어찌 하) 양은 하늘에서 뚝떨어졌다
-124羽깃 우   韓(나라 한) 새한마리
+124羽깃 우   韓(나라 한) 대한민국꺼
 ```
 #### 073 假途滅虢 踐土會盟 
 #### 074 何遵約法 韓弊煩刑
@@ -72,10 +72,18 @@ draft: false
 弊자는 廾(받들 공)자와 敝(해질 폐)자가 결합한 모습이다. 敝자는 막대기에 걸어놓은 천을 몽둥이로 두드리는 모습을 그린 것으로 ‘해지다’라는  ##### 㡀**해진 옷 폐**
 刑자는 幵(평평할 견)자와 刀(칼 도)자가 결합  ##### 开**열 개, 평평할 견**
 ```
-075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
+
 
 37
-
+```js
+125老늙을 노
+공경하다’나 ‘노련하다’와 같은 뜻
+126而말이을 이
+지금의 而자는 ‘자네’나 ‘그대’처럼 인칭대명사로 쓰이거나 ‘~로써’나 ‘~하면서’와 같은 접속사로 가차(假借)되어 있다. 하지만 而자가 부수 역할을 할 때는 여전히 ‘턱수염’과 관련된 의미
+127耒쟁기 뢰
+```
+075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
+```js
 起(일어날 기) 烳(자를 전) 頗(자못 파) 牧(칠 목)
 
 백기와 왕전은 진나라 장수요 염파와 이목은 조나라 장수였다.
@@ -91,7 +99,7 @@ draft: false
 馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
 
 그 이름은 생전뿐 아니라 죽은 후에도 전하기 위하여 초상을 기린각에 그렸다.
-
+```
 
 38
 077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
@@ -113,11 +121,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3ODcwMzk0LC01MjM3MDYxNjgsLTY1MT
-gwMTE0MywtNzQ1OTIzNjQ3LC0yMDk0ODkzMTcsLTEzNzMwNTAw
-NDIsLTM3MzM2MzY4NywyMTEyMTQ0ODY1LDE5MDA1NTg2NTUsND
-U2Nzg0OTc2LC0xOTE3NjQwNjMyLC0xNjcyMDUxNzMwLC0xODIw
-ODg2OTgsMTY2OTYwNzU4NCwtNTAyODY0MDYsMTk0MjYzNzQzMy
-w3NTA0OTA2ODMsMTY5MzIyNzU3MCw2MDg2NTIzOTEsMTY4Nzk1
-MjcxN119
+eyJoaXN0b3J5IjpbODQ0MDczMTcyLDY2Nzg3MDM5NCwtNTIzNz
+A2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3
+LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOT
+AwNTU4NjU1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1
+MTczMCwtMTgyMDg4Njk4LDE2Njk2MDc1ODQsLTUwMjg2NDA2LD
+E5NDI2Mzc0MzMsNzUwNDkwNjgzLDE2OTMyMjc1NzAsNjA4NjUy
+MzkxXX0=
 -->
