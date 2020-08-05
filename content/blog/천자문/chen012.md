@@ -97,7 +97,7 @@ draft: false
 生자는 푸른 싹이 자라는 모습을 그린 것
 
 宣(베풀 선) 威(위엄 위) 沙(모래 사) 漠(아득할 막)
-
+宣자는 宀(집 면)자와 亘(베풀 선)자가 결합한 모습이다. 亘자는 하늘과 땅 사이에 태양을 그린 것
 馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
 ```
 
@@ -121,11 +121,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzIyODQwOSwtNDcwMTE2Mzk1LC0xNz
-U5Mzk1MTUzLC0xNDQzODE0NTc4LC0xMjc0Mzk5NTc1LDEyNTE1
-Mzc5NTgsNjY3ODcwMzk0LC01MjM3MDYxNjgsLTY1MTgwMTE0My
-wtNzQ1OTIzNjQ3LC0yMDk0ODkzMTcsLTEzNzMwNTAwNDIsLTM3
-MzM2MzY4NywyMTEyMTQ0ODY1LDE5MDA1NTg2NTUsNDU2Nzg0OT
-c2LC0xOTE3NjQwNjMyLC0xNjcyMDUxNzMwLC0xODIwODg2OTgs
-MTY2OTYwNzU4NF19
+eyJoaXN0b3J5IjpbNTMxNTU5MDI2LDE1NTMyMjg0MDksLTQ3MD
+ExNjM5NSwtMTc1OTM5NTE1MywtMTQ0MzgxNDU3OCwtMTI3NDM5
+OTU3NSwxMjUxNTM3OTU4LDY2Nzg3MDM5NCwtNTIzNzA2MTY4LC
+02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3LC0xMzcz
+MDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAwNTU4Nj
+U1LDQ1Njc4NDk3NiwtMTkxNzY0MDYzMiwtMTY3MjA1MTczMCwt
+MTgyMDg4Njk4XX0=
 -->
