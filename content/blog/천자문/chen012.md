@@ -101,6 +101,7 @@ draft: false
 小자는 ‘작다’로 少자는 ‘적다’로 뜻이 분리
 漠자는 水(물 수)자와 莫(없을 막)자가 결합한 모습이다. 莫자는 풀숲 사이에 태양이 숨어버렸음을 표현한 글자로 ‘없다’라는 뜻   ‘없다’라는 뜻을 가진 莫자에 水자가 더해진 漠자는 ‘물(水)이 없다(莫)’라는 뜻
 馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
+也자는 ‘어조사’로 쓰이는 글자이다. 여기서 말하는 어조사란 ‘~이다’나 ‘~구나’, ‘또한’, ‘역시’와 같은 것을 뜻
 ```
 
 38
@@ -123,7 +124,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NDE1MDM5LDUzMTU1OTAyNiwxNTUzMj
+eyJoaXN0b3J5IjpbMTA2MjQ1NzgxLDUzMTU1OTAyNiwxNTUzMj
 I4NDA5LC00NzAxMTYzOTUsLTE3NTkzOTUxNTMsLTE0NDM4MTQ1
 NzgsLTEyNzQzOTk1NzUsMTI1MTUzNzk1OCw2Njc4NzAzOTQsLT
 UyMzcwNjE2OCwtNjUxODAxMTQzLC03NDU5MjM2NDcsLTIwOTQ4
