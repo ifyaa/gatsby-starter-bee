@@ -89,6 +89,7 @@ draft: false
 起자는 走(달릴 주)자와 己(자기 기)자가 결합
 走자는 土(흙 토)자와 止(발 지)자가 결합
 前자는 月(달 월)자와 刀(칼 도)자, 그칠지가 변한것
+牧자는 牛(소 우)자와 攵(칠 복)자가 결합
 
 用(쓸 용) 軍(군사 군) 最(가장 최) 精(정할 정)
 
@@ -117,7 +118,7 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzU2MTE2MCwtMTc1OTM5NTE1MywtMT
+eyJoaXN0b3J5IjpbLTQ3MDExNjM5NSwtMTc1OTM5NTE1MywtMT
 Q0MzgxNDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3
 MDM5NCwtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0Ny
 wtMjA5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjEx
