@@ -76,7 +76,7 @@ draft: false
 ```
 
 
-37
+
 ```js
 125老늙을 노    起(일어날 기)用(쓸 용) 늙으면 일어날 기운도 쓸 용기도 없다
 126而말이을 이  宣(베풀 선)          선위하고 사막에 있을 때 수염을 길렀다    
@@ -105,8 +105,10 @@ draft: false
 與자는 코끼리 상아를 나눠주고 있는 모습을 그린 것으로 ‘주다’라는 뜻
 丹자의 갑골문을 보면 井(우물 정)자에 점
 ```
+128耳귀 이
+129聿붓 율
 
-38
+130肉고기 육3738
 077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
 
 九(아홉 구) 州(고을 주) 禹(하우씨 우) 跡(자취 적)
@@ -126,11 +128,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTMyNDA5NSw1MTY4ODY5NDYsNTMxNT
-U5MDI2LDE1NTMyMjg0MDksLTQ3MDExNjM5NSwtMTc1OTM5NTE1
-MywtMTQ0MzgxNDU3OCwtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LD
-Y2Nzg3MDM5NCwtNTIzNzA2MTY4LC02NTE4MDExNDMsLTc0NTky
-MzY0NywtMjA5NDg5MzE3LC0xMzczMDUwMDQyLC0zNzMzNjM2OD
-csMjExMjE0NDg2NSwxOTAwNTU4NjU1LDQ1Njc4NDk3NiwtMTkx
-NzY0MDYzMl19
+eyJoaXN0b3J5IjpbLTE3NjIyNDY0NTUsLTQ5MTMyNDA5NSw1MT
+Y4ODY5NDYsNTMxNTU5MDI2LDE1NTMyMjg0MDksLTQ3MDExNjM5
+NSwtMTc1OTM5NTE1MywtMTQ0MzgxNDU3OCwtMTI3NDM5OTU3NS
+wxMjUxNTM3OTU4LDY2Nzg3MDM5NCwtNTIzNzA2MTY4LC02NTE4
+MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3LC0xMzczMDUwMD
+QyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAwNTU4NjU1LDQ1
+Njc4NDk3Nl19
 -->
