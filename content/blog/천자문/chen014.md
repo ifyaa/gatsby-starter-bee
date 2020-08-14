@@ -4,7 +4,9 @@ date: 2020-07-09
 category: '천자문'
 draft: false
 ---
-
+호랑이가 벌레피를 먹으러 다닌다
+벌레를 보고 옷을 아프게덮었다
+사자가 계곡의 뿔로 벌레를 잡으라 언급했다
 ```js
 140 사자와 호랑이
 141虍범 호
@@ -21,12 +23,20 @@ draft: false
 150谷계곡 곡
 ```
 ![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
-085 孟軻敦素 史魚秉直086 庶幾中庸 勞謙謹敕 
+
 087 聆音察理 鑒貌辨色 088 貽厥嘉猷 勉其祗植 
 089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
 
 2
+```js
+141虍범 호.        孟(맏 맹) 
+142虫벌레 충.     史(역사 사) 魚(물고기 어) 
+143血피 혈
+144行다닐 행
 
+085 孟軻敦素 史魚秉直086 庶幾中庸 勞謙謹敕 
+```
+```js
 孟(맏 맹) 軻(수레 가) 敦(도타울 돈) 素(흴 소)
 
 맹자는 그 모친의 교훈을 받아 자사문하에서 배웠다.
@@ -42,7 +52,7 @@ draft: false
 勞(힘쓸 로) 謙(겸손 겸) 謹(삼갈 근) 勅(칙서 칙)
 
 근로하고 겸손하며 삼가고 신칙하면 중용의 도에 이른다.
-
+```
 43
 
 聆(들을 령) 音(소리 음) 察(살필 찰) 理(다스릴 리)
@@ -80,8 +90,8 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMz
-U0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1
-NjcyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC
-0yMDcxNzQyMDUwLDU5NDQ5NDg0OV19
+eyJoaXN0b3J5IjpbMTUwOTc0MDUyMiwtNTA1NjQ1NDA3LC0zOT
+c0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEz
+OTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLT
+E3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
