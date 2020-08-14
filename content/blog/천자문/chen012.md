@@ -11,7 +11,8 @@ draft: false
 고사지내려고, 돼지고기 귀에붓을 걸었다 
 
 
- 120 이사짐
+  ```js
+120 이사짐
 ```js
 121缶장군 부
 다른 글자와 결합할 때는 缸(항아리 항)자나 陶(질그릇 도)자처럼 토기와 관련된 의미를 전달
@@ -48,7 +49,20 @@ draft: false
 123羊양 양   何(어찌 하) 양은 하늘에서 뚝떨어졌다
 124羽깃 우   韓(나라 한) 대한민국꺼
 ```
-#### 073 假途滅虢 踐土會盟 
+#### 122网그물 망
+123羊양 양
+124羽깃 우
+
+125老늙을 노
+126而말이을 이
+127耒쟁기 뢰
+
+128耳귀 이
+129聿붓 율
+130肉고기 육
+```
+![](https://i.ibb.co/mR9r63K/2020-07-07-11-38-07.png)
+073 假途滅虢 踐土會盟 
 #### 074 何遵約法 韓弊煩刑
 
 ```js
@@ -84,8 +98,29 @@ draft: false
 ```
  075 起翦頗牧 用軍最精 기전파목 용군최정
  076 宣威沙漠 馳譽丹青  선위사막 치예단청
-```js
-起(일어날 기) 翦(자를 전) 頗(자못 파) 牧(칠 목)
+```js075 起翦頗牧 用軍最精 076 宣威沙漠 馳譽丹青 
+077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
+36
+
+假(거짓 가) 途(길 도) 滅(멸할 멸) 坆(나라 괵)
+
+길을 빌려 괵국을 멸하니 진헌공이 우국길을 빌려 괵국을 멸하였다.
+
+踐(밟을 천) 土(흙 토) 會(모일 회) 盟(맹세 맹)
+
+진문공이 제후를 천토에 모아 맹세하고 협천자영 제후하니라.
+
+何(어찌 하) 遵(좇을 준) 約(약속할 약) 法(법 법)
+
+소하는 한고조로 더불어 약법삼장을 정하여 준행하리라.
+
+韓(나라 한) 弊(해질 폐) 煩(번거로울 번) 刑(형벌 형)
+
+한비는 진왕을 달래 형벌을 펴다가 그 형벌에 죽는다.
+
+37
+
+起(일어날 기) 翦烳(자를 전) 頗(자못 파) 牧(칠 목)
 起자는 走(달릴 주)자와 己(자기 기)자가 결합
 走자는 土(흙 토)자와 止(발 지)자가 결합
 前자는 月(달 월)자와 刀(칼 도)자, 그칠지가 변한것
@@ -110,6 +145,21 @@ draft: false
 
 130肉고기 육3738
 077 九州禹跡 百郡秦並 078 岳宗泰岱 禪主云亭
+백기와 왕전은 진나라 장수요 염파와 이목은 조나라 장수였다.
+
+用(쓸 용) 軍(군사 군) 最(가장 최) 精(정할 정)
+
+군사 쓰기를 가장 정결히 하였다.
+
+宣(베풀 선) 威(위엄 위) 沙(모래 사) 漠(아득할 막)
+
+장수로서 그 위엄은 멀리 사막에까지 퍼졌다.
+
+馳(달릴 치) 譽(칭찬할 예) 丹(붉을 단) 靑(푸를 청)
+
+그 이름은 생전뿐 아니라 죽은 후에도 전하기 위하여 초상을 기린각에 그렸다.
+
+38
 
 九(아홉 구) 州(고을 주) 禹(하우씨 우) 跡(자취 적)
 
@@ -128,11 +178,11 @@ draft: false
 운과  정은  천자를  봉선하고  제사하는  곳이니  운정은  태산에  있다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIyNDY0NTUsLTQ5MTMyNDA5NSw1MT
-Y4ODY5NDYsNTMxNTU5MDI2LDE1NTMyMjg0MDksLTQ3MDExNjM5
-NSwtMTc1OTM5NTE1MywtMTQ0MzgxNDU3OCwtMTI3NDM5OTU3NS
-wxMjUxNTM3OTU4LDY2Nzg3MDM5NCwtNTIzNzA2MTY4LC02NTE4
-MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5MzE3LC0xMzczMDUwMD
-QyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwxOTAwNTU4NjU1LDQ1
-Njc4NDk3Nl19
+eyJoaXN0b3J5IjpbLTIxMDQ3NjY4NzAsLTE3NjIyNDY0NTUsLT
+Q5MTMyNDA5NSw1MTY4ODY5NDYsNTMxNTU5MDI2LDE1NTMyMjg0
+MDksLTQ3MDExNjM5NSwtMTc1OTM5NTE1MywtMTQ0MzgxNDU3OC
+wtMTI3NDM5OTU3NSwxMjUxNTM3OTU4LDY2Nzg3MDM5NCwtNTIz
+NzA2MTY4LC02NTE4MDExNDMsLTc0NTkyMzY0NywtMjA5NDg5Mz
+E3LC0xMzczMDUwMDQyLC0zNzMzNjM2ODcsMjExMjE0NDg2NSwx
+OTAwNTU4NjU1XX0=
 -->
