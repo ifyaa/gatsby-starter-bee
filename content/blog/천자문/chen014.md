@@ -77,7 +77,7 @@ draft: false
 厥자는 厂(기슭 엄)자와 欮(상기 궐)자가 결합
 
 勉(힘쓸 면) 其(그 기) 祗(공경 지) 植(심을 식)
-
+勉자는 免(면할 면)자와 力(힘 력)자가 결합
 ```
 44
 148角뿔 각
@@ -102,10 +102,10 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzcyMTA2MywtMTA1NjE2NDI3OSwtMT
-E1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMTEzNDcx
-MDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2NC
-wxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLTU4
-MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3ND
-IwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMTk5MTU5ODk1MCwtNTgzNzIxMDYzLC0xMD
+U2MTY0Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLTQyNjUw
+ODgxNCwxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0Ny
+wxMzM1NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIz
+NTQ1NTY3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4Nj
+M3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
