@@ -57,7 +57,7 @@ draft: false
 ```js
 145衣옷 의      의사는 영감 聆(들을 령)鑑(거울 감)
 146襾덮을 아     완이 이가 아프다 貽(끼칠 이)
-1477획 →見볼 견  勉(힘쓸 면)먹고 지식을 본다  祗(공경 지) 植(심을 식)
+1477획 →見볼 견  면공장을 견학간다 勉(힘쓸 면)
 
 ```
 087 聆音察理 鑒貌辨色 영음찰리 감모변색
@@ -103,11 +103,11 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI1MDg0MDcsMzc1NzgxNzE5LDE5OT
-E1OTg5NTAsLTU4MzcyMTA2MywtMTA1NjE2NDI3OSwtMTE1Mjc5
-Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMTEzNDcxMDMwOS
-wtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2NCwxMzE0
-MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLTU4MDQ4MD
-YwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3NDIwNTAs
-NTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMTMwNTczMDcyNywzNzU3ODE3MTksMTk5MT
+U5ODk1MCwtNTgzNzIxMDYzLC0xMDU2MTY0Mjc5LC0xMTUyNzky
+Nzk0LDExODgyNzg2OTIsLTQyNjUwODgxNCwxMTM0NzEwMzA5LC
+01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIxMDY0LDEzMTQz
+MTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNTgwNDgwNj
+AsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1
+OTQ0OTQ4NDldfQ==
 -->
