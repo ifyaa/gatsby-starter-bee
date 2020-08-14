@@ -64,6 +64,7 @@ draft: false
 088 貽厥嘉猷 勉其祗植 이궐가유 면기지식
 ```js
 聆(들을 령) 音(소리 음) 察(살필 찰) 理(다스릴 리)
+일을 시키기 위하여 사람들을 모아놓고(☞亼집) 분부하며 그 사람들은 무릎을 꿇고(☞卩절) 복종(服從)한다는 뜻이 합(合)하여 「명령하다(命令--)」를 뜻함
 
 鑑(거울 감) 貌(모양 모) 辨(분별 변) 色(빛 색)
 
@@ -95,7 +96,7 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg3MzY1NjIsLTQyNjUwODgxNCwxMT
+eyJoaXN0b3J5IjpbLTE2MjQ4OTc4NDEsLTQyNjUwODgxNCwxMT
 M0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIx
 MDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3Mi
 wtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3
