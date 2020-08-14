@@ -71,6 +71,7 @@ draft: false
 理자는 玉(구슬 옥)자와 里(마을 리)가 결합
 鑑(거울 감) 貌(모양 모) 辨(분별 변) 色(빛 색)
 監자는 ‘보다’나 ‘살피다’라는 뜻을 가진 글자이다. 監자는 皿(그릇 명)자와 臥(누울 와)자가 결합
+사람(人)과 병부절(卩(=㔾)☞무릎마디, 무릎을 꿇은 모양)部의 뜻을
 
 貽(끼칠 이) 厥(그 궐) 嘉(아름다울 가) 猷(꾀 유)
 
@@ -100,9 +101,10 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI3OTI3OTQsMTE4ODI3ODY5MiwtND
-I2NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkx
-MjQ3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMy
-wxMjM1NDU1NjcyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3
-Mzg2Mzc2LC0yMDcxNzQyMDUwLDU5NDQ5NDg0OV19
+eyJoaXN0b3J5IjpbLTEwNTYxNjQyNzksLTExNTI3OTI3OTQsMT
+E4ODI3ODY5MiwtNDI2NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0
+NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNy
+wtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC01ODA0ODA2MCwtODY0
+OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcxNzQyMDUwLDU5NDQ5ND
+g0OV19
 -->
