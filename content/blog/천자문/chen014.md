@@ -78,6 +78,7 @@ draft: false
 
 勉(힘쓸 면) 其(그 기) 祗(공경 지) 植(심을 식)
 勉자는 免(면할 면)자와 力(힘 력)자가 결합
+
 ```
 44
 148角뿔 각
@@ -102,10 +103,11 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU5ODk1MCwtNTgzNzIxMDYzLC0xMD
-U2MTY0Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLTQyNjUw
-ODgxNCwxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0Ny
-wxMzM1NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIz
-NTQ1NTY3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4Nj
-M3NiwtMjA3MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTk0ODU4NDEyLDE5OTE1OTg5NTAsLTU4Mz
+cyMTA2MywtMTA1NjE2NDI3OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4
+NjkyLC00MjY1MDg4MTQsMTEzNDcxMDMwOSwtNTA1NjQ1NDA3LC
+0zOTc0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1
+OTEzOTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0Mj
+MsLTE3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
+
 -->
