@@ -73,6 +73,9 @@ draft: false
 
 ```
 44
+148角뿔 각
+149言말씀 언
+150谷계곡 곡
 089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
 
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
@@ -92,9 +95,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzg2NjQxNSwtNDI2NTA4ODE0LDExMz
-Q3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEw
-NjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC
-01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcx
-NzQyMDUwLDU5NDQ5NDg0OV19
+eyJoaXN0b3J5IjpbLTE1NTg3MzY1NjIsLTQyNjUwODgxNCwxMT
+M0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIx
+MDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3Mi
+wtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3
+MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
 -->
