@@ -24,18 +24,16 @@ draft: false
 ```
 ![](https://i.ibb.co/ygY0w84/2020-07-09-11-29-49.png)
 
-087 聆音察理 鑒貌辨色 088 貽厥嘉猷 勉其祗植 
-089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
+
 
 2
 ```js
 141虍범 호.        孟(맏 맹) 
 142虫벌레 충.     史(역사 사) 魚(물고기 어) 
-143血피 혈
-144行다닐 행
-
-085 孟軻敦素 史魚秉直086 庶幾中庸 勞謙謹敕 
+143血피 혈.       庶(여러 서)
+144行다닐 행.     勞(힘쓸 로)
 ```
+085 孟軻敦素 史魚秉直086 庶幾中庸 勞謙謹敕 
 ```js
 孟(맏 맹) 軻(수레 가) 敦(도타울 돈) 素(흴 소)
 
@@ -54,7 +52,14 @@ draft: false
 근로하고 겸손하며 삼가고 신칙하면 중용의 도에 이른다.
 ```
 43
-
+```js
+145衣옷 의
+146襾덮을 아
+1477획 →見볼 견
+```
+087 聆音察理 鑒貌辨色 
+088 貽厥嘉猷 勉其祗植 
+```js
 聆(들을 령) 音(소리 음) 察(살필 찰) 理(다스릴 리)
 
 소리를 듣고 그 거동을 살피니 조그마한 일이라도 주의하여야 한다.
@@ -70,8 +75,9 @@ draft: false
 勉(힘쓸 면) 其(그 기) 祗(공경 지) 植(심을 식)
 
 착한 것으로 자손에 줄 것을 힘써야 좋은 가정을 이룰 것이다.
-
+```
 44
+089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
 
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
 
@@ -90,7 +96,7 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTc0MDUyMiwtNTA1NjQ1NDA3LC0zOT
+eyJoaXN0b3J5IjpbMjAzNTIyNjYwNCwtNTA1NjQ1NDA3LC0zOT
 c0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEz
 OTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLT
 E3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
