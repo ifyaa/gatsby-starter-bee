@@ -59,6 +59,7 @@ draft: false
 146襾덮을 아
 襾자는 실제 쓰임에서는 부수로 쓰일 때는 覀자로 표
 1477획 →見볼 견
+ 이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 ```
 087 聆音察理 鑒貌辨色 
 088 貽厥嘉猷 勉其祗植 
@@ -99,8 +100,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOT
-c0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEz
-OTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLT
-E3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbLTQyNjUwODgxNCwxMTM0NzEwMzA5LC01MD
+U2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIxMDY0LDEzMTQzMTky
+MzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLT
+g2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1OTQ0
+OTQ4NDldfQ==
 -->
