@@ -55,7 +55,7 @@ draft: false
 ```
 43
 ```js
-145衣옷 의      의사가 입는옷 聆(들을 령)鑑(거울 감)
+145衣옷 의      영감이 입는옷 聆(들을 령)鑑(거울 감)
 146襾덮을 아     완이 이가 아프다 貽(끼칠 이)
 1477획 →見볼 견  勉(힘쓸 면)먹고 지식을 본다  祗(공경 지) 植(심을 식)
 
@@ -65,19 +65,12 @@ draft: false
 ```js
 聆(들을 령) 音(소리 음) 察(살필 찰) 理(다스릴 리)
 
-소리를 듣고 그 거동을 살피니 조그마한 일이라도 주의하여야 한다.
-
 鑑(거울 감) 貌(모양 모) 辨(분별 변) 色(빛 색)
-
-모양과 거동으로 그 마음속을 분별할 수 있다.
 
 貽(끼칠 이) 厥(그 궐) 嘉(아름다울 가) 猷(꾀 유)
 
-도리를 지키고 착함으로 자손에 좋은 것을 끼쳐야 한다.
-
 勉(힘쓸 면) 其(그 기) 祗(공경 지) 植(심을 식)
 
-착한 것으로 자손에 줄 것을 힘써야 좋은 가정을 이룰 것이다.
 ```
 44
 089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
@@ -99,9 +92,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQyNjgzOTgsLTQyNjUwODgxNCwxMT
-M0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIx
-MDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3Mi
-wtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3
-MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTkyNzg2NjQxNSwtNDI2NTA4ODE0LDExMz
+Q3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEw
+NjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC
+01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcx
+NzQyMDUwLDU5NDQ5NDg0OV19
 -->
