@@ -55,9 +55,9 @@ draft: false
 ```
 43
 ```js
-145衣옷 의      영감이 입는옷 
-146襾덮을 아     머리에 이가덮여 아프다
-1477획 →見볼 견
+145衣옷 의      영감이 입는옷 聆(들을 령)鑑(거울 감)
+146襾덮을 아     완이 이가 아프다 貽(끼칠 이)
+1477획 →見볼 견  勉(힘쓸 면)
  이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 ```
 087 聆音察理 鑒貌辨色 영음찰리 감모변색
@@ -99,9 +99,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzQ5MDQ1LC00MjY1MDg4MTQsMTEzND
-cxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2
-NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLT
-U4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3
-NDIwNTAsNTk0NDk0ODQ5XX0=
+eyJoaXN0b3J5IjpbMTEyNTQyMzg0OSwtNDI2NTA4ODE0LDExMz
+Q3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEw
+NjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC
+01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcx
+NzQyMDUwLDU5NDQ5NDg0OV19
 -->
