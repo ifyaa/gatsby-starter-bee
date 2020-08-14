@@ -61,8 +61,8 @@ draft: false
 1477획 →見볼 견
  이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 ```
-087 聆音察理 鑒貌辨色 영음찰리 가
-088 貽厥嘉猷 勉其祗植 
+087 聆音察理 鑒貌辨色 영음찰리 감모변색
+088 貽厥嘉猷 勉其祗植 이궐가유 면기지식
 ```js
 聆(들을 령) 音(소리 음) 察(살필 찰) 理(다스릴 리)
 
@@ -100,9 +100,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUxNDA1OTcsLTQyNjUwODgxNCwxMT
-M0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIx
-MDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3Mi
-wtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3
-MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbNTA0MzU4MTY5LC00MjY1MDg4MTQsMTEzND
+cxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2
+NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLT
+U4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3
+NDIwNTAsNTk0NDk0ODQ5XX0=
 -->
