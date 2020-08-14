@@ -74,6 +74,7 @@ draft: false
 사람(人)과 병부절(卩(=㔾)☞무릎마디, 무릎을 꿇은 모양)部의 뜻을
 
 貽(끼칠 이) 厥(그 궐) 嘉(아름다울 가) 猷(꾀 유)
+厥자는 厂(기슭 엄)자와 欮(상기 궐)자가 결합
 
 勉(힘쓸 면) 其(그 기) 祗(공경 지) 植(심을 식)
 
@@ -101,10 +102,10 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxNjQyNzksLTExNTI3OTI3OTQsMT
-E4ODI3ODY5MiwtNDI2NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0
-NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNy
-wtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC01ODA0ODA2MCwtODY0
-OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcxNzQyMDUwLDU5NDQ5ND
-g0OV19
+eyJoaXN0b3J5IjpbLTU4MzcyMTA2MywtMTA1NjE2NDI3OSwtMT
+E1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMTEzNDcx
+MDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2NC
+wxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLTU4
+MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3ND
+IwNTAsNTk0NDk0ODQ5XX0=
 -->
