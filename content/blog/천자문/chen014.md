@@ -9,11 +9,13 @@ draft: false
 사자가 계곡의 뿔로 벌레를 잡으라 언급했다
 ```js
 140 사자와 호랑이
-141虍범 호
-142虫벌레 충
-143血피 혈
-144行다닐 행
-
+145衣옷 의  
+上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
+衣자가 부수로 쓰일 때는 衤자로 바뀌기 때문에 示=礻(보일 시)자의 부수자와 혼동
+146襾덮을 아
+襾자는 실제 쓰임에서는 부수로 쓰일 때는 覀자로 표
+1477획 →見볼 견
+ 이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 145衣옷 의
 146襾덮을 아
 1477획 →見볼 견
@@ -53,11 +55,8 @@ draft: false
 ```
 43
 ```js
-145衣옷 의
-上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
-衣자가 부수로 쓰일 때는 衤자로 바뀌기 때문에 示=礻(보일 시)자의 부수자와 혼동
-146襾덮을 아
-襾자는 실제 쓰임에서는 부수로 쓰일 때는 覀자로 표
+145衣옷 의      영감이 입는옷 
+146襾덮을 아     머리에 이가덮여 아프다
 1477획 →見볼 견
  이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 ```
@@ -100,7 +99,7 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MzU4MTY5LC00MjY1MDg4MTQsMTEzND
+eyJoaXN0b3J5IjpbMTkxMzQ5MDQ1LC00MjY1MDg4MTQsMTEzND
 cxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2
 NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLT
 U4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIwNzE3
