@@ -68,6 +68,7 @@ draft: false
 일을 시키기 위하여 사람들을 모아놓고(☞亼집) 분부하며 그 사람들은 무릎을 꿇고(☞卩절) 복종(服從)한다는 뜻이 합(合)하여 「명령하다(命令--)」를 뜻함
 察자는 宀(집 면)자와 祭(제사 제)자가 결합한 모습이다. 祭자는 제단 위에 고기를 얹는 모습을 그린 것으로 ‘제사를 지내다’라는 뜻
 祭자는 示(보일 시)자와 肉(고기 육)자, 又(또 우)자가 결합한 모습이다. 祭자는 제단(示) 위로 고기(肉)를 손(又)으로 얹는 모습을 표현
+理자는 玉(구슬 옥)자와 里(마을 리)가 결합
 鑑(거울 감) 貌(모양 모) 辨(분별 변) 色(빛 색)
 
 貽(끼칠 이) 厥(그 궐) 嘉(아름다울 가) 猷(꾀 유)
@@ -98,9 +99,9 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU2MTQxNDMsLTQyNjUwODgxNCwxMT
-M0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIx
-MDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3Mi
-wtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3
-MTc0MjA1MCw1OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbMTE4ODI3ODY5MiwtNDI2NTA4ODE0LDExMz
+Q3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEw
+NjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC
+01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0yMDcx
+NzQyMDUwLDU5NDQ5NDg0OV19
 -->
