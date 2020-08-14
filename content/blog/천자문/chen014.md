@@ -54,6 +54,7 @@ draft: false
 43
 ```js
 145衣옷 의
+上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
 146襾덮을 아
 1477획 →見볼 견
 ```
@@ -96,7 +97,7 @@ draft: false
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTIyNjYwNCwtNTA1NjQ1NDA3LC0zOT
+eyJoaXN0b3J5IjpbMTc5MjM0MzIyOCwtNTA1NjQ1NDA3LC0zOT
 c0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEz
 OTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLT
 E3MTczODYzNzYsLTIwNzE3NDIwNTAsNTk0NDk0ODQ5XX0=
