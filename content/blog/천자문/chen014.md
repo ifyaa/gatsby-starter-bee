@@ -114,7 +114,6 @@ draft: false
 
 殆(위태 태) 辱(욕할 욕) 近(가까울 근) 恥(부끄러울 치)
 
-총애를 받는다고 욕된 일을 하면 머지 않아 위태함과 치욕이 온다.
 
 林(수풀 림) 皐(언덕 고) 幸(다행 행) 卽(곧 즉)
 
@@ -122,11 +121,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTIxMDE2NywtOTA1NTMyNzc5LC02Mj
-UwMDk1NzksMTMwNTczMDcyNywzNzU3ODE3MTksMTk5MTU5ODk1
-MCwtNTgzNzIxMDYzLC0xMDU2MTY0Mjc5LC0xMTUyNzkyNzk0LD
-ExODgyNzg2OTIsLTQyNjUwODgxNCwxMTM0NzEwMzA5LC01MDU2
-NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIxMDY0LDEzMTQzMTkyMz
-csLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2
-NDkwMDQyM119
+eyJoaXN0b3J5IjpbMTgyOTg5OTUwNywtNjM5MjEwMTY3LC05MD
+U1MzI3NzksLTYyNTAwOTU3OSwxMzA1NzMwNzI3LDM3NTc4MTcx
+OSwxOTkxNTk4OTUwLC01ODM3MjEwNjMsLTEwNTYxNjQyNzksLT
+ExNTI3OTI3OTQsMTE4ODI3ODY5MiwtNDI2NTA4ODE0LDExMzQ3
+MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEwNj
+QsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC01
+ODA0ODA2MF19
 -->
