@@ -105,8 +105,7 @@ draft: false
 戒자는 戈(창 과)자와 廾(두손 받들 공)자가 결합
 
 寵(고일 총) 增(더할 증) 抗(저항할 항) 極(다할 극)
-
-총애가 더할수록 교만한 태도를 부리지 말고 더욱 조심하여야 한다.
+增자는 土(흙 토)자와 曾(일찍 증)자가 결합한 모습이다. 曾자는 찜통 위로 수증기가 올라오는 모습
 
 殆(위태 태) 辱(욕할 욕) 近(가까울 근) 恥(부끄러울 치)
 
@@ -118,11 +117,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0OTY3MzEsLTkwNTUzMjc3OSwtNj
-I1MDA5NTc5LDEzMDU3MzA3MjcsMzc1NzgxNzE5LDE5OTE1OTg5
-NTAsLTU4MzcyMTA2MywtMTA1NjE2NDI3OSwtMTE1Mjc5Mjc5NC
-wxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMTEzNDcxMDMwOSwtNTA1
-NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5Mj
-M3LC0xNDU1OTEzOTMzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04
-NjQ5MDA0MjNdfQ==
+eyJoaXN0b3J5IjpbODEwMTUwMzUzLC05MDU1MzI3NzksLTYyNT
+AwOTU3OSwxMzA1NzMwNzI3LDM3NTc4MTcxOSwxOTkxNTk4OTUw
+LC01ODM3MjEwNjMsLTEwNTYxNjQyNzksLTExNTI3OTI3OTQsMT
+E4ODI3ODY5MiwtNDI2NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0
+NTQwNywtMzk3NDkxMjQ3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNy
+wtMTQ1NTkxMzkzMywxMjM1NDU1NjcyLC01ODA0ODA2MCwtODY0
+OTAwNDIzXX0=
 -->
