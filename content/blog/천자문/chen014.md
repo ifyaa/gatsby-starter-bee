@@ -117,15 +117,16 @@ draft: false
 
 林(수풀 림) 皐(언덕 고) 幸(다행 행) 卽(곧 즉)
 幸(다행 행)夭(요☞일찍 죽다)와 屰(역☞거역하다)의 합자
+卽(즉)의 속자(俗字)
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MzYwNzI2LDE4Mjk4OTk1MDcsLTYzOT
-IxMDE2NywtOTA1NTMyNzc5LC02MjUwMDk1NzksMTMwNTczMDcy
-NywzNzU3ODE3MTksMTk5MTU5ODk1MCwtNTgzNzIxMDYzLC0xMD
-U2MTY0Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLTQyNjUw
-ODgxNCwxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0Ny
-wxMzM1NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIz
-NTQ1NTY3Ml19
+eyJoaXN0b3J5IjpbLTE1MjM1MjEwMjUsMTgyOTg5OTUwNywtNj
+M5MjEwMTY3LC05MDU1MzI3NzksLTYyNTAwOTU3OSwxMzA1NzMw
+NzI3LDM3NTc4MTcxOSwxOTkxNTk4OTUwLC01ODM3MjEwNjMsLT
+EwNTYxNjQyNzksLTExNTI3OTI3OTQsMTE4ODI3ODY5MiwtNDI2
+NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMj
+Q3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywx
+MjM1NDU1NjcyXX0=
 -->
