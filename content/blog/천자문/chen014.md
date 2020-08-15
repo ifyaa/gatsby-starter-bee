@@ -108,6 +108,9 @@ draft: false
 增자는 土(흙 토)자와 曾(일찍 증)자가 결합한 모습이다. 曾자는 찜통 위로 수증기가 올라오는 모습
 曾자는 구멍이 있는 조리 도구의 일종을 그린 것이기 때문이다. 曾자는 지금으로 따지면 떡이나 쌀 따위를 찔 데 쓰는 시루를 그린 것
 . 抗자는 手(손 수)자와 亢(오를 항)자가 결합
+極자는 木(나무 목)자와 亟(빠를 극)자가 결합
+두이(二☞둘, 거듭)部와 人(인), 叹(우)의 합자(合字
+##### 叹**또 우, 탄식할 탄**
 
 殆(위태 태) 辱(욕할 욕) 近(가까울 근) 恥(부끄러울 치)
 
@@ -119,7 +122,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjQ4MzMxMCwtOTA1NTMyNzc5LC02Mj
+eyJoaXN0b3J5IjpbLTYzOTIxMDE2NywtOTA1NTMyNzc5LC02Mj
 UwMDk1NzksMTMwNTczMDcyNywzNzU3ODE3MTksMTk5MTU5ODk1
 MCwtNTgzNzIxMDYzLC0xMDU2MTY0Mjc5LC0xMTUyNzkyNzk0LD
 ExODgyNzg2OTIsLTQyNjUwODgxNCwxMTM0NzEwMzA5LC01MDU2
