@@ -99,8 +99,7 @@ draft: false
 090 殆辱近恥 林皋幸即
 ```js
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
-
-나무람과 경계함이 있는가 염려하며 몸을 살피라.
+날실을 올렸다 내렸다 하는 잉아의 모양을 본뜬 유(작을요(幺☞작다)部 2개)와 戍(수)의 합자
 
 寵(고일 총) 增(더할 증) 抗(저항할 항) 極(다할 극)
 
@@ -116,11 +115,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTAwOTU3OSwxMzA1NzMwNzI3LDM3NT
-c4MTcxOSwxOTkxNTk4OTUwLC01ODM3MjEwNjMsLTEwNTYxNjQy
-NzksLTExNTI3OTI3OTQsMTE4ODI3ODY5MiwtNDI2NTA4ODE0LD
-ExMzQ3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0
-MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1Nj
-cyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0y
-MDcxNzQyMDUwXX0=
+eyJoaXN0b3J5IjpbMTQ0MTMyMzQzLC02MjUwMDk1NzksMTMwNT
+czMDcyNywzNzU3ODE3MTksMTk5MTU5ODk1MCwtNTgzNzIxMDYz
+LC0xMDU2MTY0Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLT
+QyNjUwODgxNCwxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5
+MTI0NywxMzM1NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5Mz
+MsMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcx
+NzM4NjM3Nl19
 -->
