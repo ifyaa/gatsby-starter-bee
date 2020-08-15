@@ -100,6 +100,8 @@ draft: false
 ```js
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
 날실을 올렸다 내렸다 하는 잉아의 모양을 본뜬 유(작을요(幺☞작다)部 2개)와 戍(수)의 합자
+幾자는 戈(창 과)자와 人(사람 인)자 幺(작을 요)자가 결합
+##### 戍**수자리 수**人(인)과 창과(戈☞창, 무기)部의 합자(合字
 
 寵(고일 총) 增(더할 증) 抗(저항할 항) 極(다할 극)
 
@@ -115,11 +117,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTMyMzQzLC02MjUwMDk1NzksMTMwNT
-czMDcyNywzNzU3ODE3MTksMTk5MTU5ODk1MCwtNTgzNzIxMDYz
-LC0xMDU2MTY0Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLT
-QyNjUwODgxNCwxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5
-MTI0NywxMzM1NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5Mz
-MsMTIzNTQ1NTY3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcx
-NzM4NjM3Nl19
+eyJoaXN0b3J5IjpbLTkwNTUzMjc3OSwtNjI1MDA5NTc5LDEzMD
+U3MzA3MjcsMzc1NzgxNzE5LDE5OTE1OTg5NTAsLTU4MzcyMTA2
+MywtMTA1NjE2NDI3OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC
+00MjY1MDg4MTQsMTEzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0
+OTEyNDcsMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEzOT
+MzLDEyMzU0NTU2NzIsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3
+MTczODYzNzZdfQ==
 -->
