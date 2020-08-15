@@ -7,8 +7,9 @@ draft: false
 호랑이가 벌레피를 먹으러 다닌다
 벌레를 보고 옷을 아프게덮었다
 사자가 계곡의 뿔로 벌레를 잡으라 언급했다
-```js
+
 140 사자와 호랑이
+```js
 145衣옷 의  
 上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
 衣자가 부수로 쓰일 때는 衤자로 바뀌기 때문에 示=礻(보일 시)자의 부수자와 혼동
@@ -84,9 +85,9 @@ draft: false
 
 사자가 계곡의 뿔로 벌레를 잡으라 언급했다
 ```js
-148角뿔 각
-149言말씀 언
-150谷계곡 곡
+148角뿔 각.   省(살필 성/덜 생)寵(고일 총)
+149言말씀 언.  殆(위태 태)
+150谷계곡 곡.  林(수풀 림)
 ```
 089 省躬譏誡 寵增抗極 
 090 殆辱近恥 林皋幸即
@@ -109,7 +110,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxODQ3Mzc4LDEzMDU3MzA3MjcsMzc1Nz
+eyJoaXN0b3J5IjpbMjIzMzgxODQ5LDEzMDU3MzA3MjcsMzc1Nz
 gxNzE5LDE5OTE1OTg5NTAsLTU4MzcyMTA2MywtMTA1NjE2NDI3
 OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMT
 EzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQy
