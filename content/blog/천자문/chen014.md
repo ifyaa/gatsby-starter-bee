@@ -95,8 +95,8 @@ draft: false
 149言말씀 언.  殆(위태 태)
 150谷계곡 곡.  林(수풀 림)
 ```
-089 省躬譏誡 寵增抗極 
-090 殆辱近恥 林皋幸即
+089 省躬譏誡 寵增抗極 성궁기계 총증항극
+090 殆辱近恥 林皋幸即 태욕근치 임
 ```js
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
 날실을 올렸다 내렸다 하는 잉아의 모양을 본뜬 유(작을요(幺☞작다)部 2개)와 戍(수)의 합자
@@ -122,11 +122,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM1MjEwMjUsMTgyOTg5OTUwNywtNj
-M5MjEwMTY3LC05MDU1MzI3NzksLTYyNTAwOTU3OSwxMzA1NzMw
-NzI3LDM3NTc4MTcxOSwxOTkxNTk4OTUwLC01ODM3MjEwNjMsLT
-EwNTYxNjQyNzksLTExNTI3OTI3OTQsMTE4ODI3ODY5MiwtNDI2
-NTA4ODE0LDExMzQ3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMj
-Q3LDEzMzU0MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywx
-MjM1NDU1NjcyXX0=
+eyJoaXN0b3J5IjpbMTM4NDU2NDMxMCwxODI5ODk5NTA3LC02Mz
+kyMTAxNjcsLTkwNTUzMjc3OSwtNjI1MDA5NTc5LDEzMDU3MzA3
+MjcsMzc1NzgxNzE5LDE5OTE1OTg5NTAsLTU4MzcyMTA2MywtMT
+A1NjE2NDI3OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1
+MDg4MTQsMTEzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyND
+csMTMzNTQyMTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEy
+MzU0NTU2NzJdfQ==
 -->
