@@ -81,13 +81,15 @@ draft: false
 ##### 氐**근본 저**
 ```
 44
-벌레를 보고 옷을 아프게덮었다
+
+사자가 계곡의 뿔로 벌레를 잡으라 언급했다
 ```js
 148角뿔 각
 149言말씀 언
 150谷계곡 곡
 ```
-089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
+089 省躬譏誡 寵增抗極 
+090 殆辱近恥 林皋幸即
 ```js
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
 
@@ -107,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgzMTg5NjAsMTMwNTczMDcyNywzNz
-U3ODE3MTksMTk5MTU5ODk1MCwtNTgzNzIxMDYzLC0xMDU2MTY0
-Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLTQyNjUwODgxNC
-wxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1
-NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NT
-Y3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3Niwt
-MjA3MTc0MjA1MF19
+eyJoaXN0b3J5IjpbMjUxODQ3Mzc4LDEzMDU3MzA3MjcsMzc1Nz
+gxNzE5LDE5OTE1OTg5NTAsLTU4MzcyMTA2MywtMTA1NjE2NDI3
+OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMT
+EzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQy
+MTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2Nz
+IsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIw
+NzE3NDIwNTBdfQ==
 -->
