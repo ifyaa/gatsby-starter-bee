@@ -81,11 +81,14 @@ draft: false
 ##### 氐**근본 저**
 ```
 44
+벌레를 보고 옷을 아프게덮었다
+```js
 148角뿔 각
 149言말씀 언
 150谷계곡 곡
+```
 089 省躬譏誡 寵增抗極 090 殆辱近恥 林皋幸即
-
+```js
 省(살필 성/덜 생) 躬(몸 궁) 譏(나무랄 기) 誡(경계 계)
 
 나무람과 경계함이 있는가 염려하며 몸을 살피라.
@@ -101,13 +104,14 @@ draft: false
 林(수풀 림) 皐(언덕 고) 幸(다행 행) 卽(곧 즉)
 
 부귀할지라도  겸토하여  산간  수풀에서  편히  지내는  것도  다행한  일이다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTczMDcyNywzNzU3ODE3MTksMTk5MT
-U5ODk1MCwtNTgzNzIxMDYzLC0xMDU2MTY0Mjc5LC0xMTUyNzky
-Nzk0LDExODgyNzg2OTIsLTQyNjUwODgxNCwxMTM0NzEwMzA5LC
-01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1NDIxMDY0LDEzMTQz
-MTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NTY3MiwtNTgwNDgwNj
-AsLTg2NDkwMDQyMywtMTcxNzM4NjM3NiwtMjA3MTc0MjA1MCw1
-OTQ0OTQ4NDldfQ==
+eyJoaXN0b3J5IjpbLTE0ODgzMTg5NjAsMTMwNTczMDcyNywzNz
+U3ODE3MTksMTk5MTU5ODk1MCwtNTgzNzIxMDYzLC0xMDU2MTY0
+Mjc5LC0xMTUyNzkyNzk0LDExODgyNzg2OTIsLTQyNjUwODgxNC
+wxMTM0NzEwMzA5LC01MDU2NDU0MDcsLTM5NzQ5MTI0NywxMzM1
+NDIxMDY0LDEzMTQzMTkyMzcsLTE0NTU5MTM5MzMsMTIzNTQ1NT
+Y3MiwtNTgwNDgwNjAsLTg2NDkwMDQyMywtMTcxNzM4NjM3Niwt
+MjA3MTc0MjA1MF19
 -->
