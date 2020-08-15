@@ -10,14 +10,12 @@ draft: false
 
 140 사자와 호랑이
 ```js
+141虍범 호.        
+142虫벌레 충.     
+143血피 혈.      
+144行다닐 행.     
+
 145衣옷 의  
-上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
-衣자가 부수로 쓰일 때는 衤자로 바뀌기 때문에 示=礻(보일 시)자의 부수자와 혼동
-146襾덮을 아
-襾자는 실제 쓰임에서는 부수로 쓰일 때는 覀자로 표
-1477획 →見볼 견
- 이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
-145衣옷 의
 146襾덮을 아
 1477획 →見볼 견
 
@@ -59,6 +57,14 @@ draft: false
 145衣옷 의      의사는 영감 聆(들을 령)鑑(거울 감)
 146襾덮을 아     완이 이가 아프다 貽(끼칠 이)
 1477획 →見볼 견  면공장을 견학간다 勉(힘쓸 면)
+
+145衣옷 의  
+上半身(상반신)에 입는 것을 衣(의), 下半身(하반신)에 입는 것을 裳(상), 옷 전체를 衣裳(의상)
+衣자가 부수로 쓰일 때는 衤자로 바뀌기 때문에 示=礻(보일 시)자의 부수자와 혼동
+146襾덮을 아
+襾자는 실제 쓰임에서는 부수로 쓰일 때는 覀자로 표
+1477획 →見볼 견
+ 이쪽으로부터 보는 것을 視(시), 저쪽으로부터 나타나 보이는 것을 見(견)으로 나누어 썼음
 
 ```
 087 聆音察理 鑒貌辨色 영음찰리 감모변색
@@ -110,11 +116,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMzgxODQ5LDEzMDU3MzA3MjcsMzc1Nz
-gxNzE5LDE5OTE1OTg5NTAsLTU4MzcyMTA2MywtMTA1NjE2NDI3
-OSwtMTE1Mjc5Mjc5NCwxMTg4Mjc4NjkyLC00MjY1MDg4MTQsMT
-EzNDcxMDMwOSwtNTA1NjQ1NDA3LC0zOTc0OTEyNDcsMTMzNTQy
-MTA2NCwxMzE0MzE5MjM3LC0xNDU1OTEzOTMzLDEyMzU0NTU2Nz
-IsLTU4MDQ4MDYwLC04NjQ5MDA0MjMsLTE3MTczODYzNzYsLTIw
-NzE3NDIwNTBdfQ==
+eyJoaXN0b3J5IjpbLTYyNTAwOTU3OSwxMzA1NzMwNzI3LDM3NT
+c4MTcxOSwxOTkxNTk4OTUwLC01ODM3MjEwNjMsLTEwNTYxNjQy
+NzksLTExNTI3OTI3OTQsMTE4ODI3ODY5MiwtNDI2NTA4ODE0LD
+ExMzQ3MTAzMDksLTUwNTY0NTQwNywtMzk3NDkxMjQ3LDEzMzU0
+MjEwNjQsMTMxNDMxOTIzNywtMTQ1NTkxMzkzMywxMjM1NDU1Nj
+cyLC01ODA0ODA2MCwtODY0OTAwNDIzLC0xNzE3Mzg2Mzc2LC0y
+MDcxNzQyMDUwXX0=
 -->
