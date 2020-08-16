@@ -34,8 +34,8 @@ draft: false
 151豆그릇 두         兩(두 량)  그룻값은 2냥
 
 152豕돼지 시         解(풀 해)  손목시계를 풀었다
-153豸발 없는 벌레 치  索(찾을 색)
-154貝조개 패        沈(잠길 침) 默(잠잠할 묵
+153豸발 없는 벌레 치  索(찾을 색) 벌레색깔은 거지같다
+154貝조개 패        沈(잠길 침) 默(잠잠할 묵)말이없다 
 ```
  091 兩疏見機 解組誰逼 양소견기 해조수핍
  092 索居閑處 沉默寂寥 색거한처 침묵적요
@@ -96,9 +96,9 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEwNjU4NjYsLTEyODcwOTcwMzIsLT
-EzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0
-NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNS
-wxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0
-MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbMTEzNjEwODgyNSwtMTI4NzA5NzAzMiwtMT
+M2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2
+MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1LD
+EzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQw
+Mjc4NDQwXX0=
 -->
