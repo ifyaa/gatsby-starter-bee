@@ -31,10 +31,10 @@ draft: false
 ![](https://i.ibb.co/q9sB1qD/image.png =250x)
 오후 2시면 엄마는 조개패치를 붙인다
 ```js
-151豆그릇 두
+151豆그릇 두         兩(두 량)
 
-152豕돼지 시
-153豸발 없는 벌레 치
+152豕돼지 시         解(풀 해)
+153豸발 없는 벌레 치  索(찾을 색)
 154貝조개 패
 ```
  091 兩疏見機 解組誰逼 
@@ -96,7 +96,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTQ5NjA5MSwtMTIwNDAwMjc4MSw2Mj
+eyJoaXN0b3J5IjpbMjA0Mjk1OTIxNywtMTIwNDAwMjc4MSw2Mj
 AwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgw
 MDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMT
 kwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
