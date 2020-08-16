@@ -57,6 +57,7 @@ draft: false
 ##### 冗**쓸데없을 용**
 寂자는 宀(집 면)자와 叔(아재비 숙)자가 결
 또우(又☞오른손, 또, 다시)部와 음(音)을 나타내는 동시(同時)에 줄기 및 땅속의 감자를 뜻하는 尗(숙→문자의 왼쪽부분)으로 이루어짐
+##### 翏**높이 날 료(요)**
 ```
     
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
@@ -98,10 +99,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MjkxMjY4LC00ODEyNjIxNTQsODA0OT
-g5NTQ4LDk0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1
-NywtMTIwNDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMT
-cyNjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5
-NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX
-0=
+eyJoaXN0b3J5IjpbLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NCw4MD
+Q5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3
+OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMy
+wxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3
+ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0ND
+BdfQ==
 -->
