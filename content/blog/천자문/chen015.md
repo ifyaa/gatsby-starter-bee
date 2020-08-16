@@ -55,6 +55,7 @@ draft: false
 
 沈沉(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
 ##### 冗**쓸데없을 용**
+寂자는 宀(집 면)자와 叔(아재비 숙)자가 결
 ```
     
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
@@ -96,7 +97,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTYxODkwMSwtNDgxMjYyMTU0LDgwND
+eyJoaXN0b3J5IjpbLTU3MTAzNjQyNywtNDgxMjYyMTU0LDgwND
 k4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5
 NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLD
 E3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4
