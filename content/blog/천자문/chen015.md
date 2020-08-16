@@ -41,8 +41,7 @@ draft: false
  092 索居閑處 沉默寂寥 색거한처 침묵적요
 ```js
 兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
-
-한나라의 소광과 소수는 기틀을 보고 상소하고 낙향했다.
+疏자는 疋(발 소 짝필)자와 㐬(깃발 류)자가 결합
 
 解(풀 해) 組(짤 조) 誰(누구 수) 逼(핍박할 핍)
 
@@ -96,9 +95,9 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMz
-YyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYy
-NDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMT
-MzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAy
-Nzg0NDBdfQ==
+eyJoaXN0b3J5IjpbODA0OTg5NTQ4LDk0NDQ1MjY5NywtMTI4Nz
+A5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAwMjg2
+NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsOD
+c3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5
+NTg5OCwtMjQwMjc4NDQwXX0=
 -->
