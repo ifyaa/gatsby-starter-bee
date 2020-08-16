@@ -28,6 +28,7 @@ draft: false
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
      
 45
+오후 2시면 엄마는 조개패치를 붙인다
 ```js
 151豆그릇 두
 
@@ -93,8 +94,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjUxMzQyNiwtMTIwNDAwMjc4MSw2Mj
-AwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgw
-MDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMT
-kwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbLTEzNzUwNjY4MTUsLTEyMDQwMDI3ODEsNj
+IwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4
+MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLT
+E5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
