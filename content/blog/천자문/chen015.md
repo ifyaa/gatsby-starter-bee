@@ -50,7 +50,7 @@ draft: false
 ##### 畐**가득할 복**
 
 索(찾을 색) 居(살 거) 閑(한가 한) 處(곳 처)
-
+處자는 虎(범 호)자와 処(곳 처)자가 결합
 퇴직하여 한가한 곳에서 세상을 보냈다.
 
 沈(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
@@ -97,9 +97,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0ND
-UyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3OTU3LC0xMjA0MDAy
-NzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMywxNzI2MDI5NSwtMT
-c1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3ODk3NCwxOTIyMjMy
-NjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbMTExNzExODM5OSwtNDgxMjYyMTU0LDgwND
+k4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5
+NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLD
+E3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4
+OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF
+19
 -->
