@@ -37,7 +37,8 @@ draft: false
 153豸발 없는 벌레 치
 154貝조개 패
 ```
- 091 兩疏見機 解組誰逼 092 索居閑處 沉默寂寥
+ 091 兩疏見機 解組誰逼 
+ 092 索居閑處 沉默寂寥
 ```js
 兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
 
@@ -95,8 +96,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDk2NzU5LC0xMjA0MDAyNzgxLDYyMD
-AyODY1NSwtMTU2NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAw
-OCw4NzcyODExMTUsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOT
-A2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbMjEzOTQ5NjA5MSwtMTIwNDAwMjc4MSw2Mj
+AwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgw
+MDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMT
+kwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
 -->
