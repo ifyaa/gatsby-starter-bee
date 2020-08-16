@@ -28,7 +28,7 @@ draft: false
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
      
 45
-![](https://i.ibb.co/q9sB1qD/image.png =250x)
+![](https://i.ibb.co/MG9BFSP/image.png =250x)
 오후 2시면 엄마는 조개패치를 붙인다
 ```js
 151豆그릇 두         兩(두 량)
@@ -96,8 +96,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNj
-IwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4
-MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLT
-E5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbLTEyODcwOTcwMzIsLTEzNjIxMjc5NTcsLT
+EyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYw
+Mjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LD
+E5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
