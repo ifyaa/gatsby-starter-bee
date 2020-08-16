@@ -42,6 +42,7 @@ draft: false
 ```js
 兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
 疏자는 疋(발 소 짝필)자와 㐬(깃발 류)자가 결합
+幾자를 자세히 보면 幺(작을 요)자와 人(사람 인)자, 戈(창 과)자가 결합
 
 解(풀 해) 組(짤 조) 誰(누구 수) 逼(핍박할 핍)
 
@@ -95,9 +96,9 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0OTg5NTQ4LDk0NDQ1MjY5NywtMTI4Nz
-A5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAwMjg2
-NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsOD
-c3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5
-NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbLTEwMjI1NTAxMjgsODA0OTg5NTQ4LDk0ND
+Q1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAw
+Mjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLT
+E3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIz
+MjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
 -->
