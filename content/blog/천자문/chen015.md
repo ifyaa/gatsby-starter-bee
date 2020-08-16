@@ -46,6 +46,7 @@ draft: false
 
 解(풀 해) 組(짤 조) 誰(누구 수) 逼(핍박할 핍)
 組자는 糸(가는 실 사)자와 且(또 차)자가 결합
+且자는 ‘또한’이나 ‘장차’, ‘도마’라는 뜻을 가진 글자이다. 且자는 비석을 그린 것
 
 索(찾을 색) 居(살 거) 閑(한가 한) 處(곳 처)
 
@@ -95,9 +96,9 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg2NjE0NjgsODA0OTg5NTQ4LDk0ND
-Q1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAw
-Mjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLT
-E3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIz
-MjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbNjA3NjE2MzUxLDgwNDk4OTU0OCw5NDQ0NT
+I2OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3
+ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNz
+UxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2
+OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
