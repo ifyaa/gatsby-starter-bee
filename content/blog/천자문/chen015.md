@@ -53,9 +53,8 @@ draft: false
 處자는 虎(범 호)자와 処(곳 처)자가 결합
 処자와 虎자와 결합하면서 범이 앉아있는 모습의 處자가 만들어지게 되었다
 
-沈(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
-
-세상에 나와서 교제하는 데도 언행에 침착해야 한다.
+沈沉(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
+##### 冗**쓸데없을 용**
 ```
     
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
@@ -97,10 +96,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjAyMTExOTgsLTQ4MTI2MjE1NCw4MD
-Q5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3
-OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMy
-wxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3
-ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0ND
-BdfQ==
+eyJoaXN0b3J5IjpbLTU0NTYxODkwMSwtNDgxMjYyMTU0LDgwND
+k4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5
+NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLD
+E3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4
+OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF
+19
 -->
