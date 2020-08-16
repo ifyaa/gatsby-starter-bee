@@ -27,12 +27,6 @@ draft: false
 ```
 ![](https://i.ibb.co/wRrV8j5/2020-07-10-10-51-15.png)
      
-      
-    
-093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
-095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
-
-
 45
 ```js
 151豆그릇 두
@@ -42,7 +36,7 @@ draft: false
 154貝조개 패
 ```
  091 兩疏見機 解組誰逼 092 索居閑處 沉默寂寥
- 
+```js
 兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
 
 한나라의 소광과 소수는 기틀을 보고 상소하고 낙향했다.
@@ -58,7 +52,10 @@ draft: false
 沈(잠길 침) 默(잠잠할 묵) 寂(고요할 적) 寥(고요 요)
 
 세상에 나와서 교제하는 데도 언행에 침착해야 한다.
-
+```
+    
+093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
+095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
 46
 
 求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
@@ -96,8 +93,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU3OTgwNTUsLTEyMDQwMDI3ODEsNj
-IwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4
-MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLT
-E5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbMTk1NjUxMzQyNiwtMTIwNDAwMjc4MSw2Mj
+AwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgw
+MDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMT
+kwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
 -->
