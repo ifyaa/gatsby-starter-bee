@@ -31,14 +31,14 @@ draft: false
 ![](https://i.ibb.co/MG9BFSP/image.png =250x)
 오후 2시면 엄마는 조개패치를 붙인다
 ```js
-151豆그릇 두         兩(두 량)
+151豆그릇 두         兩(두 량)  그룻
 
 152豕돼지 시         解(풀 해)
 153豸발 없는 벌레 치  索(찾을 색)
 154貝조개 패        沈(잠길 침) 默(잠잠할 묵
 ```
- 091 兩疏見機 解組誰逼 d
- 092 索居閑處 沉默寂寥
+ 091 兩疏見機 解組誰逼 양소견기 해조수핍
+ 092 索居閑處 沉默寂寥 색거한처 침묵적요
 ```js
 兩(두 량) 疏(상소할 소) 見(볼 견/나타날 현) 機(틀 기)
 
@@ -96,7 +96,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTk5NTM0NCwtMTI4NzA5NzAzMiwtMT
+eyJoaXN0b3J5IjpbLTI0NTYxMzE5MiwtMTI4NzA5NzAzMiwtMT
 M2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2
 MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1LD
 EzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQw
