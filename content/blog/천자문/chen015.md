@@ -35,7 +35,7 @@ draft: false
 
 152豕돼지 시         解(풀 해)
 153豸발 없는 벌레 치  索(찾을 색)
-154貝조개 패
+154貝조개 패        沈(잠길 침) 默(잠잠할 묵
 ```
  091 兩疏見機 解組誰逼 
  092 索居閑處 沉默寂寥
@@ -96,8 +96,8 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mjk1OTIxNywtMTIwNDAwMjc4MSw2Mj
-AwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgw
-MDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMT
-kwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
+eyJoaXN0b3J5IjpbLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNj
+IwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4
+MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLT
+E5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
