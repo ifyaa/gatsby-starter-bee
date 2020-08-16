@@ -45,8 +45,7 @@ draft: false
 幾자를 자세히 보면 幺(작을 요)자와 人(사람 인)자, 戈(창 과)자가 결합
 
 解(풀 해) 組(짤 조) 誰(누구 수) 逼(핍박할 핍)
-
-관의 끈을 풀어 사직하고 돌아가니 누가 핍박하리요.
+組자는 糸(가는 실 사)자와 且(또 차)자가 결합
 
 索(찾을 색) 居(살 거) 閑(한가 한) 處(곳 처)
 
@@ -96,7 +95,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI1NTAxMjgsODA0OTg5NTQ4LDk0ND
+eyJoaXN0b3J5IjpbLTE4MTg2NjE0NjgsODA0OTg5NTQ4LDk0ND
 Q1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAw
 Mjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLT
 E3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIz
