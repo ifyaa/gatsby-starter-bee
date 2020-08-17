@@ -82,6 +82,8 @@ draft: false
 散(흩을 산) 慮(생각 려) 逍(거닐 소) 遙(멀 요)
 散자는 㪔(흩어지다 산)자와 ⺼(육달 월)자가 결합한 모습이다. 㪔자는 몽둥이로 ‘마’를 두드려 펴는 모습을 그린 것으로 ‘흩어지다’라는 뜻
 散(산)과 동자(同字).
+肖자는 ‘닮다’나 ‘모양이 같다’라는 뜻을 가진 글자
+
 
 欣(기쁠 흔) 奏(아뢸 주) 累(여러 루) 遣(보낼 견)
 
@@ -110,11 +112,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xND
-MzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2
-MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC
-0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2
-NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMT
-UsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0y
-NDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbMzQ1ODMxMzMsLTYxNjM4NjIyNiwtNjQ0Mj
+kzMDUzLC0xNDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5
+MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMj
+g3MDk3MDMyLC0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAy
+ODY1NSwtMTU2NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOC
+w4NzcyODExMTUsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2
+Njk1ODk4XX0=
 -->
