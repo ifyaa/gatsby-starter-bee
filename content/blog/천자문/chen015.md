@@ -94,7 +94,7 @@ draft: false
 遣자는 辶(쉬엄쉬엄 갈 착)자와 貴(귀할 귀)자, 阜(언덕 부)자가 결합
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
-
+戚자는 戊(창 무)자와 尗(아저씨 숙)자가 결합한 모습이다. 尗자는 콩 줄기에서 콩이 떨어진 모습을 그린 것 
 
 ```
 47
@@ -117,11 +117,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MT
-YzODYyMjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0
-MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LD
-k0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIw
-NDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOT
-UsLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTky
-MjIzMjY5Ml19
+eyJoaXN0b3J5IjpbLTYzODI1NTc1MywtNDgyNjE2ODExLDE4NT
+IwMTIyNjIsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xNDMzNTI5
+NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NC
+w4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYy
+MTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyND
+QxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMz
+MzE3ODk3NF19
 -->
