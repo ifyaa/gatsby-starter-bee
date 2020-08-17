@@ -74,6 +74,8 @@ draft: false
 ```js
 求(구할 구) 古(옛 고) 尋(물을 심) 論(논할 론)
 求자의 본래 의미도 ‘털 가죽옷’
+尋자는 又(또 우)자와 工(장인 공)자, 口(입 구)자, 寸(마디 촌)자가 결합
+左(좌)와 右(우)와 寸(촌☞법칙)의 합자(合字)
 
 散(흩을 산) 慮(생각 려) 逍(거닐 소) 遙(멀 요)
 
@@ -105,11 +107,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNT
-UzNDc0MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5
-NTQ4LDk0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1Ny
-wtMTIwNDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcy
-NjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5Nz
-QsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
-
+eyJoaXN0b3J5IjpbMTg5NzczODcxNSwtNjQ0MjkzMDUzLC0xND
+MzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2
+MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC
+0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2
+NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMT
+UsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0y
+NDAyNzg0NDBdfQ==
 -->
