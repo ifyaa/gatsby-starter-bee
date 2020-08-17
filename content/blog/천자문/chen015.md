@@ -88,6 +88,7 @@ draft: false
 欣(기쁠 흔) 奏(아뢸 주) 累(여러 루) 遣(보낼 견)
 왼손좌(屮☞초목의 싹, 왼손)部와 卄(공☞양손)과 大+十(토☞나아가 이르다)로 이루어짐
 奏자는 양손에 약초를 받쳐 든 모습을 그린 것
+夭(어릴 요)
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
@@ -113,11 +114,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzOTE2MDY4LC02MTYzODYyMjYsLTY0ND
-I5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0xNjg3MTUy
-OTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1MjY5NywtMT
-I4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAw
-Mjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMD
-gsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkw
-NjY5NTg5OF19
+eyJoaXN0b3J5IjpbMTg1MjAxMjI2MiwtNjE2Mzg2MjI2LC02ND
+QyOTMwNTMsLTE0MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMTY4NzE1
+MjkwNywtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLT
+EyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIw
+MDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MD
+A4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5
+MDY2OTU4OThdfQ==
 -->
