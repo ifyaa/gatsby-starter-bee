@@ -69,8 +69,8 @@ draft: false
 156走달릴 주.  欣(기쁠 흔)
 157足발 족.   瓷(슬플 척)
 ```
-093 求古尋論 散慮逍遙 
-094 欣奏累遣 戚謝歡招 
+093 求古尋論 散慮逍遙 구고심론 산려소요
+094 欣奏累遣 戚謝歡招 흔주루견 척사환초
 ```js
 求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
 
@@ -105,10 +105,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMT
-Y4NzE1MjkwNywtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2
-OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3OD
-EsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUx
-Mzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OT
-IsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbNzE4ODIxMzkwLC0xNDMzNTI5NjMsLTE1NT
+M0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1
+NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3OTU3LC
+0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMywxNzI2
+MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3ODk3NC
+wxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
+
 -->
