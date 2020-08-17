@@ -60,10 +60,17 @@ draft: false
 ##### 翏**높이 날 료(요)**
 ```
     
-093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
-095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
+
+
 46
 
+```js
+155赤붉을 적.  求(구할 구)
+156走달릴 주
+157足발 족
+```
+093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
+```js
 求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
 
 예를 찾아 의논하고 고인을 찾아 토론한다.
@@ -79,8 +86,9 @@ draft: false
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
 심중의 슬픈 것은 없어지고 즐거움만 부른 듯이 오게 된다.
-
+```
 47
+095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
 
 渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
 
@@ -99,10 +107,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NCw4MD
-Q5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3
-OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMy
-wxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3
-ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0ND
-BdfQ==
+eyJoaXN0b3J5IjpbMTM0MTAyNTI3OCwtMTY4NzE1MjkwNywtND
+gxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcw
+MzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC
+0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4
+MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OT
+gsLTI0MDI3ODQ0MF19
 -->
