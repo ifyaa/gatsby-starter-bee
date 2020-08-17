@@ -72,8 +72,8 @@ draft: false
 093 求古尋論 散慮逍遙 구고심론 산려소요
 094 欣奏累遣 戚謝歡招 흔주루견 척사환초
 ```js
-求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
-
+求(구할 구) 古(옛 고) 尋(물을 심) 論(논할 론)
+求자의 본래 의미도 ‘털 가죽옷’
 
 散(흩을 산) 慮(생각 려) 逍(거닐 소) 遙(멀 요)
 
@@ -105,11 +105,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4ODIxMzkwLC0xNDMzNTI5NjMsLTE1NT
-M0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1
-NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3OTU3LC
-0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyNDQxMywxNzI2
-MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMzMzE3ODk3NC
-wxOTIyMjMyNjkyLC0xOTA2Njk1ODk4LC0yNDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNT
+UzNDc0MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5
+NTQ4LDk0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1Ny
+wtMTIwNDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcy
+NjAyOTUsLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5Nz
+QsMTkyMjIzMjY5MiwtMTkwNjY5NTg5OCwtMjQwMjc4NDQwXX0=
 
 -->
