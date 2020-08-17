@@ -86,7 +86,8 @@ draft: false
 䍃자는 항아리 위에 고기를 얹은 모습을 그린 것이다. 그런데 항아리를 그린 䍃자와 길을 그린 辶자가 왜 ‘멀다’나 ‘아득하다’라는 뜻
 
 欣(기쁠 흔) 奏(아뢸 주) 累(여러 루) 遣(보낼 견)
-
+왼손좌(屮☞초목의 싹, 왼손)部와 卄(공☞양손)과 大+十(토☞나아가 이르다)로 이루어짐
+奏자는 양손에 약초를 받쳐 든 모습을 그린 것
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
@@ -112,11 +113,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgxNDQ5NjgsLTYxNjM4NjIyNiwtNj
-Q0MjkzMDUzLC0xNDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcx
-NTI5MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC
-0xMjg3MDk3MDMyLC0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYy
-MDAyODY1NSwtMTU2NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4OD
-AwOCw4NzcyODExMTUsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0x
-OTA2Njk1ODk4XX0=
+eyJoaXN0b3J5IjpbNTQzOTE2MDY4LC02MTYzODYyMjYsLTY0ND
+I5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0xNjg3MTUy
+OTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1MjY5NywtMT
+I4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAw
+Mjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3NTEzODgwMD
+gsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTkyMjIzMjY5MiwtMTkw
+NjY5NTg5OF19
 -->
