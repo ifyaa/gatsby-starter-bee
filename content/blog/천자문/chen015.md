@@ -96,6 +96,7 @@ draft: false
 戚(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 戚자는 戊(창 무)자와 尗(아저씨 숙)자가 결합한 모습이다. 尗자는 콩 줄기에서 콩이 떨어진 모습을 그린 것 
 射자는 身(몸 신)자와 寸(마디 촌)자
+歡자는 雚(황새 관)자와 欠(하품 흠)자가 결합
 
 ```
 47
@@ -118,11 +119,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzkyMzQ1OSwtNDgyNjE2ODExLDE4NT
-IwMTIyNjIsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xNDMzNTI5
-NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NC
-w4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYy
-MTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NSwtMTU2NDYyND
-QxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4NzcyODExMTUsMTMz
-MzE3ODk3NF19
+eyJoaXN0b3J5IjpbMzYzMzAyNDIyLC00ODI2MTY4MTEsMTg1Mj
+AxMjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMwNTMsLTE0MzM1Mjk2
+MywtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNywtNDgxMjYyMTU0LD
+gwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIx
+Mjc5NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0ND
+EzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4MTExNSwxMzMz
+MTc4OTc0XX0=
 -->
