@@ -91,6 +91,7 @@ draft: false
 夭(어릴 요)
 畾(밭 갈피 뢰)자와 糸자가 결합한 纍(여러 루)자
 纍(루)의 간체자(簡體字). 뜻을 나타내는 실사(糸☞실타래)部와 음(音)을 나타내는 동시(同時)에 포갠다는 뜻을 가진 畾(뢰)의 생략형(省略形)
+遣자는 辶(쉬엄쉬엄 갈 착)자와 貴(귀할 귀)자, 阜(언덕 부)자가 결합
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
@@ -116,7 +117,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzA4Mzk5MiwxODUyMDEyMjYyLC02MT
+eyJoaXN0b3J5IjpbLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MT
 YzODYyMjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0
 MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LD
 k0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIw
