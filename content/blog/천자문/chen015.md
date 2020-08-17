@@ -97,7 +97,7 @@ draft: false
 戚자는 戊(창 무)자와 尗(아저씨 숙)자가 결합한 모습이다. 尗자는 콩 줄기에서 콩이 떨어진 모습을 그린 것 
 射자는 身(몸 신)자와 寸(마디 촌)자
 歡자는 雚(황새 관)자와 欠(하품 흠)자가 결합
-
+招자는 手(손 수)자와 召(부를 소)자가 결합
 ```
 47
 095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
@@ -119,7 +119,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMzAyNDIyLC00ODI2MTY4MTEsMTg1Mj
+eyJoaXN0b3J5IjpbMTk4MDEwMzc5LC00ODI2MTY4MTEsMTg1Mj
 AxMjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMwNTMsLTE0MzM1Mjk2
 MywtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNywtNDgxMjYyMTU0LD
 gwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIx
