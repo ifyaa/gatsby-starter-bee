@@ -93,8 +93,9 @@ draft: false
 纍(루)의 간체자(簡體字). 뜻을 나타내는 실사(糸☞실타래)部와 음(音)을 나타내는 동시(同時)에 포갠다는 뜻을 가진 畾(뢰)의 생략형(省略形)
 遣자는 辶(쉬엄쉬엄 갈 착)자와 貴(귀할 귀)자, 阜(언덕 부)자가 결합
 
-瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
+戚(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 戚자는 戊(창 무)자와 尗(아저씨 숙)자가 결합한 모습이다. 尗자는 콩 줄기에서 콩이 떨어진 모습을 그린 것 
+射자는 身(몸 신)자와 寸(마디 촌)자
 
 ```
 47
@@ -117,7 +118,7 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODI1NTc1MywtNDgyNjE2ODExLDE4NT
+eyJoaXN0b3J5IjpbLTQyMzkyMzQ1OSwtNDgyNjE2ODExLDE4NT
 IwMTIyNjIsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xNDMzNTI5
 NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NC
 w4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYy
