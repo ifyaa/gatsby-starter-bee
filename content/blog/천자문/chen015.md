@@ -89,6 +89,8 @@ draft: false
 왼손좌(屮☞초목의 싹, 왼손)部와 卄(공☞양손)과 大+十(토☞나아가 이르다)로 이루어짐
 奏자는 양손에 약초를 받쳐 든 모습을 그린 것
 夭(어릴 요)
+畾(밭 갈피 뢰)자와 糸자가 결합한 纍(여러 루)자
+纍(루)의 간체자(簡體字). 뜻을 나타내는 실사(糸☞실타래)部와 음(音)을 나타내는 동시(同時)에 포갠다는 뜻을 가진 畾(뢰)의 생략형(省略形)
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
@@ -114,11 +116,11 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjAxMjI2MiwtNjE2Mzg2MjI2LC02ND
-QyOTMwNTMsLTE0MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMTY4NzE1
-MjkwNywtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLT
-EyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIw
-MDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MD
-A4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5
-MDY2OTU4OThdfQ==
+eyJoaXN0b3J5IjpbMTkwMzA4Mzk5MiwxODUyMDEyMjYyLC02MT
+YzODYyMjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0
+MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LD
+k0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIw
+NDAwMjc4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOT
+UsLTE3NTEzODgwMDgsODc3MjgxMTE1LDEzMzMxNzg5NzQsMTky
+MjIzMjY5Ml19
 -->
