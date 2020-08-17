@@ -69,23 +69,21 @@ draft: false
 156走달릴 주.  欣(기쁠 흔)
 157足발 족.   瓷(슬플 척)
 ```
-093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
+093 求古尋論 散慮逍遙 
+094 欣奏累遣 戚謝歡招 
 ```js
 求(구할 구) 古(옛 고) 尋(찾을 심) 論(의논할 론)
 
-예를 찾아 의논하고 고인을 찾아 토론한다.
 
 散(흩을 산) 慮(생각 려) 逍(거닐 소) 遙(멀 요)
 
-세상일을 잊어버리고 자연 속에서 한가하게 즐긴다.
 
 欣(기쁠 흔) 奏(아뢸 주) 累(여러 루) 遣(보낼 견)
 
-기쁨은 아뢰고 더러움은 보내니.
 
 瓷(슬플 척) 謝(사례 사) 歡(기뻐할 환) 招(부를 초)
 
-심중의 슬픈 것은 없어지고 즐거움만 부른 듯이 오게 된다.
+
 ```
 47
 095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
@@ -107,10 +105,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLT
-Q4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3
-MDMyLC0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NS
-wtMTU2NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4Nzcy
-ODExMTUsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1OD
-k4LC0yNDAyNzg0NDBdfQ==
+eyJoaXN0b3J5IjpbLTE0MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMT
+Y4NzE1MjkwNywtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2
+OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3OD
+EsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUx
+Mzg4MDA4LDg3NzI4MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OT
+IsLTE5MDY2OTU4OTgsLTI0MDI3ODQ0MF19
 -->
