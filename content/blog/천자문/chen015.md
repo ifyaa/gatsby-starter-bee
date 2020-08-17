@@ -65,9 +65,9 @@ draft: false
 46
 
 ```js
-155赤붉을 적.  求(구할 구)
-156走달릴 주
-157足발 족
+155赤붉을 적.  求(구할 구)散(흩을 산)
+156走달릴 주.  欣(기쁠 흔)
+157足발 족.   瓷(슬플 척)
 ```
 093 求古尋論 散慮逍遙 094 欣奏累遣 戚謝歡招 
 ```js
@@ -107,10 +107,10 @@ draft: false
 오동잎은  가을이면  다른  나무보다  먼저  마른다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTAyNTI3OCwtMTY4NzE1MjkwNywtND
-gxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcw
-MzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC
-0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3NzI4
-MTExNSwxMzMzMTc4OTc0LDE5MjIyMzI2OTIsLTE5MDY2OTU4OT
-gsLTI0MDI3ODQ0MF19
+eyJoaXN0b3J5IjpbLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLT
+Q4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3
+MDMyLC0xMzYyMTI3OTU3LC0xMjA0MDAyNzgxLDYyMDAyODY1NS
+wtMTU2NDYyNDQxMywxNzI2MDI5NSwtMTc1MTM4ODAwOCw4Nzcy
+ODExMTUsMTMzMzE3ODk3NCwxOTIyMjMyNjkyLC0xOTA2Njk1OD
+k4LC0yNDAyNzg0NDBdfQ==
 -->
