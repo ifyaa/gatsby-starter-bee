@@ -100,30 +100,32 @@ draft: false
 招자는 手(손 수)자와 召(부를 소)자가 결합
 ```
 47
-095 渠荷的歷 園莽抽條 096 枇杷晚翠 梧桐蚤凋
-
+```js
+158身몸 신
+159車수레 거/차
+160辛매울 신
+```
+095 渠荷的歷 園莽抽條 
+096 枇杷晚翠 梧桐蚤凋
+```js
 渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
 
 개천의 연꽃도 아름다우니 향기를 잡아볼 만하다.
 
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
 
-동산의 풀은 땅속 양분으로 가지가 뻗고 크게 자란다.
-
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
-
-비파나무는 늦은 겨울에도 그 빛은 푸르다.
 
 梧(오동 오) 桐(오동 동) 早(이를 조) 凋(시들 조)
 
-오동잎은  가을이면  다른  나무보다  먼저  마른다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA3NjMzNzcsMTk4MDEwMzc5LC00OD
-I2MTY4MTEsMTg1MjAxMjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMw
-NTMsLTE0MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNy
-wtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcw
-OTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMDI3ODEsNjIwMDI4Nj
-U1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0xNzUxMzg4MDA4LDg3
-NzI4MTExNV19
+eyJoaXN0b3J5IjpbMTU3MTE2NjIyNywtMTkyMDc2MzM3NywxOT
+gwMTAzNzksLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MTYzODYy
+MjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC
+0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1
+MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMj
+c4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3
+NTEzODgwMDhdfQ==
 -->
