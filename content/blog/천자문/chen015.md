@@ -110,8 +110,6 @@ draft: false
 ```js
 渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
 
-개천의 연꽃도 아름다우니 향기를 잡아볼 만하다.
-
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
 
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
@@ -121,11 +119,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTE2NjIyNywtMTkyMDc2MzM3NywxOT
-gwMTAzNzksLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MTYzODYy
-MjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC
-0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1
-MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMj
-c4MSw2MjAwMjg2NTUsLTE1NjQ2MjQ0MTMsMTcyNjAyOTUsLTE3
-NTEzODgwMDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQzNzY3NjAsLTE5MjA3NjMzNzcsMT
+k4MDEwMzc5LC00ODI2MTY4MTEsMTg1MjAxMjI2MiwtNjE2Mzg2
+MjI2LC02NDQyOTMwNTMsLTE0MzM1Mjk2MywtMTU1MzQ3NDA5Mi
+wtMTY4NzE1MjkwNywtNDgxMjYyMTU0LDgwNDk4OTU0OCw5NDQ0
+NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIxMjc5NTcsLTEyMDQwMD
+I3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEzLDE3MjYwMjk1LC0x
+NzUxMzg4MDA4XX0=
 -->
