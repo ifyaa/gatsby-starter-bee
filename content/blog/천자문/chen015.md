@@ -110,6 +110,7 @@ draft: false
 ```js
 渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
 (☞衢(구))을 나타내는 구(矩+木)의 생략형(省略形)(渠에서 삼수변(氵(=水, 氺)☞물)部를 제외(除外)한 부분)으로 이루어짐
+荷자는 ‘메다’나 ‘짊어지다’, ‘부담하다’라는 뜻을 가진 글자이다. 荷자는 艹(풀 초)자와 何(어찌 하)자가 결합한 모습이다. 何자는 어깨에 짐을 멘 사람을 그린 것
 
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
 
@@ -120,7 +121,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDU5MTIxMiwtMTYzOTQxNjc1NywtMT
+eyJoaXN0b3J5IjpbLTQwMTcwMDI0OCwtMTYzOTQxNjc1NywtMT
 M0NDM3Njc2MCwtMTkyMDc2MzM3NywxOTgwMTAzNzksLTQ4MjYx
 NjgxMSwxODUyMDEyMjYyLC02MTYzODYyMjYsLTY0NDI5MzA1My
 wtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0xNjg3MTUyOTA3LC00
