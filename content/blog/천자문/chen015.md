@@ -101,9 +101,9 @@ draft: false
 ```
 47
 ```js
-158身몸 신    渠(개천 거)園(동산 원) 莽(풀 망)
-159車수레 거/차
-160辛매울 신
+158身몸 신    渠(개천 거)荷(연꽃 하)園(동산 원) 莽(풀 망)
+159車수레 거/차 枇(비파나무 비)杷(비파나무 파)
+160辛매울 신   梧(오동 오)桐(오동 동)
 ```
 095 渠荷的歷 園莽抽條 거하적력 원망추조
 096 枇杷晚翠 梧桐蚤凋 비파만취 오동조조
@@ -119,7 +119,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwNzE4MTQsLTEzNDQzNzY3NjAsLT
+eyJoaXN0b3J5IjpbLTE2Mzk0MTY3NTcsLTEzNDQzNzY3NjAsLT
 E5MjA3NjMzNzcsMTk4MDEwMzc5LC00ODI2MTY4MTEsMTg1MjAx
 MjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMwNTMsLTE0MzM1Mjk2My
 wtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNywtNDgxMjYyMTU0LDgw
