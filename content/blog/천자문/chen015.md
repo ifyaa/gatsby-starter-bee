@@ -101,9 +101,9 @@ draft: false
 ```
 47
 ```js
-158身몸 신    渠(개천 거)荷(연꽃 하)園(동산 원) 莽(풀 망)
-159車수레 거/차 枇(비파나무 비)杷(비파나무 파)
-160辛매울 신   梧(오동 오)桐(오동 동)
+158身몸 신    渠(개천 거)荷(연꽃 하)園(동산 원) 莽(풀 망) 몸이 거하게 아파 원망
+159車수레 거/차 枇(비파나무 비)杷(비파나무 파)   차는 비파나무로 만들고
+160辛매울 신   梧(오동 오)桐(오동 동)         오동나무에 찔렸다
 ```
 095 渠荷的歷 園莽抽條 거하적력 원망추조
 096 枇杷晚翠 梧桐蚤凋 비파만취 오동조조
@@ -130,11 +130,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3NjIxMTYsLTY1ODgxMzI5NiwtMT
-A1NTU0NDE1NiwtMTA3MDkwNzAwNiwtNDAxNzAwMjQ4LC0xNjM5
-NDE2NzU3LC0xMzQ0Mzc2NzYwLC0xOTIwNzYzMzc3LDE5ODAxMD
-M3OSwtNDgyNjE2ODExLDE4NTIwMTIyNjIsLTYxNjM4NjIyNiwt
-NjQ0MjkzMDUzLC0xNDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2OD
-cxNTI5MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3
-LC0xMjg3MDk3MDMyXX0=
+eyJoaXN0b3J5IjpbMjY1MjQ1ODU0LC0xODk5NzYyMTE2LC02NT
+g4MTMyOTYsLTEwNTU1NDQxNTYsLTEwNzA5MDcwMDYsLTQwMTcw
+MDI0OCwtMTYzOTQxNjc1NywtMTM0NDM3Njc2MCwtMTkyMDc2Mz
+M3NywxOTgwMTAzNzksLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02
+MTYzODYyMjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzND
+c0MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4
+LDk0NDQ1MjY5N119
 -->
