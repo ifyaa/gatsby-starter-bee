@@ -112,7 +112,9 @@ draft: false
 (☞衢(구))을 나타내는 구(矩+木)의 생략형(省略形)(渠에서 삼수변(氵(=水, 氺)☞물)部를 제외(除外)한 부분)으로 이루어짐
 荷자는 ‘메다’나 ‘짊어지다’, ‘부담하다’라는 뜻을 가진 글자이다. 荷자는 艹(풀 초)자와 何(어찌 하)자가 결합한 모습이다. 何자는 어깨에 짐을 멘 사람을 그린 것
 的자는 白(흰 백)자와 勺(구기 작)자가 결합한 모습이다. 勺자는 물을 푸는 용도인 ‘구기’를 그린 것
+
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
+園자는 囗(에운담 위)자와 袁(옷 길 원)자가 결합한 모습이다. 袁자는 衣(옷 의)자의 옷깃 부분에 원을 그려 넣은 것으로 헐렁한 옷을 뜻
 
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
 
@@ -121,11 +123,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA5MDcwMDYsLTQwMTcwMDI0OCwtMT
-YzOTQxNjc1NywtMTM0NDM3Njc2MCwtMTkyMDc2MzM3NywxOTgw
-MTAzNzksLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MTYzODYyMj
-YsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0x
-Njg3MTUyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1Mj
-Y5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4
-MSw2MjAwMjg2NTVdfQ==
+eyJoaXN0b3J5IjpbMTY3NjE5MTg0NCwtMTA3MDkwNzAwNiwtND
+AxNzAwMjQ4LC0xNjM5NDE2NzU3LC0xMzQ0Mzc2NzYwLC0xOTIw
+NzYzMzc3LDE5ODAxMDM3OSwtNDgyNjE2ODExLDE4NTIwMTIyNj
+IsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xNDMzNTI5NjMsLTE1
+NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MTI2MjE1NCw4MDQ5OD
+k1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMyLC0xMzYyMTI3OTU3
+LC0xMjA0MDAyNzgxXX0=
 -->
