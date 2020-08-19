@@ -121,17 +121,18 @@ draft: false
 人(인)과 등글월문(攵(=攴)☞일을 하다
 
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
+##### 免**면할 면, 해산할 문**
 
 梧(오동 오) 桐(오동 동) 早(이를 조) 凋(시들 조)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU1NDQxNTYsLTEwNzA5MDcwMDYsLT
-QwMTcwMDI0OCwtMTYzOTQxNjc1NywtMTM0NDM3Njc2MCwtMTky
-MDc2MzM3NywxOTgwMTAzNzksLTQ4MjYxNjgxMSwxODUyMDEyMj
-YyLC02MTYzODYyMjYsLTY0NDI5MzA1MywtMTQzMzUyOTYzLC0x
-NTUzNDc0MDkyLC0xNjg3MTUyOTA3LC00ODEyNjIxNTQsODA0OT
-g5NTQ4LDk0NDQ1MjY5NywtMTI4NzA5NzAzMiwtMTM2MjEyNzk1
-NywtMTIwNDAwMjc4MV19
+eyJoaXN0b3J5IjpbMjA5NjMzMzk3OCwtMTA1NTU0NDE1NiwtMT
+A3MDkwNzAwNiwtNDAxNzAwMjQ4LC0xNjM5NDE2NzU3LC0xMzQ0
+Mzc2NzYwLC0xOTIwNzYzMzc3LDE5ODAxMDM3OSwtNDgyNjE2OD
+ExLDE4NTIwMTIyNjIsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0x
+NDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MT
+I2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMy
+LC0xMzYyMTI3OTU3XX0=
 -->
