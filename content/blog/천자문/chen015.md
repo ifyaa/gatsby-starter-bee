@@ -121,18 +121,18 @@ draft: false
 人(인)과 등글월문(攵(=攴)☞일을 하다
 
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
-##### 免**면할 면, 해산할 문**
+##### 免**면할 면, 해산할 문** 사람인(人(=亻)☞사람)部와 穴(혈☞구멍)과 어진사람인발(儿☞사람의 다리 모양)部로 이루어짐
 
 梧(오동 오) 桐(오동 동) 早(이를 조) 凋(시들 조)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjMzMzk3OCwtMTA1NTU0NDE1NiwtMT
-A3MDkwNzAwNiwtNDAxNzAwMjQ4LC0xNjM5NDE2NzU3LC0xMzQ0
-Mzc2NzYwLC0xOTIwNzYzMzc3LDE5ODAxMDM3OSwtNDgyNjE2OD
-ExLDE4NTIwMTIyNjIsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0x
-NDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2ODcxNTI5MDcsLTQ4MT
-I2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3LC0xMjg3MDk3MDMy
-LC0xMzYyMTI3OTU3XX0=
+eyJoaXN0b3J5IjpbMzczNjA5MDM5LC0xMDU1NTQ0MTU2LC0xMD
+cwOTA3MDA2LC00MDE3MDAyNDgsLTE2Mzk0MTY3NTcsLTEzNDQz
+NzY3NjAsLTE5MjA3NjMzNzcsMTk4MDEwMzc5LC00ODI2MTY4MT
+EsMTg1MjAxMjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMwNTMsLTE0
+MzM1Mjk2MywtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNywtNDgxMj
+YyMTU0LDgwNDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIs
+LTEzNjIxMjc5NTddfQ==
 -->
