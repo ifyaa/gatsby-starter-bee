@@ -109,6 +109,7 @@ draft: false
 096 枇杷晚翠 梧桐蚤凋 비파만취 오동조조
 ```js
 渠(개천 거) 荷(연꽃 하) 的(과녁 적) 歷(지낼 력)
+(☞衢(구))을 나타내는 구(矩+木)의 생략형(省略形)(渠에서 삼수변(氵(=水, 氺)☞물)部를 제외(除外)한 부분)으로 이루어짐
 
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
 
@@ -119,11 +120,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0MTY3NTcsLTEzNDQzNzY3NjAsLT
-E5MjA3NjMzNzcsMTk4MDEwMzc5LC00ODI2MTY4MTEsMTg1MjAx
-MjI2MiwtNjE2Mzg2MjI2LC02NDQyOTMwNTMsLTE0MzM1Mjk2My
-wtMTU1MzQ3NDA5MiwtMTY4NzE1MjkwNywtNDgxMjYyMTU0LDgw
-NDk4OTU0OCw5NDQ0NTI2OTcsLTEyODcwOTcwMzIsLTEzNjIxMj
-c5NTcsLTEyMDQwMDI3ODEsNjIwMDI4NjU1LC0xNTY0NjI0NDEz
-LDE3MjYwMjk1XX0=
+eyJoaXN0b3J5IjpbLTI1NDU5MTIxMiwtMTYzOTQxNjc1NywtMT
+M0NDM3Njc2MCwtMTkyMDc2MzM3NywxOTgwMTAzNzksLTQ4MjYx
+NjgxMSwxODUyMDEyMjYyLC02MTYzODYyMjYsLTY0NDI5MzA1My
+wtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0xNjg3MTUyOTA3LC00
+ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1MjY5NywtMTI4NzA5Nz
+AzMiwtMTM2MjEyNzk1NywtMTIwNDAwMjc4MSw2MjAwMjg2NTUs
+LTE1NjQ2MjQ0MTNdfQ==
 -->
