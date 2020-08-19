@@ -115,6 +115,7 @@ draft: false
 
 園(동산 원) 莽(풀 망) 抽(빼낼 추) 條(조목 조)
 園자는 囗(에운담 위)자와 袁(옷 길 원)자가 결합한 모습이다. 袁자는 衣(옷 의)자의 옷깃 부분에 원을 그려 넣은 것으로 헐렁한 옷을 뜻
+遠(멀 원)
 
 枇(비파나무 비) 杷(비파나무 파) 晩(늦을 만) 翠(푸를 취)
 
@@ -123,7 +124,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjE5MTg0NCwtMTA3MDkwNzAwNiwtND
+eyJoaXN0b3J5IjpbMTA0NzkyMDMxMSwtMTA3MDkwNzAwNiwtND
 AxNzAwMjQ4LC0xNjM5NDE2NzU3LC0xMzQ0Mzc2NzYwLC0xOTIw
 NzYzMzc3LDE5ODAxMDM3OSwtNDgyNjE2ODExLDE4NTIwMTIyNj
 IsLTYxNjM4NjIyNiwtNjQ0MjkzMDUzLC0xNDMzNTI5NjMsLTE1
