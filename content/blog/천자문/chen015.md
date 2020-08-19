@@ -126,14 +126,15 @@ draft: false
 
 梧(오동 오) 桐(오동 동) 早(이를 조) 凋(시들 조)
 蚤 ##### 㕚**손톱 조**
+周자는 ‘두루’나 ‘골고루’, ‘둘레’라는 뜻을 가진 글자이다. 周자는 논밭을 그린 상형문자이다. 周자의 갑골문을 보면 田(밭 전)자에 점을 찍어놓은 모습이 그려져 있었다. 이것은 밭의 둘레를 표현한 것이다
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0ODYwOTc4LC02NTg4MTMyOTYsLTEwNT
-U1NDQxNTYsLTEwNzA5MDcwMDYsLTQwMTcwMDI0OCwtMTYzOTQx
-Njc1NywtMTM0NDM3Njc2MCwtMTkyMDc2MzM3NywxOTgwMTAzNz
-ksLTQ4MjYxNjgxMSwxODUyMDEyMjYyLC02MTYzODYyMjYsLTY0
-NDI5MzA1MywtMTQzMzUyOTYzLC0xNTUzNDc0MDkyLC0xNjg3MT
-UyOTA3LC00ODEyNjIxNTQsODA0OTg5NTQ4LDk0NDQ1MjY5Nywt
-MTI4NzA5NzAzMl19
+eyJoaXN0b3J5IjpbLTE4OTk3NjIxMTYsLTY1ODgxMzI5NiwtMT
+A1NTU0NDE1NiwtMTA3MDkwNzAwNiwtNDAxNzAwMjQ4LC0xNjM5
+NDE2NzU3LC0xMzQ0Mzc2NzYwLC0xOTIwNzYzMzc3LDE5ODAxMD
+M3OSwtNDgyNjE2ODExLDE4NTIwMTIyNjIsLTYxNjM4NjIyNiwt
+NjQ0MjkzMDUzLC0xNDMzNTI5NjMsLTE1NTM0NzQwOTIsLTE2OD
+cxNTI5MDcsLTQ4MTI2MjE1NCw4MDQ5ODk1NDgsOTQ0NDUyNjk3
+LC0xMjg3MDk3MDMyXX0=
 -->
