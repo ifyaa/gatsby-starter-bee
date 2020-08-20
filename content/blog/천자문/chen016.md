@@ -41,6 +41,8 @@ draft: false
 
 落(떨어질 락) 葉(잎사귀 엽) 飄(나부낄 표) 汞(나부낄 요)
 凡(무릇 범)자에 鳥(새 조)자가 결합한 鳳자가 ‘봉황새’를 뜻하게 되었고 봉황이 몰고 왔던 바람은 凡자에 虫(벌레 충)자가 더해진 風자로 분리
+搖자는 手(손 수)자와 䍃(질그릇 요)자가 결합
+
 游(헤엄칠 유) 鯤(곤새 곤) 獨(홀로 독) 運(운전 운)
 
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
@@ -84,9 +86,10 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xOD
-c0NzY2NTU2LC0xNDY2MDU5NjkxLDE4MTYwODY0MzAsLTE5NzI5
-MzE2MjcsMTk3MTA5MDQwLDY0Nzk4MDAzMSwtMjE4MTkyNTgyLD
-UzNzM2NTE0MSwtMTExODMxNTMyMiwzMDQ2OTgzOTcsLTIwMjkz
-MTg4MzYsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbMjk3MzgyOTIyLC0xMTE3NjkyODIwLDc5Nz
+U2MzQ2MywtMTg3NDc2NjU1NiwtMTQ2NjA1OTY5MSwxODE2MDg2
+NDMwLC0xOTcyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLT
+IxODE5MjU4Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMzA0Njk4
+Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV
+19
 -->
