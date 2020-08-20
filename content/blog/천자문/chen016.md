@@ -44,6 +44,8 @@ draft: false
 搖자는 手(손 수)자와 䍃(질그릇 요)자가 결합
 
 游(헤엄칠 유) 鯤(곤새 곤) 獨(홀로 독) 運(운전 운)
+方자가 부수로 쓰일 때는 우측 변에 위치한다는 것이다. 만약 좌측 변에 方자가 있다면 이것은 ‘깃발’을 그린 㫃(나부낄 언)자가 생략된 것이다. 상용한자에서 方자가 부수로 지정된 글자들은 대부분이 㫃자가 생략된 것
+##### 㫃**나부낄 언/쓰러질 언**
 
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
 
@@ -86,10 +88,10 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0xMT
-E3NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2NjU1NiwtMTQ2NjA1
-OTY5MSwxODE2MDg2NDMwLC0xOTcyOTMxNjI3LDE5NzEwOTA0MC
-w2NDc5ODAwMzEsLTIxODE5MjU4Miw1MzczNjUxNDEsLTExMTgz
-MTUzMjIsMzA0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2Nz
-ksLTU5ODk4NTAwMV19
+eyJoaXN0b3J5IjpbMTU5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOT
+czODI5MjIsLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2
+NTU2LC0xNDY2MDU5NjkxLDE4MTYwODY0MzAsLTE5NzI5MzE2Mj
+csMTk3MTA5MDQwLDY0Nzk4MDAzMSwtMjE4MTkyNTgyLDUzNzM2
+NTE0MSwtMTExODMxNTMyMiwzMDQ2OTgzOTcsLTIwMjkzMTg4Mz
+YsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
 -->
