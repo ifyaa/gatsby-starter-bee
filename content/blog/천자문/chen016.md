@@ -25,11 +25,7 @@ draft: false
 170阜언덕 부
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
-      
-      
-     097 陳根委翳 落葉飄搖 098 游鵾獨運 凌摩絳霄 
-099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
-101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
+
 48
 ```js
 161辰별 진
@@ -38,6 +34,9 @@ draft: false
 163邑고을 읍
 164酉술단지 유
 ```
+097 陳根委翳 落葉飄搖 
+098 游鵾獨運 凌摩絳霄 
+```js
 陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
 
 가을이 오면 오동뿐 아니라 고목의 뿌리는 시들어 마른다.
@@ -53,8 +52,9 @@ draft: false
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
 
 적색의 大空을 업신여기는 듯이 선회하고 있다.
-
+```
 49
+099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
 
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
 
@@ -73,7 +73,7 @@ draft: false
 담장에도 귀가 있다는 말과 같이 경솔히 말하는 것을 조심하라.
 
 50
-
+101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
 具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
 
 반찬을 갖추고 밥을 먹으니
@@ -91,8 +91,8 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg3MjE5MDIsMTgxNjA4NjQzMCwtMT
-k3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1
-ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMj
-AyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbLTMxODQ0OTA0MywxODE2MDg2NDMwLC0xOT
+cyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4
+Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMzA0Njk4Mzk3LC0yMD
+I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
 -->
