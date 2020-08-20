@@ -46,6 +46,7 @@ draft: false
 游(헤엄칠 유) 鯤(곤새 곤) 獨(홀로 독) 運(운전 운)
 方자가 부수로 쓰일 때는 우측 변에 위치한다는 것이다. 만약 좌측 변에 方자가 있다면 이것은 ‘깃발’을 그린 㫃(나부낄 언)자가 생략된 것이다. 상용한자에서 方자가 부수로 지정된 글자들은 대부분이 㫃자가 생략된 것
 ##### 㫃**나부낄 언/쓰러질 언**
+개사슴록변(犭(=犬)
 
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
 
@@ -88,10 +89,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOT
-czODI5MjIsLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2
-NTU2LC0xNDY2MDU5NjkxLDE4MTYwODY0MzAsLTE5NzI5MzE2Mj
-csMTk3MTA5MDQwLDY0Nzk4MDAzMSwtMjE4MTkyNTgyLDUzNzM2
-NTE0MSwtMTExODMxNTMyMiwzMDQ2OTgzOTcsLTIwMjkzMTg4Mz
-YsLTU5MTU1MzY3OSwtNTk4OTg1MDAxXX0=
+eyJoaXN0b3J5IjpbMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xOD
+E3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0
+NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMC
+wtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgx
+OTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5Ny
+wtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
+
 -->
