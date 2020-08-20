@@ -77,15 +77,15 @@ uncle
 son
 body&face
 eye
-mouth
 nose
+mouth
 ear
 tooth
 hair
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NTM4MzIyLC05Mjc0MTk1MDgsMTU3Nj
-YzNjYxMCwxNDUzNjI1MDMxLC0xOTY3MDgxMTUwLC03OTg2MzUz
-ODcsLTE5NjQxNjExMF19
+eyJoaXN0b3J5IjpbMTE4NTE3MjM0OCw1Mzc1MzgzMjIsLTkyNz
+QxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5NjcwODEx
+NTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
