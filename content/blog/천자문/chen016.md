@@ -29,7 +29,6 @@ draft: false
 48
 ```js
 161辰별 진
-
 162辵쉬엄쉬엄갈 착
 163邑고을 읍
 164酉술단지 유
@@ -39,19 +38,12 @@ draft: false
 ```js
 陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
 
-가을이 오면 오동뿐 아니라 고목의 뿌리는 시들어 마른다.
-
 落(떨어질 락) 葉(잎사귀 엽) 飄(나부낄 표) 汞(나부낄 요)
-
-가을이 오면 낙엽이 펄펄 날리며 떨어진다.
 
 游(헤엄칠 유) 噔(곤새 곤) 獨(홀로 독) 運(운전 운)
 
-곤새가 자유로이 홀로 날개를 펴고 運回하고 있다.
-
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
 
-적색의 大空을 업신여기는 듯이 선회하고 있다.
 ```
 49
 099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
@@ -91,7 +83,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODQ0OTA0MywxODE2MDg2NDMwLC0xOT
+eyJoaXN0b3J5IjpbMTkwMTcwMjI1OSwxODE2MDg2NDMwLC0xOT
 cyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4
 Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMzA0Njk4Mzk3LC0yMD
 I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
