@@ -75,11 +75,17 @@ aunt
 daughter
 uncle
 son
+body&face
 eye
+mouth
+nose
+ear
+tooth
+hair
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzU4ODk2MywtOTI3NDE5NTA4LDE1Nz
-Y2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1
-Mzg3LC0xOTY0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbNTM3NTM4MzIyLC05Mjc0MTk1MDgsMTU3Nj
+YzNjYxMCwxNDUzNjI1MDMxLC0xOTY3MDgxMTUwLC03OTg2MzUz
+ODcsLTE5NjQxNjExMF19
 -->
