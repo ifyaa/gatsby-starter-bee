@@ -28,9 +28,9 @@ draft: false
 
 48
 ```js
-161辰별 진
-162辵쉬엄쉬엄갈 착
-163邑고을 읍
+161辰별 진.      陳(베풀 진) 根(뿌리 근) 진짜 근사한별
+162辵쉬엄쉬엄갈 착 落(떨어질 락) 葉(잎사귀 엽) 낙옆은 쉬엄쉬엄 
+163邑고을 읍     游(헤엄칠 유) 噔(곤새 곤) 마을위를 유유히 날아간다
 164酉술단지 유
 ```
 097 陳根委翳 落葉飄搖 
@@ -83,7 +83,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTcwMjI1OSwxODE2MDg2NDMwLC0xOT
+eyJoaXN0b3J5IjpbMTk3OTkxMTc4NiwxODE2MDg2NDMwLC0xOT
 cyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4
 Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMzA0Njk4Mzk3LC0yMD
 I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
