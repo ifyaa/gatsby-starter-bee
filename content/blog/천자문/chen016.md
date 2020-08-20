@@ -36,7 +36,7 @@ draft: false
 097 陳根委翳 落葉飄搖 진근위예 낙옆표요
 098 遊鯤獨運 凌摩絳霄 유곤독운 릉마강소
 ```js
-陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
+陳(베풀 진) 根(뿌리 근) 委(맡길 위) 翳(가릴 예)
 
 落(떨어질 락) 葉(잎사귀 엽) 飄(나부낄 표) 汞(나부낄 요)
 
@@ -83,9 +83,9 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg5NDQ1NDksLTE0NjYwNTk2OTEsMT
-gxNjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgw
-MDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLD
-MwNDY5ODM5NywtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5
-ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbLTY3MzIwMjAwMiwtMTQ2NjA1OTY5MSwxOD
+E2MDg2NDMwLC0xOTcyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAw
+MzEsLTIxODE5MjU4Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMz
+A0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4
+NTAwMV19
 -->
