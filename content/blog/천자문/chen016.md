@@ -32,6 +32,11 @@ draft: false
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
 48
 
+161辰별 진
+
+162辵쉬엄쉬엄갈 착
+163邑고을 읍
+164酉술단지 유
 陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
 
 가을이 오면 오동뿐 아니라 고목의 뿌리는 시들어 마른다.
@@ -85,8 +90,8 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywxOT
-cxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQx
-LC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgzNiwtNT
-kxNTUzNjc5LC01OTg5ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbMTUyNzgzNTg0MSwxODE2MDg2NDMwLC0xOT
+cyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4
+Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMzA0Njk4Mzk3LC0yMD
+I5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4NTAwMV19
 -->
