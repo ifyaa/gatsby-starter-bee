@@ -49,7 +49,7 @@ draft: false
 개사슴록변(犭(=犬)
 
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
-
+##### 夌**언덕 릉(능**
 ```
 49
 099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
@@ -89,11 +89,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xOD
-E3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0
-NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMC
-wtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgx
-OTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5Ny
-wtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
-
+eyJoaXN0b3J5IjpbLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNT
+kzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5
+MjgyMCw3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OT
+EsMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3
+OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1Mz
+IyLDMwNDY5ODM5NywtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01
+OTg5ODUwMDFdfQ==
 -->
