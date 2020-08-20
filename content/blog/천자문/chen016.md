@@ -34,13 +34,13 @@ draft: false
 164酉술단지 유   凌(업신여길 릉) 摩(만질 마) 술마시면서 능청을 떨지마
 ```
 097 陳根委翳 落葉飄搖 진근위예 낙옆표요
-098 游鵾獨運 凌摩絳霄 유곤독운 릉마강소
+098 遊鯤獨運 凌摩絳霄 유곤독운 릉마강소
 ```js
 陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
 
 落(떨어질 락) 葉(잎사귀 엽) 飄(나부낄 표) 汞(나부낄 요)
 
-游(헤엄칠 유) 噔(곤새 곤) 獨(홀로 독) 運(운전 운)
+游(헤엄칠 유) 鯤(곤새 곤) 獨(홀로 독) 運(운전 운)
 
 凌(업신여길 릉) 摩(만질 마) 絳(붉을 강) 曨(하늘 소)
 
@@ -83,9 +83,9 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTE2NjgxLC0xNDY2MDU5NjkxLDE4MT
-YwODY0MzAsLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0Nzk4MDAz
-MSwtMjE4MTkyNTgyLDUzNzM2NTE0MSwtMTExODMxNTMyMiwzMD
-Q2OTgzOTcsLTIwMjkzMTg4MzYsLTU5MTU1MzY3OSwtNTk4OTg1
-MDAxXX0=
+eyJoaXN0b3J5IjpbLTEwMzg5NDQ1NDksLTE0NjYwNTk2OTEsMT
+gxNjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgw
+MDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLD
+MwNDY5ODM5NywtMjAyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5
+ODUwMDFdfQ==
 -->
