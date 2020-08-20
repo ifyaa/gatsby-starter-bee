@@ -33,7 +33,7 @@ draft: false
 163邑고을 읍     游(헤엄칠 유) 噔(곤새 곤) 마을위를 유유히 날아간다
 164酉술단지 유   凌(업신여길 릉) 摩(만질 마) 술마시면서 능청을 떨지마
 ```
-097 陳根委翳 落葉飄搖 
+097 陳根委翳 落葉飄搖 지근위예 낙옆표요
 098 游鵾獨運 凌摩絳霄 
 ```js
 陳(베풀 진) 根(뿌리 근) 委(맡길 위) 欦(가릴 예)
@@ -83,8 +83,9 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMT
-k3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1
-ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMj
-AyOTMxODgzNiwtNTkxNTUzNjc5LC01OTg5ODUwMDFdfQ==
+eyJoaXN0b3J5IjpbLTQ0MDA1ODAyMiwtMTQ2NjA1OTY5MSwxOD
+E2MDg2NDMwLC0xOTcyOTMxNjI3LDE5NzEwOTA0MCw2NDc5ODAw
+MzEsLTIxODE5MjU4Miw1MzczNjUxNDEsLTExMTgzMTUzMjIsMz
+A0Njk4Mzk3LC0yMDI5MzE4ODM2LC01OTE1NTM2NzksLTU5ODk4
+NTAwMV19
 -->
