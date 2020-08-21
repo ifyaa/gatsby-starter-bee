@@ -5,9 +5,9 @@ category: '천자문'
 draft: false
 ---
 ##160 육포 술안주
-별이지면
+별이빛나는 밤에
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
-ㅁㅏ으ㅜㄹ이
+마을이 금으로 변했다
 문앞의 긴길은 언덕으로갈수있다
 ```js
 161辰별 진
@@ -96,11 +96,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYzMjU3ODQsLTE1MDU1NDc1NDIsLT
-EzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3
-NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0Nj
-MsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwt
-MTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOT
-I1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5Nywt
-MjAyOTMxODgzNl19
+eyJoaXN0b3J5IjpbNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzOD
+M0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQz
+OTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLT
+E4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMTk3
+MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1OD
+IsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAy
+OTMxODgzNl19
 -->
