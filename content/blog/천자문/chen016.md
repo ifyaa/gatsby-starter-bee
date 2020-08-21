@@ -64,19 +64,11 @@ draft: false
 ```js
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
 
-하나라의 왕총은 독서를 즐겨 서점에 가서 탐독하였다.
-
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
-
-왕총이 한번 읽으면 잊지 아니하여 글을 주머니나 상자에 둠과 같다고 하였다.
 
 易(쉬울 이/바꿀 역) 淙(가벼울 유) 攸(바 유) 畏(두려워할 외)
 
-매사를 소홀히 하고 경솔함은 군자가 진실로 두려워하는 바이다.
-
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
-
-담장에도 귀가 있다는 말과 같이 경솔히 말하는 것을 조심하라.
 ```
 50
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
@@ -97,11 +89,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MD
-U1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4
-MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMC
-w3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgx
-NjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMD
-MxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMw
-NDY5ODM5N119
+eyJoaXN0b3J5IjpbOTQ4NzY3NjEsLTE2MTI3NDM1NzksNTMwMj
+QxMDYsLTE1MDU1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5
+OCwxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMT
+ExNzY5MjgyMCw3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYw
+NTk2OTEsMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwND
+AsNjQ3OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4
+MzE1MzIyXX0=
 -->
