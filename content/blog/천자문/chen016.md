@@ -59,14 +59,14 @@ draft: false
 166里마을 리     易(쉬울 이/바꿀 역) 淙(가벼울 유) 마을이 금으로 바뀔 이유가 없다
 1678획 →金쇠 금  屬(붙을 속/이을 촉) 耳(귀 이) 속이 금이다 
 ```
-099 耽讀玩市 寓目囊箱 
-100 易輶攸畏 屬耳垣墻 
+099 耽讀翫市 寓目囊箱 
+100 易輶攸畏 屬耳垣牆
 ```js
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
 
-易(쉬울 이/바꿀 역) 淙(가벼울 유) 攸(바 유) 畏(두려울 외)
+易(쉬울 이/바꿀 역) 輶(가벼울 유) 攸(바 유) 畏(두려울 외)
 
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
 ```
@@ -89,11 +89,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTE3OTA1LC0xNjEyNzQzNTc5LDUzMD
-I0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1MTUy
-OTgsMTU5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5MjIsLT
-ExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2NTU2LC0xNDY2
-MDU5NjkxLDE4MTYwODY0MzAsLTE5NzI5MzE2MjcsMTk3MTA5MD
-QwLDY0Nzk4MDAzMSwtMjE4MTkyNTgyLDUzNzM2NTE0MSwtMTEx
-ODMxNTMyMl19
+eyJoaXN0b3J5IjpbNTUzNTgxODMxLC01MTUxNzkwNSwtMTYxMj
+c0MzU3OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4
+OCwxMDgxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMj
+k3MzgyOTIyLC0xMTE3NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2
+NjU1NiwtMTQ2NjA1OTY5MSwxODE2MDg2NDMwLC0xOTcyOTMxNj
+I3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4Miw1Mzcz
+NjUxNDFdfQ==
 -->
