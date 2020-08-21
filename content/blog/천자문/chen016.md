@@ -55,7 +55,7 @@ draft: false
 ```
 49
 ```js
-165釆분변할 변   耽(즐길 탐) 讀(읽을 독/이두 두)寓(붙일 우) 目(눈 목) 
+165釆분변할 변   耽(즐길 탐) 讀(읽을 독/이두 두)寓(붙일 우) 目(눈 목) 탐독하다가 우목으로 변했다
 166里마을 리     易(쉬울 이/바꿀 역) 淙(가벼울 유) 마을이 금으로 바뀔 이유가 없다
 1678획 →金쇠 금  屬(붙을 속/이을 촉) 耳(귀 이) 속이 금이다 
 ```
@@ -97,11 +97,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MTMwODQzLDUzMDI0MTA2LC0xNTA1NT
-Q3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1MTUyOTgsMTU5MzY3ODIx
-OCwtMTgxNzY0Mzk4NywyOTczODI5MjIsLTExMTc2OTI4MjAsNz
-k3NTYzNDYzLC0xODc0NzY2NTU2LC0xNDY2MDU5NjkxLDE4MTYw
-ODY0MzAsLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0Nzk4MDAzMS
-wtMjE4MTkyNTgyLDUzNzM2NTE0MSwtMTExODMxNTMyMiwzMDQ2
-OTgzOTddfQ==
+eyJoaXN0b3J5IjpbLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MD
+U1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4
+MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMC
+w3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgx
+NjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMD
+MxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMw
+NDY5ODM5N119
 -->
