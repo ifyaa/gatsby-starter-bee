@@ -76,6 +76,7 @@ draft: false
 畏자는 田(밭 전)자와 疋(필 소)자, 人(사람 인)자가 결합
 
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
+屬자는 尾(꼬리 미)자와 蜀(애벌레 촉)자가 결합
 ```
 50
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
@@ -96,11 +97,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwNzA2NjUzLDI4MzYzMTI0OCw4OTg2OT
-Y4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUs
-LTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzOD
-M0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQz
-OTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLT
-E4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMTk3
-MjkzMTYyN119
+eyJoaXN0b3J5IjpbLTIwMTQ1NTg1OTEsMjgzNjMxMjQ4LDg5OD
+Y5NjgwMCwyMTIyNjg2MzU3LC0xODc4NzIwMTUzLC01MTUxNzkw
+NSwtMTYxMjc0MzU3OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMT
+M4MzQ0NjI4OCwxMDgxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2
+NDM5ODcsMjk3MzgyOTIyLC0xMTE3NjkyODIwLDc5NzU2MzQ2My
+wtMTg3NDc2NjU1NiwtMTQ2NjA1OTY5MSwxODE2MDg2NDMwLC0x
+OTcyOTMxNjI3XX0=
 -->
