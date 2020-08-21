@@ -53,8 +53,14 @@ draft: false
 肖자는 小(작을 소)자와 ⺼(육달 월)자가 결합
 ```
 49
-099 耽讀玩市 寓目囊箱 100 易輶攸畏 屬耳垣墻 
-
+```js
+165釆분변할 변
+166里마을 리
+1678획 →金쇠 금
+```
+099 耽讀玩市 寓目囊箱 
+100 易輶攸畏 屬耳垣墻 
+```js
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
 
 하나라의 왕총은 독서를 즐겨 서점에 가서 탐독하였다.
@@ -70,7 +76,7 @@ draft: false
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
 
 담장에도 귀가 있다는 말과 같이 경솔히 말하는 것을 조심하라.
-
+```
 50
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
 具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
@@ -90,11 +96,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU1NDc1NDIsLTEzODM0NDYyODgsMT
-A4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4
-MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLTE4NzQ3NjY1NT
-YsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywx
-OTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1ODIsNTM3MzY1MT
-QxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAyOTMxODgzNiwt
-NTkxNTUzNjc5XX0=
+eyJoaXN0b3J5IjpbLTIwMTM2Njc1MjUsLTE1MDU1NDc1NDIsLT
+EzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3
+NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0Nj
+MsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwt
+MTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOT
+I1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5Nywt
+MjAyOTMxODgzNl19
 -->
