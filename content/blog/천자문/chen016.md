@@ -73,6 +73,7 @@ draft: false
 
 易(쉬울 이/바꿀 역) 輶(가벼울 유) 攸(바 유) 畏(두려울 외)
 勿자는 ‘말다’나 ‘아니다’라는 뜻을 가진 글자
+畏자는 田(밭 전)자와 疋(필 소)자, 人(사람 인)자가 결합
 
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
 ```
@@ -95,11 +96,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNj
-g2MzU3LC0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3
-OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMD
-gxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMjk3Mzgy
-OTIyLC0xMTE3NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2NjU1Ni
-wtMTQ2NjA1OTY5MSwxODE2MDg2NDMwLC0xOTcyOTMxNjI3LDE5
-NzEwOTA0MF19
+eyJoaXN0b3J5IjpbMjMwNzA2NjUzLDI4MzYzMTI0OCw4OTg2OT
+Y4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUs
+LTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzOD
+M0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQz
+OTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLT
+E4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMTk3
+MjkzMTYyN119
 -->
