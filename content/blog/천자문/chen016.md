@@ -77,7 +77,7 @@ draft: false
 
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
 屬자는 尾(꼬리 미)자와 蜀(애벌레 촉)자가 결합
-亙(긍)이 본자(本字)
+##### 亘**뻗칠 긍, 베풀 선  **亙(긍)이 본자(本字)
 ```
 50
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
@@ -98,11 +98,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzk5MTc2LC0yMDE0NTU4NTkxLDI4Mz
-YzMTI0OCw4OTg2OTY4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1
-MywtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MD
-U1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4
-MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMC
-w3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgx
-NjA4NjQzMF19
+eyJoaXN0b3J5IjpbLTEzOTM2NjIyMDUsLTIwMTQ1NTg1OTEsMj
+gzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNjg2MzU3LC0xODc4NzIw
+MTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3OSw1MzAyNDEwNiwtMT
+UwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMDgxNTE1Mjk4LDE1OTM2
+NzgyMTgsLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0xMTE3NjkyOD
+IwLDc5NzU2MzQ2MywtMTg3NDc2NjU1NiwtMTQ2NjA1OTY5MSwx
+ODE2MDg2NDMwXX0=
 -->
