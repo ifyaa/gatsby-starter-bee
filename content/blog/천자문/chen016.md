@@ -64,6 +64,7 @@ draft: false
 ```js
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(아낄 완) 市(저자 시)
 ##### 冘**망설일 유**민갓머리(冖☞덮개, 덮다)部와 人(인)의 합자(合字).
+賣자는 買(살 매)자와 出(날 출)자가 결합
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
 
@@ -90,7 +91,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAzNjIzNzcsMjEyMjY4NjM1NywtMT
+eyJoaXN0b3J5IjpbLTE4NjE4MjAzNDAsMjEyMjY4NjM1NywtMT
 g3ODcyMDE1MywtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQx
 MDYsLTE1MDU1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OC
 wxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTEx
