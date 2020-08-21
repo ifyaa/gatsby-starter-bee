@@ -72,6 +72,7 @@ draft: false
 ##### 禺**땅 이름 옹, 긴꼬리원숭이 우**
 
 易(쉬울 이/바꿀 역) 輶(가벼울 유) 攸(바 유) 畏(두려울 외)
+勿자는 ‘말다’나 ‘아니다’라는 뜻을 가진 글자
 
 屬(붙을 속/이을 촉) 耳(귀 이) 垣(담 원) 牆(담 장)
 ```
@@ -94,11 +95,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4Njk2ODAwLDIxMjI2ODYzNTcsLTE4Nz
-g3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNTc5LDUzMDI0MTA2
-LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1MTUyOTgsMT
-U5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5MjIsLTExMTc2
-OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2NTU2LC0xNDY2MDU5Nj
-kxLDE4MTYwODY0MzAsLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0
-Nzk4MDAzMV19
+eyJoaXN0b3J5IjpbMjgzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNj
+g2MzU3LC0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3
+OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMD
+gxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMjk3Mzgy
+OTIyLC0xMTE3NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2NjU1Ni
+wtMTQ2NjA1OTY5MSwxODE2MDg2NDMwLC0xOTcyOTMxNjI3LDE5
+NzEwOTA0MF19
 -->
