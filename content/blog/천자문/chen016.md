@@ -62,7 +62,7 @@ draft: false
 099 耽讀翫市 寓目囊箱 
 100 易輶攸畏 屬耳垣牆
 ```js
-耽(즐길 탐) 讀(읽을 독/이두 두) 翫(가지고놀 완) 市(저자 시)
+耽(즐길 탐) 讀(읽을 독/이두 두) 翫(아낄 완) 市(저자 시)
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
 
@@ -89,11 +89,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzNTgxODMxLC01MTUxNzkwNSwtMTYxMj
-c0MzU3OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4
-OCwxMDgxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMj
-k3MzgyOTIyLC0xMTE3NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2
-NjU1NiwtMTQ2NjA1OTY5MSwxODE2MDg2NDMwLC0xOTcyOTMxNj
-I3LDE5NzEwOTA0MCw2NDc5ODAwMzEsLTIxODE5MjU4Miw1Mzcz
-NjUxNDFdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzg3MjAxNTMsLTUxNTE3OTA1LC0xNj
+EyNzQzNTc5LDUzMDI0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2
+Mjg4LDEwODE1MTUyOTgsMTU5MzY3ODIxOCwtMTgxNzY0Mzk4Ny
+wyOTczODI5MjIsLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0
+NzY2NTU2LC0xNDY2MDU5NjkxLDE4MTYwODY0MzAsLTE5NzI5Mz
+E2MjcsMTk3MTA5MDQwLDY0Nzk4MDAzMSwtMjE4MTkyNTgyLDUz
+NzM2NTE0MV19
 -->
