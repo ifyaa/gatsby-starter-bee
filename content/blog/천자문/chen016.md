@@ -69,6 +69,7 @@ draft: false
 市자는 亠(돼지해머리 두)자와 巾(수건 건)자가 결합
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
+##### 禺**땅 이름 옹, 긴꼬리원숭이 우**
 
 易(쉬울 이/바꿀 역) 輶(가벼울 유) 攸(바 유) 畏(두려울 외)
 
@@ -93,7 +94,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMjA3NDM4LDIxMjI2ODYzNTcsLTE4Nz
+eyJoaXN0b3J5IjpbODk4Njk2ODAwLDIxMjI2ODYzNTcsLTE4Nz
 g3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNTc5LDUzMDI0MTA2
 LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1MTUyOTgsMT
 U5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5MjIsLTExMTc2
