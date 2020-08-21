@@ -7,7 +7,7 @@ draft: false
 ##160 육포 술안주
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
-별이 마을에 떨어지면 금으로 변한다
+ㅁㅏ으ㅜㄹ이
 문앞의 긴길은 언덕으로갈수있다
 ```js
 161辰별 진
@@ -96,7 +96,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM2Njc1MjUsLTE1MDU1NDc1NDIsLT
+eyJoaXN0b3J5IjpbLTE1MTYzMjU3ODQsLTE1MDU1NDc1NDIsLT
 EzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3
 NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0Nj
 MsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwt
