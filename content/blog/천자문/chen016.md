@@ -63,6 +63,7 @@ draft: false
 100 易輶攸畏 屬耳垣牆 이유유외 속이원장
 ```js
 耽(즐길 탐) 讀(읽을 독/이두 두) 翫(아낄 완) 市(저자 시)
+##### 冘**망설일 유**민갓머리(冖☞덮개, 덮다)部와 人(인)의 합자(合字).
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
 
@@ -89,11 +90,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNT
-E1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1
-NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC
-0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1
-NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4Nj
-QzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0y
-MTgxOTI1ODJdfQ==
+eyJoaXN0b3J5IjpbLTE2NjAzNjIzNzcsMjEyMjY4NjM1NywtMT
+g3ODcyMDE1MywtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQx
+MDYsLTE1MDU1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OC
+wxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTEx
+NzY5MjgyMCw3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNT
+k2OTEsMTgxNjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAs
+NjQ3OTgwMDMxXX0=
 -->
