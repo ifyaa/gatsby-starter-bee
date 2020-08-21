@@ -17,6 +17,7 @@ draft: false
 164酉술단지 유
 
 165釆분변할 변
+				釆자를 보면 十(열 십)자 사이에 점
 166里마을 리
 1678획 →金쇠 금
 
@@ -54,7 +55,7 @@ draft: false
 ```
 49
 ```js
-165釆분변할 변
+165釆분변할 변   耽(즐길 탐) 讀(읽을 독/이두 두)
 166里마을 리
 1678획 →金쇠 금
 ```
@@ -96,11 +97,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzOD
-M0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQz
-OTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLT
-E4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgxNjA4NjQzMCwtMTk3
-MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMDMxLC0yMTgxOTI1OD
-IsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMwNDY5ODM5NywtMjAy
-OTMxODgzNl19
+eyJoaXN0b3J5IjpbLTE5NDAxMjc0NDUsNTMwMjQxMDYsLTE1MD
+U1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4
+MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMC
+w3OTc1NjM0NjMsLTE4NzQ3NjY1NTYsLTE0NjYwNTk2OTEsMTgx
+NjA4NjQzMCwtMTk3MjkzMTYyNywxOTcxMDkwNDAsNjQ3OTgwMD
+MxLC0yMTgxOTI1ODIsNTM3MzY1MTQxLC0xMTE4MzE1MzIyLDMw
+NDY5ODM5N119
 -->
