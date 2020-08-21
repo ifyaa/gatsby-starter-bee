@@ -66,6 +66,7 @@ draft: false
 ##### 冘**망설일 유**민갓머리(冖☞덮개, 덮다)部와 人(인)의 합자(合字).
 賣자는 買(살 매)자와 出(날 출)자가 결합
 罒(망☞그물
+市자는 亠(돼지해머리 두)자와 巾(수건 건)자가 결합
 
 寓(붙일 우) 目(눈 목) 囊(주머니 낭) 箱(상자 상)
 
@@ -92,11 +93,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTcyMDU0NSwyMTIyNjg2MzU3LC0xOD
-c4NzIwMTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3OSw1MzAyNDEw
-NiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMDgxNTE1Mjk4LD
-E1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0xMTE3
-NjkyODIwLDc5NzU2MzQ2MywtMTg3NDc2NjU1NiwtMTQ2NjA1OT
-Y5MSwxODE2MDg2NDMwLC0xOTcyOTMxNjI3LDE5NzEwOTA0MCw2
-NDc5ODAwMzFdfQ==
+eyJoaXN0b3J5IjpbNTIzMjA3NDM4LDIxMjI2ODYzNTcsLTE4Nz
+g3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNTc5LDUzMDI0MTA2
+LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1MTUyOTgsMT
+U5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5MjIsLTExMTc2
+OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2NTU2LC0xNDY2MDU5Nj
+kxLDE4MTYwODY0MzAsLTE5NzI5MzE2MjcsMTk3MTA5MDQwLDY0
+Nzk4MDAzMV19
 -->
