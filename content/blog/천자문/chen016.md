@@ -93,6 +93,7 @@ draft: false
 ```js
 
 具(갖출 구) 膳(반찬 선) 飱飡(저녁밥 손) 飯(밥 반)
+具자는 鼎(솥 정)자와 廾(받들 공)자가 결합
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
@@ -102,7 +103,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU3NzgzNTUsLTEzNTA3MTkzMTUsMT
+eyJoaXN0b3J5IjpbLTE1NjEzMTI0NTMsLTEzNTA3MTkzMTUsMT
 gwNjY1MDQwOCwtMTc0NzM4NTAzLC0xMzkzNjYyMjA1LC0yMDE0
 NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4MDAsMjEyMjY4NjM1Ny
 wtMTg3ODcyMDE1MywtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMw
