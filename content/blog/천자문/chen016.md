@@ -97,6 +97,7 @@ draft: false
 때로는 貞(곧을 정)자나 則(법칙 칙)자와 같이 鼎(솥 정)자가 貝자로 쓰이는 경우가 있어 해석에 주의해야 한다.
 ##### 善 양(羊)처럼 순하고 온순하며 부드럽게 말(口)하는 사람
 食자가 부수로 쓰일 때는 모양이 바뀌어 飠자나  사람(人)이 살아가기 위해 좋아하며(良) 즐겨먹는 음식물
+飯자는 食(밥 식)자와 反(되돌릴 반)자가 결합한 모습이다. 反자는 손으로 무언가를 뒤집는 모습
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
@@ -106,11 +107,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDczMjg2LC0yNTkzNDkzMzYsLTEzNT
-A3MTkzMTUsMTgwNjY1MDQwOCwtMTc0NzM4NTAzLC0xMzkzNjYy
-MjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4MDAsMj
-EyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLTE2MTI3
-NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0NDYyOD
-gsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5
-NzM4MjkyMl19
+eyJoaXN0b3J5IjpbLTEzNTI0MDczMjYsLTI1OTM0OTMzNiwtMT
+M1MDcxOTMxNSwxODA2NjUwNDA4LC0xNzQ3Mzg1MDMsLTEzOTM2
+NjIyMDUsLTIwMTQ1NTg1OTEsMjgzNjMxMjQ4LDg5ODY5NjgwMC
+wyMTIyNjg2MzU3LC0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYx
+Mjc0MzU3OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0Nj
+I4OCwxMDgxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcs
+Mjk3MzgyOTIyXX0=
 -->
