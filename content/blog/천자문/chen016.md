@@ -84,9 +84,9 @@ draft: false
 ```
 50
 ```js
-168長길 장
-169門문 문
-170阜언덕 부
+168長길 장   具(갖출 구)適(마침 적) 口(입 구)
+169門문 문   飽(배부를 포) 槤(배부를 어)
+170阜언덕 부  饑(주릴 기) 厭(싫을 염)
 ```
 101 具膳餐飯 適口充腸 구선손반 적구충장
 102 飽飫烹宰 饑厭糟糠 포어팽재 기염조강
@@ -102,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ3NzAxNjksMTgwNjY1MDQwOCwtMT
+eyJoaXN0b3J5IjpbLTEzNTA3MTkzMTUsMTgwNjY1MDQwOCwtMT
 c0NzM4NTAzLC0xMzkzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYz
 MTI0OCw4OTg2OTY4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1My
 wtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1
