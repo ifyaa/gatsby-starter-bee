@@ -96,15 +96,13 @@ draft: false
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
-훌륭한 음식이 아니라도 입에 맞으면 배를 채운다.
-
 飽(배부를 포) 槤(배부를 어) 烹(삶을 팽) 宰(재상 재)
 
 饑(주릴 기) 厭(싫을 염) 糟(재강 조) 糠(겨 강)
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODA1NDI3MywtMTc0NzM4NTAzLC0xMz
+eyJoaXN0b3J5IjpbMTgwNjY1MDQwOCwtMTc0NzM4NTAzLC0xMz
 kzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4
 MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLT
 E2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0
