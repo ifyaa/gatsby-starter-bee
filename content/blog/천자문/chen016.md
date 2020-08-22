@@ -107,14 +107,15 @@ draft: false
 包 쌀포  句 글귀구
 亨자는 亠(돼지해머리 두)자와 口(입 구)자, 了(마칠 료)자가 결합
 饑(주릴 기) 厭(싫을 염) 糟(재강 조) 糠(겨 강)
+戉 도끼 월 戊 천간 무, 창 모戌 개 술/열한째 지지 술  戎 병장기 융/오랑캐 융 茂 무성할 무
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU4NTY5MjEsMjM4NjgyNjgxLDY0OT
-k0NTg2NywtMTM1MjQwNzMyNiwtMjU5MzQ5MzM2LC0xMzUwNzE5
-MzE1LDE4MDY2NTA0MDgsLTE3NDczODUwMywtMTM5MzY2MjIwNS
-wtMjAxNDU1ODU5MSwyODM2MzEyNDgsODk4Njk2ODAwLDIxMjI2
-ODYzNTcsLTE4Nzg3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNT
-c5LDUzMDI0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEw
-ODE1MTUyOThdfQ==
+eyJoaXN0b3J5IjpbLTgwODczNDY4OSwtMTM5NTg1NjkyMSwyMz
+g2ODI2ODEsNjQ5OTQ1ODY3LC0xMzUyNDA3MzI2LC0yNTkzNDkz
+MzYsLTEzNTA3MTkzMTUsMTgwNjY1MDQwOCwtMTc0NzM4NTAzLC
+0xMzkzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2
+OTY4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MD
+UsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEz
+ODM0NDYyODhdfQ==
 -->
