@@ -13,7 +13,7 @@ draft: false
 161辰별 진
 
 162辵쉬엄쉬엄갈 착
-163邑고을 읍
+163邑고을 읍   오른쪽 阝로 바뀌게 된다
 164酉술단지 유
 
 165釆분변할 변
@@ -83,6 +83,11 @@ draft: false
 ##### 亘**뻗칠 긍, 베풀 선  **亙(긍)이 본자(本字)
 ```
 50
+```js
+168長길 장
+169門문 문
+170阜언덕 부
+```
 101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
 具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
 
@@ -101,7 +106,7 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzNjE0MSwtMTc0NzM4NTAzLC0xMz
+eyJoaXN0b3J5IjpbLTQzMDIyODYzNCwtMTc0NzM4NTAzLC0xMz
 kzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4
 MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLT
 E2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0
