@@ -24,6 +24,7 @@ draft: false
 168長길 장
 169門문 문
 170阜언덕 부
+阜자는 좌측에 阝로 바뀌게 된다. 반드시 좌측에 위치할 때만 阜자가 변형된 것이고 우측에 위치할 때는 邑(고을 읍)자가 변형된 것이니 구분에 주의해야 한다.
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
 
@@ -98,11 +99,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM2NjIyMDUsLTIwMTQ1NTg1OTEsMj
-gzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNjg2MzU3LC0xODc4NzIw
-MTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3OSw1MzAyNDEwNiwtMT
-UwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMDgxNTE1Mjk4LDE1OTM2
-NzgyMTgsLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0xMTE3NjkyOD
-IwLDc5NzU2MzQ2MywtMTg3NDc2NjU1NiwtMTQ2NjA1OTY5MSwx
-ODE2MDg2NDMwXX0=
+eyJoaXN0b3J5IjpbMTE4MjIwOTU2NiwtMTM5MzY2MjIwNSwtMj
+AxNDU1ODU5MSwyODM2MzEyNDgsODk4Njk2ODAwLDIxMjI2ODYz
+NTcsLTE4Nzg3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNTc5LD
+UzMDI0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1
+MTUyOTgsMTU5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5Mj
+IsLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2NTU2LC0x
+NDY2MDU5NjkxXX0=
 -->
