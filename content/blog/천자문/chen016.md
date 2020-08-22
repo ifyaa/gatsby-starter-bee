@@ -26,6 +26,7 @@ draft: false
 170阜언덕 부
 阜자는 좌측에 阝로 바뀌게 된다. 반드시 좌측에 위치할 때만 阜자가 변형된 것이고 우측에 위치할 때는 邑(고을 읍)자가 변형된 것이니 구분에 주의해야 한다.
 部자는 咅(침 부)자와 邑(고을 읍)
+队**무리 대, 떨어질 추,, 언덕부
 ```
 ![](https://i.ibb.co/F4RCvqP/2020-07-11-2-49-26.png)
 
@@ -100,11 +101,11 @@ draft: false
 반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDczODUwMywtMTM5MzY2MjIwNSwtMj
-AxNDU1ODU5MSwyODM2MzEyNDgsODk4Njk2ODAwLDIxMjI2ODYz
-NTcsLTE4Nzg3MjAxNTMsLTUxNTE3OTA1LC0xNjEyNzQzNTc5LD
-UzMDI0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mjg4LDEwODE1
-MTUyOTgsMTU5MzY3ODIxOCwtMTgxNzY0Mzk4NywyOTczODI5Mj
-IsLTExMTc2OTI4MjAsNzk3NTYzNDYzLC0xODc0NzY2NTU2LC0x
-NDY2MDU5NjkxXX0=
+eyJoaXN0b3J5IjpbLTE3OTgzNjE0MSwtMTc0NzM4NTAzLC0xMz
+kzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4
+MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLT
+E2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0
+NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQzOT
+g3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLTE4
+NzQ3NjY1NTZdfQ==
 -->
