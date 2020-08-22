@@ -100,6 +100,8 @@ draft: false
 飯자는 食(밥 식)자와 反(되돌릴 반)자가 결합한 모습이다. 反자는 손으로 무언가를 뒤집는 모습
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
+適자는 辶(쉬엄쉬엄 갈 착)자와 啇(밑동 적)자가 결합
+어진사람인발(儿☞사람의 다리 모양)部와 育(육☞자라다)의 생략형(省略形)의 합자(合字).
 
 飽(배부를 포) 槤(배부를 어) 烹(삶을 팽) 宰(재상 재)
 
@@ -107,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI0MDczMjYsLTI1OTM0OTMzNiwtMT
-M1MDcxOTMxNSwxODA2NjUwNDA4LC0xNzQ3Mzg1MDMsLTEzOTM2
-NjIyMDUsLTIwMTQ1NTg1OTEsMjgzNjMxMjQ4LDg5ODY5NjgwMC
-wyMTIyNjg2MzU3LC0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYx
-Mjc0MzU3OSw1MzAyNDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0Nj
-I4OCwxMDgxNTE1Mjk4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcs
-Mjk3MzgyOTIyXX0=
+eyJoaXN0b3J5IjpbNjQ5OTQ1ODY3LC0xMzUyNDA3MzI2LC0yNT
+kzNDkzMzYsLTEzNTA3MTkzMTUsMTgwNjY1MDQwOCwtMTc0NzM4
+NTAzLC0xMzkzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OC
+w4OTg2OTY4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1
+MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1ND
+IsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0x
+ODE3NjQzOTg3XX0=
 -->
