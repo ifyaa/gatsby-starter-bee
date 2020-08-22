@@ -92,7 +92,7 @@ draft: false
 102 飽飫烹宰 饑厭糟糠 포어팽재 기염조강
 ```js
 
-具(갖출 구) 膳(반찬 선) 飱(저녁밥 손) 飯(밥 반)
+具(갖출 구) 膳(반찬 선) 飱飡(저녁밥 손) 飯(밥 반)
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
@@ -102,11 +102,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTAxOTUyMiwtMTM1MDcxOTMxNSwxOD
-A2NjUwNDA4LC0xNzQ3Mzg1MDMsLTEzOTM2NjIyMDUsLTIwMTQ1
-NTg1OTEsMjgzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNjg2MzU3LC
-0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3OSw1MzAy
-NDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMDgxNTE1Mj
-k4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0x
-MTE3NjkyODIwXX0=
+eyJoaXN0b3J5IjpbLTE0OTU3NzgzNTUsLTEzNTA3MTkzMTUsMT
+gwNjY1MDQwOCwtMTc0NzM4NTAzLC0xMzkzNjYyMjA1LC0yMDE0
+NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4MDAsMjEyMjY4NjM1Ny
+wtMTg3ODcyMDE1MywtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMw
+MjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNT
+I5OCwxNTkzNjc4MjE4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwt
+MTExNzY5MjgyMF19
 -->
