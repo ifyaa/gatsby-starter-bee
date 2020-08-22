@@ -88,10 +88,11 @@ draft: false
 169門문 문
 170阜언덕 부
 ```
-101 具膳餐飯 適口充腸 102 飽飫烹宰 饑厭糟糠
-具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
+101 具膳餐飯 適口充腸 
+102 飽飫烹宰 饑厭糟糠
+```js
 
-반찬을 갖추고 밥을 먹으니
+具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
@@ -99,14 +100,11 @@ draft: false
 
 飽(배부를 포) 槤(배부를 어) 烹(삶을 팽) 宰(재상 재)
 
-배부를 때에는 아무리 좋은 음식이라도 그 맛을 모른다.
-
 饑(주릴 기) 厭(싫을 염) 糟(재강 조) 糠(겨 강)
-
-반대로  배가  고플  때에는  겨와  재강도  맛있게  되는  것이다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDIyODYzNCwtMTc0NzM4NTAzLC0xMz
+eyJoaXN0b3J5IjpbLTM5ODA1NDI3MywtMTc0NzM4NTAzLC0xMz
 kzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4
 MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLT
 E2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0
