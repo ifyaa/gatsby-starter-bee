@@ -95,6 +95,7 @@ draft: false
 具(갖출 구) 膳(반찬 선) 飱飡(저녁밥 손) 飯(밥 반)
 具자는 鼎(솥 정)자와 廾(받들 공)자가 결합
 때로는 貞(곧을 정)자나 則(법칙 칙)자와 같이 鼎(솥 정)자가 貝자로 쓰이는 경우가 있어 해석에 주의해야 한다.
+##### 善 양(羊)처럼 순하고 온순하며 부드럽게 말(口)하는 사람
 
 適(마침 적) 口(입 구) 充(채울 충) 腸(창자 장)
 
@@ -104,11 +105,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTM0OTMzNiwtMTM1MDcxOTMxNSwxOD
-A2NjUwNDA4LC0xNzQ3Mzg1MDMsLTEzOTM2NjIyMDUsLTIwMTQ1
-NTg1OTEsMjgzNjMxMjQ4LDg5ODY5NjgwMCwyMTIyNjg2MzU3LC
-0xODc4NzIwMTUzLC01MTUxNzkwNSwtMTYxMjc0MzU3OSw1MzAy
-NDEwNiwtMTUwNTU0NzU0MiwtMTM4MzQ0NjI4OCwxMDgxNTE1Mj
-k4LDE1OTM2NzgyMTgsLTE4MTc2NDM5ODcsMjk3MzgyOTIyLC0x
-MTE3NjkyODIwXX0=
+eyJoaXN0b3J5IjpbMTc1NzI5MTcwNiwtMjU5MzQ5MzM2LC0xMz
+UwNzE5MzE1LDE4MDY2NTA0MDgsLTE3NDczODUwMywtMTM5MzY2
+MjIwNSwtMjAxNDU1ODU5MSwyODM2MzEyNDgsODk4Njk2ODAwLD
+IxMjI2ODYzNTcsLTE4Nzg3MjAxNTMsLTUxNTE3OTA1LC0xNjEy
+NzQzNTc5LDUzMDI0MTA2LC0xNTA1NTQ3NTQyLC0xMzgzNDQ2Mj
+g4LDEwODE1MTUyOTgsMTU5MzY3ODIxOCwtMTgxNzY0Mzk4Nywy
+OTczODI5MjJdfQ==
 -->
