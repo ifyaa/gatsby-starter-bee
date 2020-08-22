@@ -88,8 +88,8 @@ draft: false
 169門문 문
 170阜언덕 부
 ```
-101 具膳餐飯 適口充腸 
-102 飽飫烹宰 饑厭糟糠
+101 具膳餐飯 適口充腸 구선손반 적구충장
+102 飽飫烹宰 饑厭糟糠 포어팽재 기염조강
 ```js
 
 具(갖출 구) 膳(반찬 선) 朄(밥 손) 飯(밥 반)
@@ -102,11 +102,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjY1MDQwOCwtMTc0NzM4NTAzLC0xMz
-kzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2OTY4
-MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1MywtNTE1MTc5MDUsLT
-E2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1NDc1NDIsLTEzODM0
-NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4MjE4LC0xODE3NjQzOT
-g3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3OTc1NjM0NjMsLTE4
-NzQ3NjY1NTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ3NzAxNjksMTgwNjY1MDQwOCwtMT
+c0NzM4NTAzLC0xMzkzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYz
+MTI0OCw4OTg2OTY4MDAsMjEyMjY4NjM1NywtMTg3ODcyMDE1My
+wtNTE1MTc5MDUsLTE2MTI3NDM1NzksNTMwMjQxMDYsLTE1MDU1
+NDc1NDIsLTEzODM0NDYyODgsMTA4MTUxNTI5OCwxNTkzNjc4Mj
+E4LC0xODE3NjQzOTg3LDI5NzM4MjkyMiwtMTExNzY5MjgyMCw3
+OTc1NjM0NjNdfQ==
 -->
