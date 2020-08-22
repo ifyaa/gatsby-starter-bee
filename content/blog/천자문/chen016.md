@@ -110,10 +110,11 @@ draft: false
 ##### 戍**수자리(지킬) 수** 人(인)과 창과(戈☞창, 무기)部의 합자(合字)
 戉 도끼 월 戊 천간 무, 창 모戌 개 술 戎 병장기 융/오랑캐 융 茂 무성할 무
 ##### 猒**물릴 염**
+##### 曹  東東(☞동쪽의 줄섬의 뜻)과 曰(왈☞변론ㆍ재판)의 합자
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzcyMDUxOSwtMTM5NTg1NjkyMSwyMz
+eyJoaXN0b3J5IjpbMTg0MDI0ODY2NiwtMTM5NTg1NjkyMSwyMz
 g2ODI2ODEsNjQ5OTQ1ODY3LC0xMzUyNDA3MzI2LC0yNTkzNDkz
 MzYsLTEzNTA3MTkzMTUsMTgwNjY1MDQwOCwtMTc0NzM4NTAzLC
 0xMzkzNjYyMjA1LC0yMDE0NTU4NTkxLDI4MzYzMTI0OCw4OTg2
