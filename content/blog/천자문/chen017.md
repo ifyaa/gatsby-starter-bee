@@ -58,6 +58,7 @@ draft: false
 量자는 旦(아침 단)자와 里(마을 리)자가 결합한 모습
 
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
+御자는 彳(조금 걸을 척)자와 卸(풀 사)자가 결합한 모습이다. 卸자는 사람이 마차에 앉아 채찍질하는 모습
 
 侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
 
@@ -100,7 +101,7 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk0NDM4ODQsMTM5NjY3NDEwNSwtMT
+eyJoaXN0b3J5IjpbLTIwOTQ4OTMyODQsMTM5NjY3NDEwNSwtMT
 k1NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYx
 NDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNy
 wyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMx
