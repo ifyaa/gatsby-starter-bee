@@ -35,7 +35,7 @@ draft: false
 107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
       
 51
-![](https://i.ibb.co/wcDrcV9/image.png 
+![](https://i.ibb.co/wcDrcV9/image.png =250x)
 ```js
 171隶미칠 이
 
@@ -99,7 +99,7 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTg0Mjg2OSw3MTAxMjcyMTEsMTk4Nj
+eyJoaXN0b3J5IjpbMjAxODEyODExNiw3MTAxMjcyMTEsMTk4Nj
 YxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEy
 NywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xND
 MxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
