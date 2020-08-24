@@ -10,7 +10,7 @@ draft: false
 ### 푸른하늘에 비가와서 참새가 미치겠다
 ### 얼굴가죽은 비를 안맞고
 ### 부추구름 위에서 천둥음소리가 난다
-
+![](https://i.ibb.co/pLDKyQ6/Screen-Shot-2020-07-12-at-11-44-59-AM.png =250x)
 ```js
 171隶미칠 이
 
@@ -30,12 +30,21 @@ draft: false
 # 隶 隹 雨 靑 非 面 革 韋 韭 音
 
 
-103 親戚故舊 老少異糧 104 妾御績紡 侍巾帷房
+
 105 紈扇圓絜 銀燭煒煌 106 晝眠夕寐 藍筍象床 
 107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
       
-      51
+51
+```js
+171隶미칠 이
 
+172隹새 추
+173雨비 우
+174靑푸를 청
+```
+103 親戚故舊 老少異糧 
+104 妾御績紡 侍巾帷房
+```js
 親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
 
 친은 동성지친이고 척은 이성지친이요 고구는 오랜 친구를 말한다.
@@ -51,7 +60,7 @@ draft: false
 侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
 
 유방에서 모시고 수건을 받드니 처첩이 하는 일이다.
-
+```
 52
 
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
@@ -89,8 +98,8 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1OD
-QxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3
-MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMT
-Y0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbMTU1ODgxMTU5Nyw3MTAxMjcyMTEsMTk4Nj
+YxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEy
+NywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xND
+MxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
