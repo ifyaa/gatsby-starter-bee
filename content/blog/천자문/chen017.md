@@ -46,6 +46,8 @@ draft: false
 104 妾御績紡 侍巾帷房 첩어적방 시건유방
 ```js
 親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
+戚자는 戊(창 무)자와 尗(아저씨 숙)자가 결합한 모습이다. 尗자는 콩 줄기에서 콩이 떨어진 모습을 그린 것으로 ‘콩’이나 ‘아저씨’라는 뜻
+故자는 古(옛 고)자와 攵(칠 복)자가 결합
 
 老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
 
@@ -92,8 +94,9 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk4NjIzMzQsNzEwMTI3MjExLDE5OD
-Y2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAx
-MjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMT
-QzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MDMwMjE5NDMsLTE2MDk4NjIzMzQsNz
+EwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2
+MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLD
+QxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5
+MDA1MDZdfQ==
 -->
