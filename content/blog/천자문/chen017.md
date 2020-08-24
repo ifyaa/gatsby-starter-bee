@@ -60,7 +60,9 @@ draft: false
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
 御자는 彳(조금 걸을 척)자와 卸(풀 사)자가 결합한 모습이다. 卸자는 사람이 마차에 앉아 채찍질하는 모습
 績자는 糸(가는 실 사)자와 責(꾸짖을 책)자가 결합
-
+責자는 貝(조개 패)자와 朿(가시 자)자가 결합
+ 龶(자)는 朿(자)의 변형
+ 
 侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
 
 
@@ -102,9 +104,9 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MjYzODgyLDEzOTY2NzQxMDUsLTE5NT
-Y2ODU0OTEsLTE2MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4
-ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMj
-ExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAx
-NDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk3NTk5MTUsMTM5NjY3NDEwNSwtMT
+k1NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYx
+NDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNy
+wyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMx
+MDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
