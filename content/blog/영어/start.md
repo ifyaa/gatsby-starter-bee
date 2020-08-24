@@ -83,9 +83,22 @@ ear
 tooth
 hair
 
+
+匕 nexk
+匚 
+匸 
+十 
+卜 
+卩 
+厂 
+厶 
+又 
+口
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTE3MjM0OCw1Mzc1MzgzMjIsLTkyNz
-QxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5NjcwODEx
-NTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbLTE4OTkzOTMyODIsMTE4NTE3MjM0OCw1Mz
+c1MzgzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUw
+MzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX
+0=
 -->
