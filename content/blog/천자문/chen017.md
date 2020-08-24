@@ -37,14 +37,13 @@ draft: false
 51
 ![](https://i.ibb.co/wcDrcV9/image.png =250x)
 ```js
-171隶미칠 이
-
-172隹새 추
-173雨비 우
-174靑푸를 청
+171隶미칠 이    親(친할 친) 戚(겨레 척) 친척들이 미치겠다
+172隹새 추     老(늙을 로) 少(젊을 소) 노소가
+173雨비 우     妾(첩 첩) 御(모실 어)
+174靑푸를 청    侍(모실 시) 巾(수건 건)
 ```
-103 親戚故舊 老少異糧 친척구고 노소이량
-104 妾御績紡 侍巾帷房 첩어적방 
+103 親戚故舊 老少異糧  친척구고 노소이량
+104 妾御績紡 侍巾帷房 첩어적방 시건유방
 ```js
 親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
 
@@ -93,8 +92,8 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU2MzMxNjYsNzEwMTI3MjExLDE5OD
-Y2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAx
-MjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMT
-QzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTUyMTkzNTcxNiw3MTAxMjcyMTEsMTk4Nj
+YxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEy
+NywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xND
+MxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
