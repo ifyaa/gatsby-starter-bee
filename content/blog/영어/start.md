@@ -92,13 +92,24 @@ hair
 卩 arm
 厂 hand
 厶 finger
-又 
-口
+又 leg
+口knee
+
+ neck
+ head
+shoulder
+ back
+ 
+belly
+arm
+hand
+finger
+leg
+knee
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjMzMjIzNiwxMTg1MTcyMzQ4LDUzNz
-UzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAz
-MSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ
-==
+eyJoaXN0b3J5IjpbLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
+M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
+LC0xOTY3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
 -->
