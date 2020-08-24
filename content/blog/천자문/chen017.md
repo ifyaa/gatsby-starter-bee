@@ -51,7 +51,9 @@ draft: false
 古자는 주로 ‘오래되다’를 뜻하지만 故자는 ‘옛날’이나 ‘옛일’을 뜻
 舊자는 萑(풀 많을 추)자와 臼(절구 구)자가 결합한 모습이다. 舊자는 본래 ‘수리부엉이’를 뜻
 
+
 老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
+毛(모)+人(인)+匕(비)의 합자(合字). 다른 글의 부수(部首)로 쓰일 때는 耂(로)만 쓰는 경우(境遇)가 많음.
 
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
 
@@ -96,9 +98,9 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNz
-EwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2
-MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLD
-QxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5
-MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMT
+YwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5
+MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLD
+E3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1
+OTMxMSwtMTQxMTkwMDUwNl19
 -->
