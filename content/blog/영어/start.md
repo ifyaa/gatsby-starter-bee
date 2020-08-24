@@ -83,22 +83,22 @@ ear
 tooth
 hair
 
-
-匕 nexk
-匚 
-匸 
-十 
-卜 
-卩 
-厂 
-厶 
+02 이발소
+匕 neck
+匚 head
+匸 shoulder
+十 back
+卜 belly
+卩 arm
+厂 hand
+厶 finger
 又 
 口
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTkzOTMyODIsMTE4NTE3MjM0OCw1Mz
-c1MzgzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUw
-MzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX
-0=
+eyJoaXN0b3J5IjpbMTQyNjMzMjIzNiwxMTg1MTcyMzQ4LDUzNz
+UzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAz
+MSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ
+==
 -->
