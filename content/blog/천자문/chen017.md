@@ -43,8 +43,8 @@ draft: false
 173雨비 우
 174靑푸를 청
 ```
-103 親戚故舊 老少異糧 
-104 妾御績紡 侍巾帷房
+103 親戚故舊 老少異糧 친척구고 노소이량
+104 妾御績紡 侍巾帷房 첩어적방 
 ```js
 親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
 
@@ -93,8 +93,8 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMzc2Nzg1LDcxMDEyNzIxMSwxOTg2Nj
-E0ODg2LC0xNTg0MTkwMTYyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3
-LDIxMTMzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0Mz
-EwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTE3OTU2MzMxNjYsNzEwMTI3MjExLDE5OD
+Y2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAx
+MjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMT
+QzMTAxNDMwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
 -->
