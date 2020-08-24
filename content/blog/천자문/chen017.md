@@ -54,6 +54,8 @@ draft: false
 
 老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
 毛(모)+人(인)+匕(비)의 합자(合字). 다른 글의 부수(部首)로 쓰일 때는 耂(로)만 쓰는 경우(境遇)가 많음.
+##### 共  廿(입: 스물)과 入(
+
 
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
 
@@ -98,9 +100,9 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMT
-YwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5
-MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLD
-E3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1
-OTMxMSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbLTIwMDM4NDUxNzMsMTM5NjY3NDEwNSwtMT
+k1NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYx
+NDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNy
+wyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMx
+MDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
 -->
