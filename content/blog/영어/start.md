@@ -62,6 +62,7 @@ Luckily, Grsshopper found Ant's house.
 He mustered up enough energy to knock on the door.**
 
 ```
+00
 family
 father
 mother
@@ -93,23 +94,12 @@ hair
 厂 hand
 厶 finger
 又 leg
-口knee
-
- neck
- head
-shoulder
- back
- 
-belly
-arm
-hand
-finger
-leg
-knee
+口 knee
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
-M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
-LC0xOTY3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
+eyJoaXN0b3J5IjpbMTg4ODkwMDAxMSwtMzE1NTYyMzgsMTE4NT
+E3MjM0OCw1Mzc1MzgzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEw
+LDE0NTM2MjUwMzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMT
+k2NDE2MTEwXX0=
 -->
