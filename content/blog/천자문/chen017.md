@@ -50,14 +50,11 @@ draft: false
 
 老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
 
-
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
-
-남자는 밖에서 일하고 여자는 안에서 길쌈을 짜니라.
 
 侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
 
-유방에서 모시고 수건을 받드니 처첩이 하는 일이다.
+
 ```
 52
 
@@ -96,8 +93,8 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDg4MjE5NCw3MTAxMjcyMTEsMTk4Nj
-YxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEy
-NywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xND
-MxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbNTkyMzc2Nzg1LDcxMDEyNzIxMSwxOTg2Nj
+E0ODg2LC0xNTg0MTkwMTYyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3
+LDIxMTMzOTk5NzIsMTczODM0Mjc0Miw0MTA2Mjg4ODcsLTE0Mz
+EwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNTA2XX0=
 -->
