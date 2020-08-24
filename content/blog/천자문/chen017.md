@@ -64,7 +64,7 @@ draft: false
  龶(자)는 朿(자)의 변형
  
 侍(모실 시) 巾(수건 건) 涌(장막 유) 房(방 방)
-
+房자는 戶(지게 호)자와 方(모 방)자가 결합한 모습이다. 方자는 소가 끄는 쟁기를 그린 것
 
 ```
 52
@@ -104,9 +104,10 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk3NTk5MTUsMTM5NjY3NDEwNSwtMT
-k1NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYx
-NDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNy
-wyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xNDMx
-MDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbMTI0OTAzNDM4OSwtMTk1OTc1OTkxNSwxMz
+k2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5ODYyMzM0LDcxMDEy
+NzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMTYyLDE1Mzg1NjIxMj
+IsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTczODM0Mjc0Miw0MTA2
+Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNT
+A2XX0=
 -->
