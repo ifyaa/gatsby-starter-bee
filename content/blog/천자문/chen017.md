@@ -48,11 +48,8 @@ draft: false
 ```js
 親(친할 친) 戚(겨레 척) 故(연고 고) 舊(옛 구)
 
-친은 동성지친이고 척은 이성지친이요 고구는 오랜 친구를 말한다.
-
 老(늙을 로) 少(젊을 소) 異(다를 이) 糧(양식 량)
 
-늙은이와 젊은이의 식사가 다르다.
 
 妾(첩 첩) 御(모실 어) 績(길쌈 적) 紡(길쌈 방)
 
@@ -99,7 +96,7 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODEyODExNiw3MTAxMjcyMTEsMTk4Nj
+eyJoaXN0b3J5IjpbLTIyNDg4MjE5NCw3MTAxMjcyMTEsMTk4Nj
 YxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEy
 NywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEwNjI4ODg3LC0xND
 MxMDE0MzAsMjExNjQ1OTMxMSwtMTQxMTkwMDUwNl19
