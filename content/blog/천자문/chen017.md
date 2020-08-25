@@ -78,19 +78,12 @@ draft: false
 ```js
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
 
-흰 비단으로 만든 부채는 둥글고 깨끗하다.
-
 銀(은 은) 燭(촛불 촉) 济(빛날 위) 煌(빛날 황)
-
-은촛대의 촛불은 빛나서 휘황 찬란하다.
 
 晝(낮 주) 眠(잘 면) 夕(저녁 석) 寐(잘 매)
 
-낮에 낮잠 자고 밤에 일찍 자니 한가한 사람의 일이다.
-
 藍(쪽 람) 筍(죽순 순) 象(코끼리 상) 牀(상 상)=床
 
-푸른 대순과 코끼리 상이니 즉 한가한 사람의 침대이다.
 ```
 53
 107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
@@ -113,10 +106,10 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg0MTMwNzksMTI0OTAzNDM4OSwtMT
-k1OTc1OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5
-ODYyMzM0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMT
-YyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTcz
-ODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5Mz
-ExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC0xOT
+U5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4
+NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNj
+IsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4
+MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMT
+EsLTE0MTE5MDA1MDZdfQ==
 -->
