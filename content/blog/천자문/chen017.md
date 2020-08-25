@@ -68,9 +68,9 @@ draft: false
 ```
 52
 ```js
-175非아닐 비    紈(흰비단 환) 銀(은 은) 燭(촛불 촉)
-1769획 →面얼굴 면
-177革가죽 혁
+175非아닐 비      紈(흰비단 환)扇(부채 선) 銀(은 은) 燭(촛불 촉) 환한 부채가 아니고 은촛불이다
+1769획 →面얼굴 면  晝(낮 주) 眠(잘 면)낮에 자주면 
+177革가죽 혁      藍(쪽 람) 筍(죽순 순)
 ```
 105 紈扇圓絜 銀燭煒煌 
 106 晝眠夕寐 藍筍象床 
@@ -113,7 +113,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjA3OTQyNywxMjQ5MDM0Mzg5LC0xOT
+eyJoaXN0b3J5IjpbMTk4NzA2NzUzNSwxMjQ5MDM0Mzg5LC0xOT
 U5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4
 NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNj
 IsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4
