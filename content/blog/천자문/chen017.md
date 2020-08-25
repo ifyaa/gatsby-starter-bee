@@ -68,6 +68,7 @@ draft: false
 
 ```
 52
+```js
 
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
 
@@ -104,7 +105,7 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM4MzgxNDksMTI0OTAzNDM4OSwtMT
+eyJoaXN0b3J5IjpbLTE3MTE2NjY1OTIsMTI0OTAzNDM4OSwtMT
 k1OTc1OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5
 ODYyMzM0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMT
 YyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTcz
