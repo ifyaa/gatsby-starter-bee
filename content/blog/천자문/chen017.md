@@ -8,7 +8,7 @@ draft: false
 
  
 ### 푸른하늘에 비가와서 참새가 미치겠다
-### 얼굴가죽은 비를 안맞고
+### 비안맞아 얼굴은 가죽우산을 쓰고있으니
 ### 부추구름 위에서 천둥음소리가 난다
 ![](https://i.ibb.co/pLDKyQ6/Screen-Shot-2020-07-12-at-11-44-59-AM.png =250x)
 ```js
@@ -104,10 +104,10 @@ draft: false
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTAzNDM4OSwtMTk1OTc1OTkxNSwxMz
-k2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5ODYyMzM0LDcxMDEy
-NzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMTYyLDE1Mzg1NjIxMj
-IsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTczODM0Mjc0Miw0MTA2
-Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5MzExLC0xNDExOTAwNT
-A2XX0=
+eyJoaXN0b3J5IjpbLTE3MTM4MzgxNDksMTI0OTAzNDM4OSwtMT
+k1OTc1OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5
+ODYyMzM0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMT
+YyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTcz
+ODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5Mz
+ExLC0xNDExOTAwNTA2XX0=
 -->
