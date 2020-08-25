@@ -77,7 +77,7 @@ draft: false
 
 ```js
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
-丸자는 이렇게 사람이 뒹구는 모습으로 그려져 ‘둥글다’라는 뜻
+丸(둥글환)자는 이렇게 사람이 뒹구는 모습으로 그려져 ‘둥글다’라는 뜻
 
 銀(은 은) 燭(촛불 촉) 煒(빛날 위) 煌(빛날 황)
 
@@ -107,11 +107,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjU3MjUyMywtNzg5MDMwOTI5LC0yMD
-M5MTYwOTExLDE2NTIyNzM4MDYsMTI0OTAzNDM4OSwtMTk1OTc1
-OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5ODYyMz
-M0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMTYyLDE1
-Mzg1NjIxMjIsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTczODM0Mj
-c0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5MzExLC0x
-NDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTExMDgwNDM1MzcsLTc4OTAzMDkyOSwtMj
+AzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3
+NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2Mj
+MzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2Miwx
+NTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLDE3MzgzND
+I3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMxMSwt
+MTQxMTkwMDUwNl19
 -->
