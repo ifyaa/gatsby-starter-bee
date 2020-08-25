@@ -31,8 +31,7 @@ draft: false
 
 
 
-105 紈扇圓絜 銀燭煒煌 106 晝眠夕寐 藍筍象床 
-107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
+
       
 51
 ![](https://i.ibb.co/wcDrcV9/image.png =250x)
@@ -69,7 +68,14 @@ draft: false
 ```
 52
 ```js
+175非아닐 비
+1769획 →面얼굴 면
+177革가죽 혁
+```
+105 紈扇圓絜 銀燭煒煌 
+106 晝眠夕寐 藍筍象床 
 
+```js
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
 
 흰 비단으로 만든 부채는 둥글고 깨끗하다.
@@ -85,9 +91,10 @@ draft: false
 藍(쪽 람) 筍(죽순 순) 象(코끼리 상) 牀(상 상)=床
 
 푸른 대순과 코끼리 상이니 즉 한가한 사람의 침대이다.
-
+```
 53
-
+107 弦歌酒宴 接杯舉觴 108 矯手頓足 悅豫且康   
+```js
 弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
 
 거문고를 타며 술과 노래로 잔치하니.
@@ -103,12 +110,13 @@ draft: false
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
 
 이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE2NjY1OTIsMTI0OTAzNDM4OSwtMT
-k1OTc1OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5
-ODYyMzM0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMT
-YyLDE1Mzg1NjIxMjIsNjc0MTQwMTI3LDIxMTMzOTk5NzIsMTcz
-ODM0Mjc0Miw0MTA2Mjg4ODcsLTE0MzEwMTQzMCwyMTE2NDU5Mz
-ExLC0xNDExOTAwNTA2XX0=
+eyJoaXN0b3J5IjpbLTI0MTQ0MjA5NSwxMjQ5MDM0Mzg5LC0xOT
+U5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4
+NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNj
+IsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4
+MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMT
+EsLTE0MTE5MDA1MDZdfQ==
 -->
