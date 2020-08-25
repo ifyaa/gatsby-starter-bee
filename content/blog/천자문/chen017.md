@@ -68,7 +68,7 @@ draft: false
 ```
 52
 ```js
-175非아닐 비
+175非아닐 비    紈(흰비단 환) 銀(은 은) 燭(촛불 촉)
 1769획 →面얼굴 면
 177革가죽 혁
 ```
@@ -113,7 +113,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTQ0MjA5NSwxMjQ5MDM0Mzg5LC0xOT
+eyJoaXN0b3J5IjpbMTMyMjA3OTQyNywxMjQ5MDM0Mzg5LC0xOT
 U5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4
 NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNj
 IsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4
