@@ -79,6 +79,8 @@ draft: false
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
 丸(둥글환)자는 이렇게 사람이 뒹구는 모습으로 그려져 ‘둥글다’라는 뜻
 㓞  교묘히 새길 갈, 맺을 계
+丰 예쁠 봉, 풍채  풍豐(풍)의 간체자(簡體字). 초목(草木)이 잘 우거진 모양을 본뜬 글자.
+
 銀(은 은) 燭(촛불 촉) 煒(빛날 위) 煌(빛날 황)
 
 晝(낮 주) 眠(잘 면) 夕(저녁 석) 寐(잘 매)
@@ -107,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg5MTA0MTcsLTc4OTAzMDkyOSwtMj
-AzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3
-NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2Mj
-MzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2Miwx
-NTM4NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLDE3MzgzND
-I3NDIsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMxMSwt
-MTQxMTkwMDUwNl19
+eyJoaXN0b3J5IjpbODU1MzY2MjEsLTc4OTAzMDkyOSwtMjAzOT
+E2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3NTk5
+MTUsMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2MjMzNC
+w3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2MiwxNTM4
+NTYyMTIyLDY3NDE0MDEyNywyMTEzMzk5OTcyLDE3MzgzNDI3ND
+IsNDEwNjI4ODg3LC0xNDMxMDE0MzAsMjExNjQ1OTMxMSwtMTQx
+MTkwMDUwNl19
 -->
