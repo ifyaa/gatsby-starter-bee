@@ -72,8 +72,8 @@ draft: false
 1769획 →面얼굴 면  晝(낮 주) 眠(잘 면)  낮에 자주면 얼굴이 밝다
 177革가죽 혁      藍(쪽 남) 筍(죽순 순) 남쪽의 죽순으로 만든혁대
 ```
-105 紈扇圓絜 銀燭煒煌 
-106 晝眠夕寐 藍筍象床 
+105 紈扇圓絜 銀燭煒煌 환선원결 운촉위황
+106 晝眠夕寐 藍筍象床 주면석매 남순상상
 
 ```js
 紈(흰비단 환) 扇(부채 선) 圓(둥글 원) 潔(깨끗할 결)
@@ -106,10 +106,10 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC0xOT
-U5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4
-NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNj
-IsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4
-MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0NTkzMT
-EsLTE0MTE5MDA1MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzkxNjA5MTEsMTY1MjI3MzgwNiwxMj
+Q5MDM0Mzg5LC0xOTU5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2
+ODU0OTEsLTE2MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4OD
+YsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjEx
+MzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxND
+MwLDIxMTY0NTkzMTEsLTE0MTE5MDA1MDZdfQ==
 -->
