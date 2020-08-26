@@ -90,12 +90,12 @@ draft: false
 ```
 53
 ```js
-178韋가죽 위
-179韭부추 구
+178韋가죽 위  弦(줄 현)接(이을 접)
+179韭부추 구 矯(바로잡을 교) 手(손 수)
 180音소리 음
 ```
-107 弦歌酒宴 接杯舉觴 
-108 矯手頓足 悅豫且康   
+107 弦歌酒宴 接杯舉觴 현가주연 접배거상
+108 矯手頓足 悅豫且康  교수돈족 열예차강
 ```js
 弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
 
@@ -109,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk0NDc1NjAsNzEwMjQ3NTU2LDg1NT
-M2NjIxLC03ODkwMzA5MjksLTIwMzkxNjA5MTEsMTY1MjI3Mzgw
-NiwxMjQ5MDM0Mzg5LC0xOTU5NzU5OTE1LDEzOTY2NzQxMDUsLT
-E5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2
-MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMj
-csMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQz
-MTAxNDMwXX0=
+eyJoaXN0b3J5IjpbLTE0ODY1NzYxODcsLTEwNDk0NDc1NjAsNz
+EwMjQ3NTU2LDg1NTM2NjIxLC03ODkwMzA5MjksLTIwMzkxNjA5
+MTEsMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC0xOTU5NzU5OTE1LD
+EzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNzEw
+MTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2Mj
+EyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQx
+MDYyODg4N119
 -->
