@@ -106,6 +106,7 @@ draft: false
 矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
 矯자는 矢(화살 시)자와 喬(높을 교)자가 결합
 ##### 屯 왼손좌(屮☞초목의 싹, 왼손)部와 땅을 나타내는 一(일)로 이루어져 풀의 싹이 간신히 돋아난 모양
+豫자는 予(나 여)자와 象(코끼리 상)자가 결합
 
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
 
@@ -113,11 +114,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NzI3NDI2LC00NzUwODk4MDYsLTEzOD
-gwNjc1OCwtMTQzNTc3NjQzMCwtMjEzOTQ3MTM3NiwtMTA0OTQ0
-NzU2MCw3MTAyNDc1NTYsODU1MzY2MjEsLTc4OTAzMDkyOSwtMj
-AzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3
-NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2Mj
-MzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2Miwx
-NTM4NTYyMTIyXX0=
+eyJoaXN0b3J5IjpbLTE5NDEyMjUxOTIsMzg4NzI3NDI2LC00Nz
+UwODk4MDYsLTEzODgwNjc1OCwtMTQzNTc3NjQzMCwtMjEzOTQ3
+MTM3NiwtMTA0OTQ0NzU2MCw3MTAyNDc1NTYsODU1MzY2MjEsLT
+c4OTAzMDkyOSwtMjAzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkw
+MzQzODksLTE5NTk3NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NT
+Q5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYxNDg4Niwt
+MTU4NDE5MDE2Ml19
 -->
