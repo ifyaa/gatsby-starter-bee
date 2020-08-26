@@ -94,7 +94,7 @@ draft: false
 179韭부추 구 矯(바로잡을 교) 手(손 수)교수에게 준 부추전
 180音소리 음 悅(기쁠 열) 豫(미리 예)  음소리를 열번예고한다
 ```
-107 絃歌酒讌 接杯舉觴 현가주연 접배거상
+107 弦(絃)歌酒讌 接杯舉觴 현가주연 접배거상
 108 矯手頓足 悅豫且康  교수돈족 열예차강
 ```js
 弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
@@ -109,7 +109,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcyMDA0MjUsLTEwNDk0NDc1NjAsNz
+eyJoaXN0b3J5IjpbLTIxMzk0NzEzNzYsLTEwNDk0NDc1NjAsNz
 EwMjQ3NTU2LDg1NTM2NjIxLC03ODkwMzA5MjksLTIwMzkxNjA5
 MTEsMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC0xOTU5NzU5OTE1LD
 EzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNzEw
