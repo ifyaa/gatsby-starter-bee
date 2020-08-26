@@ -102,19 +102,20 @@ draft: false
 接(이을 접) 杯(잔 배) 擧(들 거) 觴(잔 상)
 擧자는 ‘들다’나 ‘일으키다’라는 뜻을 가진 글자이다. 擧자는 舁(마주들 여)자와 与(어조사 여)자, 手(손 수)자가 결합한 모습이다. 여기서 舁자는 위아래로 손을 맞잡고 있는 모습을 그린 것으로 ‘마주 들다’라는 뜻
 易자는 日(해 일)자와 勿(말 물)자가 결합
-矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
 
+矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
+矯자는 矢(화살 시)자와 喬(높을 교)자가 결합
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
 
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTA4OTgwNiwtMTM4ODA2NzU4LC0xND
-M1Nzc2NDMwLC0yMTM5NDcxMzc2LC0xMDQ5NDQ3NTYwLDcxMDI0
-NzU1Niw4NTUzNjYyMSwtNzg5MDMwOTI5LC0yMDM5MTYwOTExLD
-E2NTIyNzM4MDYsMTI0OTAzNDM4OSwtMTk1OTc1OTkxNSwxMzk2
-Njc0MTA1LC0xOTU2Njg1NDkxLC0xNjA5ODYyMzM0LDcxMDEyNz
-IxMSwxOTg2NjE0ODg2LC0xNTg0MTkwMTYyLDE1Mzg1NjIxMjIs
-Njc0MTQwMTI3XX0=
+eyJoaXN0b3J5IjpbMzU5NDQyMTM2LC00NzUwODk4MDYsLTEzOD
+gwNjc1OCwtMTQzNTc3NjQzMCwtMjEzOTQ3MTM3NiwtMTA0OTQ0
+NzU2MCw3MTAyNDc1NTYsODU1MzY2MjEsLTc4OTAzMDkyOSwtMj
+AzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3
+NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2Mj
+MzNCw3MTAxMjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2Miwx
+NTM4NTYyMTIyXX0=
 -->
