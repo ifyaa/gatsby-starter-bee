@@ -105,13 +105,15 @@ draft: false
 
 矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
 矯자는 矢(화살 시)자와 喬(높을 교)자가 결합
+##### 屯 왼손좌(屮☞초목의 싹, 왼손)部와 땅을 나타내는 一(일)로 이루어져 풀의 싹이 간신히 돋아난 모양
+
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
 
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5NDQyMTM2LC00NzUwODk4MDYsLTEzOD
+eyJoaXN0b3J5IjpbMzg4NzI3NDI2LC00NzUwODk4MDYsLTEzOD
 gwNjc1OCwtMTQzNTc3NjQzMCwtMjEzOTQ3MTM3NiwtMTA0OTQ0
 NzU2MCw3MTAyNDc1NTYsODU1MzY2MjEsLTc4OTAzMDkyOSwtMj
 AzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3
