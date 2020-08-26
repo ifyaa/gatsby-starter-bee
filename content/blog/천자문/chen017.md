@@ -90,9 +90,9 @@ draft: false
 ```
 53
 ```js
-178韋가죽 위  弦(줄 현)接(이을 접)
-179韭부추 구 矯(바로잡을 교) 手(손 수)
-180音소리 음
+178韋가죽 위  弦(줄 현)接(이을 접) 가죽위에 현을 당겨 접는다
+179韭부추 구 矯(바로잡을 교) 手(손 수)교수에게 준 부추전
+180音소리 음 悅(기쁠 열) 豫(미리 예)  음소리를 열번예고한다
 ```
 107 弦歌酒宴 接杯舉觴 현가주연 접배거상
 108 矯手頓足 悅豫且康  교수돈족 열예차강
@@ -109,11 +109,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY1NzYxODcsLTEwNDk0NDc1NjAsNz
-EwMjQ3NTU2LDg1NTM2NjIxLC03ODkwMzA5MjksLTIwMzkxNjA5
-MTEsMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC0xOTU5NzU5OTE1LD
-EzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNzEw
-MTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2Mj
-EyMiw2NzQxNDAxMjcsMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQx
-MDYyODg4N119
+eyJoaXN0b3J5IjpbLTE0Njg0OTA3MCwtMTA0OTQ0NzU2MCw3MT
+AyNDc1NTYsODU1MzY2MjEsLTc4OTAzMDkyOSwtMjAzOTE2MDkx
+MSwxNjUyMjczODA2LDEyNDkwMzQzODksLTE5NTk3NTk5MTUsMT
+M5NjY3NDEwNSwtMTk1NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAx
+MjcyMTEsMTk4NjYxNDg4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMT
+IyLDY3NDE0MDEyNywyMTEzMzk5OTcyLDE3MzgzNDI3NDIsNDEw
+NjI4ODg3XX0=
 -->
