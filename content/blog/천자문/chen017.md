@@ -109,16 +109,17 @@ draft: false
 豫자는 予(나 여)자와 象(코끼리 상)자가 결합
 
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
-
+康자는 庚(천간 경)자와 米(쌀 미)자가 결합
+엄호(广☞집)部와 隶(이)를 합(合)한 모양으로 쓰지만 본디는 米(미)와 庚(경)을 합(合)한 모양에서 변한 것
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEyMjUxOTIsMzg4NzI3NDI2LC00Nz
-UwODk4MDYsLTEzODgwNjc1OCwtMTQzNTc3NjQzMCwtMjEzOTQ3
-MTM3NiwtMTA0OTQ0NzU2MCw3MTAyNDc1NTYsODU1MzY2MjEsLT
-c4OTAzMDkyOSwtMjAzOTE2MDkxMSwxNjUyMjczODA2LDEyNDkw
-MzQzODksLTE5NTk3NTk5MTUsMTM5NjY3NDEwNSwtMTk1NjY4NT
-Q5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYxNDg4Niwt
-MTU4NDE5MDE2Ml19
+eyJoaXN0b3J5IjpbMTA3NzMxMTQ5MywzODg3Mjc0MjYsLTQ3NT
+A4OTgwNiwtMTM4ODA2NzU4LC0xNDM1Nzc2NDMwLC0yMTM5NDcx
+Mzc2LC0xMDQ5NDQ3NTYwLDcxMDI0NzU1Niw4NTUzNjYyMSwtNz
+g5MDMwOTI5LC0yMDM5MTYwOTExLDE2NTIyNzM4MDYsMTI0OTAz
+NDM4OSwtMTk1OTc1OTkxNSwxMzk2Njc0MTA1LC0xOTU2Njg1ND
+kxLC0xNjA5ODYyMzM0LDcxMDEyNzIxMSwxOTg2NjE0ODg2LC0x
+NTg0MTkwMTYyXX0=
 -->
