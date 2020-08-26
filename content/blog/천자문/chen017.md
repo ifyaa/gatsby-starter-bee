@@ -100,6 +100,7 @@ draft: false
 弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
 
 接(이을 접) 杯(잔 배) 擧(들 거) 觴(잔 상)
+擧자는 ‘들다’나 ‘일으키다’라는 뜻을 가진 글자이다. 擧자는 舁(마주들 여)자와 与(어조사 여)자, 手(손 수)자가 결합한 모습이다. 여기서 舁자는 위아래로 손을 맞잡고 있는 모습을 그린 것으로 ‘마주 들다’라는 뜻
 
 矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
 
@@ -109,11 +110,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU3NzY0MzAsLTIxMzk0NzEzNzYsLT
-EwNDk0NDc1NjAsNzEwMjQ3NTU2LDg1NTM2NjIxLC03ODkwMzA5
-MjksLTIwMzkxNjA5MTEsMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5LC
-0xOTU5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLTE2
-MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQxOT
-AxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3Miwx
-NzM4MzQyNzQyXX0=
+eyJoaXN0b3J5IjpbLTEzODgwNjc1OCwtMTQzNTc3NjQzMCwtMj
+EzOTQ3MTM3NiwtMTA0OTQ0NzU2MCw3MTAyNDc1NTYsODU1MzY2
+MjEsLTc4OTAzMDkyOSwtMjAzOTE2MDkxMSwxNjUyMjczODA2LD
+EyNDkwMzQzODksLTE5NTk3NTk5MTUsMTM5NjY3NDEwNSwtMTk1
+NjY4NTQ5MSwtMTYwOTg2MjMzNCw3MTAxMjcyMTEsMTk4NjYxND
+g4NiwtMTU4NDE5MDE2MiwxNTM4NTYyMTIyLDY3NDE0MDEyNywy
+MTEzMzk5OTcyXX0=
 -->
