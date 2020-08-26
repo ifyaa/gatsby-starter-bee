@@ -99,27 +99,21 @@ draft: false
 ```js
 弦(줄 현) 歌(노래 가) 酒(술 주) 檗(잔치 연)
 
-거문고를 타며 술과 노래로 잔치하니.
-
 接(이을 접) 杯(잔 배) 擧(들 거) 觴(잔 상)
-
-작고 큰 술잔을 서로 주고받으며 즐기는 모습이다.
 
 矯(바로잡을 교) 手(손 수) 頓(두드릴 돈) 足(발 족)
 
-손을 들고 발을 두드리며 춤을 춘다.
-
 悅(기쁠 열) 豫(미리 예) 且(또 차) 康(편안 강)
 
-이상과  같이  마음  편히  즐기고  살면  단란한  가정이다.
+
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjQ3NTU2LDg1NTM2NjIxLC03ODkwMz
-A5MjksLTIwMzkxNjA5MTEsMTY1MjI3MzgwNiwxMjQ5MDM0Mzg5
-LC0xOTU5NzU5OTE1LDEzOTY2NzQxMDUsLTE5NTY2ODU0OTEsLT
-E2MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2MTQ4ODYsLTE1ODQx
-OTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMjcsMjExMzM5OTk3Mi
-wxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQzMTAxNDMwLDIxMTY0
-NTkzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk0NDc1NjAsNzEwMjQ3NTU2LDg1NT
+M2NjIxLC03ODkwMzA5MjksLTIwMzkxNjA5MTEsMTY1MjI3Mzgw
+NiwxMjQ5MDM0Mzg5LC0xOTU5NzU5OTE1LDEzOTY2NzQxMDUsLT
+E5NTY2ODU0OTEsLTE2MDk4NjIzMzQsNzEwMTI3MjExLDE5ODY2
+MTQ4ODYsLTE1ODQxOTAxNjIsMTUzODU2MjEyMiw2NzQxNDAxMj
+csMjExMzM5OTk3MiwxNzM4MzQyNzQyLDQxMDYyODg4NywtMTQz
+MTAxNDMwXX0=
 -->
