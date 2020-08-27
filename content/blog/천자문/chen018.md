@@ -40,17 +40,11 @@ draft: false
 110 稽顙再拜 悚懼恐惶 
 ```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
-
 적자된 자, 즉 장남은 뒤를 계승하여 대를 이룬다.
-
 祭(제사 제) 祀(제사 사) 蒸(찔 증) 嘗(맛볼 상)
-
 제사하되 겨울 제사는 증이라 하고 가을 제사는 상이라 한다.
-
 稽(조아릴 계) 斎(이마 상) 再(둘 재) 拜(절 배)
-
 이마를 조아려 선조에게 두 번 절한다.
-
 悚(두려워할 송) 懼(두려워할 구) 恐(두려워할 공) 惶(두려워할 황)
 
 송구하고 공황하니 엄중, 공경함이 지극함이라.(3년상 이후의 제사시의 몸가짐이다.)
@@ -107,9 +101,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMT
-k3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5
-NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MD
-M0MSw3OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIx
-NzI0NDk3XX0=
+eyJoaXN0b3J5IjpbMzQ4NjE0MTE0LDM2ODI0MzMzNCw4MjA2ND
+QyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4
+OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MD
+k5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkw
+ODUzMzY2LDgyMTcyNDQ5N119
 -->
