@@ -22,7 +22,7 @@ draft: false
 
 188骨뼈 골
 189高높을 고
-190髟머리털드리워질
+190髟머리털드리워질 표
 
 ```
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
@@ -85,8 +85,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxND
-Q2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEs
-LTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzND
-c5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Nj
+c0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0x
+ODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyODgwMzQxLDc5NzkzND
+E3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
+
 -->
