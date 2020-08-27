@@ -49,7 +49,8 @@ draft: false
 嘗자는 尙(오히려 상)자와 旨(맛있을 지)자가 결합한 모습이다. 尙자는 집을 그린 것
 
 稽(조아릴 계) 斎(이마 상) 再(둘 재) 拜(절 배)
-이마를 조아려 선조에게 두 번 절한다.
+##### 尤**더욱 우**
+
 悚(두려워할 송) 懼(두려워할 구) 恐(두려워할 공) 惶(두려워할 황)
 
 송구하고 공황하니 엄중, 공경함이 지극함이라.(3년상 이후의 제사시의 몸가짐이다.)
@@ -106,11 +107,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODcxOTA0NCwtMTcxMjgwNjg0NSwtMT
-MwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2NzkzNCwzNDg2MTQx
-MTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OT
-Y3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2Niwt
-MTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5Mz
-QxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
+eyJoaXN0b3J5IjpbLTE1MjY1NTkyMDgsLTE3MTI4MDY4NDUsLT
+EzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0
+MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2Nj
+k2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYs
+LTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OT
+M0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
 
 -->
