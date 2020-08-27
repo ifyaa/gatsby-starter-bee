@@ -30,11 +30,11 @@ draft: false
 
 54
 ```js
-181頁머리 혈
+181頁머리 혈 嫡(정실 적) 後(뒤 후)
 
-182風바람 풍
-183飛날 비
-184食밥 식
+182風바람 풍 祭(제사 제) 祀(제사 사)
+183飛날 비   稽(조아릴 계) 斎(이마 상)   날
+184食밥 식   悚(두려워할 송) 懼(두려워할 구) 밥먹을때 마다 송구하다
 ```
 109 嫡後嗣續 祭祀烝嘗 적후사속 제사증상
 110 稽顙再拜 悚懼恐惶 계상재배 송구공황
@@ -101,9 +101,10 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1OTY3OTM0LDM0ODYxNDExNCwzNjgyND
-MzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Njc0NDIzLDE0
-MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0xODU3NjUzMD
-UxLC0yMTU2OTA5OTMsNzYyODgwMzQxLDc5NzkzNDE3MSwtMTQ4
-MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbLTkxOTIyMzQyMCw3MTU5Njc5MzQsMzQ4Nj
+E0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2
+Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0Nj
+YsLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3
+OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N1
+19
 -->
