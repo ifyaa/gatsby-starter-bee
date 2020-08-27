@@ -36,7 +36,7 @@ draft: false
 183飛날 비
 184食밥 식
 ```
-109 嫡後嗣續 祭祀烝嘗 
+109 嫡後嗣續 祭祀烝嘗 wj
 110 稽顙再拜 悚懼恐惶 
 ```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
@@ -101,9 +101,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NjE0MTE0LDM2ODI0MzMzNCw4MjA2ND
-QyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4
-OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MD
-k5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkw
-ODUzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbLTYyNzg1MzA3MywzNDg2MTQxMTQsMzY4Mj
+QzMzM0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywx
+NDE0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1Mz
+A1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5MzQxNzEsLTE0
+ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
 -->
