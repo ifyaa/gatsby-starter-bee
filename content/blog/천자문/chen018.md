@@ -36,7 +36,7 @@ draft: false
 183飛날 비   稽(조아릴 계) 斎(이마 상)    비짜루가 날면 계산이 안된다
 184食밥 식   悚(두려워할 송) 懼(두려워할 구) 밥먹을때 마다 송구하다
 ```
-109 嫡後嗣續 祭祀烝嘗 적후사속 제사증상
+109 嫡後嗣續 祭祀蒸嘗 적후사속 제사증상
 110 稽顙再拜 悚懼恐惶 계상재배 송구공황
 ```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
@@ -104,7 +104,7 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMxNDk0NDIsLTEzMDA1MzI3NjIsLT
+eyJoaXN0b3J5IjpbLTE3MTI4MDY4NDUsLTEzMDA1MzI3NjIsLT
 Y5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMz
 NCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxND
 Q2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEs
