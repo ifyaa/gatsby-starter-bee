@@ -41,7 +41,7 @@ draft: false
 ```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
 ##### 庶**여러 서, 제거할 자**
-
+後자는 彳(조금 걸을 척)자와 幺(작을 요)자, 夂(뒤져서 올 치)
 祭(제사 제) 祀(제사 사) 蒸(찔 증) 嘗(맛볼 상)
 제사하되 겨울 제사는 증이라 하고 가을 제사는 상이라 한다.
 稽(조아릴 계) 斎(이마 상) 再(둘 재) 拜(절 배)
@@ -102,10 +102,10 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTIzMjUzNiwtNjk5ODEzMTUzLDcxNT
-k2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0
-MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MD
-I3OSw5NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2
-Mjg4MDM0MSw3OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNj
-YsODIxNzI0NDk3XX0=
+eyJoaXN0b3J5IjpbLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MT
+U5Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIs
+NDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2Nj
+AyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3
+NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMz
+Y2LDgyMTcyNDQ5N119
 -->
