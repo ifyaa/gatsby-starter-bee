@@ -26,12 +26,19 @@ draft: false
 
 ```
 ![](https://i.ibb.co/Y3cw2nN/Screen-Shot-2020-07-13-at-12-05-05-PM.png)
-109 嫡後嗣續 祭祀烝嘗 110 稽顙再拜 悚懼恐惶 
-111 箋牒簡要 顧答審詳 112 骸垢想浴 執熱願涼 
-113 驢騾犢特 駭躍超驤 114 誅斬賊盜 捕獲叛亡 
+
 
 54
+```js
+181頁머리 혈
 
+182風바람 풍
+183飛날 비
+184食밥 식
+```
+109 嫡後嗣續 祭祀烝嘗 
+110 稽顙再拜 悚懼恐惶 
+```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
 
 적자된 자, 즉 장남은 뒤를 계승하여 대를 이룬다.
@@ -47,8 +54,16 @@ draft: false
 悚(두려워할 송) 懼(두려워할 구) 恐(두려워할 공) 惶(두려워할 황)
 
 송구하고 공황하니 엄중, 공경함이 지극함이라.(3년상 이후의 제사시의 몸가짐이다.)
-
+```
 55
+```js
+185首머리 수
+186香향기 향
+18710획 →馬말 마
+```
+111 箋牒簡要 顧答審詳 
+112 骸垢想浴 執熱願涼 
+
 
 烗(편지 전) 牒(편지 첩) 簡(편지 간) 要(중요 요)
 
@@ -67,6 +82,8 @@ draft: false
 더우면 서늘하기를 원한다.
 
 56
+113 驢騾犢特 駭躍超驤 
+114 誅斬賊盜 捕獲叛亡 
 
 驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
 
@@ -85,9 +102,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Nj
-c0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0x
-ODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyODgwMzQxLDc5NzkzND
-E3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
-
+eyJoaXN0b3J5IjpbLTE4OTEyMjIzMDMsODIwNjQ0MjYyLDQxND
+MxOTcwLC0xNjY5Njc0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5
+LDk2MjgxNDY2LC0xODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyOD
+gwMzQxLDc5NzkzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4
+MjE3MjQ0OTddfQ==
 -->
