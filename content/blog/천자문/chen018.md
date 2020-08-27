@@ -36,8 +36,8 @@ draft: false
 183飛날 비
 184食밥 식
 ```
-109 嫡後嗣續 祭祀烝嘗 wj
-110 稽顙再拜 悚懼恐惶 
+109 嫡後嗣續 祭祀烝嘗 적후사속 제사증상
+110 稽顙再拜 悚懼恐惶 계상재배 송구공황
 ```js
 嫡(정실 적) 後(뒤 후) 嗣(이을 사) 續(이을 속)
 적자된 자, 즉 장남은 뒤를 계승하여 대를 이룬다.
@@ -101,9 +101,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzg1MzA3MywzNDg2MTQxMTQsMzY4Mj
-QzMzM0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywx
-NDE0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1Mz
-A1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5MzQxNzEsLTE0
-ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
+eyJoaXN0b3J5IjpbNzE1OTY3OTM0LDM0ODYxNDExNCwzNjgyND
+MzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Njc0NDIzLDE0
+MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0xODU3NjUzMD
+UxLC0yMTU2OTA5OTMsNzYyODgwMzQxLDc5NzkzNDE3MSwtMTQ4
+MzQ3OTcwLDk5MDg1MzM2Niw4MjE3MjQ0OTddfQ==
 -->
