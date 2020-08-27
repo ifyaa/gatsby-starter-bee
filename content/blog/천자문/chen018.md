@@ -46,6 +46,8 @@ draft: false
 
 祭(제사 제) 祀(제사 사) 蒸(찔 증) 嘗(맛볼 상)
 제사하되 겨울 제사는 증이라 하고 가을 제사는 상이라 한다.
+嘗자는 尙(오히려 상)자와 旨(맛있을 지)자가 결합한 모습이다. 尙자는 집을 그린 것
+
 稽(조아릴 계) 斎(이마 상) 再(둘 재) 拜(절 배)
 이마를 조아려 선조에게 두 번 절한다.
 悚(두려워할 송) 懼(두려워할 구) 恐(두려워할 공) 惶(두려워할 황)
@@ -104,10 +106,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI4MDY4NDUsLTEzMDA1MzI3NjIsLT
-Y5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMz
-NCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxND
-Q2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEs
-LTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzND
-c5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
+eyJoaXN0b3J5IjpbMTI3ODcxOTA0NCwtMTcxMjgwNjg0NSwtMT
+MwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2NzkzNCwzNDg2MTQx
+MTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OT
+Y3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5NjI4MTQ2Niwt
+MTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0MSw3OTc5Mz
+QxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIxNzI0NDk3XX0=
+
 -->
