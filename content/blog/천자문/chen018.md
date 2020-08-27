@@ -82,6 +82,11 @@ draft: false
 더우면 서늘하기를 원한다.
 
 56
+```js
+188骨뼈 골
+189高높을 고
+190髟머리털드리워질 표
+```
 113 驢騾犢特 駭躍超驤 
 114 誅斬賊盜 捕獲叛亡 
 
@@ -102,9 +107,9 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEyMjIzMDMsODIwNjQ0MjYyLDQxND
-MxOTcwLC0xNjY5Njc0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5
-LDk2MjgxNDY2LC0xODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyOD
-gwMzQxLDc5NzkzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Niw4
-MjE3MjQ0OTddfQ==
+eyJoaXN0b3J5IjpbMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMT
+k3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5
+NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MD
+M0MSw3OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjYsODIx
+NzI0NDk3XX0=
 -->
