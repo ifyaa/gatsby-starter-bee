@@ -30,10 +30,10 @@ draft: false
 
 54
 ```js
-181頁머리 혈 嫡(정실 적) 後(뒤 후)
+181頁머리 혈 嫡(정실 적) 後(뒤 후)   머리혈에 적이 후면에 있따
 
-182風바람 풍 祭(제사 제) 祀(제사 사)
-183飛날 비   稽(조아릴 계) 斎(이마 상)   날
+182風바람 풍 祭(제사 제) 祀(제사 사)    바람이 불면 제사를 지낸다
+183飛날 비   稽(조아릴 계) 斎(이마 상)    비짜루가 날면 계산이 안된다
 184食밥 식   悚(두려워할 송) 懼(두려워할 구) 밥먹을때 마다 송구하다
 ```
 109 嫡後嗣續 祭祀烝嘗 적후사속 제사증상
@@ -101,7 +101,7 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTIyMzQyMCw3MTU5Njc5MzQsMzQ4Nj
+eyJoaXN0b3J5IjpbLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4Nj
 E0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2
 Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0Nj
 YsLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3
