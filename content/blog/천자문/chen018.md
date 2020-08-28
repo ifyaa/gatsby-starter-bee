@@ -61,7 +61,7 @@ draft: false
 186香향기 향     骸(뼈 해)            향기가 뼈에 해롭다
 18710획 →馬말 마 執(잡을 집) 熱(더울 열) 말을 잡아서 집에두면 열받아
 ```
-111 箋牒簡要 顧答審詳 전첩간요 고답심상
+111 牋牒簡要 顧答審詳 전첩간요 고답심상
 112 骸垢想浴 執熱願涼 해구상욕 집열원량
 
 ```js
@@ -101,11 +101,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgxOTc0MjUsLTQyODAzMzUxNiwxMz
-k0NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4NDUsLTEzMDA1
-MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0MTE0LD
-M2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0
-MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYsLTE4NT
-c2NTMwNTEsLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcx
-XX0=
+eyJoaXN0b3J5IjpbLTgzNzg3OTE1MywtMTY2ODE5NzQyNSwtND
+I4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOCwtMTcxMjgw
+Njg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2NzkzNC
+wzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMTk3
+MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5Nj
+I4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0
+MV19
 -->
