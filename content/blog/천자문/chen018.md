@@ -66,6 +66,7 @@ draft: false
 
 ```js
 烗(편지 전) 牒(편지 첩) 簡(편지 간) 要(중요 요)
+要자는 襾(덮을 아)자
 
 顧(돌아볼 고) 答(대답 답) 審(살필 심) 詳(자세할 상)
 
@@ -101,11 +102,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzg3OTE1MywtMTY2ODE5NzQyNSwtND
-I4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOCwtMTcxMjgw
-Njg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2NzkzNC
-wzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQzMTk3
-MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3OSw5Nj
-I4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mjg4MDM0
-MV19
+eyJoaXN0b3J5IjpbLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMT
+Y2ODE5NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1
+OTIwOCwtMTcxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMT
+UzLDcxNTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0
+NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLD
+g5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1Njkw
+OTkzXX0=
 -->
