@@ -7,7 +7,7 @@ draft: false
 ##180  팔굽혀펴기
  #### 머리혈에 바람이 불어 밥이 날아왔다
 ####말의 머리에 향기가 난다
-####말의 골뼈는 높고 머리털이 드리워진 표가난다
+####말머리에  골고표가 붙었다
 
 ```js
 181頁머리 혈
@@ -101,11 +101,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDQzOTE5LC0xNTI2NTU5MjA4LC0xNz
-EyODA2ODQ1LC0xMzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OTY3
-OTM0LDM0ODYxNDExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQxND
-MxOTcwLC0xNjY5Njc0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5
-LDk2MjgxNDY2LC0xODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyOD
-gwMzQxLDc5NzkzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Nl19
-
+eyJoaXN0b3J5IjpbLTQyODAzMzUxNiwxMzk0NDM5MTksLTE1Mj
+Y1NTkyMDgsLTE3MTI4MDY4NDUsLTEzMDA1MzI3NjIsLTY5OTgx
+MzE1Myw3MTU5Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMzNCw4Mj
+A2NDQyNjIsNDE0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYy
+Myw4OTI2NjAyNzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNT
+Y5MDk5Myw3NjI4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzBd
+fQ==
 -->
