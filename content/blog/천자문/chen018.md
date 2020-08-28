@@ -57,7 +57,7 @@ draft: false
 ```
 55
 ```js
-185首머리 수
+185首머리 수  烗(편지 전)
 186香향기 향
 18710획 →馬말 마
 ```
@@ -67,19 +67,13 @@ draft: false
 ```js
 烗(편지 전) 牒(편지 첩) 簡(편지 간) 要(중요 요)
 
-글과 편지는 간략함을 요한다.
-
 顧(돌아볼 고) 答(대답 답) 審(살필 심) 詳(자세할 상)
-
-편지의 회답도 자세히 살펴 써야 한다.
 
 骸(뼈 해) 垢(때 구) 想(생각할 상) 浴(목욕할 욕)
 
-몸에 때가 끼면 목욕하기를 생각하고.
-
 執(잡을 집) 熱(더울 열) 願(원할 원) 凉(서늘할 량)
 
-더우면 서늘하기를 원한다.
+
 ```
 56
 ```js
@@ -107,11 +101,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIwOTU4NzYsLTE1MjY1NTkyMDgsLT
-E3MTI4MDY4NDUsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5
-Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsND
-E0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAy
-NzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3Nj
-I4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2
-XX0=
+eyJoaXN0b3J5IjpbOTI5NjI3MzgwLC0xNTI2NTU5MjA4LC0xNz
+EyODA2ODQ1LC0xMzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OTY3
+OTM0LDM0ODYxNDExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQxND
+MxOTcwLC0xNjY5Njc0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5
+LDk2MjgxNDY2LC0xODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyOD
+gwMzQxLDc5NzkzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Nl19
+
 -->
