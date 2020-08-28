@@ -57,8 +57,8 @@ draft: false
 ```
 55
 ```js
-185首머리 수     烗(편지 전)顧(돌아볼 고) 머리수는 
-186香향기 향     骸(뼈 해)           향기가 뼈에 해롭다
+185首머리 수     烗(편지 전)顧(돌아볼 고) 머리수는 전에 쓴 편지를 돌아보면 고상하게 쓰여있다
+186香향기 향     骸(뼈 해)            향기가 뼈에 해롭다
 18710획 →馬말 마 執(잡을 집) 熱(더울 열) 말을 잡아서 집에두면 열받아
 ```
 111 箋牒簡要 顧答審詳 전첩간요 고답심상
@@ -101,11 +101,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjUzNzE3MiwtMTUyNjU1OTIwOCwtMT
-cxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2
-NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MT
-QzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2MDI3
-OSw5NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1NjkwOTkzLDc2Mj
-g4MDM0MSw3OTc5MzQxNzEsLTE0ODM0Nzk3MCw5OTA4NTMzNjZd
-fQ==
+eyJoaXN0b3J5IjpbMTM5NDQzOTE5LC0xNTI2NTU5MjA4LC0xNz
+EyODA2ODQ1LC0xMzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OTY3
+OTM0LDM0ODYxNDExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQxND
+MxOTcwLC0xNjY5Njc0NDIzLDE0MTQ0NjM2MjMsODkyNjYwMjc5
+LDk2MjgxNDY2LC0xODU3NjUzMDUxLC0yMTU2OTA5OTMsNzYyOD
+gwMzQxLDc5NzkzNDE3MSwtMTQ4MzQ3OTcwLDk5MDg1MzM2Nl19
+
 -->
