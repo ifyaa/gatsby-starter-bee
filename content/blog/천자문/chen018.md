@@ -61,10 +61,10 @@ draft: false
 186香향기 향
 18710획 →馬말 마
 ```
-111 箋牒簡要 顧答審詳 
-112 骸垢想浴 執熱願涼 
+111 箋牒簡要 顧答審詳 전첩간요 고답심상
+112 骸垢想浴 執熱願涼 해구상욕 집열원량
 
-
+```js
 烗(편지 전) 牒(편지 첩) 簡(편지 간) 要(중요 요)
 
 글과 편지는 간략함을 요한다.
@@ -80,7 +80,7 @@ draft: false
 執(잡을 집) 熱(더울 열) 願(원할 원) 凉(서늘할 량)
 
 더우면 서늘하기를 원한다.
-
+```
 56
 ```js
 188骨뼈 골
@@ -107,11 +107,11 @@ draft: false
 배반하고  도망하는  자를  잡아  죄를  다스린다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1NTkyMDgsLTE3MTI4MDY4NDUsLT
-EzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0
-MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLTE2Nj
-k2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0NjYs
-LTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3NjI4ODAzNDEsNzk3OT
-M0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2LDgyMTcyNDQ5N119
-
+eyJoaXN0b3J5IjpbLTEzMzIwOTU4NzYsLTE1MjY1NTkyMDgsLT
+E3MTI4MDY4NDUsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5
+Njc5MzQsMzQ4NjE0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsND
+E0MzE5NzAsLTE2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAy
+NzksOTYyODE0NjYsLTE4NTc2NTMwNTEsLTIxNTY5MDk5Myw3Nj
+I4ODAzNDEsNzk3OTM0MTcxLC0xNDgzNDc5NzAsOTkwODUzMzY2
+XX0=
 -->
