@@ -84,29 +84,23 @@ draft: false
 ```
 113 驢騾犢特 駭躍超驤 
 114 誅斬賊盜 捕獲叛亡 
-
+```js
 驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
-
-나귀와 노새와 송아지, 즉 가축을 말한다.
 
 駭(놀랄 해) 躍(뛸 약) 超(넘을 초) 槐(달릴 양)
 
-뛰고 달리며 노는 가축의 모습을 말한다.
-
 誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
-
-역적과 도적을 베어 물리침.
 
 捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
 
-배반하고  도망하는  자를  잡아  죄를  다스린다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMT
-Y2ODE5NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1
-OTIwOCwtMTcxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMT
-UzLDcxNTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0
-NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLD
-g5MjY2MDI3OSw5NjI4MTQ2NiwtMTg1NzY1MzA1MSwtMjE1Njkw
-OTkzXX0=
+eyJoaXN0b3J5IjpbLTc3OTk3ODQ0NCwtMjEyMDYwOTk2MSwtOD
+M3ODc5MTUzLC0xNjY4MTk3NDI1LC00MjgwMzM1MTYsMTM5NDQz
+OTE5LC0xNTI2NTU5MjA4LC0xNzEyODA2ODQ1LC0xMzAwNTMyNz
+YyLC02OTk4MTMxNTMsNzE1OTY3OTM0LDM0ODYxNDExNCwzNjgy
+NDMzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Njc0NDIzLD
+E0MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0xODU3NjUz
+MDUxXX0=
 -->
