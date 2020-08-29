@@ -98,7 +98,7 @@ hair
 口 knee
 
 03
-31囗에워쌀 위
+31囗에워쌀 위. foot 
 32土흙 토
 33士선비 사
 34夂뒤쳐올 치
@@ -115,8 +115,8 @@ hair
  horse. deer. rabbit 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4Njg5MTAsNjQ0MzkwMzI4LC0zMT
-U1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMyMiwtOTI3NDE5NTA4
-LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNz
-k4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQyODY1NjYsLTE1NjE4Njg5MTAsNj
+Q0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMy
+MiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMT
+k2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
 -->
