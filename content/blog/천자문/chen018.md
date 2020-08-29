@@ -78,7 +78,7 @@ draft: false
 ```
 56
 ```js
-188骨뼈 골
+188骨뼈 골    驢(나귀 려)
 189高높을 고
 190髟머리털드리워질 표
 ```
@@ -96,7 +96,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODk2NzkwMSwtNzc5OTc4NDQ0LC0yMT
+eyJoaXN0b3J5IjpbMTA1MTYxNTI3OCwtNzc5OTc4NDQ0LC0yMT
 IwNjA5OTYxLC04Mzc4NzkxNTMsLTE2NjgxOTc0MjUsLTQyODAz
 MzUxNiwxMzk0NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4ND
 UsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4
