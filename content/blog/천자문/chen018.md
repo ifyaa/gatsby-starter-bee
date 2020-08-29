@@ -85,8 +85,9 @@ draft: false
 113 驢騾犢特 駭躍超驤 려라독특 해약초양
 114 誅斬賊盜 捕獲叛亡  주참적도 포획반망
 ```js
-驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
+驢(나귀 려) 岲騾(노새 라) 犢(송아지 독) 特(특별, 수컷 특)
 纍자는 여러 번 반복한다는 의미에서 ‘여러’나 ‘자주’, ‘묶다’라는 뜻
+
 駭(놀랄 해) 躍(뛸 약) 超(넘을 초) 槐(달릴 양)
 
 誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
@@ -96,7 +97,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzY2MDE5OCwxMTkwMDQ1MTA4LC03Nz
+eyJoaXN0b3J5IjpbMTM1MzAyNzMwNywxMTkwMDQ1MTA4LC03Nz
 k5Nzg0NDQsLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMTY2ODE5
 NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOC
 wtMTcxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcx
