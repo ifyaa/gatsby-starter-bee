@@ -4,7 +4,8 @@ date: 2020-07-14
 category: '천자문'
 draft: false
 ---
-190 귀신 신비아파트
+190 구신 신비아파트
+
 ##귀신이 술먹고 솥위에서 창들고 싸운다
 ##솥에 소금을 넣고  물고기와 새를 삶는다
 ##삼베입은 사슴이 보리떡을 먹는다
@@ -91,7 +92,7 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzU5ODU0LC04NDA5ODIwMDYsLTE0MD
+eyJoaXN0b3J5IjpbMjMzNTYxNjIwLC04NDA5ODIwMDYsLTE0MD
 Q1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIs
 MTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMD
 E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
