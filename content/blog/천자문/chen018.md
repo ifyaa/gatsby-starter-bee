@@ -78,7 +78,7 @@ draft: false
 ```
 56
 ```js
-188骨뼈 골    驢(나귀 려)駭(놀랄 해) 뼈골을 보면 나귀 해벌쩍한다
+188骨뼈 골    驢(나귀 려)駭(놀랄 해) 뼈골을 보면 당나귀여자가 놀라 해약을 먹는다
 189高높을 고  誅(벨 주) 斬(벨 참)  높은곳에서 주참하고
 190髟머리털드리워질 표  捕(잡을 포) 獲(얻을 획) 머리털표로 포획한다
 ``` 
@@ -96,7 +96,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjg1ODg4NiwtNzc5OTc4NDQ0LC0yMT
+eyJoaXN0b3J5IjpbMTE5MDA0NTEwOCwtNzc5OTc4NDQ0LC0yMT
 IwNjA5OTYxLC04Mzc4NzkxNTMsLTE2NjgxOTc0MjUsLTQyODAz
 MzUxNiwxMzk0NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4ND
 UsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4
