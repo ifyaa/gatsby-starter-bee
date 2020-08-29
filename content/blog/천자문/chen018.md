@@ -96,17 +96,18 @@ draft: false
 朱자는 木(나무 목)자와 丿(삐침 별)자가 결합
 朱자는 본래 적심목(赤心木)이라 불리는 나무를 뜻하던 글자
 ##### 戎**병장기 융/오랑캐 융**
+賊자를 보면 貝자와 戈(창 과)자, 人(사람 인)자
 
 捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjQ3NTMzMywtMTU5ODMyOTUwNiwxMz
-UzMDI3MzA3LDExOTAwNDUxMDgsLTc3OTk3ODQ0NCwtMjEyMDYw
-OTk2MSwtODM3ODc5MTUzLC0xNjY4MTk3NDI1LC00MjgwMzM1MT
-YsMTM5NDQzOTE5LC0xNTI2NTU5MjA4LC0xNzEyODA2ODQ1LC0x
-MzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OTY3OTM0LDM0ODYxND
-ExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5
-Njc0NDIzXX0=
+eyJoaXN0b3J5IjpbLTE4MzgzNzI5MDEsMTU3NjQ3NTMzMywtMT
+U5ODMyOTUwNiwxMzUzMDI3MzA3LDExOTAwNDUxMDgsLTc3OTk3
+ODQ0NCwtMjEyMDYwOTk2MSwtODM3ODc5MTUzLC0xNjY4MTk3ND
+I1LC00MjgwMzM1MTYsMTM5NDQzOTE5LC0xNTI2NTU5MjA4LC0x
+NzEyODA2ODQ1LC0xMzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OT
+Y3OTM0LDM0ODYxNDExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQx
+NDMxOTcwXX0=
 -->
