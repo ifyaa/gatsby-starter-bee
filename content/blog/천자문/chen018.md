@@ -93,17 +93,19 @@ draft: false
 超자는 走(달릴 주)자와 召(부를 소)자가 결합
 
 誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
+朱자는 木(나무 목)자와 丿(삐침 별)자가 결합
+朱자는 본래 적심목(赤心木)이라 불리는 나무를 뜻하던 글자
 
 捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
 
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgzMjk1MDYsMTM1MzAyNzMwNywxMT
-kwMDQ1MTA4LC03Nzk5Nzg0NDQsLTIxMjA2MDk5NjEsLTgzNzg3
-OTE1MywtMTY2ODE5NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOS
-wtMTUyNjU1OTIwOCwtMTcxMjgwNjg0NSwtMTMwMDUzMjc2Miwt
-Njk5ODEzMTUzLDcxNTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMz
-M0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0
-NDYzNjIzXX0=
+eyJoaXN0b3J5IjpbMTU1NzE1MjAzMiwtMTU5ODMyOTUwNiwxMz
+UzMDI3MzA3LDExOTAwNDUxMDgsLTc3OTk3ODQ0NCwtMjEyMDYw
+OTk2MSwtODM3ODc5MTUzLC0xNjY4MTk3NDI1LC00MjgwMzM1MT
+YsMTM5NDQzOTE5LC0xNTI2NTU5MjA4LC0xNzEyODA2ODQ1LC0x
+MzAwNTMyNzYyLC02OTk4MTMxNTMsNzE1OTY3OTM0LDM0ODYxND
+ExNCwzNjgyNDMzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5
+Njc0NDIzXX0=
 -->
