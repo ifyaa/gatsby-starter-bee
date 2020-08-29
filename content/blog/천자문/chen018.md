@@ -102,14 +102,15 @@ draft: false
 捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
 圃(포)와 동자(同字). 田(전☞밭)에 풀(왼손좌(屮☞초목의 싹, 왼손)部)을 심은 모양을 본떠 「채소밭」을 뜻함.
 ##### 萑**풀 많을 추, 물억새 환**
+叛자는 半(반 반)자와 反(되돌릴 반)자가 결합
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzM1MDY2MTQsLTgzNTIyNjA3Nyw0MD
-I1MTkyMjIsMTU3NjQ3NTMzMywtMTU5ODMyOTUwNiwxMzUzMDI3
-MzA3LDExOTAwNDUxMDgsLTc3OTk3ODQ0NCwtMjEyMDYwOTk2MS
-wtODM3ODc5MTUzLC0xNjY4MTk3NDI1LC00MjgwMzM1MTYsMTM5
-NDQzOTE5LC0xNTI2NTU5MjA4LC0xNzEyODA2ODQ1LC0xMzAwNT
-MyNzYyLC02OTk4MTMxNTMsNzE1OTY3OTM0LDM0ODYxNDExNCwz
-NjgyNDMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTMzNjMxMTI5NSwtODM1MjI2MDc3LDQwMj
+UxOTIyMiwxNTc2NDc1MzMzLC0xNTk4MzI5NTA2LDEzNTMwMjcz
+MDcsMTE5MDA0NTEwOCwtNzc5OTc4NDQ0LC0yMTIwNjA5OTYxLC
+04Mzc4NzkxNTMsLTE2NjgxOTc0MjUsLTQyODAzMzUxNiwxMzk0
+NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4NDUsLTEzMDA1Mz
+I3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4NjE0MTE0LDM2
+ODI0MzMzNF19
 -->
