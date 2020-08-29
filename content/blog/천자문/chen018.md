@@ -100,15 +100,15 @@ draft: false
 盜자는 마치 次(버금 차)자와 皿(그릇 명)자가 결합
 
 捕(잡을 포) 獲(얻을 획) 叛(배반할 반) 亡(망할 망/없을 무)
-
+圃(포)와 동자(同字). 田(전☞밭)에 풀(왼손좌(屮☞초목의 싹, 왼손)部)을 심은 모양을 본떠 「채소밭」을 뜻함.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTE5MjIyLDE1NzY0NzUzMzMsLTE1OT
-gzMjk1MDYsMTM1MzAyNzMwNywxMTkwMDQ1MTA4LC03Nzk5Nzg0
-NDQsLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMTY2ODE5NzQyNS
-wtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOCwtMTcx
-MjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcxNTk2Nz
-kzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Miw0MTQz
-MTk3MF19
+eyJoaXN0b3J5IjpbLTgzNTIyNjA3Nyw0MDI1MTkyMjIsMTU3Nj
+Q3NTMzMywtMTU5ODMyOTUwNiwxMzUzMDI3MzA3LDExOTAwNDUx
+MDgsLTc3OTk3ODQ0NCwtMjEyMDYwOTk2MSwtODM3ODc5MTUzLC
+0xNjY4MTk3NDI1LC00MjgwMzM1MTYsMTM5NDQzOTE5LC0xNTI2
+NTU5MjA4LC0xNzEyODA2ODQ1LC0xMzAwNTMyNzYyLC02OTk4MT
+MxNTMsNzE1OTY3OTM0LDM0ODYxNDExNCwzNjgyNDMzMzQsODIw
+NjQ0MjYyXX0=
 -->
