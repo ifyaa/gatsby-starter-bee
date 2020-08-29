@@ -82,8 +82,8 @@ draft: false
 189高높을 고
 190髟머리털드리워질 표
 ```
-113 驢騾犢特 駭躍超驤 
-114 誅斬賊盜 捕獲叛亡 
+113 驢騾犢特 駭躍超驤 려라독특 해약초양
+114 誅斬賊盜 捕獲叛亡  주참적도 포획반망
 ```js
 驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
 
@@ -96,11 +96,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTk3ODQ0NCwtMjEyMDYwOTk2MSwtOD
-M3ODc5MTUzLC0xNjY4MTk3NDI1LC00MjgwMzM1MTYsMTM5NDQz
-OTE5LC0xNTI2NTU5MjA4LC0xNzEyODA2ODQ1LC0xMzAwNTMyNz
-YyLC02OTk4MTMxNTMsNzE1OTY3OTM0LDM0ODYxNDExNCwzNjgy
-NDMzMzQsODIwNjQ0MjYyLDQxNDMxOTcwLC0xNjY5Njc0NDIzLD
-E0MTQ0NjM2MjMsODkyNjYwMjc5LDk2MjgxNDY2LC0xODU3NjUz
-MDUxXX0=
+eyJoaXN0b3J5IjpbLTUyODk2NzkwMSwtNzc5OTc4NDQ0LC0yMT
+IwNjA5OTYxLC04Mzc4NzkxNTMsLTE2NjgxOTc0MjUsLTQyODAz
+MzUxNiwxMzk0NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4ND
+UsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4
+NjE0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLT
+E2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0
+NjZdfQ==
 -->
