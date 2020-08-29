@@ -97,10 +97,24 @@ hair
 又 leg
 口 knee
 
+03
+31囗에워쌀 위
+32土흙 토
+33士선비 사
+34夂뒤쳐올 치
+
+35夊천천히 걸을 쇠
+36夕저녁 석
+37大큰 대
+
+38女계집 녀
+39子아들 자
+40宀집 면
+ foot 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MT
-cyMzQ4LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAs
-MTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOT
-Y0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE4ODc4OTMwODIsNjQ0MzkwMzI4LC0zMT
+U1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMyMiwtOTI3NDE5NTA4
+LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNz
+k4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
 -->
