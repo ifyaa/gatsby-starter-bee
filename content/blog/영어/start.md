@@ -99,24 +99,24 @@ hair
 
 03
 31囗에워쌀 위. foot 
-32土흙 토
-33士선비 사
-34夂뒤쳐올 치
+32土흙 토.     animals
+33士선비 사.  dog
+34夂뒤쳐올 치.  cat.
 
-35夊천천히 걸을 쇠
-36夕저녁 석
-37大큰 대
+35夊천천히 걸을 쇠. pig
+36夕저녁 석.       cow
+37大큰 대.       sheep
 
-38女계집 녀
-39子아들 자
-40宀집 면
+38女계집 녀.  horse
+39子아들 자.  deer
+40宀집 면.    rabbit 
  foot . animals. dog. cat.  
  pig. cow. sheep. 
  horse. deer. rabbit 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQyODY1NjYsLTE1NjE4Njg5MTAsNj
-Q0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMy
-MiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMT
-k2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbMjExNDk3MzQ4LC0xNTYxODY4OTEwLDY0ND
+M5MDMyOCwtMzE1NTYyMzgsMTE4NTE3MjM0OCw1Mzc1MzgzMjIs
+LTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5Nj
+cwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
