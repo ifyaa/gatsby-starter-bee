@@ -86,7 +86,7 @@ draft: false
 114 誅斬賊盜 捕獲叛亡  주참적도 포획반망
 ```js
 驢(나귀 려) 岲(노새 라) 犢(송아지 독) 特(특별 특)
-
+纍자는 여러 번 반복한다는 의미에서 ‘여러’나 ‘자주’, ‘묶다’라는 뜻
 駭(놀랄 해) 躍(뛸 약) 超(넘을 초) 槐(달릴 양)
 
 誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
@@ -96,11 +96,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDA0NTEwOCwtNzc5OTc4NDQ0LC0yMT
-IwNjA5OTYxLC04Mzc4NzkxNTMsLTE2NjgxOTc0MjUsLTQyODAz
-MzUxNiwxMzk0NDM5MTksLTE1MjY1NTkyMDgsLTE3MTI4MDY4ND
-UsLTEzMDA1MzI3NjIsLTY5OTgxMzE1Myw3MTU5Njc5MzQsMzQ4
-NjE0MTE0LDM2ODI0MzMzNCw4MjA2NDQyNjIsNDE0MzE5NzAsLT
-E2Njk2NzQ0MjMsMTQxNDQ2MzYyMyw4OTI2NjAyNzksOTYyODE0
-NjZdfQ==
+eyJoaXN0b3J5IjpbMjA0MzY2MDE5OCwxMTkwMDQ1MTA4LC03Nz
+k5Nzg0NDQsLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMTY2ODE5
+NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOC
+wtMTcxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcx
+NTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Mi
+w0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2
+MDI3OV19
 -->
