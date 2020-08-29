@@ -110,10 +110,12 @@ hair
 38女계집 녀
 39子아들 자
 40宀집 면
- foot 
+ foot . animals. dog. cat.  
+ pig. cow. sheep. 
+ horse. deer. rabbit 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc4OTMwODIsNjQ0MzkwMzI4LC0zMT
+eyJoaXN0b3J5IjpbLTE1NjE4Njg5MTAsNjQ0MzkwMzI4LC0zMT
 U1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMyMiwtOTI3NDE5NTA4
 LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNz
 k4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
