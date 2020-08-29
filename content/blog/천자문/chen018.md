@@ -89,6 +89,8 @@ draft: false
 纍자는 여러 번 반복한다는 의미에서 ‘여러’나 ‘자주’, ‘묶다’라는 뜻
 
 駭(놀랄 해) 躍(뛸 약) 超(넘을 초) 槐(달릴 양)
+躍자는 足(발 족)자와 翟(꿩 적)자가 결합
+超자는 走(달릴 주)자와 召(부를 소)자가 결합
 
 誅(벨 주) 斬(벨 참) 賊(도적 적) 盜(도적 도)
 
@@ -97,11 +99,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzAyNzMwNywxMTkwMDQ1MTA4LC03Nz
-k5Nzg0NDQsLTIxMjA2MDk5NjEsLTgzNzg3OTE1MywtMTY2ODE5
-NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOSwtMTUyNjU1OTIwOC
-wtMTcxMjgwNjg0NSwtMTMwMDUzMjc2MiwtNjk5ODEzMTUzLDcx
-NTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMzM0LDgyMDY0NDI2Mi
-w0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0NDYzNjIzLDg5MjY2
-MDI3OV19
+eyJoaXN0b3J5IjpbLTE1OTgzMjk1MDYsMTM1MzAyNzMwNywxMT
+kwMDQ1MTA4LC03Nzk5Nzg0NDQsLTIxMjA2MDk5NjEsLTgzNzg3
+OTE1MywtMTY2ODE5NzQyNSwtNDI4MDMzNTE2LDEzOTQ0MzkxOS
+wtMTUyNjU1OTIwOCwtMTcxMjgwNjg0NSwtMTMwMDUzMjc2Miwt
+Njk5ODEzMTUzLDcxNTk2NzkzNCwzNDg2MTQxMTQsMzY4MjQzMz
+M0LDgyMDY0NDI2Miw0MTQzMTk3MCwtMTY2OTY3NDQyMywxNDE0
+NDYzNjIzXX0=
 -->
