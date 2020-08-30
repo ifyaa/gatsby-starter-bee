@@ -134,9 +134,12 @@ hair
 
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
+duck. rooster.bird.mouse.
+squirrel.monkey.elephant.
+snake.lion.tiger
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjE0ODcxMSwyMTE0OTczNDgsLTE1Nj
+eyJoaXN0b3J5IjpbMTI5ODUxNzc2OCwyMTE0OTczNDgsLTE1Nj
 E4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4
 LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1Mz
 YyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYx
