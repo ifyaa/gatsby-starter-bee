@@ -21,7 +21,8 @@ draft: false
 196鳥새 조
 197鹵소금 로
 
-198鹿사슴 록
+198鹿사슴 록  
+해 · 산 · 물 · 돌 · 구름(또는 달) · 소나무 · 불로초 · 거북 · 학 · 사슴
 199麥보리 맥
 200麻삼 마
 ```
@@ -99,9 +100,9 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOT
-gyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYs
-Nzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MD
-MwODU2LC05MTAxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUy
-XX0=
+eyJoaXN0b3J5IjpbLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMT
+c1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5
+MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwND
+k1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0Nzgy
+LDE4OTIyODY1NTJdfQ==
 -->
