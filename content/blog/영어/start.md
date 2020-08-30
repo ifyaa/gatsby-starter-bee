@@ -113,10 +113,27 @@ hair
  foot . animals. dog. cat.  
  pig. cow. sheep. 
  horse. deer. rabbit 
+ 
+41寸마디 촌
+
+42小작을 소
+43尢절름발이 왕
+44尸주검 시
+
+45屮싹날 철
+46山산 산
+47巛개미허리 천
+
+48工장인 공
+49己몸 
+50巾수건  건
+```
+寸 小 尢 尸 屮 山 巛 工 己 巾
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDk3MzQ4LC0xNTYxODY4OTEwLDY0ND
-M5MDMyOCwtMzE1NTYyMzgsMTE4NTE3MjM0OCw1Mzc1MzgzMjIs
-LTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5Nj
-cwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbMTk5ODczODk3NywyMTE0OTczNDgsLTE1Nj
+E4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4
+LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1Mz
+YyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYx
+MTBdfQ==
 -->
