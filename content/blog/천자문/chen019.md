@@ -8,7 +8,7 @@ draft: false
 
 ##귀신이 술먹고 솥위에서 창들고 싸운다
 ##소금통에 물고기와새가 절어있다
-##삼베입은 사슴이 보리떡을 먹는다
+##삼베입은 사슴이 보리맥주 마신다
 
 ```js
 191鬥싸울 투
@@ -100,9 +100,9 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyOTM0MzQsLTk3MDE0Nzc1OSwtMTY1MD
-U0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIs
-LTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5ND
-Y2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2Miwx
-MDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMT
+Y1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1
+ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MT
+M5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2
+MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
 -->
