@@ -118,19 +118,19 @@ hair
  
  04
 ```js
-41寸마디 촌
+41寸마디 촌.  duck
 
-42小작을 소
-43尢절름발이 왕
-44尸주검 시
+42小작을 소.  rooster
+43尢절름발이 왕 bird
+44尸주검 시.  mouse
 
-45屮싹날 철
-46山산 산
-47巛개미허리 천
+45屮싹날 철 squirrel
+46山산 산.  monkey
+47巛개미허리 천 elephant
 
-48工장인 공
-49己몸 
-50巾수건  건
+48工장인 공 snake
+49己몸  기  lion
+50巾수건  건. tiger
 
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
@@ -139,7 +139,7 @@ squirrel.monkey.elephant.
 snake.lion.tiger
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODUxNzc2OCwyMTE0OTczNDgsLTE1Nj
+eyJoaXN0b3J5IjpbLTI1NDExMDI4NSwyMTE0OTczNDgsLTE1Nj
 E4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4
 LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1Mz
 YyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYx
