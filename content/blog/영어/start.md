@@ -132,6 +132,7 @@ hair
 49己몸  기  lion
 50巾수건  건. tiger
 
+지게막대기 오리묶고, 돌멩이 닭묶고, 아저씨 새되고, 사슴은 쥐됐다. 산에는 원숭이
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
 duck. rooster.bird.mouse.
@@ -139,9 +140,9 @@ squirrel.monkey.elephant.
 snake.lion.tiger
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDExMDI4NSwyMTE0OTczNDgsLTE1Nj
-E4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4
-LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1Mz
-YyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYx
-MTBdfQ==
+eyJoaXN0b3J5IjpbMTc2MzgwNDgyOSwtMjU0MTEwMjg1LDIxMT
+Q5NzM0OCwtMTU2MTg2ODkxMCw2NDQzOTAzMjgsLTMxNTU2MjM4
+LDExODUxNzIzNDgsNTM3NTM4MzIyLC05Mjc0MTk1MDgsMTU3Nj
+YzNjYxMCwxNDUzNjI1MDMxLC0xOTY3MDgxMTUwLC03OTg2MzUz
+ODcsLTE5NjQxNjExMF19
 -->
