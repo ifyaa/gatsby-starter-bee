@@ -98,6 +98,7 @@ hair
 口 knee
 
 03
+```js
 31囗에워쌀 위. foot 
 32土흙 토.     animals
 33士선비 사.  dog
@@ -110,10 +111,13 @@ hair
 38女계집 녀.  horse
 39子아들 자.  deer
 40宀집 면.    rabbit 
+```
  foot . animals. dog. cat.  
  pig. cow. sheep. 
  horse. deer. rabbit 
  
+ 04
+```js
 41寸마디 촌
 
 42小작을 소
@@ -127,11 +131,12 @@ hair
 48工장인 공
 49己몸 
 50巾수건  건
-```
+
 寸 小 尢 尸 屮 山 巛 工 己 巾
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODczODk3NywyMTE0OTczNDgsLTE1Nj
+eyJoaXN0b3J5IjpbMTQ4MjE0ODcxMSwyMTE0OTczNDgsLTE1Nj
 E4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MTcyMzQ4
 LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAsMTQ1Mz
 YyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOTY0MTYx
