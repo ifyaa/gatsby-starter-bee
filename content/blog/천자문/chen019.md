@@ -15,7 +15,7 @@ draft: false
 
 192鬯울창주 창
 193鬲솥 력
-194鬼귀신 귀
+194鬼귀신 귀  ##### 甶 **귀신 머리 불**
 
 19511획 →魚물고기 어
 196鳥새 조
@@ -99,8 +99,9 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NT
-Y0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEz
-NTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOT
-kzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOT
+gyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYs
+Nzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MD
+MwODU2LC05MTAxOTkzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUy
+XX0=
 -->
