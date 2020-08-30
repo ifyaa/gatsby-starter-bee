@@ -32,13 +32,22 @@ draft: false
       
       
      
-115 布射僚丸 嵇琴阮嘯 116 恬筆倫紙 鈞巧任釣 
+
 117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 
 
 57
+```js
+191鬥싸울 투
 
+192鬯울창주 창
+193鬲솥 력
+194鬼귀신 귀
+```
+##### 115 布射僚丸 嵇琴阮嘯 
+##### 116 恬筆倫紙 鈞巧任釣 
+```js
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 
 한나라 여포는 화살을 잘 쐈고 의료는 탄자를 잘 던졌다.
@@ -54,7 +63,7 @@ draft: false
 鈞(고를 균) 巧(공교할 교) 任(맡길 임) 釣(낚시 조)
 
 위국 마균은 지남거를 만들고 전국시대 임공자는 낚시를 만들었다.
-
+```
 58
 
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
@@ -92,8 +101,8 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNTYxNjIwLC04NDA5ODIwMDYsLTE0MD
-Q1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIs
-MTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMD
-E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzg2NjI0NDgsLTg0MDk4MjAwNiwtMT
+QwNDU2NDU4MiwtMTY1Mjc5NDkxLC03MjI3MTg2LDc5NDk1OTk3
+MiwxMzUxMzk0NjY0LC05ODA0OTU5MTQsMTUyOTAzMDg1NiwtOT
+EwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
 -->
