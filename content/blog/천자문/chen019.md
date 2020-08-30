@@ -26,15 +26,11 @@ draft: false
 200麻삼 마
 ```
 
-**##鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
+**## 鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
 
       
-      
-     
 
-117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
-119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 
 
 57
@@ -45,8 +41,8 @@ draft: false
 193鬲솥 력
 194鬼귀신 귀
 ```
-##### 115 布射僚丸 嵇琴阮嘯 
-##### 116 恬筆倫紙 鈞巧任釣 
+#### 115 布射僚丸 嵇琴阮嘯 
+#### 116 恬筆倫紙 鈞巧任釣 
 ```js
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 
@@ -65,6 +61,7 @@ draft: false
 위국 마균은 지남거를 만들고 전국시대 임공자는 낚시를 만들었다.
 ```
 58
+117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
 
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
 
@@ -83,6 +80,7 @@ draft: false
 이 두 미인의 웃는 모습이 매우 곱고 아름다웠다.
 
 59
+119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
 
@@ -101,8 +99,8 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzg2NjI0NDgsLTg0MDk4MjAwNiwtMT
-QwNDU2NDU4MiwtMTY1Mjc5NDkxLC03MjI3MTg2LDc5NDk1OTk3
-MiwxMzUxMzk0NjY0LC05ODA0OTU5MTQsMTUyOTAzMDg1NiwtOT
-EwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NT
+Y0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEz
+NTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOT
+kzNjIsMTA1MDMzNDc4MiwxODkyMjg2NTUyXX0=
 -->
