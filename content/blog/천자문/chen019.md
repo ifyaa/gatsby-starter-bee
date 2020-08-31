@@ -56,6 +56,9 @@ draft: false
 ##### 侖 冊(책)과 집(亼)의 합자(合字
 
 鈞(고를  균) 巧(공교할  교) 任(맡길 임) 釣(낚시 조)
+##### 勻  쌀포몸(勹☞싸다)部와 二(이)를 합친 글
+
+**고를 균**
 ```
 58
 117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
@@ -96,11 +99,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNj
-AwODczLDcyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5
-NDY4OTg1NTIsLTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MD
-U0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIs
-LTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5ND
-Y2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2Ml19
+eyJoaXN0b3J5IjpbMjkxNzE5MjQ2LDMwMzg1MTQ3MiwyMDQ5OT
+M1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3
+NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxND
+c3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2LC0x
+NDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OT
+cyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2XX0=
 
 -->
