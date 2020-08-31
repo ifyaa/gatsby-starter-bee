@@ -145,7 +145,7 @@ snake.lion.tiger
 53广집 엄      giraffe 집에 기린이 목빼고 기달리고 있고
 54廴길게 걸을 인 kangaroo 캥거루 뱃속에 들어가서 길게걸어 인사하고
 
-55廾두 손 받들 공 camel  완이대신 낙타
+55廾두 손 받들 공 camel  완이대신 등이 두개인 낙타가
 56弋주살 익      zebra
 57弓활 궁        hippo
 
@@ -160,10 +160,10 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQxNTE5MzIsNjU1NTE0OTg1LDEyNj
-Q1NDE0MSwxNzYzODA0ODI5LC0yNTQxMTAyODUsMjExNDk3MzQ4
-LC0xNTYxODY4OTEwLDY0NDM5MDMyOCwtMzE1NTYyMzgsMTE4NT
-E3MjM0OCw1Mzc1MzgzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEw
-LDE0NTM2MjUwMzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMT
-k2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbNzkyMzAyNTAxLDY1NTUxNDk4NSwxMjY0NT
+QxNDEsMTc2MzgwNDgyOSwtMjU0MTEwMjg1LDIxMTQ5NzM0OCwt
+MTU2MTg2ODkxMCw2NDQzOTAzMjgsLTMxNTU2MjM4LDExODUxNz
+IzNDgsNTM3NTM4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwx
+NDUzNjI1MDMxLC0xOTY3MDgxMTUwLC03OTg2MzUzODcsLTE5Nj
+QxNjExMF19
 -->
