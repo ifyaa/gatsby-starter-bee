@@ -147,11 +147,11 @@ snake.lion.tiger
 
 55廾두 손 받들 공 camel
 56弋주살 익      zebra
-57弓활 궁
+57弓활 궁        hippo
 
-58彑돼지머리 계
-59彡터럭 삼
-60彳조금 걸을 척
+58彑돼지머리 계   frog
+59彡터럭 삼      turtle
+60彳조금 걸을 척  corcodile
 ```
 干 幺 广 廴 廾 弋 弓 彐(彑) 彡 彳
 
@@ -160,7 +160,7 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzA2NjAxNiwxMjY0NTQxNDEsMTc2Mz
+eyJoaXN0b3J5IjpbLTQ2OTU1NjA4MiwxMjY0NTQxNDEsMTc2Mz
 gwNDgyOSwtMjU0MTEwMjg1LDIxMTQ5NzM0OCwtMTU2MTg2ODkx
 MCw2NDQzOTAzMjgsLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
 M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
