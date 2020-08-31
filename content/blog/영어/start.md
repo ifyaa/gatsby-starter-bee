@@ -142,8 +142,8 @@ snake.lion.tiger
 ```js
 51干방패 간     bear 방패는 곰이 들고있다
 52幺작을 요     fox  작은여우
-53广집 엄      giraffe 집에 기린이 있고
-54廴길게 걸을 인 kangaroo 캥거루 뱃속에 들어가서 
+53广집 엄      giraffe 집에 기린이 목빼고 기달리고 있고
+54廴길게 걸을 인 kangaroo 캥거루 뱃속에 들어가서 길게걸어 인사하고
 
 55廾두 손 받들 공 camel  완이대신 낙타
 56弋주살 익      zebra
@@ -160,10 +160,10 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTU3NjEyNyw2NTU1MTQ5ODUsMTI2ND
-U0MTQxLDE3NjM4MDQ4MjksLTI1NDExMDI4NSwyMTE0OTczNDgs
-LTE1NjE4Njg5MTAsNjQ0MzkwMzI4LC0zMTU1NjIzOCwxMTg1MT
-cyMzQ4LDUzNzUzODMyMiwtOTI3NDE5NTA4LDE1NzY2MzY2MTAs
-MTQ1MzYyNTAzMSwtMTk2NzA4MTE1MCwtNzk4NjM1Mzg3LC0xOT
-Y0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQxNTE5MzIsNjU1NTE0OTg1LDEyNj
+Q1NDE0MSwxNzYzODA0ODI5LC0yNTQxMTAyODUsMjExNDk3MzQ4
+LC0xNTYxODY4OTEwLDY0NDM5MDMyOCwtMzE1NTYyMzgsMTE4NT
+E3MjM0OCw1Mzc1MzgzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEw
+LDE0NTM2MjUwMzEsLTE5NjcwODExNTAsLTc5ODYzNTM4NywtMT
+k2NDE2MTEwXX0=
 -->
