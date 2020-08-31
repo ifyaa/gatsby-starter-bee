@@ -150,16 +150,16 @@ hair
 59彡터럭 삼
 60彳조금 걸을 척
 ```
-
+干 幺 广 廴 廾 弋 弓 彐(彑) 彡 彳
 
 duck. rooster.bird.mouse.
 squirrel.monkey.elephant.
 snake.lion.tiger
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM2NDMxNywxNzYzODA0ODI5LC0yNT
-QxMTAyODUsMjExNDk3MzQ4LC0xNTYxODY4OTEwLDY0NDM5MDMy
-OCwtMzE1NTYyMzgsMTE4NTE3MjM0OCw1Mzc1MzgzMjIsLTkyNz
-QxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5NjcwODEx
-NTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
+eyJoaXN0b3J5IjpbODU3OTE1NzMyLDE3NjM4MDQ4MjksLTI1ND
+ExMDI4NSwyMTE0OTczNDgsLTE1NjE4Njg5MTAsNjQ0MzkwMzI4
+LC0zMTU1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMyMiwtOTI3ND
+E5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1
+MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
 -->
