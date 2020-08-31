@@ -41,8 +41,8 @@ draft: false
 193鬲솥 력    恬(편안 념) 筆(붓 필)
 194鬼귀신 귀   鈞(고를 균) 巧(공교할 교)
 ```
-#### 115 布射僚丸 嵇琴阮嘯 
-#### 116 恬筆倫紙 鈞巧任釣 
+#### 115 布射僚丸 嵇琴阮嘯 포사료환 혜금완소
+#### 116 恬筆倫紙 鈞巧任釣 연필 윤지 균교임조
 ```js
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 
@@ -91,10 +91,10 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2OD
-k4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQy
-OTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NTY0NTgyLC0xNj
-UyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEzNTEzOTQ2NjQs
-LTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjIsMTA1MD
-MzNDc4MiwxODkyMjg2NTUyXX0=
+eyJoaXN0b3J5IjpbLTQ1NzY1MDE4NCw4OTI2NjY5NTQsOTc3Nz
+EyMDI2LDE5NDY4OTg1NTIsLTE1NDY3OTc5NjcsLTk3MDE0Nzc1
+OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MD
+Q1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIs
+MTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMD
+E5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
 -->
