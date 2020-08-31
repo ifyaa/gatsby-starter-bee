@@ -56,7 +56,7 @@ draft: false
 
 진국 봉념은 토끼털로 처음 붓을 만들었고 후한 채윤은 처음 종이를 만들었다.
 
-  任(맡길 임) 釣(낚시 조)
+鈞(고를  균) 巧(공교할  교) 任(맡길 임) 釣(낚시 조)
 
 위국 마균은 지남거를 만들고 전국시대 임공자는 낚시를 만들었다.
 ```
@@ -99,9 +99,10 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOT
-cwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNzU4NTgsLTg0MDk4MjAw
-NiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkxLC03MjI3MTg2LDc5ND
-k1OTk3MiwxMzUxMzk0NjY0LC05ODA0OTU5MTQsMTUyOTAzMDg1
-NiwtOTEwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1ND
+Y3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4
+LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNz
+IyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0
+LDE1MjkwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OT
+IyODY1NTJdfQ==
 -->
