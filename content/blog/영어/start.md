@@ -143,9 +143,9 @@ snake.lion.tiger
 51干방패 간     bear
 52幺작을 요     fox
 53广집 엄      giraffe
-54廴길게 걸을 인 kangaroo
+54廴길게 걸을 인 kangaroo 
 
-55廾두 손 받들 공 camel
+55廾두 손 받들 공 camel  완이대신 낙타
 56弋주살 익      zebra
 57弓활 궁        hippo
 
@@ -160,9 +160,9 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTU1NjA4MiwxMjY0NTQxNDEsMTc2Mz
-gwNDgyOSwtMjU0MTEwMjg1LDIxMTQ5NzM0OCwtMTU2MTg2ODkx
-MCw2NDQzOTAzMjgsLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
-M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
-LC0xOTY3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
+eyJoaXN0b3J5IjpbNjU1NTE0OTg1LDEyNjQ1NDE0MSwxNzYzOD
+A0ODI5LC0yNTQxMTAyODUsMjExNDk3MzQ4LC0xNTYxODY4OTEw
+LDY0NDM5MDMyOCwtMzE1NTYyMzgsMTE4NTE3MjM0OCw1Mzc1Mz
+gzMjIsLTkyNzQxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEs
+LTE5NjcwODExNTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
