@@ -36,10 +36,10 @@ draft: false
 
 57
 ```js
-191鬥싸울 투  布(베 포) 射(쏠 사) 
+191鬥싸울 투   布(베 포) 射(쏠 사) 
 192鬯울창주 창 笩(산이름 혜) 琴(거문고 금)
-193鬲솥 력  
-194鬼귀신 귀
+193鬲솥 력    恬(편안 념) 筆(붓 필)
+194鬼귀신 귀   鈞(고를 균) 巧(공교할 교)
 ```
 #### 115 布射僚丸 嵇琴阮嘯 
 #### 116 恬筆倫紙 鈞巧任釣 
@@ -56,7 +56,7 @@ draft: false
 
 진국 봉념은 토끼털로 처음 붓을 만들었고 후한 채윤은 처음 종이를 만들었다.
 
-鈞(고를 균) 巧(공교할 교) 任(맡길 임) 釣(낚시 조)
+  任(맡길 임) 釣(낚시 조)
 
 위국 마균은 지남거를 만들고 전국시대 임공자는 낚시를 만들었다.
 ```
@@ -99,10 +99,9 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzUzNzY2NTMsLTE1NDY3OTc5NjcsLT
-k3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIw
-MDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OT
-Q5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4
-NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ
-==
+eyJoaXN0b3J5IjpbMTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOT
+cwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNzU4NTgsLTg0MDk4MjAw
+NiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkxLC03MjI3MTg2LDc5ND
+k1OTk3MiwxMzUxMzk0NjY0LC05ODA0OTU5MTQsMTUyOTAzMDg1
+NiwtOTEwMTk5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
 -->
