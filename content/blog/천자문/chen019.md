@@ -53,6 +53,7 @@ draft: false
 
 恬(편안 념) 筆(붓 필) 倫(인륜 륜) 紙(종이 지)
 舌 干(간☞내미는 일→실)과 口(구)의 합자(合字).
+##### 侖 冊(책)과 집(亼)의 합자(合字
 
 鈞(고를  균) 巧(공교할  교) 任(맡길 임) 釣(낚시 조)
 ```
@@ -95,11 +96,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzg5MjE2NywyMDQ5OTM1MjE3LDUzMD
-YwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMjAyNiwx
-OTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTksLTE2NT
-A1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NTY0NTgy
-LC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEzNTEzOT
-Q2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjJd
-fQ==
+eyJoaXN0b3J5IjpbMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNj
+AwODczLDcyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5
+NDY4OTg1NTIsLTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MD
+U0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIs
+LTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5ND
+Y2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2Ml19
+
 -->
