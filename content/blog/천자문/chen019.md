@@ -46,19 +46,11 @@ draft: false
 ```js
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 
-한나라 여포는 화살을 잘 쐈고 의료는 탄자를 잘 던졌다.
-
 笩(산이름 혜) 琴(거문고 금) 阮(악기 완) 嘯(휘파람 소)
-
-위국 혜강은 거문고를 잘 타고 완적은 휘파람을 잘 불었다.
 
 恬(편안 념) 筆(붓 필) 倫(인륜 륜) 紙(종이 지)
 
-진국 봉념은 토끼털로 처음 붓을 만들었고 후한 채윤은 처음 종이를 만들었다.
-
 鈞(고를  균) 巧(공교할  교) 任(맡길 임) 釣(낚시 조)
-
-위국 마균은 지남거를 만들고 전국시대 임공자는 낚시를 만들었다.
 ```
 58
 117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
@@ -99,10 +91,10 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1ND
-Y3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4
-LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNz
-IyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0
-LDE1MjkwMzA4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OT
-IyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2OD
+k4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQy
+OTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NTY0NTgyLC0xNj
+UyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEzNTEzOTQ2NjQs
+LTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjIsMTA1MD
+MzNDc4MiwxODkyMjg2NTUyXX0=
 -->
