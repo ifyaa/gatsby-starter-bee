@@ -20,7 +20,7 @@ draft: false
 56弋주살 익
 57弓활 궁
 
-58彑돼지머리 계
+58彑돼지머리 계    彑나 ⺕, 彐 로 쓰기도, 모두 又(또 우)자가 변형
 59彡터럭 삼
 60彳조금 걸을 척
 ```
@@ -29,6 +29,6 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjQyOTQ0Niw1ODQxODAwODMsLTE0Nz
-A2MjgyMTAsMTg0NjAwNDMwMV19
+eyJoaXN0b3J5IjpbMzIxOTkyMjI4LC05OTY0Mjk0NDYsNTg0MT
+gwMDgzLC0xNDcwNjI4MjEwLDE4NDYwMDQzMDFdfQ==
 -->
