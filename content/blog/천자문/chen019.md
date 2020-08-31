@@ -52,6 +52,7 @@ draft: false
 肅자는 聿(붓 율)자와 淵(못 연)자가 결합
 
 恬(편안 념) 筆(붓 필) 倫(인륜 륜) 紙(종이 지)
+舌 干(간☞내미는 일→실)과 口(구)의 합자(合字).
 
 鈞(고를  균) 巧(공교할  교) 任(맡길 임) 釣(낚시 조)
 ```
@@ -94,11 +95,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTkzNTIxNyw1MzA2MDA4NzMsNzI5Mj
-AxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1Miwt
-MTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNz
-U4NTgsLTg0MDk4MjAwNiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkx
-LC03MjI3MTg2LDc5NDk1OTk3MiwxMzUxMzk0NjY0LC05ODA0OT
-U5MTQsMTUyOTAzMDg1NiwtOTEwMTk5MzYyLDEwNTAzMzQ3ODJd
+eyJoaXN0b3J5IjpbLTcwMzg5MjE2NywyMDQ5OTM1MjE3LDUzMD
+YwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMjAyNiwx
+OTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTksLTE2NT
+A1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NTY0NTgy
+LC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyLDEzNTEzOT
+Q2NjQsLTk4MDQ5NTkxNCwxNTI5MDMwODU2LC05MTAxOTkzNjJd
 fQ==
 -->
