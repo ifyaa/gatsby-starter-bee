@@ -140,8 +140,7 @@ snake.lion.tiger
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
 ```js
-51干방패 간
-
+51干방패 간    bear
 52幺작을 요
 53广집 엄
 54廴길게 걸을 인
@@ -161,9 +160,9 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDU0MTQxLDE3NjM4MDQ4MjksLTI1ND
-ExMDI4NSwyMTE0OTczNDgsLTE1NjE4Njg5MTAsNjQ0MzkwMzI4
-LC0zMTU1NjIzOCwxMTg1MTcyMzQ4LDUzNzUzODMyMiwtOTI3ND
-E5NTA4LDE1NzY2MzY2MTAsMTQ1MzYyNTAzMSwtMTk2NzA4MTE1
-MCwtNzk4NjM1Mzg3LC0xOTY0MTYxMTBdfQ==
+eyJoaXN0b3J5IjpbMTcwMjk2MzI5NSwxMjY0NTQxNDEsMTc2Mz
+gwNDgyOSwtMjU0MTEwMjg1LDIxMTQ5NzM0OCwtMTU2MTg2ODkx
+MCw2NDQzOTAzMjgsLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
+M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
+LC0xOTY3MDgxMTUwLC03OTg2MzUzODcsLTE5NjQxNjExMF19
 -->
