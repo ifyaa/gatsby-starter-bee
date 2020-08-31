@@ -140,13 +140,13 @@ snake.lion.tiger
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
 ```js
-51干방패 간    bear
-52幺작을 요
-53广집 엄
-54廴길게 걸을 인
+51干방패 간     bear
+52幺작을 요     fox
+53广집 엄      giraffe
+54廴길게 걸을 인 kangaroo
 
-55廾두 손 받들 공
-56弋주살 익
+55廾두 손 받들 공 camel
+56弋주살 익      zebra
 57弓활 궁
 
 58彑돼지머리 계
@@ -160,7 +160,7 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjk2MzI5NSwxMjY0NTQxNDEsMTc2Mz
+eyJoaXN0b3J5IjpbMTUzNzA2NjAxNiwxMjY0NTQxNDEsMTc2Mz
 gwNDgyOSwtMjU0MTEwMjg1LDIxMTQ5NzM0OCwtMTU2MTg2ODkx
 MCw2NDQzOTAzMjgsLTMxNTU2MjM4LDExODUxNzIzNDgsNTM3NT
 M4MzIyLC05Mjc0MTk1MDgsMTU3NjYzNjYxMCwxNDUzNjI1MDMx
