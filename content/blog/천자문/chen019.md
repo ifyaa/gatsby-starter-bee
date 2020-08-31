@@ -42,7 +42,7 @@ draft: false
 194鬼귀신 귀   鈞(고를 균) 巧(공교할 교)
 ```
 #### 115 布射僚丸 嵇琴阮嘯 포사료환 혜금완소
-#### 116 恬筆倫紙 鈞巧任釣 연필 윤지 균교임조
+#### 116 恬筆倫紙 鈞巧任釣 염필 윤지 균교임조
 ```js
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 
@@ -91,7 +91,7 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzY1MDE4NCw4OTI2NjY5NTQsOTc3Nz
+eyJoaXN0b3J5IjpbMTcxNzc5NTE4MCw4OTI2NjY5NTQsOTc3Nz
 EyMDI2LDE5NDY4OTg1NTIsLTE1NDY3OTc5NjcsLTk3MDE0Nzc1
 OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MD
 Q1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIs
