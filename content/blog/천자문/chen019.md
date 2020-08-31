@@ -49,6 +49,7 @@ draft: false
 
 嵇(산이름 혜) 琴(거문고 금) 阮(악기 완) 嘯(휘파람 소)
 ##### 尤**더욱 우**
+肅자는 聿(붓 율)자와 淵(못 연)자가 결합
 
 恬(편안 념) 筆(붓 필) 倫(인륜 륜) 紙(종이 지)
 
@@ -93,11 +94,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjAwODczLDcyOTIwMTE1MSw4OTI2Nj
-Y5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1NDY3OTc5Njcs
-LTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5OD
-IwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3
-OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMz
-A4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJd
+eyJoaXN0b3J5IjpbMjA0OTkzNTIxNyw1MzA2MDA4NzMsNzI5Mj
+AxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1Miwt
+MTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNz
+U4NTgsLTg0MDk4MjAwNiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkx
+LC03MjI3MTg2LDc5NDk1OTk3MiwxMzUxMzk0NjY0LC05ODA0OT
+U5MTQsMTUyOTAzMDg1NiwtOTEwMTk5MzYyLDEwNTAzMzQ3ODJd
 fQ==
 -->
