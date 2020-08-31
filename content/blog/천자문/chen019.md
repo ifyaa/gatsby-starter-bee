@@ -36,10 +36,9 @@ draft: false
 
 57
 ```js
-191鬥싸울 투
-
-192鬯울창주 창
-193鬲솥 력
+191鬥싸울 투  布(베 포) 射(쏠 사) 
+192鬯울창주 창 笩(산이름 혜) 琴(거문고 금)
+193鬲솥 력  
 194鬼귀신 귀
 ```
 #### 115 布射僚丸 嵇琴阮嘯 
@@ -100,9 +99,10 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMT
-Y1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1
-ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MT
-M5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4NTYsLTkxMDE5OTM2
-MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ==
+eyJoaXN0b3J5IjpbLTExMzUzNzY2NTMsLTE1NDY3OTc5NjcsLT
+k3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5ODIw
+MDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3OT
+Q5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMzA4
+NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJdfQ
+==
 -->
