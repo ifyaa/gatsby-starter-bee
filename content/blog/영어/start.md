@@ -135,14 +135,31 @@ hair
 지게막대기 오리묶고, 돌멩이 닭묶고, 아저씨 새되고, 사슴은 쥐됐다. 산에는 원숭이
 寸 小 尢 尸 屮 山 巛 工 己 巾
 ```
+```js
+51干방패 간
+
+52幺작을 요
+53广집 엄
+54廴길게 걸을 인
+
+55廾두 손 받들 공
+56弋주살 익
+57弓활 궁
+
+58彑돼지머리 계
+59彡터럭 삼
+60彳조금 걸을 척
+```
+
+
 duck. rooster.bird.mouse.
 squirrel.monkey.elephant.
 snake.lion.tiger
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzgwNDgyOSwtMjU0MTEwMjg1LDIxMT
-Q5NzM0OCwtMTU2MTg2ODkxMCw2NDQzOTAzMjgsLTMxNTU2MjM4
-LDExODUxNzIzNDgsNTM3NTM4MzIyLC05Mjc0MTk1MDgsMTU3Nj
-YzNjYxMCwxNDUzNjI1MDMxLC0xOTY3MDgxMTUwLC03OTg2MzUz
-ODcsLTE5NjQxNjExMF19
+eyJoaXN0b3J5IjpbMTYwMDM2NDMxNywxNzYzODA0ODI5LC0yNT
+QxMTAyODUsMjExNDk3MzQ4LC0xNTYxODY4OTEwLDY0NDM5MDMy
+OCwtMzE1NTYyMzgsMTE4NTE3MjM0OCw1Mzc1MzgzMjIsLTkyNz
+QxOTUwOCwxNTc2NjM2NjEwLDE0NTM2MjUwMzEsLTE5NjcwODEx
+NTAsLTc5ODYzNTM4NywtMTk2NDE2MTEwXX0=
 -->
