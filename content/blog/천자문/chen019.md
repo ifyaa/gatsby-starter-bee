@@ -47,7 +47,8 @@ draft: false
 布(베 포) 射(쏠 사) 僚(벗 료) 丸(알 환)
 布자는 又(또 우)자와 巾(수건 건)
 
-笩(산이름 혜) 琴(거문고 금) 阮(악기 완) 嘯(휘파람 소)
+嵇(산이름 혜) 琴(거문고 금) 阮(악기 완) 嘯(휘파람 소)
+##### 尤**더욱 우**
 
 恬(편안 념) 筆(붓 필) 倫(인륜 륜) 紙(종이 지)
 
@@ -92,10 +93,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MT
-IwMjYsMTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3NzU5
-LC0xNjUwNTQ0Mjk5LDMxNzU4NTgsLTg0MDk4MjAwNiwtMTQwND
-U2NDU4MiwtMTY1Mjc5NDkxLC03MjI3MTg2LDc5NDk1OTk3Miwx
-MzUxMzk0NjY0LC05ODA0OTU5MTQsMTUyOTAzMDg1NiwtOTEwMT
-k5MzYyLDEwNTAzMzQ3ODIsMTg5MjI4NjU1Ml19
+eyJoaXN0b3J5IjpbNTMwNjAwODczLDcyOTIwMTE1MSw4OTI2Nj
+Y5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1NDY3OTc5Njcs
+LTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5OD
+IwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Niw3
+OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0LDE1MjkwMz
+A4NTYsLTkxMDE5OTM2MiwxMDUwMzM0NzgyLDE4OTIyODY1NTJd
+fQ==
 -->
