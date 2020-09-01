@@ -76,6 +76,7 @@ draft: false
 
 毛(털 모) 施(베풀 시) 淑(맑을 숙) 姿(모양 자)
 施자는 㫃(나부낄 언)자와 也(어조사 야)자가 결합
+次자는 二(두 이)자와 欠(하품 흠)자가 결합
 
 工(장인 공) 撒(찡그릴 빈) 姸(고울 연) 笑(웃을 소)
 
@@ -100,11 +101,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0OD
-YyNTAwNDQsNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3
-MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNj
-Y2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3
-LC05NzAxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOT
-gyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODZd
-fQ==
+eyJoaXN0b3J5IjpbMTA2MzIwODI0OCwtMjEyOTIzMDA0NCwyND
+YxMzI3MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIwNjc2
+OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLDcyOT
+IwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIs
+LTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMT
+c1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5
+MV19
 -->
