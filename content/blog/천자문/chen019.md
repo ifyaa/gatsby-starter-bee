@@ -71,6 +71,7 @@ draft: false
 釋자는 釆(분별할 변)자와 睪(엿볼 역)자가 결합
 
 竝(아우를 병) 皆(다 개) 佳(아름다울 가) 妙(묘할 묘)
+竝자는 종종 並(나란히 병)자가 쓰일 때가 있는데, 竝자나 並자 모두 쓰는 방식의 차이일 뿐 의미는 같다.
 
 毛(털 모) 施(베풀 시) 淑(맑을 숙) 姿(모양 자)
 
@@ -97,11 +98,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNjU3Mj
-ExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1MjE3
-LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMj
-AyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTks
-LTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NT
-Y0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyXX0=
+eyJoaXN0b3J5IjpbMTU1NTE2OTk5MSwyNDYxMzI3MzgsMTQ4Nj
+I1MDA0NCw2NTcyMTEyNzEsLTExNDIwNjc2OTEsMzAzODUxNDcy
+LDIwNDk5MzUyMTcsNTMwNjAwODczLDcyOTIwMTE1MSw4OTI2Nj
+Y5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1NDY3OTc5Njcs
+LTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4LC04NDA5OD
+IwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNzIyNzE4Nl19
 
 -->
