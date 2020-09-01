@@ -75,6 +75,7 @@ draft: false
 佳자는 人(사람 인)자와 圭(홀 규)자가 결합
 
 毛(털 모) 施(베풀 시) 淑(맑을 숙) 姿(모양 자)
+施자는 㫃(나부낄 언)자와 也(어조사 야)자가 결합
 
 工(장인 공) 撒(찡그릴 빈) 姸(고울 연) 笑(웃을 소)
 
@@ -99,7 +100,7 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE5NzMyMTAsMjQ2MTMyNzM4LDE0OD
+eyJoaXN0b3J5IjpbLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0OD
 YyNTAwNDQsNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3
 MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNj
 Y2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3
