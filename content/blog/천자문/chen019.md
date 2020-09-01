@@ -59,7 +59,7 @@ draft: false
 ```
 58
 ```js
-19511획 →魚물고기 어. 釋(놓을 석)竝(아우를 병)물고기는 돌로만든 병에 
+19511획 →魚물고기 어. 釋(놓을 석)竝(아우를 병)물고기는 석돌로만든 병에 
 196鳥새 조.         毛(털 모) 施(베풀 시) 새는 모시그물로 잡고
 197鹵소금 로.       工(장인 공) 撒(찡그릴 빈)소금은 공빈이 만든다
 ```
@@ -101,11 +101,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzIwODI0OCwtMjEyOTIzMDA0NCwyND
-YxMzI3MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIwNjc2
-OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLDcyOT
-IwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIs
-LTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMT
-c1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5
-MV19
+eyJoaXN0b3J5IjpbLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMT
+I5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3
+MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1Mz
+A2MDA4NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYs
+MTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNj
+UwNTQ0Mjk5LDMxNzU4NTgsLTg0MDk4MjAwNiwtMTQwNDU2NDU4
+Ml19
 -->
