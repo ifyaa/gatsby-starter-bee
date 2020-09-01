@@ -63,9 +63,13 @@ draft: false
 ```
 58
 ```js
-
-117 釋紛利俗 竝皆佳妙 118 毛施淑姿 工顰妍笑 
-
+19511획 →魚물고기 어
+196鳥새 조
+197鹵소금 로
+```
+117 釋紛利俗 竝皆佳妙 
+118 毛施淑姿 工顰妍笑 
+```js
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
 
 이상 팔인의 재주를 다하여 어지러움을 풀어 풍속에 이롭게 하였다.
@@ -81,7 +85,7 @@ draft: false
 工(장인 공) 撒(찡그릴 빈) 姸(고울 연) 笑(웃을 소)
 
 이 두 미인의 웃는 모습이 매우 곱고 아름다웠다.
-
+```
 59
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 
@@ -102,11 +106,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYxOTQ1MjIsLTExNDIwNjc2OTEsMz
-AzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLDcyOTIwMTE1
-MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1ND
-Y3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4
-LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NTI3OTQ5MSwtNz
-IyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NCwtOTgwNDk1OTE0
-XX0=
+eyJoaXN0b3J5IjpbMjIwNTM4MjYyLC0xMTQyMDY3NjkxLDMwMz
+g1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEs
+ODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nz
+k3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwt
+ODQwOTgyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMj
+cxODYsNzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNF19
+
 -->
