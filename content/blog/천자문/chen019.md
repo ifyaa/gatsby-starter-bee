@@ -67,6 +67,8 @@ draft: false
 118 毛施淑姿 工顰妍笑 모시숙자 공빈연소
 ```js
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
+采(채)
+釋자는 釆(분별할 변)자와 睪(엿볼 역)자가 결합
 
 竝(아우를 병) 皆(다 개) 佳(아름다울 가) 妙(묘할 묘)
 
@@ -95,11 +97,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExND
-IwNjc2OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODcz
-LDcyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OT
-g1NTIsLTE1NDY3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5
-OSwzMTc1ODU4LC04NDA5ODIwMDYsLTE0MDQ1NjQ1ODIsLTE2NT
-I3OTQ5MSwtNzIyNzE4Niw3OTQ5NTk5NzIsMTM1MTM5NDY2NF19
+eyJoaXN0b3J5IjpbMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNjU3Mj
+ExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1MjE3
+LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMj
+AyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTks
+LTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2LC0xNDA0NT
+Y0NTgyLC0xNjUyNzk0OTEsLTcyMjcxODYsNzk0OTU5OTcyXX0=
 
 -->
