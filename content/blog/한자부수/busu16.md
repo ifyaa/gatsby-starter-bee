@@ -11,7 +11,7 @@ draft: false
 ##160 육포 술안주
 별이지면
 쉬엄쉬엄착착 술단지들고 고을읍으로 간다
-분별하기 힘들닻 마을에 금이떨어지면 금으로 변한다
+누구것인지 분별하기 힘들다 마을에있는 금덩어리가 
 문앞의 긴길은 언덕으로갈수있다
 ```js
 161辰별 진
@@ -35,7 +35,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NTg1ODcyLC0xODgyODQ4MDA1LC0xND
-Q1NTE2MjA1LDEwMjQ2NjkzMSwtNzI0MTA3MDU4LC0xMzQ0MDcy
-NzI4XX0=
+eyJoaXN0b3J5IjpbLTEwMzUyMTk2MjEsLTE4ODI4NDgwMDUsLT
+E0NDU1MTYyMDUsMTAyNDY2OTMxLC03MjQxMDcwNTgsLTEzNDQw
+NzI3MjhdfQ==
 -->
