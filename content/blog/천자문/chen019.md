@@ -30,10 +30,6 @@ draft: false
 **## 鬥 鬯 鬲 鬼 魚 鳥 鹵 鹿 麥 麻**
 ![](https://i.ibb.co/KbNK1vc/Screen-Shot-2020-07-14-at-11-57-27-AM.png)
 
-      
-
-
-
 57
 ```js
 191鬥싸울 투   布(베 포) 射(쏠 사) 
@@ -63,7 +59,7 @@ draft: false
 ```
 58
 ```js
-19511획 →魚물고기 어
+19511획 →魚물고기 어. 釋(놓을 석)
 196鳥새 조
 197鹵소금 로
 ```
@@ -71,8 +67,6 @@ draft: false
 118 毛施淑姿 工顰妍笑 
 ```js
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
-
-이상 팔인의 재주를 다하여 어지러움을 풀어 풍속에 이롭게 하였다.
 
 竝(아우를 병) 皆(다 개) 佳(아름다울 가) 妙(묘할 묘)
 
@@ -106,11 +100,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNTM4MjYyLC0xMTQyMDY3NjkxLDMwMz
-g1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEs
-ODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nz
-k3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwt
-ODQwOTgyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMj
-cxODYsNzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNF19
-
+eyJoaXN0b3J5IjpbLTE3MDg5ODg3OCwtMTE0MjA2NzY5MSwzMD
+M4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4NzMsNzI5MjAxMTUx
+LDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1MiwtMTU0Nj
+c5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNzU4NTgs
+LTg0MDk4MjAwNiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkxLC03Mj
+I3MTg2LDc5NDk1OTk3MiwxMzUxMzk0NjY0LC05ODA0OTU5MTRd
+fQ==
 -->
