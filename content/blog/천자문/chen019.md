@@ -59,26 +59,21 @@ draft: false
 ```
 58
 ```js
-19511획 →魚물고기 어. 釋(놓을 석)
-196鳥새 조
-197鹵소금 로
+19511획 →魚물고기 어. 釋(놓을 석)竝(아우를 병)
+196鳥새 조.         毛(털 모) 施(베풀 시)
+197鹵소금 로.       工(장인 공) 撒(찡그릴 빈)
 ```
-117 釋紛利俗 竝皆佳妙 
-118 毛施淑姿 工顰妍笑 
+117 釋紛利俗 竝皆佳妙 석분리속 병개가묘
+118 毛施淑姿 工顰妍笑 모시숙자 공빈연소
 ```js
 釋(놓을 석) 紛(어지러울 분) 利(이로울/날카로울 리) 俗(풍속 속)
 
 竝(아우를 병) 皆(다 개) 佳(아름다울 가) 妙(묘할 묘)
 
-모두가 아름다우며 묘한 재주였다.
-
 毛(털 모) 施(베풀 시) 淑(맑을 숙) 姿(모양 자)
-
-모는 오의 모타라는 여자이고 시는 월의 시라는 여자인데 모두 절세 미인이었다.
 
 工(장인 공) 撒(찡그릴 빈) 姸(고울 연) 笑(웃을 소)
 
-이 두 미인의 웃는 모습이 매우 곱고 아름다웠다.
 ```
 59
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
@@ -100,11 +95,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg5ODg3OCwtMTE0MjA2NzY5MSwzMD
-M4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4NzMsNzI5MjAxMTUx
-LDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1MiwtMTU0Nj
-c5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0Mjk5LDMxNzU4NTgs
-LTg0MDk4MjAwNiwtMTQwNDU2NDU4MiwtMTY1Mjc5NDkxLC03Mj
-I3MTg2LDc5NDk1OTk3MiwxMzUxMzk0NjY0LC05ODA0OTU5MTRd
-fQ==
+eyJoaXN0b3J5IjpbNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMz
+g1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEs
+ODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nz
+k3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwt
+ODQwOTgyMDA2LC0xNDA0NTY0NTgyLC0xNjUyNzk0OTEsLTcyMj
+cxODYsNzk0OTU5OTcyLDEzNTEzOTQ2NjQsLTk4MDQ5NTkxNF19
+
 -->
