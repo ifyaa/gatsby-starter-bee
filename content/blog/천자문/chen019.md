@@ -100,17 +100,18 @@ draft: false
 戍수자리 수---人(인)과 창과(戈☞창, 무기)部의 합자(合字
 戉 도끼 월戊 천간 무, 창 모戌 개 술/열한째 지지 술戎 병장기 융/오랑캐 융茂 무성할 무
 県고을 현,매달 현
-##### 倝**햇빛이 빛나는 모양 간**
+斡 말두(斗☞말)部와 倝(간)의 합자(合字).##### 倝**햇빛이 빛나는 모양 간**
+
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
-.
+環자는 玉(구슬 옥)자와 睘(놀라서 볼 경)자가 결합.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Mjk2OTEyLDExNjA3MDU2NTAsLTIwOD
-g1NjYzMjYsLTE4OTUwMTAwNCwtMTEwMTA4NzY1LC02NjkyODkx
-NTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMTI5MjMwMDQ0LD
-I0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3MSwtMTE0MjA2
-NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4NzMsNz
-I5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1
-Ml19
+eyJoaXN0b3J5IjpbMTE2NDM2MTk3MiwxMTYwNzA1NjUwLC0yMD
+g4NTY2MzI2LC0xODk1MDEwMDQsLTExMDEwODc2NSwtNjY5Mjg5
+MTU0LC0yNDAxMzUxMjUsMTA2MzIwODI0OCwtMjEyOTIzMDA0NC
+wyNDYxMzI3MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIw
+Njc2OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLD
+cyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1
+NTJdfQ==
 -->
