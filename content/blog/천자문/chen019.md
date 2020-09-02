@@ -92,6 +92,7 @@ draft: false
 ```js
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
 年자는 禾(벼 화)자와 人(사람 인)자가 결합
+##### 翟**꿩 적**
 
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
 ##### 丂**공교할 교**
@@ -108,7 +109,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUzMzU1MCwxMTY0MzYxOTcyLDExNj
+eyJoaXN0b3J5IjpbMTg5NjY1NjY1MiwxMTY0MzYxOTcyLDExNj
 A3MDU2NTAsLTIwODg1NjYzMjYsLTE4OTUwMTAwNCwtMTEwMTA4
 NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC
 0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIx
