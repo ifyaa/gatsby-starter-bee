@@ -7,11 +7,12 @@ draft: false
 ## 06 냉면육수 心(忄)戈 戶 手(扌) 支 歹 文 攴(攵) 斗 斤
 마음으로 만든다
 창과 지게를 손으로 들고
-밀가루반죽을  문지르고 치고 가른다
+밀가루반죽을 가르고 치고 문지른다
 방마다 수박을 도끼로 잘라서 두근씩 나눈다
 ![](https://i.ibb.co/F4Fxjs3/2020-07-03-2-40-02.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjczNjQ1NSwtOTg3NjkzMzg5XX0=
+eyJoaXN0b3J5IjpbMTg2NzYwMzc5NSwtODEyNzM2NDU1LC05OD
+c2OTMzODldfQ==
 -->
