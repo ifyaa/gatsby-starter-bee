@@ -104,7 +104,26 @@ camel. zebra.hippo.
 frog. turtle. corcodile
 ```
 
+ 06 냉면육수 
+ ```js
+
+614획 →心마음 심
+
+62戈창 과
+63戶지게 호
+64手손 수
+
+65支가를 지
+66攴칠 복
+67文글월 문
+
+68斗말 두
+69斤도끼 근
+70方모날 방
+```
+ 心(忄)戈 戶 手(扌) 支 歹 文 攴(攵) 斗 斤
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDY3MjUzMF19
+eyJoaXN0b3J5IjpbMzA2NjQxODg1XX0=
 -->
