@@ -95,21 +95,22 @@ draft: false
 
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
 
-璇(구슬 선) 璣(구슬 기) 懸(달 현) 斡(빙빙돌 알)
+璇(구슬 선) 璣(구슬 기) 懸(매달 현) 斡(빙빙돌 알)
 旋자는 㫃(나부낄 언)자와 疋(발 소)자가 결합
 戍수자리 수---人(인)과 창과(戈☞창, 무기)部의 합자(合字
 戉 도끼 월戊 천간 무, 창 모戌 개 술/열한째 지지 술戎 병장기 융/오랑캐 융茂 무성할 무
-
+県고을 현,매달 현
+##### 倝**햇빛이 빛나는 모양 간**
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
 .
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE4MDE3MTgsMTE2MDcwNTY1MCwtMj
-A4ODU2NjMyNiwtMTg5NTAxMDA0LC0xMTAxMDg3NjUsLTY2OTI4
-OTE1NCwtMjQwMTM1MTI1LDEwNjMyMDgyNDgsLTIxMjkyMzAwND
-QsMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNjU3MjExMjcxLC0xMTQy
-MDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3My
-w3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4
-NTUyXX0=
+eyJoaXN0b3J5IjpbMTg1Mjk2OTEyLDExNjA3MDU2NTAsLTIwOD
+g1NjYzMjYsLTE4OTUwMTAwNCwtMTEwMTA4NzY1LC02NjkyODkx
+NTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMTI5MjMwMDQ0LD
+I0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3MSwtMTE0MjA2
+NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4NzMsNz
+I5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Njg5ODU1
+Ml19
 -->
