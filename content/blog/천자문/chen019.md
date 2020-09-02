@@ -94,6 +94,7 @@ draft: false
 年자는 禾(벼 화)자와 人(사람 인)자가 결합
 
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
+##### 丂**공교할 교**
 
 璇(구슬 선) 璣(구슬 기) 懸(매달 현) 斡(빙빙돌 알)
 旋자는 㫃(나부낄 언)자와 疋(발 소)자가 결합
@@ -107,11 +108,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDM2MTk3MiwxMTYwNzA1NjUwLC0yMD
-g4NTY2MzI2LC0xODk1MDEwMDQsLTExMDEwODc2NSwtNjY5Mjg5
-MTU0LC0yNDAxMzUxMjUsMTA2MzIwODI0OCwtMjEyOTIzMDA0NC
-wyNDYxMzI3MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIw
-Njc2OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLD
-cyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MzUzMzU1MCwxMTY0MzYxOTcyLDExNj
+A3MDU2NTAsLTIwODg1NjYzMjYsLTE4OTUwMTAwNCwtMTEwMTA4
+NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC
+0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIx
+MTI3MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNy
+w1MzA2MDA4NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIw
+MjZdfQ==
 -->
