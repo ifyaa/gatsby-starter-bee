@@ -98,16 +98,18 @@ draft: false
 璇(구슬 선) 璣(구슬 기) 懸(달 현) 斡(빙빙돌 알)
 旋자는 㫃(나부낄 언)자와 疋(발 소)자가 결합
 戍수자리 수---人(인)과 창과(戈☞창, 무기)部의 합자(合字
+戉 도끼 월戊 천간 무, 창 모戌 개 술/열한째 지지 술戎 병장기 융/오랑캐 융茂 무성할 무
+
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
 .
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTY0MjkzNiwxMTYwNzA1NjUwLC0yMD
-g4NTY2MzI2LC0xODk1MDEwMDQsLTExMDEwODc2NSwtNjY5Mjg5
-MTU0LC0yNDAxMzUxMjUsMTA2MzIwODI0OCwtMjEyOTIzMDA0NC
-wyNDYxMzI3MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIw
-Njc2OTEsMzAzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLD
-cyOTIwMTE1MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDE4MDE3MTgsMTE2MDcwNTY1MCwtMj
+A4ODU2NjMyNiwtMTg5NTAxMDA0LC0xMTAxMDg3NjUsLTY2OTI4
+OTE1NCwtMjQwMTM1MTI1LDEwNjMyMDgyNDgsLTIxMjkyMzAwND
+QsMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNjU3MjExMjcxLC0xMTQy
+MDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3My
+w3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4
+NTUyXX0=
 -->
