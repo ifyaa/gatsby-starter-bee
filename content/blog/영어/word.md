@@ -107,11 +107,11 @@ frog. turtle. corcodile
  06 냉면육수 
  ```js
 
-614획 →心마음 심
+614획 →心마음 심  fish
 
-62戈창 과
-63戶지게 호
-64手손 수
+62戈창 과       whale 창으로 찔러잡고
+63戶지게 호      shellfish 지게에 조개를 가득싣고
+64手손 수    손으로 crab을 먹으면서
 
 65支가를 지
 66攴칠 복
@@ -127,5 +127,6 @@ ant. bee. beetle.
 butterfly. clothing&Accessories.blouse
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxOTgyNjI5LDMwNjY0MTg4NV19
+eyJoaXN0b3J5IjpbOTMzMjU2MjExLDI2MTk4MjYyOSwzMDY2ND
+E4ODVdfQ==
 -->
