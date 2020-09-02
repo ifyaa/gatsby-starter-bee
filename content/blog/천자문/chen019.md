@@ -22,7 +22,7 @@ draft: false
 197鹵소금 로
 
 198鹿사슴 록  
-해 · 산 · 물 · 돌 · 구름(또는 달) · 소나무 · 불로초 · 거북 · 학 · 사슴
+십장생->해 · 산 · 물 · 돌 · 구름(또는 달) · 소나무 · 불로초 · 거북 · 학 · 사슴
 199麥보리 맥
 200麻삼 마
 ```
@@ -82,6 +82,11 @@ draft: false
 
 ```
 59
+```js
+198鹿사슴 록  
+199麥보리 맥
+200麻삼 마
+```
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
 
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
@@ -101,11 +106,11 @@ draft: false
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMT
-I5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3
-MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1Mz
-A2MDA4NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYs
-MTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNj
-UwNTQ0Mjk5LDMxNzU4NTgsLTg0MDk4MjAwNiwtMTQwNDU2NDU4
-Ml19
+eyJoaXN0b3J5IjpbLTY2OTI4OTE1NCwtMjQwMTM1MTI1LDEwNj
+MyMDgyNDgsLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0ODYyNTAw
+NDQsNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMD
+Q5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0
+LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05Nz
+AxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2
+XX0=
 -->
