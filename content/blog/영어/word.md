@@ -122,8 +122,8 @@ frog. turtle. corcodile
 70方모날 방
 ```
  心(忄)戈 戶 手(扌) 支 歹 文 攴(攵) 斗 斤
-
+fish. whale.shekkfis
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NjQxODg1XX0=
+eyJoaXN0b3J5IjpbNTQxMzY1MTM0LDMwNjY0MTg4NV19
 -->
