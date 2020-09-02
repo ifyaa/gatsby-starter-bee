@@ -111,7 +111,7 @@ frog. turtle. corcodile
 
 62戈창 과       whale 창으로 찔러잡고
 63戶지게 호      shellfish 지게에 조개를 가득싣고
-64手손 수    손으로 crab을 먹으면서
+64手손 수     crab은 완이가 손가락으로 다파먹고
 
 65支가를 지     ant 개미가 들고오는 fish 배를 가른다
 66攴칠 복
@@ -127,6 +127,6 @@ ant. bee. beetle.
 butterfly. clothing&Accessories.blouse
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2NjMwOTIsMjYxOTgyNjI5LDMwNj
-Y0MTg4NV19
+eyJoaXN0b3J5IjpbMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2Nj
+QxODg1XX0=
 -->
