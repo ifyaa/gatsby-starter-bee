@@ -84,8 +84,8 @@ draft: false
 59
 ```js
 198鹿사슴 록   年(해 년)曦(햇빛 희) 사슴은 년시먹고 희희희희
-199麥보리 맥   璇(구슬 선) 璣(구슬 기)
-200麻삼 마    晦(그믐 회) 魄(넋 백)
+199麥보리 맥   璇(구슬 선) 璣(구슬 기)보리맥은 선기
+200麻삼 마    晦(그믐 회) 魄(넋 백) 삼마는 회백
 ```
 119 年矢每催 曦暉朗曜 년신매최 희휘랑요
 120 璇璣懸斡 晦魄環照 선기현알 회백환조
@@ -101,7 +101,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA2ODE3MzEsLTE4OTUwMTAwNCwtMT
+eyJoaXN0b3J5IjpbLTE4NjY2NTUyNzksLTE4OTUwMTAwNCwtMT
 EwMTA4NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4
 MjQ4LC0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LD
 Y1NzIxMTI3MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkz
