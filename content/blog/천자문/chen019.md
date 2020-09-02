@@ -92,27 +92,20 @@ draft: false
 ```js
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
 
-세월이 빠른 것을 말한다. 즉 살같이 매양 재촉하니
-
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
-
-태양 빛과 달빛은 온 세상을 비추어 만물에 혜택을 주고 있다.
 
 璇(구슬 선) 璣(구슬 기) 懸(달 현) 斡(빙빙돌 알)
 
-선기는 천기를 보는 기구이고 그 기구가 높이 걸려 도는 것을 말한다.
-
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
-
-달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
+.
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTcwODk3LC0xMTAxMDg3NjUsLTY2OT
-I4OTE1NCwtMjQwMTM1MTI1LDEwNjMyMDgyNDgsLTIxMjkyMzAw
-NDQsMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNjU3MjExMjcxLC0xMT
-QyMDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3
-Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2OD
-k4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3NTksLTE2NTA1NDQy
-OTldfQ==
+eyJoaXN0b3J5IjpbLTE4OTUwMTAwNCwtMTEwMTA4NzY1LC02Nj
+kyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMTI5MjMw
+MDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3MSwtMT
+E0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4
+NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Nj
+g5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0
+Mjk5XX0=
 -->
