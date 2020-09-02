@@ -83,12 +83,12 @@ draft: false
 ```
 59
 ```js
-198鹿사슴 록  
-199麥보리 맥
-200麻삼 마
+198鹿사슴 록   年(해 년)曦(햇빛 희)
+199麥보리 맥   璇(구슬 선) 璣(구슬 기)
+200麻삼 마    晦(그믐 회) 魄(넋 백)
 ```
-119 年矢每催 曦暉朗曜 
-120 璇璣懸斡 晦魄環照
+119 年矢每催 曦暉朗曜 년신매최 희휘랑요
+120 璇璣懸斡 晦魄環照 선기현알 회백환조
 ```js
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
 
@@ -101,11 +101,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwMTAwNCwtMTEwMTA4NzY1LC02Nj
-kyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4MjQ4LC0yMTI5MjMw
-MDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LDY1NzIxMTI3MSwtMT
-E0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkzNTIxNyw1MzA2MDA4
-NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nzc3MTIwMjYsMTk0Nj
-g5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3NzU5LC0xNjUwNTQ0
-Mjk5XX0=
+eyJoaXN0b3J5IjpbLTk1MTEwMjIzNiwtMTg5NTAxMDA0LC0xMT
+AxMDg3NjUsLTY2OTI4OTE1NCwtMjQwMTM1MTI1LDEwNjMyMDgy
+NDgsLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNj
+U3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1
+MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3Nz
+cxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3
+NTldfQ==
 -->
