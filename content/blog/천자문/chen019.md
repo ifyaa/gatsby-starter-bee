@@ -83,7 +83,7 @@ draft: false
 ```
 59
 ```js
-198鹿사슴 록   年(해 년)曦(햇빛 희)
+198鹿사슴 록   年(해 년)曦(햇빛 희) 사슴은 년시먹고 희희희희
 199麥보리 맥   璇(구슬 선) 璣(구슬 기)
 200麻삼 마    晦(그믐 회) 魄(넋 백)
 ```
@@ -101,11 +101,11 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTEwMjIzNiwtMTg5NTAxMDA0LC0xMT
-AxMDg3NjUsLTY2OTI4OTE1NCwtMjQwMTM1MTI1LDEwNjMyMDgy
-NDgsLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0ODYyNTAwNDQsNj
-U3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMDQ5OTM1
-MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0LDk3Nz
-cxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05NzAxNDc3
-NTldfQ==
+eyJoaXN0b3J5IjpbLTE2NTA2ODE3MzEsLTE4OTUwMTAwNCwtMT
+EwMTA4NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4
+MjQ4LC0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LD
+Y1NzIxMTI3MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkz
+NTIxNyw1MzA2MDA4NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nz
+c3MTIwMjYsMTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3
+NzU5XX0=
 -->
