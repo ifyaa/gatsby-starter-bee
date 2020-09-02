@@ -113,7 +113,7 @@ frog. turtle. corcodile
 63戶지게 호      shellfish 지게에 조개를 가득싣고
 64手손 수    손으로 crab을 먹으면서
 
-65支가를 지
+65支가를 지     ant 개미가 들고오는 fish 배를 가른다
 66攴칠 복
 67文글월 문
 
@@ -127,6 +127,6 @@ ant. bee. beetle.
 butterfly. clothing&Accessories.blouse
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMjU2MjExLDI2MTk4MjYyOSwzMDY2ND
-E4ODVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDY4MDY0MDgsMjYxOTgyNjI5LDMwNj
+Y0MTg4NV19
 -->
