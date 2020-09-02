@@ -88,7 +88,7 @@ draft: false
 200麻삼 마
 ```
 119 年矢每催 曦暉朗曜 120 璇璣懸斡 晦魄環照
-
+```js
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
 
 세월이 빠른 것을 말한다. 즉 살같이 매양 재촉하니
@@ -104,13 +104,14 @@ draft: false
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
 
 달이  고리와  같이  돌며  천지를  비치는  것을  말한다.
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTI4OTE1NCwtMjQwMTM1MTI1LDEwNj
-MyMDgyNDgsLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LDE0ODYyNTAw
-NDQsNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1MTQ3MiwyMD
-Q5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsODkyNjY2OTU0
-LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3OTY3LC05Nz
-AxNDc3NTksLTE2NTA1NDQyOTksMzE3NTg1OCwtODQwOTgyMDA2
+eyJoaXN0b3J5IjpbLTExMDEwODc2NSwtNjY5Mjg5MTU0LC0yND
+AxMzUxMjUsMTA2MzIwODI0OCwtMjEyOTIzMDA0NCwyNDYxMzI3
+MzgsMTQ4NjI1MDA0NCw2NTcyMTEyNzEsLTExNDIwNjc2OTEsMz
+AzODUxNDcyLDIwNDk5MzUyMTcsNTMwNjAwODczLDcyOTIwMTE1
+MSw4OTI2NjY5NTQsOTc3NzEyMDI2LDE5NDY4OTg1NTIsLTE1ND
+Y3OTc5NjcsLTk3MDE0Nzc1OSwtMTY1MDU0NDI5OSwzMTc1ODU4
 XX0=
 -->
