@@ -96,17 +96,18 @@ draft: false
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
 
 璇(구슬 선) 璣(구슬 기) 懸(달 현) 斡(빙빙돌 알)
+旋자는 㫃(나부낄 언)자와 疋(발 소)자가 결합
 
 晦(그믐 회) 魄(넋 백) 環(고리 환) 照(비칠 조)
 .
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg1NjYzMjYsLTE4OTUwMTAwNCwtMT
-EwMTA4NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4
-MjQ4LC0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LD
-Y1NzIxMTI3MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkz
-NTIxNyw1MzA2MDA4NzMsNzI5MjAxMTUxLDg5MjY2Njk1NCw5Nz
-c3MTIwMjYsMTk0Njg5ODU1MiwtMTU0Njc5Nzk2NywtOTcwMTQ3
-NzU5XX0=
+eyJoaXN0b3J5IjpbMTE2MDcwNTY1MCwtMjA4ODU2NjMyNiwtMT
+g5NTAxMDA0LC0xMTAxMDg3NjUsLTY2OTI4OTE1NCwtMjQwMTM1
+MTI1LDEwNjMyMDgyNDgsLTIxMjkyMzAwNDQsMjQ2MTMyNzM4LD
+E0ODYyNTAwNDQsNjU3MjExMjcxLC0xMTQyMDY3NjkxLDMwMzg1
+MTQ3MiwyMDQ5OTM1MjE3LDUzMDYwMDg3Myw3MjkyMDExNTEsOD
+kyNjY2OTU0LDk3NzcxMjAyNiwxOTQ2ODk4NTUyLC0xNTQ2Nzk3
+OTY3XX0=
 -->
