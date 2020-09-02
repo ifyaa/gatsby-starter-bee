@@ -91,6 +91,7 @@ draft: false
 120 璇璣懸斡 晦魄環照 선기현알 회백환조
 ```js
 年(해 년) 矢(화살 시) 每(매양 매) 催(재촉 최)
+年자는 禾(벼 화)자와 人(사람 인)자가 결합
 
 曦(햇빛 희) 暉(빛날 휘) 朗(밝을 랑) 耀(빛날 요)
 
@@ -101,7 +102,7 @@ draft: false
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY2NTUyNzksLTE4OTUwMTAwNCwtMT
+eyJoaXN0b3J5IjpbLTIwODg1NjYzMjYsLTE4OTUwMTAwNCwtMT
 EwMTA4NzY1LC02NjkyODkxNTQsLTI0MDEzNTEyNSwxMDYzMjA4
 MjQ4LC0yMTI5MjMwMDQ0LDI0NjEzMjczOCwxNDg2MjUwMDQ0LD
 Y1NzIxMTI3MSwtMTE0MjA2NzY5MSwzMDM4NTE0NzIsMjA0OTkz
