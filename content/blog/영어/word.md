@@ -122,8 +122,10 @@ frog. turtle. corcodile
 70方모날 방
 ```
  心(忄)戈 戶 手(扌) 支 歹 文 攴(攵) 斗 斤
-fish. whale.shekkfis
+fish. whale.shellfish.crab.
+ant. bee. beetle.
+butterfly. clothing&Accessories.blouse
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzY1MTM0LDMwNjY0MTg4NV19
+eyJoaXN0b3J5IjpbMjYxOTgyNjI5LDMwNjY0MTg4NV19
 -->
