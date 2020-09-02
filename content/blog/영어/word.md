@@ -107,7 +107,7 @@ frog. turtle. corcodile
  06 냉면육수 
  ```js
 
-614획 →心마음 심  백경도 마음은fish
+614획 →心마음 심  백경도 마음은 fish
 
 62戈창 과       whale 창으로 찔러잡고
 63戶지게 호      shellfish 지게에 조개를 가득싣고
@@ -127,6 +127,6 @@ ant. bee. beetle.
 butterfly. clothing&Accessories.blouse
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTE2NzA4LDI2MTk4MjYyOSwzMDY2ND
-E4ODVdfQ==
+eyJoaXN0b3J5IjpbLTEyMTk2NjMwOTIsMjYxOTgyNjI5LDMwNj
+Y0MTg4NV19
 -->
