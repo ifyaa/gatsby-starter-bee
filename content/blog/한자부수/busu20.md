@@ -30,7 +30,7 @@ draft: false
 ```js
 208鼠쥐 서
 209鼻코 비. 畀(줄 비). ##### 丌 **책상 기/그 기**
-210齊가지런할 제
+210齊가지런할 제.  ##### 丫**가닥**
 ```
 ![](https://i.ibb.co/16c6k6m/Screen-Shot-2020-07-16-at-12-37-07-PM.png =250x)
 ```js
@@ -44,7 +44,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDgxMjYwMSwxOTg4OTQ4MiwtMTAzND
-c1MDUxNSw5MjA5OTMwNjEsLTEzNzQ1NjU0LDY4NzQzODM4NCwt
-MTQ0NjQ1NjcwN119
+eyJoaXN0b3J5IjpbMzExMjIyNzIyLDE5ODg5NDgyLC0xMDM0Nz
+UwNTE1LDkyMDk5MzA2MSwtMTM3NDU2NTQsNjg3NDM4Mzg0LC0x
+NDQ2NDU2NzA3XX0=
 -->
