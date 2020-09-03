@@ -137,7 +137,7 @@ butterfly. clothing&Accessories.blouse
 
 75木나무 목 pajamas. 나무에 걸린 파자마
 76欠하품 흠 coat  코트입으면 하품하고
-77止그칠 지 jacket  자켓은 그친다
+77止그칠 지 jacket  자켓은 울음을 그친다
 
 78歹부서진 뼈 알. underwear 뼈를 내복에 싸고
 79殳몽둥이 수. socks  몽둥이는 양말에 넣고
@@ -148,7 +148,7 @@ pajamas. coat. jacket.
 underwear. socks. gloves
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDY5ODU4NSwtMjgwNTYxNDk2LDE1MD
-cwNzM1ODgsMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2NjQxODg1
-XX0=
+eyJoaXN0b3J5IjpbLTExNzQwMzUyNzMsLTI4MDU2MTQ5NiwxNT
+A3MDczNTg4LDE2MzY2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4
+NV19
 -->
