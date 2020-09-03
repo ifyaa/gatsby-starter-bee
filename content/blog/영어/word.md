@@ -125,8 +125,29 @@ frog. turtle. corcodile
 fish. whale.shellfish.crab.
 ant. bee. beetle.
 butterfly. clothing&Accessories.blouse
+
+07
+ 无 日 曰 月 木 欠 止殳 毋
+```js
+
+71无없을 무
+72日날 일
+73曰말할 왈
+74月달 월
+
+75木나무 목
+76欠하품 흠
+77止그칠 지
+
+78歹부서진 뼈 알
+79殳몽둥이 수
+80毋말 무
+```
+vest. skirt. troisers. dress.
+pajamas. coat. jacket.
+underwear. socks. gloves
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2Nj
-QxODg1XX0=
+eyJoaXN0b3J5IjpbLTE2MzY5MjgzMTQsMTYzNjYwNzIzNywyNj
+E5ODI2MjksMzA2NjQxODg1XX0=
 -->
