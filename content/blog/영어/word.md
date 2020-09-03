@@ -136,7 +136,7 @@ butterfly. clothing&Accessories.blouse
 74月달 월. dress 달마다 원피스를 입고
 
 75木나무 목 pajamas. 나무에 걸린 파자마
-76欠하품 흠 coat  코트입으면 하품하고
+76欠하품 흠 coat   하품하면 코트로 가리고
 77止그칠 지 jacket  자켓은 울음을 그친다
 
 78歹부서진 뼈 알. underwear 뼈를 내복에 싸고
@@ -148,7 +148,7 @@ pajamas. coat. jacket.
 underwear. socks. gloves
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQwMzUyNzMsLTI4MDU2MTQ5NiwxNT
-A3MDczNTg4LDE2MzY2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4
-NV19
+eyJoaXN0b3J5IjpbMTkzNjk0NDA1MCwtMTE3NDAzNTI3MywtMj
+gwNTYxNDk2LDE1MDcwNzM1ODgsMTYzNjYwNzIzNywyNjE5ODI2
+MjksMzA2NjQxODg1XX0=
 -->
