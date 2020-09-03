@@ -37,14 +37,14 @@ draft: false
 211齒이 치
 212龍용 룡
 213龜거북 귀
-214龠피리 약
+214龠피리 약. 亼(삼합 집)
 ```
 ##黃 黍 黑 黹 黽 鼎 鼓 鼠 鼻 齊 齒 龍 龜 龠
 ![](https://i.ibb.co/YtMDpMJ/200.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMjIyNzIyLDE5ODg5NDgyLC0xMDM0Nz
-UwNTE1LDkyMDk5MzA2MSwtMTM3NDU2NTQsNjg3NDM4Mzg0LC0x
-NDQ2NDU2NzA3XX0=
+eyJoaXN0b3J5IjpbLTgyNzM5MzY5OSwzMTEyMjI3MjIsMTk4OD
+k0ODIsLTEwMzQ3NTA1MTUsOTIwOTkzMDYxLC0xMzc0NTY1NCw2
+ODc0MzgzODQsLTE0NDY0NTY3MDddfQ==
 -->
