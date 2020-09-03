@@ -29,7 +29,7 @@ draft: false
 ![](https://i.ibb.co/wShWb2K/Screen-Shot-2020-07-16-at-12-35-36-PM.png =250x)
 ```js
 208鼠쥐 서
-209鼻코 비
+209鼻코 비. 畀(줄 비). ##### 丌 **책상 기/그 기**
 210齊가지런할 제
 ```
 ![](https://i.ibb.co/16c6k6m/Screen-Shot-2020-07-16-at-12-37-07-PM.png =250x)
@@ -44,7 +44,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODk0ODIsLTEwMzQ3NTA1MTUsOTIwOT
-kzMDYxLC0xMzc0NTY1NCw2ODc0MzgzODQsLTE0NDY0NTY3MDdd
-fQ==
+eyJoaXN0b3J5IjpbLTI0MDgxMjYwMSwxOTg4OTQ4MiwtMTAzND
+c1MDUxNSw5MjA5OTMwNjEsLTEzNzQ1NjU0LDY4NzQzODM4NCwt
+MTQ0NjQ1NjcwN119
 -->
