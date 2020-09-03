@@ -143,11 +143,11 @@ butterfly. clothing&Accessories.blouse
 79殳몽둥이 수. socks
 80毋말 무. gloves
 ```
-vest. skirt. troisers. dress.
+vest. skirt. trousers. dress.
 pajamas. coat. jacket.
 underwear. socks. gloves
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzA3MzU4OCwxNjM2NjA3MjM3LDI2MT
-k4MjYyOSwzMDY2NDE4ODVdfQ==
+eyJoaXN0b3J5IjpbLTI4MDU2MTQ5NiwxNTA3MDczNTg4LDE2Mz
+Y2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
 -->
