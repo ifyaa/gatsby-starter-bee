@@ -7,8 +7,8 @@ draft: false
 #200 영어공부
 
 ![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png =250x)
-##누런실과 검은바늘로 기장을 바느질한다
-##맹꽁이가 솥에서 북친다
+##누런기장과 검은바늘
+##맹꽁이가 솥에서 북치면
 ##코에 쥐가 가지런히 들어간다
 ##거북이와 용은 이빨로 피리를 분다
 ![](https://i.ibb.co/LzH6jML/Screen-Shot-2020-07-16-at-12-32-55-PM.png =250x)
@@ -44,7 +44,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzM5MzY5OSwzMTEyMjI3MjIsMTk4OD
-k0ODIsLTEwMzQ3NTA1MTUsOTIwOTkzMDYxLC0xMzc0NTY1NCw2
-ODc0MzgzODQsLTE0NDY0NTY3MDddfQ==
+eyJoaXN0b3J5IjpbLTEzNTEyNjA4MDEsMzExMjIyNzIyLDE5OD
+g5NDgyLC0xMDM0NzUwNTE1LDkyMDk5MzA2MSwtMTM3NDU2NTQs
+Njg3NDM4Mzg0LC0xNDQ2NDU2NzA3XX0=
 -->
