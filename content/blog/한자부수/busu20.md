@@ -23,8 +23,8 @@ draft: false
 ![](https://i.ibb.co/PjTjbYD/Screen-Shot-2020-07-16-at-12-34-42-PM.png =250x)
 ```js
 - [ ] 205黽맹꽁이 맹
-206鼎솥 정
-207鼓북 고
+206鼎솥 정.  
+207鼓북 고. 壴(악기이름 주)자와 支(가를 지)자가 결합
 ```
 ![](https://i.ibb.co/wShWb2K/Screen-Shot-2020-07-16-at-12-35-36-PM.png =250x)
 ```js
@@ -44,6 +44,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ3NTA1MTUsOTIwOTkzMDYxLC0xMz
-c0NTY1NCw2ODc0MzgzODQsLTE0NDY0NTY3MDddfQ==
+eyJoaXN0b3J5IjpbMTk4ODk0ODIsLTEwMzQ3NTA1MTUsOTIwOT
+kzMDYxLC0xMzc0NTY1NCw2ODc0MzgzODQsLTE0NDY0NTY3MDdd
+fQ==
 -->
