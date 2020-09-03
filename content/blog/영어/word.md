@@ -130,12 +130,12 @@ butterfly. clothing&Accessories.blouse
  无 日 曰 月 木 欠 止 歹殳 毋
 ```js
 
-71无없을 무 vest
-72日날 일. skirt
-73曰말할 왈  troisers
-74月달 월. dress
+71无없을 무 vest  조끼가 없다
+72日날 일. skirt  치마입고 일하고 
+73曰말할 왈  troisers  바지입으면 말한다 
+74月달 월. dress 달마다 정자
 
-75木나무 목 pajamas
+75木나무 목 pajamas. 나무에 걸린 파자마
 76欠하품 흠 coat
 77止그칠 지 jacket
 
@@ -148,6 +148,7 @@ pajamas. coat. jacket.
 underwear. socks. gloves
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDU2MTQ5NiwxNTA3MDczNTg4LDE2Mz
-Y2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
+eyJoaXN0b3J5IjpbMTQ1OTM2MDQ1OSwtMjgwNTYxNDk2LDE1MD
+cwNzM1ODgsMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2NjQxODg1
+XX0=
 -->
