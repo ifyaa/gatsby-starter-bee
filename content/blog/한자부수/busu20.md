@@ -9,7 +9,7 @@ draft: false
 ![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png =250x)
 ##누런기장과 검은바늘
 ##맹꽁이가 솥에서 북치면
-##코에 쥐가 가지런히 들어간다
+##쥐가 코로 가지런히 들어간다 
 ##거북이와 용은 이빨로 피리를 분다
 ![](https://i.ibb.co/LzH6jML/Screen-Shot-2020-07-16-at-12-32-55-PM.png =250x)
 ```js
@@ -44,7 +44,7 @@ draft: false
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEyNjA4MDEsMzExMjIyNzIyLDE5OD
-g5NDgyLC0xMDM0NzUwNTE1LDkyMDk5MzA2MSwtMTM3NDU2NTQs
-Njg3NDM4Mzg0LC0xNDQ2NDU2NzA3XX0=
+eyJoaXN0b3J5IjpbNzI0NDcwNDk1LDMxMTIyMjcyMiwxOTg4OT
+Q4MiwtMTAzNDc1MDUxNSw5MjA5OTMwNjEsLTEzNzQ1NjU0LDY4
+NzQzODM4NCwtMTQ0NjQ1NjcwN119
 -->
