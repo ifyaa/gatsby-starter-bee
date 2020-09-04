@@ -35,19 +35,12 @@ draft: false
 ```js
 指(손가락 지) 薪(섶나무 신) 修(닦을 수) 祐(복 우)
 
-불타는 나무와 같이 정열로 도리를 닦으면 복을 얻는다.
-
 永(길 영) 綏(편안 수) 吉(길할 길) 暦(아름다울 소)
 
-그리고 영구히 편안하고 길함이 높으리라.
-
-矩(법 구) 步(걸음 보) 引(끌 인) 領(거느릴 령)
-
-걸음을 바로 걷고 따라서 얼굴도 바르니 위의가 당당하다.
+矩(법 구) 步(걸음 보) 引(끌 인) 領(거느릴 령).
 
 俯(굽을 부) 仰(우러를 앙) 廊(행랑 랑) 廟(사당 묘)
 
-항상 남묘에 있는 것으로 생각하고 머리를 숙여 예의를 지키라.
 ```
 61
 123 束帶矜莊 徘徊瞻眺 124 孤陋寡聞 愚蒙等誚 
@@ -77,7 +70,7 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI0Mjk3NTEsMTgxNzkzODgxMCwtMz
-U5ODUwMDYsLTUwNTM4OTcyOSwyNDcyMjEzOTYsMTIwMzc3OTM1
-MCwtMTA1OTg4NjUwNCwtNDI4NjQ5NzEzXX0=
+eyJoaXN0b3J5IjpbMTYwNDQ4MjkxLC0yMDkyNDI5NzUxLDE4MT
+c5Mzg4MTAsLTM1OTg1MDA2LC01MDUzODk3MjksMjQ3MjIxMzk2
+LDEyMDM3NzkzNTAsLTEwNTk4ODY1MDQsLTQyODY0OTcxM119
 -->
