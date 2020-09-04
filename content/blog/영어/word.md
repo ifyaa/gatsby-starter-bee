@@ -166,9 +166,11 @@ underwear. socks. gloves
 89爻효 효
 90爿조각 장
 ```
+muffler. raincoat. swimsuit. hat.
+cap. shoes. sn
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzg0ODQ2OCwxOTM2OTQ0MDUwLC0xMT
-c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
-MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
+eyJoaXN0b3J5IjpbNjA1MDgzOTE3LDE5MzY5NDQwNTAsLTExNz
+QwMzUyNzMsLTI4MDU2MTQ5NiwxNTA3MDczNTg4LDE2MzY2MDcy
+MzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
 -->
