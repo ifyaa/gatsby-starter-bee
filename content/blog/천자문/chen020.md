@@ -38,9 +38,8 @@ draft: false
 修자는 攸(바 유)자와 彡(터럭 삼)자가 결합
 
 永(길 영) 綏(편안 수) 吉(길할 길) 暦(아름다울 소)
-##### 妥
+##### 妥**온당할 타**
 
-**온당할 타**
 矩(법 구) 步(걸음 보) 引(끌 인) 領(거느릴 령).
 
 俯(굽을 부) 仰(우러를 앙) 廊(행랑 랑) 廟(사당 묘)
@@ -74,9 +73,9 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxMDE2OSw0MDExMzM0NTAsLTMzOD
-U5ODUwNiwtMzYzOTg3MTA3LDE2MDQ0ODI5MSwtMjA5MjQyOTc1
-MSwxODE3OTM4ODEwLC0zNTk4NTAwNiwtNTA1Mzg5NzI5LDI0Nz
-IyMTM5NiwxMjAzNzc5MzUwLC0xMDU5ODg2NTA0LC00Mjg2NDk3
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzg5MjA3MTksNDAxMTMzNDUwLC0zMz
+g1OTg1MDYsLTM2Mzk4NzEwNywxNjA0NDgyOTEsLTIwOTI0Mjk3
+NTEsMTgxNzkzODgxMCwtMzU5ODUwMDYsLTUwNTM4OTcyOSwyND
+cyMjEzOTYsMTIwMzc3OTM1MCwtMTA1OTg4NjUwNCwtNDI4NjQ5
+NzEzXX0=
 -->
