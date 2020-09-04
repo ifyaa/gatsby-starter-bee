@@ -22,12 +22,20 @@ draft: false
 214龠피리 약
 ```
 ![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png)
-121 指薪修祜 永綏吉劭 122 矩步引領 俯仰廊廟 
+
 123 束帶矜莊 徘徊瞻眺 124 孤陋寡聞 愚蒙等誚 
 125 謂語助者 焉哉乎也
 ```
 60
-
+```js
+20112획 →黃누를 황
+202黍기장 서
+203黑검을 흑
+204黹바느질할 치
+```
+121 指薪修祜 永綏吉劭 
+122 矩步引領 俯仰廊廟 
+```js
 指(손가락 지) 薪(섶나무 신) 修(닦을 수) 祐(복 우)
 
 불타는 나무와 같이 정열로 도리를 닦으면 복을 얻는다.
@@ -43,7 +51,7 @@ draft: false
 俯(굽을 부) 仰(우러를 앙) 廊(행랑 랑) 廟(사당 묘)
 
 항상 남묘에 있는 것으로 생각하고 머리를 숙여 예의를 지키라.
-
+```
 61
 
 束(묶을 속) 帶(띠 대) 矜(자랑 긍) 莊(씩씩할 장)
@@ -71,6 +79,7 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTM4OTcyOSwyNDcyMjEzOTYsMTIwMz
-c3OTM1MCwtMTA1OTg4NjUwNCwtNDI4NjQ5NzEzXX0=
+eyJoaXN0b3J5IjpbOTY4Njc4MTQ4LC01MDUzODk3MjksMjQ3Mj
+IxMzk2LDEyMDM3NzkzNTAsLTEwNTk4ODY1MDQsLTQyODY0OTcx
+M119
 -->
