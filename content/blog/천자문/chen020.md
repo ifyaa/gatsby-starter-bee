@@ -30,7 +30,7 @@ draft: false
 203黑검을 흑.      矩(법 구) 步(걸음 보)
 204黹바느질할 치.   俯(굽을 부) 仰(우러를 앙)
 ```
-121 指薪修祜 永綏吉劭 
+121 指薪修祐 永綏吉劭 
 122 矩步引領 俯仰廊廟 
 ```js
 指(손가락 지) 薪(섶나무 신) 修(닦을 수) 祐(복 우)
@@ -72,8 +72,8 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODU5ODUwNiwtMzYzOTg3MTA3LDE2MD
-Q0ODI5MSwtMjA5MjQyOTc1MSwxODE3OTM4ODEwLC0zNTk4NTAw
-NiwtNTA1Mzg5NzI5LDI0NzIyMTM5NiwxMjAzNzc5MzUwLC0xMD
-U5ODg2NTA0LC00Mjg2NDk3MTNdfQ==
+eyJoaXN0b3J5IjpbNDAxMTMzNDUwLC0zMzg1OTg1MDYsLTM2Mz
+k4NzEwNywxNjA0NDgyOTEsLTIwOTI0Mjk3NTEsMTgxNzkzODgx
+MCwtMzU5ODUwMDYsLTUwNTM4OTcyOSwyNDcyMjEzOTYsMTIwMz
+c3OTM1MCwtMTA1OTg4NjUwNCwtNDI4NjQ5NzEzXX0=
 -->
