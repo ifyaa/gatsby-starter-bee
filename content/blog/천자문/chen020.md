@@ -22,13 +22,9 @@ draft: false
 214龠피리 약
 ```
 ![](https://i.ibb.co/NVL9xqL/Screen-Shot-2020-07-15-at-10-26-30-AM.png)
-
-123 束帶矜莊 徘徊瞻眺 124 孤陋寡聞 愚蒙等誚 
-125 謂語助者 焉哉乎也
-```
 60
 ```js
-20112획 →黃누를 황
+20112획 →黃누를 황. 指(손가락 지) 薪(섶나무 신)
 202黍기장 서
 203黑검을 흑
 204黹바느질할 치
@@ -53,6 +49,7 @@ draft: false
 항상 남묘에 있는 것으로 생각하고 머리를 숙여 예의를 지키라.
 ```
 61
+123 束帶矜莊 徘徊瞻眺 124 孤陋寡聞 愚蒙等誚 
 
 束(묶을 속) 帶(띠 대) 矜(자랑 긍) 莊(씩씩할 장)
 
@@ -71,7 +68,7 @@ draft: false
 적고 어리석어 몽매함을 면치 못한다는 것을 말한다.
 
 62
-
+125 謂語助者 焉哉乎也
 謂(이를 위) 語(말씀 어) 助(도울 조) 者(놈 자)
 
 어조라 함은 한문의 조사, 즉 다음 글자이다.
@@ -79,7 +76,7 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4Njc4MTQ4LC01MDUzODk3MjksMjQ3Mj
-IxMzk2LDEyMDM3NzkzNTAsLTEwNTk4ODY1MDQsLTQyODY0OTcx
-M119
+eyJoaXN0b3J5IjpbMTQ3OTc2MDE2OCwtNTA1Mzg5NzI5LDI0Nz
+IyMTM5NiwxMjAzNzc5MzUwLC0xMDU5ODg2NTA0LC00Mjg2NDk3
+MTNdfQ==
 -->
