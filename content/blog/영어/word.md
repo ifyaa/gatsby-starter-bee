@@ -167,10 +167,11 @@ underwear. socks. gloves
 90爿조각 장
 ```
 muffler. raincoat. swimsuit. hat.
-cap. shoes. sn
+cap. shoes. sneakers.
+boots. sandals. ring
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MDgzOTE3LDE5MzY5NDQwNTAsLTExNz
-QwMzUyNzMsLTI4MDU2MTQ5NiwxNTA3MDczNTg4LDE2MzY2MDcy
-MzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
+eyJoaXN0b3J5IjpbLTE5MDc5MzgxNzMsMTkzNjk0NDA1MCwtMT
+E3NDAzNTI3MywtMjgwNTYxNDk2LDE1MDcwNzM1ODgsMTYzNjYw
+NzIzNywyNjE5ODI2MjksMzA2NjQxODg1XX0=
 -->
