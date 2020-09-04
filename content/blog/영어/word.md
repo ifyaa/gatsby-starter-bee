@@ -165,12 +165,12 @@ underwear. socks. gloves
 89爻효 효
 90爿조각 장
 ```
-muffler.  swimsuit. hat.
-cap. shoes. sneakers.
+shoes. cap.  hat. muffler. 
+swimsuit.raincoat.sneakers.
 boots. sandals. ring
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjgxNTc3NSwxOTM2OTQ0MDUwLC0xMT
+eyJoaXN0b3J5IjpbLTY1NjY2ODY2NCwxOTM2OTQ0MDUwLC0xMT
 c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
 MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
 -->
