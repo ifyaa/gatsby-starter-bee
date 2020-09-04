@@ -154,23 +154,23 @@ underwear. socks. gloves
 팔씨름
 81比견줄 비   shoes   신발크기를 견주어 비교
 82毛털 모    cap      캡을 쓰고
-83氏성씨 씨   hat      정장모자를 쓰고raincoat       비옷을 입고
-84气기운 기   hat      정장모자를 쓰고
+83氏성씨 씨   hat      정장모자를 쓰고
+84气기운 기   muffle    머플러를 두르면 기운이 난다
 
 85水물 수     swimsuit   물속에 수영복을 입고 
-86火불 화     muffle    머플러로 불을 끈다
+86火불 화     raincoat   비옷을 입고 불을 끈다
 87爪손톱 조 
 
 88父아버지 부
 89爻효 효
 90爿조각 장
 ```
-muffler. raincoat. swimsuit. hat.
+muffler.  swimsuit. hat.
 cap. shoes. sneakers.
 boots. sandals. ring
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODM3NTIzMSwxOTM2OTQ0MDUwLC0xMT
+eyJoaXN0b3J5IjpbLTI4NjgxNTc3NSwxOTM2OTQ0MDUwLC0xMT
 c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
 MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
 -->
