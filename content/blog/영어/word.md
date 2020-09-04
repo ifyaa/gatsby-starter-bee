@@ -152,14 +152,13 @@ underwear. socks. gloves
 比 毛 氏 气 水(氵) 火(灬) 爪(爫)父 爻 爿
 ```js
 팔씨름
-81比견줄 비
+81比견줄 비   muffle
+82毛털 모    raincoat
+83氏성씨 씨   swimsuit
+84气기운 기   hat
 
-82毛털 모
-83氏성씨 씨
-84气기운 기
-
-85水물 수
-86火불 화
+85水물 수     cap
+86火불 화    shoes
 87爪손톱 조
 
 88父아버지 부
@@ -171,7 +170,7 @@ cap. shoes. sneakers.
 boots. sandals. ring
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc5MzgxNzMsMTkzNjk0NDA1MCwtMT
-E3NDAzNTI3MywtMjgwNTYxNDk2LDE1MDcwNzM1ODgsMTYzNjYw
-NzIzNywyNjE5ODI2MjksMzA2NjQxODg1XX0=
+eyJoaXN0b3J5IjpbLTU1MzAyOTkxMSwxOTM2OTQ0MDUwLC0xMT
+c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
+MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
 -->
