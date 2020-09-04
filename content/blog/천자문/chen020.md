@@ -25,7 +25,7 @@ draft: false
 60
 ```js
 201
-12획 →黃누를 황. 指(손가락 지) 薪(섶나무 신)
+12획 →黃누를 황.말미암을 유 指(손가락 지) 薪(섶나무 신)
 202黍기장 서.      永(길 영) 綏(편안 수)
 203黑검을 흑.      矩(법 구) 步(걸음 보)
 204黹바느질할 치.   俯(굽을 부) 仰(우러를 앙)
@@ -77,7 +77,7 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTg1MDA2LC01MDUzODk3MjksMjQ3Mj
-IxMzk2LDEyMDM3NzkzNTAsLTEwNTk4ODY1MDQsLTQyODY0OTcx
-M119
+eyJoaXN0b3J5IjpbMTgxNzkzODgxMCwtMzU5ODUwMDYsLTUwNT
+M4OTcyOSwyNDcyMjEzOTYsMTIwMzc3OTM1MCwtMTA1OTg4NjUw
+NCwtNDI4NjQ5NzEzXX0=
 -->
