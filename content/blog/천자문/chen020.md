@@ -35,6 +35,8 @@ draft: false
 ```js
 指(손가락 지) 薪(섶나무 신) 修(닦을 수) 祐(복 우)
 ##### 旨뜻지
+修자는 攸(바 유)자와 彡(터럭 삼)자가 결합
+
 永(길 영) 綏(편안 수) 吉(길할 길) 暦(아름다울 소)
 
 矩(법 구) 步(걸음 보) 引(끌 인) 領(거느릴 령).
@@ -70,8 +72,8 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mzk4NzEwNywxNjA0NDgyOTEsLTIwOT
-I0Mjk3NTEsMTgxNzkzODgxMCwtMzU5ODUwMDYsLTUwNTM4OTcy
-OSwyNDcyMjEzOTYsMTIwMzc3OTM1MCwtMTA1OTg4NjUwNCwtND
-I4NjQ5NzEzXX0=
+eyJoaXN0b3J5IjpbLTMzODU5ODUwNiwtMzYzOTg3MTA3LDE2MD
+Q0ODI5MSwtMjA5MjQyOTc1MSwxODE3OTM4ODEwLC0zNTk4NTAw
+NiwtNTA1Mzg5NzI5LDI0NzIyMTM5NiwxMjAzNzc5MzUwLC0xMD
+U5ODg2NTA0LC00Mjg2NDk3MTNdfQ==
 -->
