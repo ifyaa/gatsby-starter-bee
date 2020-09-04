@@ -146,9 +146,29 @@ butterfly. clothing&Accessories.blouse
 vest. skirt. trousers. dress.
 pajamas. coat. jacket.
 underwear. socks. gloves
+
+
+08
+比 毛 氏 气 水(氵) 火(灬) 爪(爫)父 爻 爿
+```js
+팔씨름
+81比견줄 비
+
+82毛털 모
+83氏성씨 씨
+84气기운 기
+
+85水물 수
+86火불 화
+87爪손톱 조
+
+88父아버지 부
+89爻효 효
+90爿조각 장
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjk0NDA1MCwtMTE3NDAzNTI3MywtMj
-gwNTYxNDk2LDE1MDcwNzM1ODgsMTYzNjYwNzIzNywyNjE5ODI2
-MjksMzA2NjQxODg1XX0=
+eyJoaXN0b3J5IjpbLTM3Nzg0ODQ2OCwxOTM2OTQ0MDUwLC0xMT
+c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
+MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
 -->
