@@ -34,7 +34,7 @@ draft: false
 122 矩步引領 俯仰廊廟 
 ```js
 指(손가락 지) 薪(섶나무 신) 修(닦을 수) 祐(복 우)
-
+##### 旨뜻지
 永(길 영) 綏(편안 수) 吉(길할 길) 暦(아름다울 소)
 
 矩(법 구) 步(걸음 보) 引(끌 인) 領(거느릴 령).
@@ -70,7 +70,8 @@ draft: false
 焉(어찌  언) 哉(어조사  재) 乎(어조사  호) 也(어조사  야)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDQ4MjkxLC0yMDkyNDI5NzUxLDE4MT
-c5Mzg4MTAsLTM1OTg1MDA2LC01MDUzODk3MjksMjQ3MjIxMzk2
-LDEyMDM3NzkzNTAsLTEwNTk4ODY1MDQsLTQyODY0OTcxM119
+eyJoaXN0b3J5IjpbLTM2Mzk4NzEwNywxNjA0NDgyOTEsLTIwOT
+I0Mjk3NTEsMTgxNzkzODgxMCwtMzU5ODUwMDYsLTUwNTM4OTcy
+OSwyNDcyMjEzOTYsMTIwMzc3OTM1MCwtMTA1OTg4NjUwNCwtND
+I4NjQ5NzEzXX0=
 -->
