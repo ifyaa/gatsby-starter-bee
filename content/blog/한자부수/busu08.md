@@ -28,15 +28,15 @@ draft: false
 
 比 毛 氏 气 水(氵) 火(灬) 爪(爫)父 爻 爿
 ```
-![](https://i.ibb.co/HHyZMkZ/2020-07-02-11-33-53.png)
+![](https://i.ibb.co/HG896Z8/image.png)
 ![](https://i.ibb.co/0Vzb4LQ/2020-06-26-11-19-45.png)
 팔씨름한다
 손톱에 그려진 불과 물
 아버지 x자두개를  조각을 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQxOTM1MSwxNTY0MzMzMTQyLC0xOD
-YwNDA2ODA4LDE2OTE1MjUyNTQsLTI5NTk1MTQ0LDg0NzczMzg0
-OCwtMTU3MTcxMzg3NiwxNjU2NDIzNjcyLC02MDkzOTkwNzBdfQ
-==
+eyJoaXN0b3J5IjpbLTE5NTEwNzg3MjksMTAyMzQxOTM1MSwxNT
+Y0MzMzMTQyLC0xODYwNDA2ODA4LDE2OTE1MjUyNTQsLTI5NTk1
+MTQ0LDg0NzczMzg0OCwtMTU3MTcxMzg3NiwxNjU2NDIzNjcyLC
+02MDkzOTkwNzBdfQ==
 -->
