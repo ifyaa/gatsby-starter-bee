@@ -168,9 +168,31 @@ underwear. socks. gloves
 shoes. cap.  hat. muffler. 
 swimsuit.raincoat.sneakers.
 boots. sandals. ring
+
+
+09
+```js
+91片조각 편
+
+92牙어금니 아
+93牛소 우
+94犬개 견
+
+95玄검을 현
+96玉구슬 옥
+97瓜오이 과
+
+98瓦기와 와
+99甘달 감
+100生날 생
+
+```
+片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjY2ODY2NCwxOTM2OTQ0MDUwLC0xMT
-c0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4OCwxNjM2NjA3
-MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTU4OTI0LC02NTY2Njg2NjQsMTkzNj
+k0NDA1MCwtMTE3NDAzNTI3MywtMjgwNTYxNDk2LDE1MDcwNzM1
+ODgsMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2NjQxODg1XX0=
 -->
