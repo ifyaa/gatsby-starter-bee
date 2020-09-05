@@ -188,11 +188,12 @@ boots. sandals. ring
 
 ```
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
-
+necklace. sunglasses. watch. belt.
+hairpin.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTU4OTI0LC02NTY2Njg2NjQsMTkzNj
-k0NDA1MCwtMTE3NDAzNTI3MywtMjgwNTYxNDk2LDE1MDcwNzM1
-ODgsMTYzNjYwNzIzNywyNjE5ODI2MjksMzA2NjQxODg1XX0=
+eyJoaXN0b3J5IjpbLTMwNzcxNjA1OSwtNjU2NjY4NjY0LDE5Mz
+Y5NDQwNTAsLTExNzQwMzUyNzMsLTI4MDU2MTQ5NiwxNTA3MDcz
+NTg4LDE2MzY2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
 -->
