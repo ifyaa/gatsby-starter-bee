@@ -172,14 +172,13 @@ boots. sandals. ring
 
 09
 ```js
-91片조각 편
+91片조각 편 necklace
+92牙어금니 아. sunglasses
+93牛소 우.  watch
+94犬개 견. belt
 
-92牙어금니 아
-93牛소 우
-94犬개 견
-
-95玄검을 현
-96玉구슬 옥
+95玄검을 현. hairpin
+96玉구슬 옥. 
 97瓜오이 과
 
 98瓦기와 와
@@ -189,11 +188,12 @@ boots. sandals. ring
 ```
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
 necklace. sunglasses. watch. belt.
-hairpin.
+hairpin. bag. purse.
+food. rice. soup
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzcxNjA1OSwtNjU2NjY4NjY0LDE5Mz
-Y5NDQwNTAsLTExNzQwMzUyNzMsLTI4MDU2MTQ5NiwxNTA3MDcz
-NTg4LDE2MzY2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
+eyJoaXN0b3J5IjpbMzY5MzM2NjksLTY1NjY2ODY2NCwxOTM2OT
+Q0MDUwLC0xMTc0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4
+OCwxNjM2NjA3MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
 -->
