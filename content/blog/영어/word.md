@@ -178,12 +178,12 @@ boots. sandals. ring
 94犬개 견. belt
 
 95玄검을 현. hairpin
-96玉구슬 옥. 
-97瓜오이 과
+96玉구슬 옥. bag
+97瓜오이 과. purse
 
-98瓦기와 와
-99甘달 감
-100生날 생
+98瓦기와 와. food
+99甘달 감. rice
+100生날 생. soup
 
 ```
 片 牙 牛 犬(犭) 玄 玉 瓜 瓦 甘 生
@@ -193,7 +193,7 @@ food. rice. soup
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MzM2NjksLTY1NjY2ODY2NCwxOTM2OT
-Q0MDUwLC0xMTc0MDM1MjczLC0yODA1NjE0OTYsMTUwNzA3MzU4
-OCwxNjM2NjA3MjM3LDI2MTk4MjYyOSwzMDY2NDE4ODVdfQ==
+eyJoaXN0b3J5IjpbMTEwMTYxMzUyOCwtNjU2NjY4NjY0LDE5Mz
+Y5NDQwNTAsLTExNzQwMzUyNzMsLTI4MDU2MTQ5NiwxNTA3MDcz
+NTg4LDE2MzY2MDcyMzcsMjYxOTgyNjI5LDMwNjY0MTg4NV19
 -->
